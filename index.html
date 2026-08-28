@@ -246,11 +246,12 @@
     color: #FFFFFF;
     border: none;
     border-radius: 14px;
-    padding: 14px 32px;
+    padding: 14px 20px;
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 14px;
     cursor: pointer;
+    flex: 1;
   }
   .restart-btn:active { transform: scale(0.97); }
 
@@ -283,7 +284,10 @@
     </div>
     <div class="result-tier" id="resultTier"></div>
     <div class="result-sub" id="resultSub"></div>
-    <button class="restart-btn" onclick="restart()">Qayta boshlash</button>
+    <div id="resultButtons" style="display: flex; gap: 12px; width: 100%;">
+      <button class="restart-btn" onclick="playMore()">🔄 Yana o'ynash</button>
+      <button class="restart-btn" onclick="finishSession()" style="background: var(--surface-2); color: var(--text-primary);">🏁 Tugatish</button>
+    </div>
   </div>
 
 </div>
@@ -322,7 +326,16 @@ const questionBank = {
       { savol: "Futbolda 'het-trik' nima?", variantlar: ["2 gol urish", "3 gol urish", "Penalti urish", "Gol bermaslik"], togri: 1 },
       { savol: "Suvda o'ynaladigan, to'p bilan o'ynaladigan sport turi qaysi?", variantlar: ["Suzish", "Suv polosi", "Sho'ng'in", "Yelkanli sport"], togri: 1 },
       { savol: "Amerika futboli qaysi liga nomi bilan mashhur?", variantlar: ["NBA", "NFL", "MLB", "NHL"], togri: 1 },
-      { savol: "Qishki Olimpiada o'yinlarida qaysi sport turi YO'Q?", variantlar: ["Chang'i uchish", "Basketbol", "Konkida uchish", "Xokkey"], togri: 1 }
+      { savol: "Qishki Olimpiada o'yinlarida qaysi sport turi YO'Q?", variantlar: ["Chang'i uchish", "Basketbol", "Konkida uchish", "Xokkey"], togri: 1 },
+      { savol: "Golfda to'p tushirilishi kerak bo'lgan kichik teshik nima deb ataladi?", variantlar: ["Xol", "Lunka", "Baza", "Maydon"], togri: 1 },
+      { savol: "Dunyodagi eng mashhur marafon masofasi necha km?", variantlar: ["21 km", "32 km", "42 km", "50 km"], togri: 2 },
+      { savol: "Baseball qaysi davlatda eng ko'p mashhur?", variantlar: ["Braziliya", "AQSH", "Fransiya", "Germaniya"], togri: 1 },
+      { savol: "Sumo kurashi qaysi davlat milliy sporti hisoblanadi?", variantlar: ["Xitoy", "Koreya", "Yaponiya", "Mo'g'uliston"], togri: 2 },
+      { savol: "Futbolda 'ofsayd' nima?", variantlar: ["Qoida buzilishi turi", "Gol turi", "Almashtiruv turi", "Jazo turi"], togri: 0 },
+      { savol: "Yengil atletikada uzunlikka sakrash qaysi turga kiradi?", variantlar: ["Yugurish", "Sakrash", "Uloqtirish", "Suzish"], togri: 1 },
+      { savol: "Jiyu-jitsu va sambo qaysi sport turkumiga kiradi?", variantlar: ["Yengil atletika", "Kurash/janglash", "Suv sporti", "Kollektiv o'yin"], togri: 1 },
+      { savol: "Basketbolda 3 ochkolik chiziqdan uzoqroqdan tushirilgan to'p necha ochko beradi?", variantlar: ["1", "2", "3", "4"], togri: 2 },
+      { savol: "Snoubord qaysi mavsum sportiga kiradi?", variantlar: ["Yozgi", "Qishki", "Bahorgi", "Kuzgi"], togri: 1 }
     ]
   },
   kino: {
@@ -347,7 +360,16 @@ const questionBank = {
       { savol: "'Frozen' multfilmidagi mashhur qo'shiq nomi qaysi?", variantlar: ["Let It Go", "Let It Be", "Circle of Life", "A Whole New World"], togri: 0 },
       { savol: "Bollivud kino sanoati qaysi davlatda joylashgan?", variantlar: ["Pokiston", "Hindiston", "Bangladesh", "Shri-Lanka"], togri: 1 },
       { savol: "'The Beatles' guruhi nechta a'zodan iborat bo'lgan?", variantlar: ["3", "4", "5", "6"], togri: 1 },
-      { savol: "Netflix qanday turdagi xizmat?", variantlar: ["Musiqa striming", "Kino/serial striming", "Ijtimoiy tarmoq", "Onlayn o'yin"], togri: 1 }
+      { savol: "Netflix qanday turdagi xizmat?", variantlar: ["Musiqa striming", "Kino/serial striming", "Ijtimoiy tarmoq", "Onlayn o'yin"], togri: 1 },
+      { savol: "Spotify qanday turdagi xizmat?", variantlar: ["Video striming", "Musiqa striming", "Fotosurat saqlash", "Onlayn do'kon"], togri: 1 },
+      { savol: "'Marvel' kompaniyasi asosan qanday filmlar bilan mashhur?", variantlar: ["Drama", "Superqahramonlar", "Hujjatli", "Komediya"], togri: 1 },
+      { savol: "Pixar studiyasi asosan qanday filmlar yaratadi?", variantlar: ["Jonli aktyorli", "Animatsion", "Hujjatli", "Musiqiy"], togri: 1 },
+      { savol: "'Da Vinci kodi' romani muallifi kim?", variantlar: ["Dan Brown", "Stephen King", "J.K. Rowling", "Paulo Coelho"], togri: 0 },
+      { savol: "Opera — bu qanday san'at turi?", variantlar: ["Faqat raqs", "Musiqa va teatr uyg'unligi", "Faqat rasm", "Faqat adabiyot"], togri: 1 },
+      { savol: "'Coca-Cola' reklamalarida ko'p ishlatiladigan mavsum qaysi?", variantlar: ["Yoz", "Kuz", "Qish (Rojdestvo)", "Bahor"], togri: 2 },
+      { savol: "Jazz musiqa janri qaysi davlatda paydo bo'lgan?", variantlar: ["Fransiya", "AQSH", "Braziliya", "Kuba"], togri: 1 },
+      { savol: "'Simfoniya' asosan qaysi turdagi musiqaga tegishli?", variantlar: ["Pop", "Klassik", "Rok", "Hip-hop"], togri: 1 },
+      { savol: "Rejissyor filmni suratga olishda asosan nimani boshqaradi?", variantlar: ["Faqat musiqa", "Ijodiy va texnik jarayonni", "Faqat kostyumlarni", "Faqat byudjetni"], togri: 1 }
     ]
   },
   faktlar: {
@@ -372,7 +394,16 @@ const questionBank = {
       { savol: "Insonning eng kichik suyagi qayerda joylashgan?", variantlar: ["Qo'lda", "Quloqda", "Oyoqda", "Bosh chanog'ida"], togri: 1 },
       { savol: "Dunyodagi eng chuqur okean joyi qanday ataladi?", variantlar: ["Mariana chuquri", "Tinch chuquri", "Atlantika chuquri", "Hind chuquri"], togri: 0 },
       { savol: "Bir yilda (kabisa yilisiz) necha kun bor?", variantlar: ["360", "364", "365", "366"], togri: 2 },
-      { savol: "Quyosh sistemasida nechta sayyora bor?", variantlar: ["7", "8", "9", "10"], togri: 1 }
+      { savol: "Quyosh sistemasida nechta sayyora bor?", variantlar: ["7", "8", "9", "10"], togri: 1 },
+      { savol: "Dunyodagi eng katta ko'l qaysi?", variantlar: ["Baykal", "Viktoriya", "Kaspiy dengizi", "Superior"], togri: 2 },
+      { savol: "Odam miyasi tana vazniga nisbatan taxminan necha foizni tashkil qiladi?", variantlar: ["2%", "10%", "25%", "40%"], togri: 0 },
+      { savol: "Dunyodagi eng tez quruqlik hayvoni qaysi?", variantlar: ["Sher", "Gepard", "Ot", "Bo'ri"], togri: 1 },
+      { savol: "Suv qaysi haroratda qaynay boshlaydi (dengiz sathida, Selsiy)?", variantlar: ["50°C", "100°C", "150°C", "200°C"], togri: 1 },
+      { savol: "Insonda nechta asosiy sezgi a'zosi bor deb hisoblanadi?", variantlar: ["3", "4", "5", "6"], togri: 2 },
+      { savol: "Dunyodagi eng kichik quruqlik hayvonlaridan biri qaysi guruhga kiradi?", variantlar: ["Hasharotlar", "Sudralib yuruvchilar", "Sut emizuvchilar", "Baliqlar"], togri: 0 },
+      { savol: "Yer sayyorasining aylanishi tufayli nima yuzaga keladi?", variantlar: ["Fasllar", "Kun va tun", "Yomg'ir", "Shamol"], togri: 1 },
+      { savol: "Dunyodagi eng katta orol qaysi?", variantlar: ["Madagaskar", "Grenlandiya", "Borneo", "Yangi Gvineya"], togri: 1 },
+      { savol: "Vulqon otilishi natijasida nima chiqadi?", variantlar: ["Faqat tutun", "Lava va kul", "Faqat suv", "Faqat gaz"], togri: 1 }
     ]
   },
   texnologiya: {
@@ -397,7 +428,16 @@ const questionBank = {
       { savol: "Dunyodagi birinchi elektron kompyuterlardan biri qanday nomlangan?", variantlar: ["ENIAC", "IBM", "UNIVAC", "Apple I"], togri: 0 },
       { savol: "'Cloud' (bulut) texnologiyasi nimani anglatadi?", variantlar: ["Ma'lumotlarni internet orqali saqlash", "Ob-havo bashorati", "Simsiz quvvat", "Video o'yin platformasi"], togri: 0 },
       { savol: "Qaysi dasturlash tili veb-sahifalarni interaktiv qiladi?", variantlar: ["HTML", "CSS", "JavaScript", "SQL"], togri: 2 },
-      { savol: "Elon Musk qaysi kompaniyaga asos solgan?", variantlar: ["Tesla", "Samsung", "Sony", "Intel"], togri: 0 }
+      { savol: "Elon Musk qaysi kompaniyaga asos solgan?", variantlar: ["Tesla", "Samsung", "Sony", "Intel"], togri: 0 },
+      { savol: "'GPS' nima uchun ishlatiladi?", variantlar: ["Joylashuvni aniqlash", "Fayl siqish", "Video montaj", "Musiqa yaratish"], togri: 0 },
+      { savol: "Smartfonlarda 'batareya optimallashtirish' asosan nimaga yordam beradi?", variantlar: ["Ekran o'lchamini oshirish", "Quvvatni uzoqroq saqlash", "Internet tezligini oshirish", "Xotira kengaytirish"], togri: 1 },
+      { savol: "'Qora oynak' (dark mode) rejimi nima uchun mashhur?", variantlar: ["Ko'zga yengilroq va batareya tejaydi", "Rasm sifatini oshiradi", "Internetni tezlashtiradi", "Ovozni kuchaytiradi"], togri: 0 },
+      { savol: "Dron (drone) asosan qanday qurilma?", variantlar: ["Suv osti kemasi", "Uchuvchi robot/apparat", "Yer osti moslamasi", "Kosmik stansiya"], togri: 1 },
+      { savol: "'Antivirus' dasturi nima uchun ishlatiladi?", variantlar: ["Kompyuterni tezlashtirish", "Zararli dasturlardan himoya qilish", "Fayllarni siqish", "Internetni ulash"], togri: 1 },
+      { savol: "QR-kod nimani anglatadi?", variantlar: ["Faqat rasm", "Tezkor javob kodi (ma'lumot saqlovchi)", "Parol turi", "Fayl formati"], togri: 1 },
+      { savol: "Sun'iy intellekt (AI) asosan nimani o'rganadi?", variantlar: ["Faqat matnlarni", "Ma'lumotlar asosida naqshlarni aniqlashni", "Faqat rasmlarni", "Faqat ovozni"], togri: 1 },
+      { savol: "'E-commerce' atamasi nimani anglatadi?", variantlar: ["Elektron pochta", "Onlayn savdo", "Elektron o'yin", "Video striming"], togri: 1 },
+      { savol: "Ko'pchilik zamonaviy smartfonlar qaysi ekran texnologiyasidan foydalanadi?", variantlar: ["CRT", "OLED/LCD", "Plazma", "Lazer"], togri: 1 }
     ]
   }
 };
@@ -411,12 +451,39 @@ function getMavzuFromUrl() {
 const activeMavzu = getMavzuFromUrl();
 const questions = questionBank[activeMavzu].savollar;
 
+const BATCH_SIZE = 20;
+let pool = [];
+let poolPos = 0;
 let order = [];
 let index = 0;
 let score = 0;
+let sessionScore = 0;
+let sessionAnswered = 0;
 let results = [];
 
-function shuffle(arr) {
+function nextBatch() {
+  if (pool.length === 0) pool = shuffle(questions);
+
+  let batch = [];
+  while (batch.length < BATCH_SIZE) {
+    if (poolPos >= pool.length) {
+      pool = shuffle(questions);
+      poolPos = 0;
+    }
+    batch.push(pool[poolPos]);
+    poolPos++;
+  }
+  return batch;
+}
+
+function startBatch() {
+  order = nextBatch();
+  index = 0;
+  score = 0;
+  results = [];
+  buildTrail();
+  renderQuestion();
+}
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -522,6 +589,9 @@ function selectAnswer(choice, btnEl) {
 }
 
 function showResult() {
+  sessionScore += score;
+  sessionAnswered += order.length;
+
   document.getElementById('quizScreen').style.display = 'none';
   document.getElementById('synapseTrail').style.display = 'none';
   document.getElementById('questionEyebrow').style.display = 'none';
@@ -530,37 +600,57 @@ function showResult() {
 
   const resultScreen = document.getElementById('resultScreen');
   resultScreen.classList.add('active');
-  document.getElementById('finalScore').textContent = score;
-  document.getElementById('finalTotal').textContent = '/ ' + order.length;
+  document.getElementById('finalScore').textContent = sessionScore;
+  document.getElementById('finalTotal').textContent = '/ ' + sessionAnswered;
 
-  const pct = score / order.length;
+  const pct = sessionScore / sessionAnswered;
   let tier, sub;
   if (pct >= 0.85) { tier = "Zehn ustasi"; sub = "Deyarli hammasini bildingiz."; }
   else if (pct >= 0.6) { tier = "Yaxshi natija"; sub = "Bilimingiz yaxshi darajada."; }
   else if (pct >= 0.35) { tier = "Yomon emas"; sub = "Yana urinib ko'ring, yaxshilanadi."; }
   else { tier = "Boshlang'ich daraja"; sub = "Ko'proq mashq qiling."; }
   document.getElementById('resultTier').textContent = tier;
-  document.getElementById('resultSub').textContent = sub;
+  document.getElementById('resultSub').textContent = `Bu safar: ${score}/${order.length} • ${sub}`;
 
+  document.getElementById('resultButtons').innerHTML = `
+    <button class="restart-btn" onclick="playMore()">🔄 Yana o'ynash</button>
+    <button class="restart-btn" onclick="finishSession()" style="background: var(--surface-2); color: var(--text-primary);">🏁 Tugatish</button>
+  `;
+}
+
+function sendResultToBot(finished) {
   if (window.Telegram && window.Telegram.WebApp) {
-    window.Telegram.WebApp.sendData(JSON.stringify({ mavzu: activeMavzu, ball: score, jami: order.length }));
+    window.Telegram.WebApp.sendData(JSON.stringify({
+      mavzu: activeMavzu,
+      ball: sessionScore,
+      jami: sessionAnswered,
+      tugadi: finished
+    }));
   }
 }
 
-function restart() {
+function playMore() {
   document.getElementById('quizScreen').style.display = 'flex';
   document.getElementById('synapseTrail').style.display = 'flex';
   document.getElementById('questionEyebrow').style.display = 'block';
   document.getElementById('questionText').style.display = 'block';
   document.getElementById('answersContainer').style.display = 'flex';
   document.getElementById('resultScreen').classList.remove('active');
+  startBatch();
+}
 
-  index = 0;
-  score = 0;
-  results = [];
-  order = shuffle(questions);
-  buildTrail();
-  renderQuestion();
+function finishSession() {
+  document.getElementById('resultTier').textContent = "Yakuniy natija";
+  document.getElementById('resultSub').textContent = `Jami: ${sessionScore}/${sessionAnswered} to'g'ri javob`;
+  document.getElementById('resultButtons').innerHTML = `
+    <button class="restart-btn" onclick="sendResultToBot(true)">↩️ Bot chatiga qaytish</button>
+  `;
+}
+
+function closeApp() {
+  if (window.Telegram && window.Telegram.WebApp) {
+    window.Telegram.WebApp.close();
+  }
 }
 
 applyTheme();
@@ -572,9 +662,7 @@ if (window.Telegram && window.Telegram.WebApp) {
 }
 
 document.getElementById('categoryLabel').textContent = questionBank[activeMavzu].label;
-order = shuffle(questions);
-buildTrail();
-renderQuestion();
+startBatch();
 </script>
 </body>
 </html>
