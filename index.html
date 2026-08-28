@@ -263,7 +263,7 @@
 <div id="app">
 
   <div class="topbar" id="quizScreen">
-    <div class="category" id="categoryLabel">Sport</div>
+    <div class="category" id="categoryLabel"></div>
     <div class="score-chip">⬤ <span id="scoreValue">0</span></div>
   </div>
 
@@ -299,28 +299,117 @@ function applyTheme() {
   document.documentElement.setAttribute('data-theme', scheme);
 }
 
-const questions = [
-  { savol: "Futbolda bitta jamoada nechta o'yinchi maydonda bo'ladi?", variantlar: ["9", "11", "13", "15"], togri: 1 },
-  { savol: "Olimpiada o'yinlari necha yilda bir marta o'tkaziladi?", variantlar: ["2 yilda", "3 yilda", "4 yilda", "5 yilda"], togri: 2 },
-  { savol: "Basketbolda oddiy holatda tushirilgan to'p necha ochko beradi?", variantlar: ["1", "2", "3", "4"], togri: 1 },
-  { savol: "Dunyodagi eng mashhur velosport musobaqasi qanday ataladi?", variantlar: ["Tur de Frans", "Vuelta", "Jiro d'Italiya", "Parij-Rubet"], togri: 0 },
-  { savol: "Futbol Jahon chempionati necha yilda bir marta o'tkaziladi?", variantlar: ["2 yilda", "3 yilda", "4 yilda", "5 yilda"], togri: 2 },
-  { savol: "Tennisda 'hech narsa' ma'nosini anglatuvchi so'z qaysi?", variantlar: ["Zero", "Love", "Ace", "Set"], togri: 1 },
-  { savol: "Professional boks jangi standart holatda necha raunddan iborat?", variantlar: ["8", "10", "12", "15"], togri: 2 },
-  { savol: "2022-yilgi Futbol Jahon chempionati qaysi davlatda o'tkazildi?", variantlar: ["Rossiya", "Qatar", "BAA", "Saudiya Arabistoni"], togri: 1 },
-  { savol: "Muzda o'ynaladigan sport turi qanday ataladi?", variantlar: ["Regbi", "Xokkey", "Kyorling", "Bobslley"], togri: 1 },
-  { savol: "Volleybolda bitta jamoada nechta o'yinchi maydonda bo'ladi?", variantlar: ["5", "6", "7", "8"], togri: 1 },
-  { savol: "Messi va Ronaldu qaysi sport turida mashhur?", variantlar: ["Basketbol", "Futbol", "Tennis", "Regbi"], togri: 1 },
-  { savol: "Formula 1 — bu qaysi sport turi?", variantlar: ["Mototsikl poygasi", "Avtopoyga", "Velosport", "Suvda poyga"], togri: 1 },
-  { savol: "Shaxmatda eng kuchli dona qaysi?", variantlar: ["Ot", "Ferz", "Rux", "Fil"], togri: 1 },
-  { savol: "Olimpiya o'yinlari ramzida nechta halqa bor?", variantlar: ["4", "5", "6", "7"], togri: 1 },
-  { savol: "Regbi qaysi davlatda eng ko'p mashhur?", variantlar: ["Yaponiya", "Yangi Zelandiya", "Braziliya", "Kanada"], togri: 1 },
-  { savol: "100 metrga yugurish bo'yicha dunyo rekordini kim ushlab turadi?", variantlar: ["Karl Lyuis", "Usain Bolt", "Yoxan Blake", "Tayson Gey"], togri: 1 },
-  { savol: "Futbolda 'het-trik' nima?", variantlar: ["2 gol urish", "3 gol urish", "Penalti urish", "Gol bermaslik"], togri: 1 },
-  { savol: "Suvda o'ynaladigan, to'p bilan o'ynaladigan sport turi qaysi?", variantlar: ["Suzish", "Suv polosi", "Sho'ng'in", "Yelkanli sport"], togri: 1 },
-  { savol: "Amerika futboli qaysi liga nomi bilan mashhur?", variantlar: ["NBA", "NFL", "MLB", "NHL"], togri: 1 },
-  { savol: "Qishki Olimpiada o'yinlarida qaysi sport turi YO'Q?", variantlar: ["Chang'i uchish", "Basketbol", "Konkida uchish", "Xokkey"], togri: 1 }
-];
+const questionBank = {
+  sport: {
+    label: "Sport",
+    savollar: [
+      { savol: "Futbolda bitta jamoada nechta o'yinchi maydonda bo'ladi?", variantlar: ["9", "11", "13", "15"], togri: 1 },
+      { savol: "Olimpiada o'yinlari necha yilda bir marta o'tkaziladi?", variantlar: ["2 yilda", "3 yilda", "4 yilda", "5 yilda"], togri: 2 },
+      { savol: "Basketbolda oddiy holatda tushirilgan to'p necha ochko beradi?", variantlar: ["1", "2", "3", "4"], togri: 1 },
+      { savol: "Dunyodagi eng mashhur velosport musobaqasi qanday ataladi?", variantlar: ["Tur de Frans", "Vuelta", "Jiro d'Italiya", "Parij-Rubet"], togri: 0 },
+      { savol: "Futbol Jahon chempionati necha yilda bir marta o'tkaziladi?", variantlar: ["2 yilda", "3 yilda", "4 yilda", "5 yilda"], togri: 2 },
+      { savol: "Tennisda 'hech narsa' ma'nosini anglatuvchi so'z qaysi?", variantlar: ["Zero", "Love", "Ace", "Set"], togri: 1 },
+      { savol: "Professional boks jangi standart holatda necha raunddan iborat?", variantlar: ["8", "10", "12", "15"], togri: 2 },
+      { savol: "2022-yilgi Futbol Jahon chempionati qaysi davlatda o'tkazildi?", variantlar: ["Rossiya", "Qatar", "BAA", "Saudiya Arabistoni"], togri: 1 },
+      { savol: "Muzda o'ynaladigan sport turi qanday ataladi?", variantlar: ["Regbi", "Xokkey", "Kyorling", "Bobslley"], togri: 1 },
+      { savol: "Volleybolda bitta jamoada nechta o'yinchi maydonda bo'ladi?", variantlar: ["5", "6", "7", "8"], togri: 1 },
+      { savol: "Messi va Ronaldu qaysi sport turida mashhur?", variantlar: ["Basketbol", "Futbol", "Tennis", "Regbi"], togri: 1 },
+      { savol: "Formula 1 — bu qaysi sport turi?", variantlar: ["Mototsikl poygasi", "Avtopoyga", "Velosport", "Suvda poyga"], togri: 1 },
+      { savol: "Shaxmatda eng kuchli dona qaysi?", variantlar: ["Ot", "Ferz", "Rux", "Fil"], togri: 1 },
+      { savol: "Olimpiya o'yinlari ramzida nechta halqa bor?", variantlar: ["4", "5", "6", "7"], togri: 1 },
+      { savol: "Regbi qaysi davlatda eng ko'p mashhur?", variantlar: ["Yaponiya", "Yangi Zelandiya", "Braziliya", "Kanada"], togri: 1 },
+      { savol: "100 metrga yugurish bo'yicha dunyo rekordini kim ushlab turadi?", variantlar: ["Karl Lyuis", "Usain Bolt", "Yoxan Blake", "Tayson Gey"], togri: 1 },
+      { savol: "Futbolda 'het-trik' nima?", variantlar: ["2 gol urish", "3 gol urish", "Penalti urish", "Gol bermaslik"], togri: 1 },
+      { savol: "Suvda o'ynaladigan, to'p bilan o'ynaladigan sport turi qaysi?", variantlar: ["Suzish", "Suv polosi", "Sho'ng'in", "Yelkanli sport"], togri: 1 },
+      { savol: "Amerika futboli qaysi liga nomi bilan mashhur?", variantlar: ["NBA", "NFL", "MLB", "NHL"], togri: 1 },
+      { savol: "Qishki Olimpiada o'yinlarida qaysi sport turi YO'Q?", variantlar: ["Chang'i uchish", "Basketbol", "Konkida uchish", "Xokkey"], togri: 1 }
+    ]
+  },
+  kino: {
+    label: "Kino / Musiqa",
+    savollar: [
+      { savol: "'Titanik' filmi qaysi yilda chiqqan?", variantlar: ["1995", "1997", "1999", "2001"], togri: 1 },
+      { savol: "'Harry Potter' kitoblari mualifi kim?", variantlar: ["J.K. Rowling", "J.R.R. Tolkien", "Stephen King", "Agatha Christie"], togri: 0 },
+      { savol: "Dunyodagi eng nufuzli kino mukofoti qanday ataladi?", variantlar: ["Grammy", "Oskar", "Emmy", "Tony"], togri: 1 },
+      { savol: "Michael Jackson qaysi janrning 'qiroli' deb ataladi?", variantlar: ["Pop", "Jazz", "Rok", "Klassik"], togri: 0 },
+      { savol: "'Bohemian Rhapsody' qo'shig'ini qaysi guruh ijro etgan?", variantlar: ["The Beatles", "Queen", "Pink Floyd", "Led Zeppelin"], togri: 1 },
+      { savol: "Dunyodagi eng mashhur kinofestival (Kann) qaysi davlatda o'tkaziladi?", variantlar: ["Fransiya", "Italiya", "AQSH", "Angliya"], togri: 0 },
+      { savol: "'Grammy' mukofoti asosan qaysi soha uchun beriladi?", variantlar: ["Kino", "Musiqa", "Adabiyot", "Sport"], togri: 1 },
+      { savol: "Disney kompaniyasining eng mashhur sichqonchasi qanday ataladi?", variantlar: ["Jerry", "Mickey Mouse", "Tom", "Pluto"], togri: 1 },
+      { savol: "'Titanik' kemasi qaysi okeanda cho'kkan?", variantlar: ["Tinch okean", "Hind okeani", "Atlantika okeani", "Shimoliy Muz okeani"], togri: 2 },
+      { savol: "'Titanik' filmi jami nechta Oskar yutgan?", variantlar: ["5", "8", "11", "14"], togri: 2 },
+      { savol: "K-pop musiqa janri qaysi davlatdan boshlangan?", variantlar: ["Yaponiya", "Xitoy", "Janubiy Koreya", "Tailand"], togri: 2 },
+      { savol: "'Star Wars' seriyasini kim yaratgan?", variantlar: ["Steven Spielberg", "George Lucas", "James Cameron", "Christopher Nolan"], togri: 1 },
+      { savol: "Elvis Presley qaysi janrning 'qiroli' deb ataladi?", variantlar: ["Rok-n-roll", "Jazz", "Blyuz", "Kantri"], togri: 0 },
+      { savol: "Hozirda animatsion filmlar ko'pincha qaysi texnika bilan yaratiladi?", variantlar: ["Qo'lda chizish", "Kompyuter grafikasi (3D)", "Qo'g'irchoq", "Qum animatsiyasi"], togri: 1 },
+      { savol: "'Avatar' filmini kim rejissyorlik qilgan?", variantlar: ["James Cameron", "Steven Spielberg", "Peter Jackson", "Ridley Scott"], togri: 0 },
+      { savol: "AQShning eng katta musiqa mukofoti qanday ataladi?", variantlar: ["BRIT Awards", "Grammy Awards", "MTV Awards", "Billboard Awards"], togri: 1 },
+      { savol: "'Frozen' multfilmidagi mashhur qo'shiq nomi qaysi?", variantlar: ["Let It Go", "Let It Be", "Circle of Life", "A Whole New World"], togri: 0 },
+      { savol: "Bollivud kino sanoati qaysi davlatda joylashgan?", variantlar: ["Pokiston", "Hindiston", "Bangladesh", "Shri-Lanka"], togri: 1 },
+      { savol: "'The Beatles' guruhi nechta a'zodan iborat bo'lgan?", variantlar: ["3", "4", "5", "6"], togri: 1 },
+      { savol: "Netflix qanday turdagi xizmat?", variantlar: ["Musiqa striming", "Kino/serial striming", "Ijtimoiy tarmoq", "Onlayn o'yin"], togri: 1 }
+    ]
+  },
+  faktlar: {
+    label: "Qiziq faktlar",
+    savollar: [
+      { savol: "Dunyodagi eng katta okean qaysi?", variantlar: ["Atlantika", "Tinch okean", "Hind okeani", "Shimoliy Muz okeani"], togri: 1 },
+      { savol: "Kattalar tanasida taxminan nechta suyak bor?", variantlar: ["106", "206", "306", "406"], togri: 1 },
+      { savol: "Yerning yagona tabiiy yo'ldoshi nima?", variantlar: ["Mars", "Oy", "Quyosh", "Venera"], togri: 1 },
+      { savol: "Dunyodagi eng baland tog' qaysi?", variantlar: ["K2", "Everest", "Kilimanjaro", "Elbrus"], togri: 1 },
+      { savol: "Asalarilar necha ko'zga ega?", variantlar: ["2", "3", "5", "7"], togri: 2 },
+      { savol: "Dunyodagi eng katta quruqlikdagi hayvon qaysi?", variantlar: ["Jirafa", "Fil", "Gippopotam", "Nosorog'"], togri: 1 },
+      { savol: "Yorug'lik tezligi soniyasiga taxminan necha km?", variantlar: ["30,000 km", "300,000 km", "3,000,000 km", "300 km"], togri: 1 },
+      { savol: "Dunyodagi eng uzun daryo qaysi (ko'pchilik manbalarga ko'ra)?", variantlar: ["Amazonka", "Nil", "Yangtszi", "Missisipi"], togri: 1 },
+      { savol: "Insonda eng katta organ qaysi?", variantlar: ["Yurak", "Miya", "Teri", "Jigar"], togri: 2 },
+      { savol: "Chumolilar necha oyoqqa ega?", variantlar: ["4", "6", "8", "10"], togri: 1 },
+      { savol: "Dunyodagi eng kichik davlat qaysi?", variantlar: ["Monako", "San-Marino", "Vatikan", "Lixtenshteyn"], togri: 2 },
+      { savol: "Odam yuragi bir kunda taxminan necha marta uradi?", variantlar: ["1,000", "10,000", "100,000", "1,000,000"], togri: 2 },
+      { savol: "Muz Selsiy bo'yicha necha darajada eriy boshlaydi?", variantlar: ["0°C", "10°C", "-10°C", "100°C"], togri: 0 },
+      { savol: "Dunyodagi eng katta issiq sahro qaysi?", variantlar: ["Gobi", "Sahara", "Qorqum", "Kalaxari"], togri: 1 },
+      { savol: "Sayyoramizda nechta materik bor?", variantlar: ["5", "6", "7", "8"], togri: 2 },
+      { savol: "Fotosintez jarayonida o'simliklar nimani ishlab chiqaradi?", variantlar: ["Karbonat angidrid", "Kislorod", "Azot", "Vodorod"], togri: 1 },
+      { savol: "Insonning eng kichik suyagi qayerda joylashgan?", variantlar: ["Qo'lda", "Quloqda", "Oyoqda", "Bosh chanog'ida"], togri: 1 },
+      { savol: "Dunyodagi eng chuqur okean joyi qanday ataladi?", variantlar: ["Mariana chuquri", "Tinch chuquri", "Atlantika chuquri", "Hind chuquri"], togri: 0 },
+      { savol: "Bir yilda (kabisa yilisiz) necha kun bor?", variantlar: ["360", "364", "365", "366"], togri: 2 },
+      { savol: "Quyosh sistemasida nechta sayyora bor?", variantlar: ["7", "8", "9", "10"], togri: 1 }
+    ]
+  },
+  texnologiya: {
+    label: "Texnologiya",
+    savollar: [
+      { savol: "'CPU' nimani anglatadi?", variantlar: ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Central Processing Utility"], togri: 0 },
+      { savol: "Birinchi kompyuter dasturchisi deb kim hisoblanadi?", variantlar: ["Ada Lovelace", "Alan Turing", "Bill Gates", "Steve Jobs"], togri: 0 },
+      { savol: "'www' nimani anglatadi?", variantlar: ["World Wide Web", "World Wide Wire", "Web World Wide", "Wide World Web"], togri: 0 },
+      { savol: "Apple kompaniyasining asoschilaridan biri kim?", variantlar: ["Bill Gates", "Steve Jobs", "Elon Musk", "Mark Zuckerberg"], togri: 1 },
+      { savol: "'AI' qisqartmasi nimani anglatadi?", variantlar: ["Automatic Information", "Artificial Intelligence", "Advanced Internet", "Applied Informatics"], togri: 1 },
+      { savol: "Dunyodagi eng ko'p ishlatiladigan qidiruv tizimi qaysi?", variantlar: ["Yahoo", "Google", "Bing", "DuckDuckGo"], togri: 1 },
+      { savol: "'HTML' nimani anglatadi?", variantlar: ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyper Transfer Markup Language"], togri: 0 },
+      { savol: "Linux operatsion tizimi qanday turdagi dastur?", variantlar: ["Pullik", "Ochiq manbali (bepul)", "Faqat kompaniyalar uchun", "O'yin dasturi"], togri: 1 },
+      { savol: "Birinchi iPhone qaysi yilda chiqarilgan?", variantlar: ["2005", "2007", "2009", "2011"], togri: 1 },
+      { savol: "'Wi-Fi' nima uchun ishlatiladi?", variantlar: ["Simsiz internet ulanishi", "Simli internet", "Quvvat uzatish", "Ovoz yozish"], togri: 0 },
+      { savol: "'RAM' nimani anglatadi?", variantlar: ["Random Access Memory", "Read Access Memory", "Rapid Application Memory", "Real Access Module"], togri: 0 },
+      { savol: "Facebook ijtimoiy tarmog'ini kim yaratgan?", variantlar: ["Jack Dorsey", "Mark Zuckerberg", "Elon Musk", "Larry Page"], togri: 1 },
+      { savol: "'USB' asosan qaysi maqsadda ishlatiladi?", variantlar: ["Ma'lumot uzatish/ulanish", "Faqat quvvatlash", "Faqat internet", "Ovoz chiqarish"], togri: 0 },
+      { savol: "Qaysi kompaniya Android operatsion tizimini rivojlantiradi?", variantlar: ["Apple", "Google", "Microsoft", "Samsung"], togri: 1 },
+      { savol: "'VPN' nima uchun ishlatiladi?", variantlar: ["Xavfsiz va maxfiy internet ulanishi", "Video ijro etish", "Fayl siqish", "Virus tozalash"], togri: 0 },
+      { savol: "Bitcoin qanday turdagi valyuta?", variantlar: ["Qog'oz pul", "Kriptovalyuta", "Metall tanga", "Bank kartasi"], togri: 1 },
+      { savol: "Dunyodagi birinchi elektron kompyuterlardan biri qanday nomlangan?", variantlar: ["ENIAC", "IBM", "UNIVAC", "Apple I"], togri: 0 },
+      { savol: "'Cloud' (bulut) texnologiyasi nimani anglatadi?", variantlar: ["Ma'lumotlarni internet orqali saqlash", "Ob-havo bashorati", "Simsiz quvvat", "Video o'yin platformasi"], togri: 0 },
+      { savol: "Qaysi dasturlash tili veb-sahifalarni interaktiv qiladi?", variantlar: ["HTML", "CSS", "JavaScript", "SQL"], togri: 2 },
+      { savol: "Elon Musk qaysi kompaniyaga asos solgan?", variantlar: ["Tesla", "Samsung", "Sony", "Intel"], togri: 0 }
+    ]
+  }
+};
+
+function getMavzuFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const m = params.get('mavzu');
+  return questionBank[m] ? m : 'sport';
+}
+
+const activeMavzu = getMavzuFromUrl();
+const questions = questionBank[activeMavzu].savollar;
 
 let order = [];
 let index = 0;
@@ -454,7 +543,7 @@ function showResult() {
   document.getElementById('resultSub').textContent = sub;
 
   if (window.Telegram && window.Telegram.WebApp) {
-    window.Telegram.WebApp.sendData(JSON.stringify({ mavzu: 'sport', ball: score, jami: order.length }));
+    window.Telegram.WebApp.sendData(JSON.stringify({ mavzu: activeMavzu, ball: score, jami: order.length }));
   }
 }
 
@@ -482,6 +571,7 @@ if (window.Telegram && window.Telegram.WebApp) {
   window.Telegram.WebApp.onEvent('themeChanged', applyTheme);
 }
 
+document.getElementById('categoryLabel').textContent = questionBank[activeMavzu].label;
 order = shuffle(questions);
 buildTrail();
 renderQuestion();
