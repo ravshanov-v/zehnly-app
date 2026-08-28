@@ -621,14 +621,19 @@ function showResult() {
 }
 
 function sendResultToBot(finished) {
-  if (window.Telegram && window.Telegram.WebApp) {
-    window.Telegram.WebApp.sendData(JSON.stringify({
-      mavzu: activeMavzu,
-      ball: sessionScore,
-      jami: sessionAnswered,
-      tugadi: finished
-    }));
+  try {
+    if (window.Telegram && window.Telegram.WebApp) {
+      window.Telegram.WebApp.sendData(JSON.stringify({
+        mavzu: activeMavzu,
+        ball: sessionScore,
+        jami: sessionAnswered,
+        tugadi: finished
+      }));
+    }
+  } catch (e) {
+    // sendData faqat klaviatura tugmasi orqali ochilgan Mini App'larda ishlaydi
   }
+  if (finished) closeApp();
 }
 
 function playMore() {
@@ -642,10 +647,17 @@ function playMore() {
 }
 
 function finishSession() {
-  document.getElementById('resultTier').textContent = "Yakuniy natija";
-  document.getElementById('resultSub').textContent = `Jami: ${sessionScore}/${sessionAnswered} to'g'ri javob`;
+  const pct = sessionScore / sessionAnswered;
+  let xulosa;
+  if (pct >= 0.85) xulosa = "Zo'r natija! Zehningiz chindan ham o'tkir ekan.";
+  else if (pct >= 0.6) xulosa = "Yaxshi ko'rsatkich! Davom eting.";
+  else if (pct >= 0.35) xulosa = "Yomon emas, lekin yaxshilash mumkin.";
+  else xulosa = "Boshlanish yaxshi — mashq qilishda davom eting.";
+
+  document.getElementById('resultTier').textContent = "Yakuniy natijangiz";
+  document.getElementById('resultSub').textContent = `${sessionAnswered} ta savoldan ${sessionScore} tasiga to'g'ri javob berdingiz. ${xulosa}`;
   document.getElementById('resultButtons').innerHTML = `
-    <button class="restart-btn" onclick="sendResultToBot(true)">↩️ Bot chatiga qaytish</button>
+    <button class="restart-btn" onclick="closeApp()">✅ Yopish</button>
   `;
 }
 
