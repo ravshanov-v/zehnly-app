@@ -1,0 +1,295 @@
+{
+  "label": "Texnologiya sinovi",
+  "savollar": [
+    {
+      "savol": "'CPU' nimani anglatadi?",
+      "variantlar": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Unit",
+        "Central Processing Utility"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Birinchi kompyuter dasturchisi deb kim hisoblanadi?",
+      "variantlar": [
+        "Ada Lovelace",
+        "Alan Turing",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'www' nimani anglatadi?",
+      "variantlar": [
+        "World Wide Web",
+        "World Wide Wire",
+        "Web World Wide",
+        "Wide World Web"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Apple kompaniyasining asoschilaridan biri kim?",
+      "variantlar": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Elon Musk",
+        "Mark Zuckerberg"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'AI' qisqartmasi nimani anglatadi?",
+      "variantlar": [
+        "Automatic Information",
+        "Artificial Intelligence",
+        "Advanced Internet",
+        "Applied Informatics"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng ko'p ishlatiladigan qidiruv tizimi qaysi?",
+      "variantlar": [
+        "Yahoo",
+        "Google",
+        "Bing",
+        "DuckDuckGo"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'HTML' nimani anglatadi?",
+      "variantlar": [
+        "Hyper Text Markup Language",
+        "High Tech Modern Language",
+        "Home Tool Markup Language",
+        "Hyper Transfer Markup Language"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Linux operatsion tizimi qanday turdagi dastur?",
+      "variantlar": [
+        "Pullik",
+        "Ochiq manbali (bepul)",
+        "Faqat kompaniyalar uchun",
+        "O'yin dasturi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi iPhone qaysi yilda chiqarilgan?",
+      "variantlar": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Wi-Fi' nima uchun ishlatiladi?",
+      "variantlar": [
+        "Simsiz internet ulanishi",
+        "Simli internet",
+        "Quvvat uzatish",
+        "Ovoz yozish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'RAM' nimani anglatadi?",
+      "variantlar": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Rapid Application Memory",
+        "Real Access Module"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Facebook ijtimoiy tarmog'ini kim yaratgan?",
+      "variantlar": [
+        "Jack Dorsey",
+        "Mark Zuckerberg",
+        "Elon Musk",
+        "Larry Page"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'USB' asosan qaysi maqsadda ishlatiladi?",
+      "variantlar": [
+        "Ma'lumot uzatish/ulanish",
+        "Faqat quvvatlash",
+        "Faqat internet",
+        "Ovoz chiqarish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qaysi kompaniya Android operatsion tizimini rivojlantiradi?",
+      "variantlar": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Samsung"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'VPN' nima uchun ishlatiladi?",
+      "variantlar": [
+        "Xavfsiz va maxfiy internet ulanishi",
+        "Video ijro etish",
+        "Fayl siqish",
+        "Virus tozalash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bitcoin qanday turdagi valyuta?",
+      "variantlar": [
+        "Qog'oz pul",
+        "Kriptovalyuta",
+        "Metall tanga",
+        "Bank kartasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi birinchi elektron kompyuterlardan biri qanday nomlangan?",
+      "variantlar": [
+        "ENIAC",
+        "IBM",
+        "UNIVAC",
+        "Apple I"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Cloud' (bulut) texnologiyasi nimani anglatadi?",
+      "variantlar": [
+        "Ma'lumotlarni internet orqali saqlash",
+        "Ob-havo bashorati",
+        "Simsiz quvvat",
+        "Video o'yin platformasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qaysi dasturlash tili veb-sahifalarni interaktiv qiladi?",
+      "variantlar": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Elon Musk qaysi kompaniyaga asos solgan?",
+      "variantlar": [
+        "Tesla",
+        "Samsung",
+        "Sony",
+        "Intel"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'GPS' nima uchun ishlatiladi?",
+      "variantlar": [
+        "Joylashuvni aniqlash",
+        "Fayl siqish",
+        "Video montaj",
+        "Musiqa yaratish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Smartfonlarda 'batareya optimallashtirish' asosan nimaga yordam beradi?",
+      "variantlar": [
+        "Ekran o'lchamini oshirish",
+        "Quvvatni uzoqroq saqlash",
+        "Internet tezligini oshirish",
+        "Xotira kengaytirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Qora oynak' (dark mode) rejimi nima uchun mashhur?",
+      "variantlar": [
+        "Ko'zga yengilroq va batareya tejaydi",
+        "Rasm sifatini oshiradi",
+        "Internetni tezlashtiradi",
+        "Ovozni kuchaytiradi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dron (drone) asosan qanday qurilma?",
+      "variantlar": [
+        "Suv osti kemasi",
+        "Uchuvchi robot/apparat",
+        "Yer osti moslamasi",
+        "Kosmik stansiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Antivirus' dasturi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Kompyuterni tezlashtirish",
+        "Zararli dasturlardan himoya qilish",
+        "Fayllarni siqish",
+        "Internetni ulash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "QR-kod nimani anglatadi?",
+      "variantlar": [
+        "Faqat rasm",
+        "Tezkor javob kodi (ma'lumot saqlovchi)",
+        "Parol turi",
+        "Fayl formati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy intellekt (AI) asosan nimani o'rganadi?",
+      "variantlar": [
+        "Faqat matnlarni",
+        "Ma'lumotlar asosida naqshlarni aniqlashni",
+        "Faqat rasmlarni",
+        "Faqat ovozni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'E-commerce' atamasi nimani anglatadi?",
+      "variantlar": [
+        "Elektron pochta",
+        "Onlayn savdo",
+        "Elektron o'yin",
+        "Video striming"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'pchilik zamonaviy smartfonlar qaysi ekran texnologiyasidan foydalanadi?",
+      "variantlar": [
+        "CRT",
+        "OLED/LCD",
+        "Plazma",
+        "Lazer"
+      ],
+      "togri": 1
+    }
+  ]
+}

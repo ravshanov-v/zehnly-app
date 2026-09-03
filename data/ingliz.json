@@ -1,0 +1,205 @@
+{
+  "label": "Ingliz tili sinovi",
+  "savollar": [
+    {
+      "savol": "'Book' so'zi qanday tarjima qilinadi?",
+      "variantlar": [
+        "Qalam",
+        "Kitob",
+        "Stol",
+        "Uy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'I ___ a student' gapida bo'sh joyga qaysi so'z mos keladi?",
+      "variantlar": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Beautiful' so'zining sinonimi qaysi?",
+      "variantlar": [
+        "Ugly",
+        "Pretty",
+        "Sad",
+        "Angry"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ingliz tilida nechta asosiy zamon (tense) guruhi bor?",
+      "variantlar": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Cat' so'zining ko'plik shakli?",
+      "variantlar": [
+        "Cats",
+        "Cates",
+        "Cat's",
+        "Catis"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Go' fe'lining o'tgan zamon shakli?",
+      "variantlar": [
+        "Goed",
+        "Went",
+        "Gone",
+        "Going"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Hello, how are you?' — bu qanday ibora?",
+      "variantlar": [
+        "Xayrlashuv",
+        "Salomlashuv",
+        "Uzr so'rash",
+        "Minnatdorchilik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Big' so'zining antonimi?",
+      "variantlar": [
+        "Large",
+        "Huge",
+        "Small",
+        "Tall"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "'She ___ to school every day' — to'g'ri fe'l shakli?",
+      "variantlar": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Thank you' iborasi nimani anglatadi?",
+      "variantlar": [
+        "Kechirasiz",
+        "Rahmat",
+        "Salom",
+        "Xayr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ingliz alifbosida nechta harf bor?",
+      "variantlar": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "'Water' so'zi qanday tarjima qilinadi?",
+      "variantlar": [
+        "Olov",
+        "Suv",
+        "Havo",
+        "Yer"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'I have two ___' (uy hayvoni) — to'g'ri ko'plik:",
+      "variantlar": [
+        "dogs",
+        "dog",
+        "doges",
+        "dogss"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Yesterday' so'zi qaysi zamonga tegishli?",
+      "variantlar": [
+        "Hozirgi",
+        "Kelasi",
+        "O'tgan",
+        "Doimiy"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "'Can you help me?' — bu qanday gap turi?",
+      "variantlar": [
+        "Buyruq",
+        "So'rov",
+        "Xabar",
+        "Undov"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Happy' so'zining antonimi?",
+      "variantlar": [
+        "Glad",
+        "Sad",
+        "Joyful",
+        "Excited"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'This is my ___' (uy) — to'g'ri artikl:",
+      "variantlar": [
+        "a house",
+        "an house",
+        "house",
+        "my house"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "'Run' fe'lining III forma (Past Participle) shakli?",
+      "variantlar": [
+        "Runned",
+        "Ran",
+        "Run",
+        "Running"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "'Where do you live?' savoliga to'g'ri javob turi?",
+      "variantlar": [
+        "Ism",
+        "Manzil",
+        "Vaqt",
+        "Sabab"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Good morning' qachon ishlatiladi?",
+      "variantlar": [
+        "Kechqurun",
+        "Ertalab",
+        "Tushda",
+        "Kechasi"
+      ],
+      "togri": 1
+    }
+  ]
+}

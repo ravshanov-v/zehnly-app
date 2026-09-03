@@ -1,0 +1,295 @@
+{
+  "label": "Sport sinovi",
+  "savollar": [
+    {
+      "savol": "Futbolda bitta jamoada nechta o'yinchi maydonda bo'ladi?",
+      "variantlar": [
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Olimpiada o'yinlari necha yilda bir marta o'tkaziladi?",
+      "variantlar": [
+        "2 yilda",
+        "3 yilda",
+        "4 yilda",
+        "5 yilda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Basketbolda oddiy holatda tushirilgan to'p necha ochko beradi?",
+      "variantlar": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng mashhur velosport musobaqasi qanday ataladi?",
+      "variantlar": [
+        "Tur de Frans",
+        "Vuelta",
+        "Jiro d'Italiya",
+        "Parij-Rubet"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Futbol Jahon chempionati necha yilda bir marta o'tkaziladi?",
+      "variantlar": [
+        "2 yilda",
+        "3 yilda",
+        "4 yilda",
+        "5 yilda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tennisda 'hech narsa' ma'nosini anglatuvchi so'z qaysi?",
+      "variantlar": [
+        "Zero",
+        "Love",
+        "Ace",
+        "Set"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Professional boks jangi standart holatda necha raunddan iborat?",
+      "variantlar": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "2022-yilgi Futbol Jahon chempionati qaysi davlatda o'tkazildi?",
+      "variantlar": [
+        "Rossiya",
+        "Qatar",
+        "BAA",
+        "Saudiya Arabistoni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muzda o'ynaladigan sport turi qanday ataladi?",
+      "variantlar": [
+        "Regbi",
+        "Xokkey",
+        "Kyorling",
+        "Bobslley"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Volleybolda bitta jamoada nechta o'yinchi maydonda bo'ladi?",
+      "variantlar": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Messi va Ronaldu qaysi sport turida mashhur?",
+      "variantlar": [
+        "Basketbol",
+        "Futbol",
+        "Tennis",
+        "Regbi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Formula 1 — bu qaysi sport turi?",
+      "variantlar": [
+        "Mototsikl poygasi",
+        "Avtopoyga",
+        "Velosport",
+        "Suvda poyga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shaxmatda eng kuchli dona qaysi?",
+      "variantlar": [
+        "Ot",
+        "Ferz",
+        "Rux",
+        "Fil"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Olimpiya o'yinlari ramzida nechta halqa bor?",
+      "variantlar": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Regbi qaysi davlatda eng ko'p mashhur?",
+      "variantlar": [
+        "Yaponiya",
+        "Yangi Zelandiya",
+        "Braziliya",
+        "Kanada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "100 metrga yugurish bo'yicha dunyo rekordini kim ushlab turadi?",
+      "variantlar": [
+        "Karl Lyuis",
+        "Usain Bolt",
+        "Yoxan Blake",
+        "Tayson Gey"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Futbolda 'het-trik' nima?",
+      "variantlar": [
+        "2 gol urish",
+        "3 gol urish",
+        "Penalti urish",
+        "Gol bermaslik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suvda o'ynaladigan, to'p bilan o'ynaladigan sport turi qaysi?",
+      "variantlar": [
+        "Suzish",
+        "Suv polosi",
+        "Sho'ng'in",
+        "Yelkanli sport"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amerika futboli qaysi liga nomi bilan mashhur?",
+      "variantlar": [
+        "NBA",
+        "NFL",
+        "MLB",
+        "NHL"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qishki Olimpiada o'yinlarida qaysi sport turi YO'Q?",
+      "variantlar": [
+        "Chang'i uchish",
+        "Basketbol",
+        "Konkida uchish",
+        "Xokkey"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Golfda to'p tushirilishi kerak bo'lgan kichik teshik nima deb ataladi?",
+      "variantlar": [
+        "Xol",
+        "Lunka",
+        "Baza",
+        "Maydon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng mashhur marafon masofasi necha km?",
+      "variantlar": [
+        "21 km",
+        "32 km",
+        "42 km",
+        "50 km"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Baseball qaysi davlatda eng ko'p mashhur?",
+      "variantlar": [
+        "Braziliya",
+        "AQSH",
+        "Fransiya",
+        "Germaniya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sumo kurashi qaysi davlat milliy sporti hisoblanadi?",
+      "variantlar": [
+        "Xitoy",
+        "Koreya",
+        "Yaponiya",
+        "Mo'g'uliston"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Futbolda 'ofsayd' nima?",
+      "variantlar": [
+        "Qoida buzilishi turi",
+        "Gol turi",
+        "Almashtiruv turi",
+        "Jazo turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yengil atletikada uzunlikka sakrash qaysi turga kiradi?",
+      "variantlar": [
+        "Yugurish",
+        "Sakrash",
+        "Uloqtirish",
+        "Suzish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jiyu-jitsu va sambo qaysi sport turkumiga kiradi?",
+      "variantlar": [
+        "Yengil atletika",
+        "Kurash/janglash",
+        "Suv sporti",
+        "Kollektiv o'yin"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Basketbolda 3 ochkolik chiziqdan uzoqroqdan tushirilgan to'p necha ochko beradi?",
+      "variantlar": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Snoubord qaysi mavsum sportiga kiradi?",
+      "variantlar": [
+        "Yozgi",
+        "Qishki",
+        "Bahorgi",
+        "Kuzgi"
+      ],
+      "togri": 1
+    }
+  ]
+}

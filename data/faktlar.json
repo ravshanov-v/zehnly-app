@@ -1,0 +1,295 @@
+{
+  "label": "Fakt sinovi",
+  "savollar": [
+    {
+      "savol": "Dunyodagi eng katta okean qaysi?",
+      "variantlar": [
+        "Atlantika",
+        "Tinch okean",
+        "Hind okeani",
+        "Shimoliy Muz okeani"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kattalar tanasida taxminan nechta suyak bor?",
+      "variantlar": [
+        "106",
+        "206",
+        "306",
+        "406"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yerning yagona tabiiy yo'ldoshi nima?",
+      "variantlar": [
+        "Mars",
+        "Oy",
+        "Quyosh",
+        "Venera"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng baland tog' qaysi?",
+      "variantlar": [
+        "K2",
+        "Everest",
+        "Kilimanjaro",
+        "Elbrus"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Asalarilar necha ko'zga ega?",
+      "variantlar": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Dunyodagi eng katta quruqlikdagi hayvon qaysi?",
+      "variantlar": [
+        "Jirafa",
+        "Fil",
+        "Gippopotam",
+        "Nosorog'"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yorug'lik tezligi soniyasiga taxminan necha km?",
+      "variantlar": [
+        "30,000 km",
+        "300,000 km",
+        "3,000,000 km",
+        "300 km"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng uzun daryo qaysi (ko'pchilik manbalarga ko'ra)?",
+      "variantlar": [
+        "Amazonka",
+        "Nil",
+        "Yangtszi",
+        "Missisipi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insonda eng katta organ qaysi?",
+      "variantlar": [
+        "Yurak",
+        "Miya",
+        "Teri",
+        "Jigar"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Chumolilar necha oyoqqa ega?",
+      "variantlar": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng kichik davlat qaysi?",
+      "variantlar": [
+        "Monako",
+        "San-Marino",
+        "Vatikan",
+        "Lixtenshteyn"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Odam yuragi bir kunda taxminan necha marta uradi?",
+      "variantlar": [
+        "1,000",
+        "10,000",
+        "100,000",
+        "1,000,000"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Muz Selsiy bo'yicha necha darajada eriy boshlaydi?",
+      "variantlar": [
+        "0°C",
+        "10°C",
+        "-10°C",
+        "100°C"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dunyodagi eng katta issiq sahro qaysi?",
+      "variantlar": [
+        "Gobi",
+        "Sahara",
+        "Qorqum",
+        "Kalaxari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sayyoramizda nechta materik bor?",
+      "variantlar": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Fotosintez jarayonida o'simliklar nimani ishlab chiqaradi?",
+      "variantlar": [
+        "Karbonat angidrid",
+        "Kislorod",
+        "Azot",
+        "Vodorod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insonning eng kichik suyagi qayerda joylashgan?",
+      "variantlar": [
+        "Qo'lda",
+        "Quloqda",
+        "Oyoqda",
+        "Bosh chanog'ida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng chuqur okean joyi qanday ataladi?",
+      "variantlar": [
+        "Mariana chuquri",
+        "Tinch chuquri",
+        "Atlantika chuquri",
+        "Hind chuquri"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bir yilda (kabisa yilisiz) necha kun bor?",
+      "variantlar": [
+        "360",
+        "364",
+        "365",
+        "366"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Quyosh sistemasida nechta sayyora bor?",
+      "variantlar": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng katta ko'l qaysi?",
+      "variantlar": [
+        "Baykal",
+        "Viktoriya",
+        "Kaspiy dengizi",
+        "Superior"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Odam miyasi tana vazniga nisbatan taxminan necha foizni tashkil qiladi?",
+      "variantlar": [
+        "2%",
+        "10%",
+        "25%",
+        "40%"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dunyodagi eng tez quruqlik hayvoni qaysi?",
+      "variantlar": [
+        "Sher",
+        "Gepard",
+        "Ot",
+        "Bo'ri"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv qaysi haroratda qaynay boshlaydi (dengiz sathida, Selsiy)?",
+      "variantlar": [
+        "50°C",
+        "100°C",
+        "150°C",
+        "200°C"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insonda nechta asosiy sezgi a'zosi bor deb hisoblanadi?",
+      "variantlar": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Dunyodagi eng kichik quruqlik hayvonlaridan biri qaysi guruhga kiradi?",
+      "variantlar": [
+        "Hasharotlar",
+        "Sudralib yuruvchilar",
+        "Sut emizuvchilar",
+        "Baliqlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yer sayyorasining aylanishi tufayli nima yuzaga keladi?",
+      "variantlar": [
+        "Fasllar",
+        "Kun va tun",
+        "Yomg'ir",
+        "Shamol"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng katta orol qaysi?",
+      "variantlar": [
+        "Madagaskar",
+        "Grenlandiya",
+        "Borneo",
+        "Yangi Gvineya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vulqon otilishi natijasida nima chiqadi?",
+      "variantlar": [
+        "Faqat tutun",
+        "Lava va kul",
+        "Faqat suv",
+        "Faqat gaz"
+      ],
+      "togri": 1
+    }
+  ]
+}

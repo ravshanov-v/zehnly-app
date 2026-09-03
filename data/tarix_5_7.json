@@ -1,1 +1,1205 @@
-
+{
+  "label": "Tarix sinovi",
+  "savollar": [
+    {
+      "savol": "Tarix fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat tabiat hodisalarini",
+        "Odamlarning o'tmishdagi hayoti va tarixiy voqealarni",
+        "Faqat hayvonot dunyosini",
+        "Faqat geografik joylarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Misr qaysi daryo vodiysida vujudga kelgan?",
+      "variantlar": [
+        "Dajla",
+        "Nil",
+        "Frot",
+        "Gang"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Turk xoqonligi qaysi asrda tashkil topgan?",
+      "variantlar": [
+        "IV asrda",
+        "V asrda",
+        "VI asrda",
+        "VII asrda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "'Devonu lug'otit turk' asarining muallifi kim?",
+      "variantlar": [
+        "Yusuf Xos Hojib",
+        "Mahmud Qoshg'ariy",
+        "Abu Ali ibn Sino",
+        "Al-Xorazmiy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tarixiy manbalar nechta asosiy turga bo'linadi?",
+      "variantlar": [
+        "Uch turga",
+        "Ikki turga",
+        "To'rt turga",
+        "Besh turga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Misr hukmdorlari qanday atalgan?",
+      "variantlar": [
+        "Konsullar",
+        "Fir'avnlar",
+        "Senatorlar",
+        "Amirlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Somoniylar davrida Buxoro qanday mavqega ega bo'lgan?",
+      "variantlar": [
+        "Faqat harbiy qal'a bo'lgan",
+        "Muhim siyosiy va madaniy markaz bo'lgan",
+        "Dengiz porti bo'lgan",
+        "Faqat savdo qishlog'i bo'lgan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Arxeologlar asosan nimani o'rganadilar?",
+      "variantlar": [
+        "Faqat yozma asarlarni",
+        "Qadimgi moddiy yodgorliklarni",
+        "Faqat osmon jismlarini",
+        "Faqat tirik organizmlarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mesopotamiya so'zining ma'nosi nima?",
+      "variantlar": [
+        "Ikki daryo oralig'i",
+        "Tog'lar mamlakati",
+        "Quyosh mamlakati",
+        "Dengiz mamlakati"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Turk xoqonligining asoschisi kim?",
+      "variantlar": [
+        "Ismoil Somoniy",
+        "Bumin",
+        "Muqanna",
+        "Mahmud G'aznaviy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Qutadg'u bilig' asarining muallifi kim?",
+      "variantlar": [
+        "Mahmud Qoshg'ariy",
+        "Yusuf Xos Hojib",
+        "Al-Xorazmiy",
+        "Ahmad Yassaviy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi odamlar dastlab mehnat qurollarini asosan nimadan yasagan?",
+      "variantlar": [
+        "Toshdan",
+        "Temirdan",
+        "Po'latdan",
+        "Shishadan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Xammurapi nima bilan mashhur?",
+      "variantlar": [
+        "Buyuk Xitoy devorini qurdirgani bilan",
+        "Qonunlar to'plamini yaratgani bilan",
+        "Rim shahriga asos solgani bilan",
+        "Olimpiya o'yinlarini tashkil qilgani bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston tarixiga oid eng qadimgi yozma manbalardan biri qaysi?",
+      "variantlar": [
+        "'Iliada'",
+        "'Avesto'",
+        "'Qutadg'u bilig'",
+        "'Boburnoma'"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Yunoniston asosan qaysi yarimorolda joylashgan?",
+      "variantlar": [
+        "Bolqon yarimorolida",
+        "Arabiston yarimorolida",
+        "Hindiston yarimorolida",
+        "Apennin yarimorolida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ismoil Somoniy qaysi davlat hukmdori edi?",
+      "variantlar": [
+        "Kushonlar",
+        "Somoniylar",
+        "Qoraxoniylar",
+        "Eftaliylar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi odamlarning qoyatosh rasmlari nimani o'rganishda muhim manba hisoblanadi?",
+      "variantlar": [
+        "Zamonaviy sanoatni",
+        "Qadimgi odamlarning hayoti va mashg'ulotlarini",
+        "O'rta asr siyosatini",
+        "Zamonaviy transportni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Rim qaysi daryo bo'yida vujudga kelgan?",
+      "variantlar": [
+        "Nil",
+        "Frot",
+        "Tibr",
+        "Dajla"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Buyuk Ipak yo'li qanday ahamiyatga ega bo'lgan?",
+      "variantlar": [
+        "Sharq va G'arb o'rtasidagi savdo va madaniy aloqalarni kuchaytirgan",
+        "Faqat harbiy yurishlarga xizmat qilgan",
+        "Faqat dehqonchilikni rivojlantirgan",
+        "Faqat diniy marosimlar uchun ishlatilgan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Tib qonunlari' asarining muallifi kim?",
+      "variantlar": [
+        "Al-Xorazmiy",
+        "Abu Ali ibn Sino",
+        "Mahmud Qoshg'ariy",
+        "Yusuf Xos Hojib"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bir asr necha yil?",
+      "variantlar": [
+        "10 yil",
+        "50 yil",
+        "100 yil",
+        "1000 yil"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qadimgi Misrda keng qo'llangan yozuv turi qaysi?",
+      "variantlar": [
+        "Iyeroglif",
+        "Lotin",
+        "Kirill",
+        "Arab"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qoraxoniylar davlati qaysi hududlarda tashkil topgan?",
+      "variantlar": [
+        "Sharqiy Turkiston, Yettisuv va Tyanshanning janubiy yonbag'irlarida",
+        "Nil vodiysida",
+        "Italiyada",
+        "Arabiston yarimorolida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Spartak kim edi?",
+      "variantlar": [
+        "Qullar qo'zg'oloni rahbari",
+        "Misr fir'avni",
+        "Yunon faylasufi",
+        "Fors podshosi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tarixiy voqealarni vaqt bo'yicha tartibga soluvchi fan nima?",
+      "variantlar": [
+        "Arxeologiya",
+        "Xronologiya",
+        "Etnografiya",
+        "Antropologiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Xitoyni birlashtirgan hukmdor kim?",
+      "variantlar": [
+        "Sin Shixuandi",
+        "Xammurapi",
+        "Kserks",
+        "Oktavian"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jaloliddin Manguberdi qaysi sulolaning so'nggi hukmdori bo'lgan?",
+      "variantlar": [
+        "Somoniylar",
+        "Qoraxoniylar",
+        "Anushteginiylar",
+        "Kushonlar"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qadimgi Yunonistonda Olimpiya o'yinlari qayerda o'tkazilgan?",
+      "variantlar": [
+        "Olimpiya",
+        "Afina",
+        "Sparta",
+        "Korinf"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Avesto' qaysi diniy ta'limot bilan bog'liq?",
+      "variantlar": [
+        "Buddaviylik",
+        "Zardushtiylik",
+        "Xristianlik",
+        "Islom"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Rim respublikasida muhim davlat organi qaysi edi?",
+      "variantlar": [
+        "Polis",
+        "Senat",
+        "Satraplik",
+        "Kengashlar palatasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Termachilik nima?",
+      "variantlar": [
+        "Tabiatda mavjud meva, ildiz va o'simliklarni yig'ish",
+        "Hayvonlarni xonakilashtirish",
+        "Metall eritish",
+        "Yer haydash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mahmud Qoshg'ariy qaysi asarni yaratgan?",
+      "variantlar": [
+        "'Qutadg'u bilig'",
+        "'Devonu lug'otit turk'",
+        "'Tib qonunlari'",
+        "'Zij'"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Misr piramidalari asosan nima uchun qurilgan?",
+      "variantlar": [
+        "Fir'avnlarning maqbarasi sifatida",
+        "Bozor sifatida",
+        "Maktab sifatida",
+        "Harbiy lager sifatida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Muhammad al-Xorazmiy qaysi fan rivojiga katta hissa qo'shgan?",
+      "variantlar": [
+        "Biologiya",
+        "Matematika",
+        "Musiqa",
+        "Geologiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Yunonistonning mashhur polislarini belgilang.",
+      "variantlar": [
+        "Rim va Karfagen",
+        "Afina va Sparta",
+        "Bobil va Memfis",
+        "Buxoro va Samarqand"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dehqonchilikning paydo bo'lishi odamlarning qanday hayot tarziga o'tishiga yordam berdi?",
+      "variantlar": [
+        "O'troq hayotga",
+        "Faqat ko'chmanchi hayotga",
+        "Dengizchilikka",
+        "Faqat ovchilikka"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Movarounnahr atamasi qanday ma'noni bildiradi?",
+      "variantlar": [
+        "Daryoning narigi tomoni",
+        "Tog'lar mamlakati",
+        "Cho'llar mamlakati",
+        "Dengiz bo'yidagi mamlakat"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yuliy Sezar qaysi davlat tarixida mashhur shaxs?",
+      "variantlar": [
+        "Misr",
+        "Rim",
+        "Hindiston",
+        "Xitoy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Moddiy tarixiy manbalarga qaysi biri kiradi?",
+      "variantlar": [
+        "Qo'lyozma kitob",
+        "Mehnat quroli",
+        "Yozilgan xat",
+        "Tarixiy hujjat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Hindiston sivilizatsiyasi bilan bog'liq daryo qaysi?",
+      "variantlar": [
+        "Hind",
+        "Nil",
+        "Dajla",
+        "Tibr"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qutayba ibn Muslim kim bo'lgan?",
+      "variantlar": [
+        "Arab lashkarboshisi",
+        "Turk xoqoni",
+        "Rim imperatori",
+        "Xitoy imperatori"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Aristotel kim bo'lgan?",
+      "variantlar": [
+        "Misr fir'avni",
+        "Yunon faylasufi",
+        "Rim imperatori",
+        "Fors podshosi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kalendar nima?",
+      "variantlar": [
+        "Vaqtni kun, hafta, oy va yillarga bo'lib hisoblash tizimi",
+        "Xarita turi",
+        "Tarixiy qurol",
+        "Qadimgi bino"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Spitaman kimga qarshi kurashgan?",
+      "variantlar": [
+        "Rimliklarga",
+        "Aleksandr Makedonskiy qo'shinlariga",
+        "Misrliklarga",
+        "Xitoyliklarga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Xitoyning mashhur mudofaa inshooti qaysi?",
+      "variantlar": [
+        "Kolizey",
+        "Piramida",
+        "Buyuk Xitoy devori",
+        "Parfenon"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Ismoil Somoniy Movarounnahr va qaysi hududni birlashtirgan?",
+      "variantlar": [
+        "Misrni",
+        "Xurosonni",
+        "Yunonistonni",
+        "Hindistonni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xufu piramidasi qayerda joylashgan?",
+      "variantlar": [
+        "Afina",
+        "Gizada",
+        "Rimda",
+        "Bobilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "To'maris kimga qarshi kurashgan?",
+      "variantlar": [
+        "Kir II ga",
+        "Yuliy Sezarga",
+        "Xammurapiga",
+        "Sin Shixuandiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'rta asr Yevropasida ritsarlar kimlar edi?",
+      "variantlar": [
+        "Savdogarlar",
+        "Harbiy xizmat qiluvchi zodagonlar",
+        "Dehqonlar",
+        "Hunarmandlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Rimdagi mashhur amfiteatr qaysi?",
+      "variantlar": [
+        "Akropol",
+        "Parfenon",
+        "Kolizey",
+        "Piramida"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Bronza nimadan tayyorlangan qotishma?",
+      "variantlar": [
+        "Mis va qalaydan",
+        "Temir va oltindan",
+        "Kumush va temirdan",
+        "Oltin va kumushdan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Islom dini qayerda vujudga kelgan?",
+      "variantlar": [
+        "Hindistonda",
+        "Arabiston yarimorolida",
+        "Xitoyda",
+        "Yevropada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bobil davlatining mashhur hukmdori kim?",
+      "variantlar": [
+        "Sin Shixuandi",
+        "Xammurapi",
+        "Perikl",
+        "Oktavian"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ibn Sino qaysi sohada ayniqsa mashhur bo'lgan?",
+      "variantlar": [
+        "Tibbiyot",
+        "Harbiy ish",
+        "Dengizchilik",
+        "Me'morchilik"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qadimgi odamlar olovdan foydalanishning muhim sabablaridan biri nima edi?",
+      "variantlar": [
+        "Faqat bezak uchun",
+        "Isinish va ovqat pishirish uchun",
+        "Faqat yozish uchun",
+        "Faqat uy qurish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Konstantinopol qaysi davlatning muhim markazi bo'lgan?",
+      "variantlar": [
+        "Franklar davlatining",
+        "Vizantiya imperiyasining",
+        "Somoniylar davlatining",
+        "Qadimgi Misrning"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Qutadg'u bilig' qaysi asrda yaratilgan?",
+      "variantlar": [
+        "VII asrda",
+        "VIII asrda",
+        "XI asrda",
+        "XV asrda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qadimgi Misr qaysi qit'ada joylashgan?",
+      "variantlar": [
+        "Afrikada",
+        "Yevropada",
+        "Osiyoning sharqida",
+        "Amerikada"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Muqanna kim edi?",
+      "variantlar": [
+        "Arab xalifaligiga qarshi qo'zg'olon rahbari",
+        "Rim imperatori",
+        "Yunon faylasufi",
+        "Xitoy hukmdori"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Harbiy tarbiyasi bilan mashhur bo'lgan yunon polisi qaysi?",
+      "variantlar": [
+        "Afina",
+        "Sparta",
+        "Korinf",
+        "Milet"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yozuvning paydo bo'lishi nima imkonini berdi?",
+      "variantlar": [
+        "Ma'lumotlarni yozib qoldirish va saqlashni",
+        "Ovchilikni yo'q qilishni",
+        "Dehqonchilikni tugatishni",
+        "Urushlarni tugatishni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Buyuk Ipak yo'li orqali nimalar almashilgan?",
+      "variantlar": [
+        "Tovarlar, bilim va madaniy ta'sirlar",
+        "Faqat qurollar",
+        "Faqat oziq-ovqat",
+        "Faqat kiyimlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Aleksandr Makedonskiyning otasi kim edi?",
+      "variantlar": [
+        "Doro III",
+        "Filipp II",
+        "Kserks",
+        "Kir II"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Rim qaysi yarimorolda vujudga kelgan?",
+      "variantlar": [
+        "Apennin yarimorolida",
+        "Bolqon yarimorolida",
+        "Arabiston yarimorolida",
+        "Hindiston yarimorolida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qoraxoniylar davlatining asoschisi sifatida kim ko'rsatiladi?",
+      "variantlar": [
+        "Ismoil Somoniy",
+        "Abdulkarim Sotuq Bug'roxon",
+        "Mahmud G'aznaviy",
+        "Jaloliddin Manguberdi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Tib qonunlari' asari qaysi fan bilan eng ko'p bog'liq?",
+      "variantlar": [
+        "Astronomiya",
+        "Tibbiyot",
+        "Harbiy ish",
+        "Geografiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mohenjodaro va Xarappa qaysi qadimgi sivilizatsiyaga tegishli?",
+      "variantlar": [
+        "Hind vodiysi sivilizatsiyasiga",
+        "Misr sivilizatsiyasiga",
+        "Rim sivilizatsiyasiga",
+        "Yunon sivilizatsiyasiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jaloliddin Manguberdi Ozarbayjonda qaysi shaharni poytaxt qilgan?",
+      "variantlar": [
+        "Buxoro",
+        "Samarqand",
+        "Tabriz",
+        "Bag'dod"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qadimgi Afinada qanday boshqaruv shakli rivojlangan?",
+      "variantlar": [
+        "Demokratiya",
+        "Imperiya",
+        "Xonlik",
+        "Feodal monarxiya"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Arxeologlar qazishmalar orqali nimani aniqlashlari mumkin?",
+      "variantlar": [
+        "Qadimgi manzilgoh va buyumlarning tarixini",
+        "Kelajakdagi voqealarni",
+        "Faqat ob-havoni",
+        "Faqat yulduzlarning harakatini"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Chingizxon qaysi davlatga asos solgan?",
+      "variantlar": [
+        "Mo'g'ullar imperiyasiga",
+        "Rim imperiyasiga",
+        "Somoniylar davlatiga",
+        "Kushonlar davlatiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qadimgi Misr yozuvining belgilariga nima deyiladi?",
+      "variantlar": [
+        "Mixxat",
+        "Iyeroglif",
+        "Lotin yozuvi",
+        "Kirill yozuvi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zardushtiylikning muhim yozma manbasi qaysi?",
+      "variantlar": [
+        "Qur'on",
+        "Avesto",
+        "Injil",
+        "'Iliada'"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vizantiya imperiyasida imperator qanday atalgan?",
+      "variantlar": [
+        "Fir'avn",
+        "Vasilevs",
+        "Konsul",
+        "Xoqon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'troq dehqonchilikning rivojlanishida nima muhim bo'lgan?",
+      "variantlar": [
+        "Yerga ishlov berish va sug'orish",
+        "Faqat ovchilik",
+        "Faqat baliqchilik",
+        "Faqat ko'chmanchilik"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Turk xoqonligi qaysi hududlarda yirik davlatga aylangan?",
+      "variantlar": [
+        "Markaziy Osiyo va keng dasht hududlarida",
+        "Faqat Italiyada",
+        "Faqat Misrda",
+        "Faqat Ispaniyada"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qadimgi Yunonistonda 'polis' nimani anglatgan?",
+      "variantlar": [
+        "Shahar-davlat",
+        "Imperator saroyi",
+        "Qabila boshlig'i",
+        "Harbiy qurol"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Al-Xorazmiy nomi bilan bog'liq 'algoritm' tushunchasi qaysi sohaga tegishli?",
+      "variantlar": [
+        "Tibbiyot",
+        "Matematika",
+        "Tarix",
+        "Geografiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oktavian Avgust qaysi davlat tarixida muhim shaxs?",
+      "variantlar": [
+        "Misr",
+        "Yunoniston",
+        "Rim",
+        "Bobil"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Miloddan avvalgi voqealar tarixda qanday belgilanadi?",
+      "variantlar": [
+        "Milodiy",
+        "Miloddan avvalgi",
+        "Yangi davr",
+        "Hozirgi davr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mesopotamiyaning asosiy daryolari qaysilar?",
+      "variantlar": [
+        "Dajla va Frot",
+        "Nil va Gang",
+        "Amudaryo va Sirdaryo",
+        "Dunay va Reyn"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mahmud Qoshg'ariyning asari asosan nimaga bag'ishlangan?",
+      "variantlar": [
+        "Rim huquqiga",
+        "Turkiy tillar va xalqlarga oid ma'lumotlarga",
+        "Misr dini tarixiga",
+        "Yunon falsafasiga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Giza piramidalari qaysi mamlakat tarixiga tegishli?",
+      "variantlar": [
+        "Misr",
+        "Rim",
+        "Yunoniston",
+        "Xitoy"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Arablarning Movarounnahrga yurishlari qaysi asrlarda kuchaydi?",
+      "variantlar": [
+        "III-IV asrlarda",
+        "VII-VIII asrlarda",
+        "X-XI asrlarda",
+        "XIII-XIV asrlarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asrlarda Yevropa shaharlarining rivojlanishida qaysi faoliyat muhim bo'lgan?",
+      "variantlar": [
+        "Hunarmandchilik va savdo",
+        "Faqat ovchilik",
+        "Faqat ko'chmanchilik",
+        "Faqat baliqchilik"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qadimgi Xitoy ipak ishlab chiqarishi bilan mashhur bo'lganmi?",
+      "variantlar": [
+        "Ha",
+        "Yo'q, faqat temir ishlab chiqargan",
+        "Yo'q, faqat oltin qazigan",
+        "Yo'q, faqat chorvachilik bilan shug'ullangan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Iliada' dostoni kimga nisbat beriladi?",
+      "variantlar": [
+        "Gomerga",
+        "Aristotelga",
+        "Suqrotga",
+        "Gerodotga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'rta asrlardagi feodal munosabatlarning asosiy belgilaridan biri nima edi?",
+      "variantlar": [
+        "Yer egaligi va vassallik munosabatlari",
+        "Faqat dengiz savdosi",
+        "Faqat ko'chmanchilik",
+        "Zavod-fabrika tizimi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Nil daryosi qadimgi Misr hayotida qanday ahamiyatga ega edi?",
+      "variantlar": [
+        "Dehqonchilik uchun muhim tabiiy sharoit yaratgan",
+        "Faqat davlat chegarasini belgilagan",
+        "Faqat harbiy maqsadda ishlatilgan",
+        "Umuman ahamiyatga ega bo'lmagan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Somoniylar davrida qaysi sohalar rivojlangan?",
+      "variantlar": [
+        "Ilm-fan, madaniyat va savdo",
+        "Faqat ovchilik",
+        "Faqat baliqchilik",
+        "Faqat dengizchilik"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Marafon jangi kimlar o'rtasida bo'lgan?",
+      "variantlar": [
+        "Yunonlar va forslar",
+        "Rimliklar va misrliklar",
+        "Hindlar va xitoyliklar",
+        "Mo'g'ullar va turklar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yustinian I qaysi davlat imperatori bo'lgan?",
+      "variantlar": [
+        "Rim respublikasining",
+        "Vizantiya imperiyasining",
+        "Somoniylar davlatining",
+        "Franklar davlatining"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Rim muhandisligining rivojlanganini ko'rsatuvchi inshootlardan biri qaysi?",
+      "variantlar": [
+        "Yo'llar va suv o'tkazgichlar",
+        "Piramidalar",
+        "Buyuk Xitoy devori",
+        "Zikkuratlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kushonlar davrida buddaviylik qaysi hududlarda tarqalgan?",
+      "variantlar": [
+        "O'rta Osiyoning ayrim hududlarida ham",
+        "Faqat Yevropada",
+        "Faqat Misrda",
+        "Faqat Arabistonda"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sug'diyona qaysi hududlar bilan bog'liq?",
+      "variantlar": [
+        "Zarafshon va Qashqadaryo vohalari bilan",
+        "Nil vodiysi bilan",
+        "Tibr vodiysi bilan",
+        "Gang vodiysi bilan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Avesto' qaysi din tarixini o'rganishda muhim manba?",
+      "variantlar": [
+        "Zardushtiylik",
+        "Buddaviylik",
+        "Xristianlik",
+        "Islom"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Franklar davlatining mashhur hukmdorlaridan biri kim?",
+      "variantlar": [
+        "Xlodvig",
+        "Yustinian",
+        "Mahmud G'aznaviy",
+        "Ismoil Somoniy"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Spartak boshchiligidagi qo'zg'olon qaysi davlatda yuz bergan?",
+      "variantlar": [
+        "Misrda",
+        "Yunonistonda",
+        "Rimda",
+        "Xitoyda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Suqrot kim bo'lgan?",
+      "variantlar": [
+        "Qadimgi yunon faylasufi",
+        "Misr fir'avni",
+        "Rim imperatori",
+        "Fors podshosi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Vizantiya imperiyasining poytaxti qaysi shahar edi?",
+      "variantlar": [
+        "Rim",
+        "Konstantinopol",
+        "Afina",
+        "Buxoro"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buyuk Ipak yo'li O'rta Osiyo shaharlariga qanday ta'sir ko'rsatgan?",
+      "variantlar": [
+        "Savdo va madaniy aloqalarning rivojlanishiga yordam bergan",
+        "Shaharlarni butunlay yo'q qilgan",
+        "Hunarmandchilikni tugatgan",
+        "Dehqonchilikni to'xtatgan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Islom dinining muqaddas kitobi qaysi?",
+      "variantlar": [
+        "Avesto",
+        "Qur'on",
+        "Injil",
+        "'Iliada'"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muhammad al-Xorazmiy nomi qaysi tarixiy hudud bilan bog'liq?",
+      "variantlar": [
+        "Rim",
+        "Misr",
+        "Xorazm",
+        "Yunoniston"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qadimgi odamlar termachilik bilan nima uchun shug'ullangan?",
+      "variantlar": [
+        "Oziq-ovqat topish uchun",
+        "Temir ishlab chiqarish uchun",
+        "Shahar qurish uchun",
+        "Savdo qilish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Temirdan foydalanishning kengayishi qanday natija bergan?",
+      "variantlar": [
+        "Mustahkam mehnat qurollari va qurollar yasash imkonini bergan",
+        "Yozuvni yo'q qilgan",
+        "Dehqonchilikni tugatgan",
+        "Savdoni to'xtatgan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Muhammad Xorazmshoh qaysi davlat hukmdori bo'lgan?",
+      "variantlar": [
+        "Somoniylar",
+        "Qoraxoniylar",
+        "Xorazmshohlar",
+        "Kushonlar"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jaloliddin Manguberdi mo'g'ullarga qarshi kurashganmi?",
+      "variantlar": [
+        "Ha",
+        "Yo'q, u Rimga qarshi kurashgan",
+        "Yo'q, u Misr fir'avni bo'lgan",
+        "Yo'q, u Yunonistonda hukmronlik qilgan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qadimgi Hindistonda buddaviylik dini kimning ta'limoti bilan bog'liq?",
+      "variantlar": [
+        "Budda",
+        "Suqrot",
+        "Konfutsiy",
+        "Zardusht"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Buyuk Xitoy devorining asosiy vazifalaridan biri nima edi?",
+      "variantlar": [
+        "Tashqi bosqinlardan himoyalanish",
+        "Savdo bozori bo'lish",
+        "Saroy vazifasini bajarish",
+        "Maktab bo'lish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yozma tarixiy manbaga qaysi biri misol bo'la oladi?",
+      "variantlar": [
+        "Mehnat quroli",
+        "Qadimgi qo'lyozma",
+        "Qadimgi uy qoldig'i",
+        "Sopol idish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asrlarda hunarmandchilik va savdoning rivojlanishi nimaga yordam berdi?",
+      "variantlar": [
+        "Shaharlarning rivojlanishiga",
+        "Shaharlarning yo'qolishiga",
+        "Qishloqlarning tugashiga",
+        "Yozuvning yo'qolishiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qoraxoniylar davlati qachon Somoniylar hukmronligiga barham bergan?",
+      "variantlar": [
+        "900-yilda",
+        "950-yilda",
+        "999-yilda",
+        "1100-yilda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Parfenon qaysi qadimgi shaharda joylashgan?",
+      "variantlar": [
+        "Afina",
+        "Rim",
+        "Bobil",
+        "Memfis"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yuliy Sezar qaysi davlatning siyosiy va harbiy arbobi edi?",
+      "variantlar": [
+        "Misr",
+        "Rim",
+        "Xitoy",
+        "Hindiston"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qadimgi Misrda yozuv yozishda ishlatilgan o'simlikdan tayyorlangan material nima edi?",
+      "variantlar": [
+        "Papirus",
+        "Ipak",
+        "Temir",
+        "Bronza"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'rta asrlarda ilm-fan rivojiga katta hissa qo'shgan allomalardan biri kim?",
+      "variantlar": [
+        "Abu Ali ibn Sino",
+        "Spartak",
+        "Yuliy Sezar",
+        "Xammurapi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Devonu lug'otit turk' asarining asosiy mavzusi nimaga bog'liq?",
+      "variantlar": [
+        "Turkiy tillar va xalqlar",
+        "Rim huquqi",
+        "Misr dini",
+        "Yunon harbiy san'ati"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qadimgi Rim imperiyasi tashkil topishidan oldin qaysi boshqaruv davri bo'lgan?",
+      "variantlar": [
+        "Feodalizm",
+        "Respublika",
+        "Xonlik",
+        "Amirlik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tarixiy manbalarni o'rganishdan asosiy maqsad nima?",
+      "variantlar": [
+        "O'tmish haqida ishonchli bilim olish",
+        "Kelajakni aniq bashorat qilish",
+        "Faqat sanalarni yodlash",
+        "Faqat xarita chizish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jaloliddin Manguberdi qaysi davlatning yangi hukmdorlik markazini Tabrizga ko'chirgan?",
+      "variantlar": [
+        "Somoniylar davlatining",
+        "Qoraxoniylar davlatining",
+        "O'zi boshqargan Xorazmshohlar hududidagi davlatning",
+        "Kushonlar davlatining"
+      ],
+      "togri": 2
+    }
+  ]
+}

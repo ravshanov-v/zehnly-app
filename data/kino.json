@@ -1,0 +1,295 @@
+{
+  "label": "Kino-Musiqa sinovi",
+  "savollar": [
+    {
+      "savol": "'Titanik' filmi qaysi yilda chiqqan?",
+      "variantlar": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Harry Potter' kitoblari mualifi kim?",
+      "variantlar": [
+        "J.K. Rowling",
+        "J.R.R. Tolkien",
+        "Stephen King",
+        "Agatha Christie"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dunyodagi eng nufuzli kino mukofoti qanday ataladi?",
+      "variantlar": [
+        "Grammy",
+        "Oskar",
+        "Emmy",
+        "Tony"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Michael Jackson qaysi janrning 'qiroli' deb ataladi?",
+      "variantlar": [
+        "Pop",
+        "Jazz",
+        "Rok",
+        "Klassik"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Bohemian Rhapsody' qo'shig'ini qaysi guruh ijro etgan?",
+      "variantlar": [
+        "The Beatles",
+        "Queen",
+        "Pink Floyd",
+        "Led Zeppelin"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng mashhur kinofestival (Kann) qaysi davlatda o'tkaziladi?",
+      "variantlar": [
+        "Fransiya",
+        "Italiya",
+        "AQSH",
+        "Angliya"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "'Grammy' mukofoti asosan qaysi soha uchun beriladi?",
+      "variantlar": [
+        "Kino",
+        "Musiqa",
+        "Adabiyot",
+        "Sport"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Disney kompaniyasining eng mashhur sichqonchasi qanday ataladi?",
+      "variantlar": [
+        "Jerry",
+        "Mickey Mouse",
+        "Tom",
+        "Pluto"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Titanik' kemasi qaysi okeanda cho'kkan?",
+      "variantlar": [
+        "Tinch okean",
+        "Hind okeani",
+        "Atlantika okeani",
+        "Shimoliy Muz okeani"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "'Titanik' filmi jami nechta Oskar yutgan?",
+      "variantlar": [
+        "5",
+        "8",
+        "11",
+        "14"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "K-pop musiqa janri qaysi davlatdan boshlangan?",
+      "variantlar": [
+        "Yaponiya",
+        "Xitoy",
+        "Janubiy Koreya",
+        "Tailand"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "'Star Wars' seriyasini kim yaratgan?",
+      "variantlar": [
+        "Steven Spielberg",
+        "George Lucas",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elvis Presley qaysi janrning 'qiroli' deb ataladi?",
+      "variantlar": [
+        "Rok-n-roll",
+        "Jazz",
+        "Blyuz",
+        "Kantri"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hozirda animatsion filmlar ko'pincha qaysi texnika bilan yaratiladi?",
+      "variantlar": [
+        "Qo'lda chizish",
+        "Kompyuter grafikasi (3D)",
+        "Qo'g'irchoq",
+        "Qum animatsiyasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Avatar' filmini kim rejissyorlik qilgan?",
+      "variantlar": [
+        "James Cameron",
+        "Steven Spielberg",
+        "Peter Jackson",
+        "Ridley Scott"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "AQShning eng katta musiqa mukofoti qanday ataladi?",
+      "variantlar": [
+        "BRIT Awards",
+        "Grammy Awards",
+        "MTV Awards",
+        "Billboard Awards"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Frozen' multfilmidagi mashhur qo'shiq nomi qaysi?",
+      "variantlar": [
+        "Let It Go",
+        "Let It Be",
+        "Circle of Life",
+        "A Whole New World"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bollivud kino sanoati qaysi davlatda joylashgan?",
+      "variantlar": [
+        "Pokiston",
+        "Hindiston",
+        "Bangladesh",
+        "Shri-Lanka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'The Beatles' guruhi nechta a'zodan iborat bo'lgan?",
+      "variantlar": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Netflix qanday turdagi xizmat?",
+      "variantlar": [
+        "Musiqa striming",
+        "Kino/serial striming",
+        "Ijtimoiy tarmoq",
+        "Onlayn o'yin"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Spotify qanday turdagi xizmat?",
+      "variantlar": [
+        "Video striming",
+        "Musiqa striming",
+        "Fotosurat saqlash",
+        "Onlayn do'kon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Marvel' kompaniyasi asosan qanday filmlar bilan mashhur?",
+      "variantlar": [
+        "Drama",
+        "Superqahramonlar",
+        "Hujjatli",
+        "Komediya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Pixar studiyasi asosan qanday filmlar yaratadi?",
+      "variantlar": [
+        "Jonli aktyorli",
+        "Animatsion",
+        "Hujjatli",
+        "Musiqiy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Da Vinci kodi' romani muallifi kim?",
+      "variantlar": [
+        "Dan Brown",
+        "Stephen King",
+        "J.K. Rowling",
+        "Paulo Coelho"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Opera — bu qanday san'at turi?",
+      "variantlar": [
+        "Faqat raqs",
+        "Musiqa va teatr uyg'unligi",
+        "Faqat rasm",
+        "Faqat adabiyot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Coca-Cola' reklamalarida ko'p ishlatiladigan mavsum qaysi?",
+      "variantlar": [
+        "Yoz",
+        "Kuz",
+        "Qish (Rojdestvo)",
+        "Bahor"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jazz musiqa janri qaysi davlatda paydo bo'lgan?",
+      "variantlar": [
+        "Fransiya",
+        "AQSH",
+        "Braziliya",
+        "Kuba"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "'Simfoniya' asosan qaysi turdagi musiqaga tegishli?",
+      "variantlar": [
+        "Pop",
+        "Klassik",
+        "Rok",
+        "Hip-hop"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rejissyor filmni suratga olishda asosan nimani boshqaradi?",
+      "variantlar": [
+        "Faqat musiqa",
+        "Ijodiy va texnik jarayonni",
+        "Faqat kostyumlarni",
+        "Faqat byudjetni"
+      ],
+      "togri": 1
+    }
+  ]
+}

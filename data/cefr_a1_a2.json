@@ -1,0 +1,405 @@
+{
+  "label": "Ingliz tili CEFR sinovi",
+  "savollar": [
+    {
+      "savol": "Choose the correct form: 'She ___ a teacher.'",
+      "variantlar": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct form: 'They ___ from Uzbekistan.'",
+      "variantlar": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "What is the plural of 'child'?",
+      "variantlar": [
+        "childs",
+        "children",
+        "childes",
+        "child's"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct preposition: 'I live ___ Tashkent.'",
+      "variantlar": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct preposition: 'The meeting is ___ Monday.'",
+      "variantlar": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct preposition: 'We wake up ___ 7 o'clock.'",
+      "variantlar": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct possessive: '___ name is Ali.'",
+      "variantlar": [
+        "He",
+        "Him",
+        "His",
+        "Her"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct demonstrative: '___ is my book' (pointing to something near).",
+      "variantlar": [
+        "That",
+        "This",
+        "These",
+        "Those"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Which question word asks about a place?",
+      "variantlar": [
+        "When",
+        "Who",
+        "Where",
+        "Why"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct article: 'I saw ___ elephant at the zoo.'",
+      "variantlar": [
+        "a",
+        "an",
+        "the only",
+        "no article"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct form: '___ a pen on the table.'",
+      "variantlar": [
+        "There is",
+        "There are",
+        "It is",
+        "They are"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct form: '___ many books in the library.'",
+      "variantlar": [
+        "There is",
+        "There are",
+        "It is",
+        "This is"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct modal: 'I ___ swim very well.'",
+      "variantlar": [
+        "can",
+        "must",
+        "should",
+        "will"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct past form of 'to be': 'They ___ at home yesterday.'",
+      "variantlar": [
+        "is",
+        "was",
+        "were",
+        "be"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Which word means the opposite of 'big'?",
+      "variantlar": [
+        "Tall",
+        "Small",
+        "Long",
+        "Short"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Which day comes after Monday?",
+      "variantlar": [
+        "Sunday",
+        "Wednesday",
+        "Tuesday",
+        "Friday"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct number word for '12'.",
+      "variantlar": [
+        "Ten",
+        "Eleven",
+        "Twelve",
+        "Thirteen"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct sentence.",
+      "variantlar": [
+        "He like pizza.",
+        "He likes pizza.",
+        "He liking pizza.",
+        "He to like pizza."
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct past simple form: 'Yesterday I ___ to the market.'",
+      "variantlar": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct past simple form: 'She ___ her homework last night.'",
+      "variantlar": [
+        "finish",
+        "finished",
+        "finishes",
+        "finishing"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct present continuous form: 'Look! It ___ outside.'",
+      "variantlar": [
+        "rain",
+        "rains",
+        "is raining",
+        "rained"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct comparative: 'This bag is ___ than that one.'",
+      "variantlar": [
+        "heavy",
+        "heavier",
+        "heaviest",
+        "more heavy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct superlative: 'Everest is the ___ mountain in the world.'",
+      "variantlar": [
+        "high",
+        "higher",
+        "highest",
+        "more high"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct future form: 'I think it ___ rain tomorrow.'",
+      "variantlar": [
+        "is going to",
+        "was going to",
+        "went to",
+        "goes to"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct modal for obligation: 'You ___ wear a seatbelt in the car.'",
+      "variantlar": [
+        "can",
+        "must",
+        "may",
+        "could"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct adverb of frequency: 'She ___ drinks coffee in the morning.'",
+      "variantlar": [
+        "always",
+        "yesterday",
+        "now",
+        "tomorrow"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct quantifier: 'There isn't ___ milk in the fridge.'",
+      "variantlar": [
+        "some",
+        "any",
+        "many",
+        "much"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct quantifier: 'I have ___ friends in this city.'",
+      "variantlar": [
+        "much",
+        "a lot of",
+        "little",
+        "any"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Which noun is uncountable?",
+      "variantlar": [
+        "Apple",
+        "Book",
+        "Water",
+        "Chair"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct connector: 'I was tired, ___ I went to bed early.'",
+      "variantlar": [
+        "but",
+        "so",
+        "because",
+        "or"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct connector: 'I stayed home ___ it was raining.'",
+      "variantlar": [
+        "so",
+        "but",
+        "because",
+        "although"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct phrasal verb meaning: 'Please turn ___ the light, it's dark.'",
+      "variantlar": [
+        "off",
+        "on",
+        "up",
+        "down"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct imperative sentence.",
+      "variantlar": [
+        "You close the door.",
+        "Closing the door.",
+        "Close the door.",
+        "Closed the door."
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct sentence with 'have to'.",
+      "variantlar": [
+        "She have to work today.",
+        "She has to work today.",
+        "She having to work today.",
+        "She to have work today."
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct question form.",
+      "variantlar": [
+        "Where you live?",
+        "Where do you live?",
+        "Where you do live?",
+        "Where living you?"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct negative form: 'He ___ like vegetables.'",
+      "variantlar": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Which word is a color?",
+      "variantlar": [
+        "Happy",
+        "Yellow",
+        "Table",
+        "Run"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'often'.",
+      "variantlar": [
+        "One time",
+        "Never",
+        "Many times",
+        "Rarely"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct sentence order.",
+      "variantlar": [
+        "I every day breakfast eat.",
+        "I eat every day breakfast.",
+        "I eat breakfast every day.",
+        "Every day I breakfast eat."
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct word: 'My brother is ___ than me.' (age)",
+      "variantlar": [
+        "old",
+        "older",
+        "oldest",
+        "more old"
+      ],
+      "togri": 1
+    }
+  ]
+}
