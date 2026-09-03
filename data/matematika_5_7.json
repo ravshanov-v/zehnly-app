@@ -1,0 +1,1205 @@
+{
+  "label": "Matematika sinovi (5-7 sinf)",
+  "savollar": [
+    {
+      "savol": "Hisoblang: 7 + 4 × 8 = ?",
+      "variantlar": [
+        "36",
+        "38",
+        "37",
+        "39"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Hisoblang: 7 - 11 × 2 = ?",
+      "variantlar": [
+        "-17",
+        "-18",
+        "-16",
+        "-15"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Hisoblang: 8 × 3 - 5 = ?",
+      "variantlar": [
+        "16",
+        "17",
+        "19",
+        "18"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Hisoblang: 5 + 12 × 12 = ?",
+      "variantlar": [
+        "146",
+        "147",
+        "149",
+        "148"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Hisoblang: 24 ÷ 6 + 2 = ?",
+      "variantlar": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hisoblang: 3 - 11 × 2 = ?",
+      "variantlar": [
+        "-22",
+        "-20",
+        "-19",
+        "-21"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Hisoblang: 55 ÷ 5 + 11 = ?",
+      "variantlar": [
+        "22",
+        "20",
+        "19",
+        "21"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hisoblang: (4 + 5) × 11 = ?",
+      "variantlar": [
+        "99",
+        "97",
+        "96",
+        "98"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hisoblang: 6 × 11 - 3 = ?",
+      "variantlar": [
+        "61",
+        "60",
+        "63",
+        "62"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Hisoblang: 4 + 9 × 8 = ?",
+      "variantlar": [
+        "76",
+        "75",
+        "73",
+        "74"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hisoblang: 11 + 9 × 11 = ?",
+      "variantlar": [
+        "109",
+        "108",
+        "107",
+        "110"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Hisoblang: 12 × 3 - 2 = ?",
+      "variantlar": [
+        "34",
+        "32",
+        "31",
+        "33"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hisoblang: (12 + 7) × 9 = ?",
+      "variantlar": [
+        "170",
+        "171",
+        "169",
+        "168"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hisoblang: 9 - 2 × 5 = ?",
+      "variantlar": [
+        "-1",
+        "-3",
+        "-2",
+        "-4"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hisoblang: 36 ÷ 9 + 9 = ?",
+      "variantlar": [
+        "12",
+        "10",
+        "13",
+        "11"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "12/20 kasrni qisqartiring:",
+      "variantlar": [
+        "4/5",
+        "1/2",
+        "3/5",
+        "2/3"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "1/4 + 1/4 nechaga teng?",
+      "variantlar": [
+        "1/4",
+        "7/10",
+        "1/2",
+        "3/4"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "8/16 kasrni qisqartiring:",
+      "variantlar": [
+        "2/5",
+        "3/4",
+        "3/5",
+        "1/2"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "12/24 kasrni qisqartiring:",
+      "variantlar": [
+        "4/7",
+        "1/2",
+        "3/7",
+        "2/3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "2/3 : 4/5 nechaga teng?",
+      "variantlar": [
+        "31/30",
+        "8/15",
+        "5/6",
+        "6/5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "13/3 noto'g'ri kasrni aralash songa aylantiring:",
+      "variantlar": [
+        "4 2/3",
+        "5 1/3",
+        "3 1/3",
+        "4 1/3"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "2/3 - 1/3 nechaga teng?",
+      "variantlar": [
+        "2/3",
+        "7/12",
+        "-1/3",
+        "1/3"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "2/8 kasrni qisqartiring:",
+      "variantlar": [
+        "1/5",
+        "1/2",
+        "2/5",
+        "1/4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "1/2 - 1/4 nechaga teng?",
+      "variantlar": [
+        "-1/4",
+        "1/4",
+        "3/8",
+        "13/36"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "8/9 + 8/9 nechaga teng?",
+      "variantlar": [
+        "16/9",
+        "5/3",
+        "17/9",
+        "64/9"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "1/4 + 3/4 nechaga teng?",
+      "variantlar": [
+        "1",
+        "5/4",
+        "6/5",
+        "3/4"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "1/3 : 1/3 nechaga teng?",
+      "variantlar": [
+        "1/9",
+        "7/8",
+        "1",
+        "6/5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "24/7 noto'g'ri kasrni aralash songa aylantiring:",
+      "variantlar": [
+        "3 4/7",
+        "3 3/7",
+        "2 3/7",
+        "4 3/7"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "20/24 kasrni qisqartiring:",
+      "variantlar": [
+        "6/7",
+        "5/6",
+        "5/7",
+        "1"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "5/9 - 2/9 nechaga teng?",
+      "variantlar": [
+        "1/3",
+        "-1/3",
+        "13/30",
+        "4/9"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "1 × 1 nechaga teng?",
+      "variantlar": [
+        "8/9",
+        "2",
+        "1",
+        "6/5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "1/4 : 1/2 nechaga teng?",
+      "variantlar": [
+        "7/10",
+        "1/8",
+        "2",
+        "1/2"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "2/5 - 1/5 nechaga teng?",
+      "variantlar": [
+        "-1/5",
+        "11/30",
+        "2/5",
+        "1/5"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "5/3 noto'g'ri kasrni aralash songa aylantiring:",
+      "variantlar": [
+        "1 3/3",
+        "1 2/3",
+        "3 2/3",
+        "2 2/3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "1 : 1 nechaga teng?",
+      "variantlar": [
+        "6/5",
+        "1",
+        "7/8",
+        "6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "866.2 ni 100 ga bo'ling:",
+      "variantlar": [
+        "86.62",
+        "8.662",
+        "0.866",
+        "766.2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "26.1 - 12.5 nechaga teng?",
+      "variantlar": [
+        "13.5",
+        "38.6",
+        "13.6",
+        "13.7"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "2.26 ni 10 ga ko'paytiring:",
+      "variantlar": [
+        "226",
+        "22.6",
+        "2.26",
+        "12.26"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qaysi son eng katta?",
+      "variantlar": [
+        "6.84",
+        "52.78",
+        "19.64",
+        "2.47"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "332.7 ni 10 ga bo'ling:",
+      "variantlar": [
+        "33.27",
+        "322.7",
+        "3.327",
+        "332.7"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "14.5 ni 10 ga bo'ling:",
+      "variantlar": [
+        "1.45",
+        "14.5",
+        "0.145",
+        "4.5"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "996.7 ni 10 ga bo'ling:",
+      "variantlar": [
+        "986.7",
+        "99.67",
+        "996.7",
+        "9.967"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qaysi son eng katta?",
+      "variantlar": [
+        "7.88",
+        "76.1",
+        "40.24",
+        "29.33"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "17.1 + 1.0 nechaga teng?",
+      "variantlar": [
+        "18",
+        "19.1",
+        "18.1",
+        "18.2"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "979.6 ni 100 ga bo'ling:",
+      "variantlar": [
+        "97.96",
+        "0.98",
+        "9.796",
+        "879.6"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "27.44 sonini o'ndan birgacha (1 xona) yaxlitlang:",
+      "variantlar": [
+        "27",
+        "27.3",
+        "27.5",
+        "27.4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "19.3 + 15.4 nechaga teng?",
+      "variantlar": [
+        "34.8",
+        "34.6",
+        "35.7",
+        "34.7"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "10.9 sonini o'ndan birgacha (1 xona) yaxlitlang:",
+      "variantlar": [
+        "15.9",
+        "10.8",
+        "11",
+        "10.9"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "23.6 - 5.1 nechaga teng?",
+      "variantlar": [
+        "28.7",
+        "18.5",
+        "18.4",
+        "18.6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "646.6 ni 10 ga bo'ling:",
+      "variantlar": [
+        "6.466",
+        "64.66",
+        "646.6",
+        "636.6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "80 ning 25% i nechaga teng?",
+      "variantlar": [
+        "28",
+        "16",
+        "60",
+        "20"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "21/25 kasrni foizga aylantiring:",
+      "variantlar": [
+        "94",
+        "74",
+        "89",
+        "84"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "80 ning 50% i nechaga teng?",
+      "variantlar": [
+        "45",
+        "48",
+        "36",
+        "40"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "3/20 kasrni foizga aylantiring:",
+      "variantlar": [
+        "25",
+        "5",
+        "20",
+        "15"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Agar biror sonning 20% i 5 ga teng bo'lsa, shu son nechaga teng?",
+      "variantlar": [
+        "25",
+        "100",
+        "45",
+        "5"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "200 ning 75% i nechaga teng?",
+      "variantlar": [
+        "140",
+        "150",
+        "50",
+        "170"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Agar biror sonning 20% i 15 ga teng bo'lsa, shu son nechaga teng?",
+      "variantlar": [
+        "300",
+        "75",
+        "55",
+        "95"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Agar biror sonning 20% i 10 ga teng bo'lsa, shu son nechaga teng?",
+      "variantlar": [
+        "50",
+        "200",
+        "30",
+        "70"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "3/25 kasrni foizga aylantiring:",
+      "variantlar": [
+        "22",
+        "2",
+        "12",
+        "17"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "80 ning 5% i nechaga teng?",
+      "variantlar": [
+        "4",
+        "76",
+        "0",
+        "12"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "16/20 kasrni foizga aylantiring:",
+      "variantlar": [
+        "90",
+        "80",
+        "85",
+        "70"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Agar biror sonning 10% i 10 ga teng bo'lsa, shu son nechaga teng?",
+      "variantlar": [
+        "90",
+        "100",
+        "105",
+        "110"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "2/5 kasrni foizga aylantiring:",
+      "variantlar": [
+        "30",
+        "50",
+        "45",
+        "40"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "8/20 kasrni foizga aylantiring:",
+      "variantlar": [
+        "50",
+        "30",
+        "45",
+        "40"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "9/10 kasrni foizga aylantiring:",
+      "variantlar": [
+        "80",
+        "95",
+        "90",
+        "100"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "18 sonini 1:5 nisbatda ikkiga bo'lganda, kichik (birinchi) qism nechaga teng?",
+      "variantlar": [
+        "3",
+        "16",
+        "6",
+        "15"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "32 sonini 3:5 nisbatda ikkiga bo'lganda, kichik (birinchi) qism nechaga teng?",
+      "variantlar": [
+        "16",
+        "20",
+        "12",
+        "21"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "7:6 = 56:x proporsiyada x nechaga teng?",
+      "variantlar": [
+        "56",
+        "42",
+        "55",
+        "48"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "12:6 nisbatni eng oddiy holatga keltiring:",
+      "variantlar": [
+        "12:6",
+        "3:1",
+        "2:2",
+        "2:1"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "3:3 = 15:x proporsiyada x nechaga teng?",
+      "variantlar": [
+        "12",
+        "18",
+        "9",
+        "15"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "9:6 = 54:x proporsiyada x nechaga teng?",
+      "variantlar": [
+        "36",
+        "54",
+        "30",
+        "45"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "27:6 nisbatni eng oddiy holatga keltiring:",
+      "variantlar": [
+        "10:2",
+        "9:3",
+        "9:2",
+        "27:6"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "48:12 nisbatni eng oddiy holatga keltiring:",
+      "variantlar": [
+        "4:2",
+        "5:1",
+        "4:1",
+        "48:12"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "3:9 = 24:x proporsiyada x nechaga teng?",
+      "variantlar": [
+        "72",
+        "63",
+        "75",
+        "27"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "15 sonini 2:1 nisbatda ikkiga bo'lganda, birinchi (2 ulushli) qism nechaga teng?",
+      "variantlar": [
+        "6",
+        "5",
+        "15",
+        "10"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "(4) + (8) nechaga teng?",
+      "variantlar": [
+        "-12",
+        "13",
+        "12",
+        "11"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "(-2) - (8) nechaga teng?",
+      "variantlar": [
+        "-9",
+        "-10",
+        "10",
+        "-11"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "(9) - (8) nechaga teng?",
+      "variantlar": [
+        "2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "(-16) - (-7) nechaga teng?",
+      "variantlar": [
+        "-10",
+        "-8",
+        "-9",
+        "9"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "(8) + (-19) nechaga teng?",
+      "variantlar": [
+        "-11",
+        "-10",
+        "-12",
+        "11"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "(-16) + (-15) nechaga teng?",
+      "variantlar": [
+        "-31",
+        "-32",
+        "31",
+        "-30"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "(9) + (-13) nechaga teng?",
+      "variantlar": [
+        "-3",
+        "-4",
+        "-5",
+        "4"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "(7) + (20) nechaga teng?",
+      "variantlar": [
+        "-27",
+        "26",
+        "28",
+        "27"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "(14) - (17) nechaga teng?",
+      "variantlar": [
+        "3",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "(-17) - (-19) nechaga teng?",
+      "variantlar": [
+        "-2",
+        "1",
+        "2",
+        "3"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 26 - x = 8",
+      "variantlar": [
+        "18",
+        "17",
+        "20",
+        "19"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tenglamani yeching: x ÷ 6 = 11",
+      "variantlar": [
+        "65",
+        "66",
+        "67",
+        "68"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tenglamani yeching: x - 1 = 5",
+      "variantlar": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 28 - x = 12",
+      "variantlar": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tenglamani yeching: 16 - x = 3",
+      "variantlar": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tenglamani yeching: x ÷ 8 = 16",
+      "variantlar": [
+        "127",
+        "130",
+        "129",
+        "128"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tenglamani yeching: 21 - x = 6",
+      "variantlar": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tenglamani yeching: x + 5 = 16",
+      "variantlar": [
+        "12",
+        "13",
+        "11",
+        "10"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 4x = 12",
+      "variantlar": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tenglamani yeching: x ÷ 3 = 18",
+      "variantlar": [
+        "56",
+        "55",
+        "53",
+        "54"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tenglamani yeching: x + 10 = 16",
+      "variantlar": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 11 - x = 3",
+      "variantlar": [
+        "7",
+        "8",
+        "10",
+        "9"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tenglamani yeching: x ÷ 4 = 16",
+      "variantlar": [
+        "66",
+        "65",
+        "63",
+        "64"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tenglamani yeching: 26 - x = 7",
+      "variantlar": [
+        "18",
+        "19",
+        "21",
+        "20"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tenglamani yeching: x - 3 = 7",
+      "variantlar": [
+        "12",
+        "10",
+        "11",
+        "9"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tomoni 5 sm bo'lgan kvadratning perimetrini toping.",
+      "variantlar": [
+        "40",
+        "22",
+        "18",
+        "20"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tomoni 9 sm bo'lgan kvadratning yuzini toping.",
+      "variantlar": [
+        "83",
+        "162",
+        "81",
+        "79"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tomoni 17 sm bo'lgan kvadratning perimetrini toping.",
+      "variantlar": [
+        "66",
+        "70",
+        "136",
+        "68"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tomonlari 6 sm va 5 sm bo'lgan to'g'ri to'rtburchakning perimetrini toping.",
+      "variantlar": [
+        "20",
+        "22",
+        "24",
+        "44"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Asosi 14 sm va balandligi 9 sm bo'lgan uchburchakning yuzini toping.",
+      "variantlar": [
+        "65",
+        "126",
+        "63",
+        "61"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tomonlari 14 sm va 8 sm bo'lgan to'g'ri to'rtburchakning perimetrini toping.",
+      "variantlar": [
+        "44",
+        "88",
+        "42",
+        "46"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Asosi 16 sm va balandligi 7 sm bo'lgan uchburchakning yuzini toping.",
+      "variantlar": [
+        "56",
+        "58",
+        "112",
+        "54"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Asosi 4 sm va balandligi 9 sm bo'lgan uchburchakning yuzini toping.",
+      "variantlar": [
+        "18",
+        "36",
+        "16",
+        "20"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Asosi 16 sm va balandligi 9 sm bo'lgan uchburchakning yuzini toping.",
+      "variantlar": [
+        "144",
+        "70",
+        "72",
+        "74"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Asosi 8 sm va balandligi 5 sm bo'lgan uchburchakning yuzini toping.",
+      "variantlar": [
+        "22",
+        "18",
+        "40",
+        "20"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Yoyilgan burchakning bir qismi 29° bo'lsa, qolgan qismi nechaga teng?",
+      "variantlar": [
+        "151",
+        "161",
+        "171",
+        "141"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "To'g'ri burchakning bir qismi 52° bo'lsa, qolgan qismi nechaga teng?",
+      "variantlar": [
+        "58",
+        "28",
+        "48",
+        "38"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "To'g'ri burchakning bir qismi 49° bo'lsa, qolgan qismi nechaga teng?",
+      "variantlar": [
+        "51",
+        "41",
+        "31",
+        "61"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yoyilgan burchakning bir qismi 58° bo'lsa, qolgan qismi nechaga teng?",
+      "variantlar": [
+        "132",
+        "142",
+        "112",
+        "122"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "To'g'ri burchakning bir qismi 73° bo'lsa, qolgan qismi nechaga teng?",
+      "variantlar": [
+        "7",
+        "17",
+        "37",
+        "27"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "3 litr necha millilitrga teng?",
+      "variantlar": [
+        "3100",
+        "300",
+        "3000",
+        "2900"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "2 km necha metrga teng?",
+      "variantlar": [
+        "2100",
+        "2000",
+        "200",
+        "1900"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "5 m necha santimetrga teng?",
+      "variantlar": [
+        "50",
+        "600",
+        "400",
+        "500"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "9 litr necha millilitrga teng?",
+      "variantlar": [
+        "9100",
+        "8900",
+        "900",
+        "9000"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "9 soat necha minutga teng?",
+      "variantlar": [
+        "440",
+        "640",
+        "540",
+        "54"
+      ],
+      "togri": 2
+    }
+  ]
+}
