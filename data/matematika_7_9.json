@@ -1,0 +1,1205 @@
+{
+  "label": "Matematika sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "|28| nechaga teng?",
+      "variantlar": [
+        "27",
+        "28",
+        "-28",
+        "29"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "|8| nechaga teng?",
+      "variantlar": [
+        "8",
+        "9",
+        "7",
+        "-8"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "|-9| nechaga teng?",
+      "variantlar": [
+        "10",
+        "-9",
+        "9",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "|-20| nechaga teng?",
+      "variantlar": [
+        "19",
+        "21",
+        "-20",
+        "20"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "-4/5 + (1/5) nechaga teng?",
+      "variantlar": [
+        "-3/5",
+        "-23/30",
+        "-13/30",
+        "-1"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "|-23| nechaga teng?",
+      "variantlar": [
+        "23",
+        "-23",
+        "22",
+        "24"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "(1)^2 nechaga teng?",
+      "variantlar": [
+        "-1",
+        "2",
+        "1",
+        "0"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "(-5)^3 nechaga teng?",
+      "variantlar": [
+        "-124",
+        "-125",
+        "125",
+        "-15"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "-1/2 + (1/2) nechaga teng?",
+      "variantlar": [
+        "-1/3",
+        "-1",
+        "0",
+        "1/3"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "|-13| nechaga teng?",
+      "variantlar": [
+        "14",
+        "-13",
+        "12",
+        "13"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tenglamani yeching: 6(x + 8) = 108",
+      "variantlar": [
+        "10",
+        "9",
+        "12",
+        "11"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tenglamani yeching: 3x - 1x = 24",
+      "variantlar": [
+        "14",
+        "13",
+        "11",
+        "12"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tenglamani yeching: x ÷ 3 = 5",
+      "variantlar": [
+        "14",
+        "17",
+        "15",
+        "16"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 5x - 3x = -16",
+      "variantlar": [
+        "-7",
+        "-9",
+        "-8",
+        "-6"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 2(x + 4) = 16",
+      "variantlar": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tenglamani yeching: 4x + 9 = 1",
+      "variantlar": [
+        "-3",
+        "-1",
+        "-2",
+        "0"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 7x + 8 = 50",
+      "variantlar": [
+        "5",
+        "8",
+        "7",
+        "6"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tenglamani yeching: 8x + 20 = -60",
+      "variantlar": [
+        "-9",
+        "-10",
+        "-11",
+        "-8"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tenglamani yeching: 4(x + 8) = 20",
+      "variantlar": [
+        "-3",
+        "-1",
+        "-4",
+        "-2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tenglamani yeching: 3(x + 5) = -15",
+      "variantlar": [
+        "-10",
+        "-9",
+        "-8",
+        "-11"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tenglamani yeching: x ÷ 2 = 1",
+      "variantlar": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tenglamani yeching: 4x - 1x = -18",
+      "variantlar": [
+        "-7",
+        "-4",
+        "-5",
+        "-6"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tenglamani yeching: 7(x + 9) = 105",
+      "variantlar": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 7(x + 5) = 28",
+      "variantlar": [
+        "1",
+        "0",
+        "-1",
+        "-2"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tenglamani yeching: 7x - 1x = 24",
+      "variantlar": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 12, x - y = 4. x nechaga teng?",
+      "variantlar": [
+        "4",
+        "7",
+        "9",
+        "8"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 15, x - y = -1. x nechaga teng?",
+      "variantlar": [
+        "8",
+        "7",
+        "15",
+        "6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 10, x - y = 6. x nechaga teng?",
+      "variantlar": [
+        "7",
+        "9",
+        "8",
+        "2"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 5, x - y = -3. x nechaga teng?",
+      "variantlar": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 19, x - y = 1. x nechaga teng?",
+      "variantlar": [
+        "19",
+        "9",
+        "10",
+        "11"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 17, x - y = 3. x nechaga teng?",
+      "variantlar": [
+        "9",
+        "10",
+        "11",
+        "7"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 8, x - y = -4. x nechaga teng?",
+      "variantlar": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 13, x - y = -5. x nechaga teng?",
+      "variantlar": [
+        "9",
+        "4",
+        "5",
+        "3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 14, x - y = 4. x nechaga teng?",
+      "variantlar": [
+        "10",
+        "8",
+        "5",
+        "9"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Soddalashtiring: 7x + 9x - 5x = ?x. Koeffitsientni toping.",
+      "variantlar": [
+        "3",
+        "11",
+        "21",
+        "12"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x = 5 bo'lganda, 2x² + 5x + 2 ifodaning qiymatini toping.",
+      "variantlar": [
+        "78",
+        "37",
+        "76",
+        "77"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "x = 3 bo'lganda, 7x² + 5x + -5 ifodaning qiymatini toping.",
+      "variantlar": [
+        "73",
+        "74",
+        "72",
+        "31"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "9(x + 5) ifodasini ochganda erkin had (x siz qoladigan son) nechaga teng?",
+      "variantlar": [
+        "46",
+        "45",
+        "44",
+        "14"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "6(x + 1) ifodasini ochganda erkin had (x siz qoladigan son) nechaga teng?",
+      "variantlar": [
+        "1",
+        "6",
+        "5",
+        "7"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x = -3 bo'lganda, 4x² + 4x + 1 ifodaning qiymatini toping.",
+      "variantlar": [
+        "-23",
+        "26",
+        "24",
+        "25"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Soddalashtiring: 8x + 8x - 6x = ?x. Koeffitsientni toping.",
+      "variantlar": [
+        "11",
+        "10",
+        "6",
+        "22"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "6(x + 4) ifodasini ochganda erkin had (x siz qoladigan son) nechaga teng?",
+      "variantlar": [
+        "23",
+        "25",
+        "10",
+        "24"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "4(x + 3) ifodasini ochganda erkin had (x siz qoladigan son) nechaga teng?",
+      "variantlar": [
+        "7",
+        "12",
+        "11",
+        "13"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x = 1 bo'lganda, 2x² + 1x + 4 ifodaning qiymatini toping.",
+      "variantlar": [
+        "7",
+        "6",
+        "9",
+        "8"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "6(x + 9) ifodasini ochganda erkin had (x siz qoladigan son) nechaga teng?",
+      "variantlar": [
+        "54",
+        "55",
+        "15",
+        "53"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "x = 2 bo'lganda, 1x² + 7x + 4 ifodaning qiymatini toping.",
+      "variantlar": [
+        "20",
+        "22",
+        "23",
+        "21"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Soddalashtiring: 8x + 8x - 9x = ?x. Koeffitsientni toping.",
+      "variantlar": [
+        "9",
+        "8",
+        "25",
+        "7"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "4(x + 4) ifodasini ochganda erkin had (x siz qoladigan son) nechaga teng?",
+      "variantlar": [
+        "17",
+        "8",
+        "16",
+        "15"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "x = -4 bo'lganda, 1x² + 9x + 3 ifodaning qiymatini toping.",
+      "variantlar": [
+        "-16",
+        "-18",
+        "-37",
+        "-17"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "(2^3)^2 ifodani 2^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "8",
+        "6",
+        "5",
+        "7"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "(5^4)^3 ifodani 5^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "12",
+        "13",
+        "11",
+        "7"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "4^4 ÷ 4^2 ifodani 4^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "2",
+        "6",
+        "4",
+        "3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "5^4 × 5^4 ifodani 5^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "7",
+        "16",
+        "9",
+        "8"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "3^2 nechaga teng?",
+      "variantlar": [
+        "6",
+        "10",
+        "12",
+        "9"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "(4^3)^4 ifodani 4^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "7",
+        "11",
+        "12",
+        "13"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "2^3 × 2^4 ifodani 2^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "6",
+        "12",
+        "7",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "(4^3)^1 ifodani 4^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "(3^4)^3 ifodani 3^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "12",
+        "11",
+        "7",
+        "13"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "3^4 × 3^2 ifodani 3^n ko'rinishida yozganda, n nechaga teng?",
+      "variantlar": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "√289 nechaga teng?",
+      "variantlar": [
+        "144",
+        "18",
+        "17",
+        "16"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "√49 nechaga teng?",
+      "variantlar": [
+        "24",
+        "8",
+        "6",
+        "7"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "√196 nechaga teng?",
+      "variantlar": [
+        "15",
+        "14",
+        "98",
+        "13"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "√64 nechaga teng?",
+      "variantlar": [
+        "8",
+        "7",
+        "32",
+        "9"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "√16 nechaga teng?",
+      "variantlar": [
+        "5",
+        "3",
+        "4",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "√9 nechaga teng?",
+      "variantlar": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "√441 nechaga teng?",
+      "variantlar": [
+        "20",
+        "21",
+        "22",
+        "220"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "√81 nechaga teng?",
+      "variantlar": [
+        "9",
+        "8",
+        "40",
+        "10"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "√121 nechaga teng?",
+      "variantlar": [
+        "10",
+        "11",
+        "60",
+        "12"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "√4 nechaga teng?",
+      "variantlar": [
+        "2",
+        "3",
+        "1",
+        "5"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "600 soni 25% ga oshirilsa, natija nechaga teng?",
+      "variantlar": [
+        "750",
+        "775",
+        "450",
+        "725"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "500 soni 25% ga oshirilsa, natija nechaga teng?",
+      "variantlar": [
+        "600",
+        "650",
+        "375",
+        "625"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Narxi 200 so'm bo'lgan tovarga 30% chegirma qilinsa, yangi narx nechaga teng?",
+      "variantlar": [
+        "190",
+        "140",
+        "60",
+        "260"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "600 soni 10% ga oshirilsa, natija nechaga teng?",
+      "variantlar": [
+        "650",
+        "660",
+        "670",
+        "540"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "400 soni 5% ga oshirilsa, natija nechaga teng?",
+      "variantlar": [
+        "380",
+        "425",
+        "415",
+        "420"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "300 soni 10% ga kamaytirilsa, natija nechaga teng?",
+      "variantlar": [
+        "280",
+        "270",
+        "330",
+        "260"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "400 soni 20% ga oshirilsa, natija nechaga teng?",
+      "variantlar": [
+        "320",
+        "500",
+        "480",
+        "460"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Narxi 400 so'm bo'lgan tovarga 20% chegirma qilinsa, yangi narx nechaga teng?",
+      "variantlar": [
+        "370",
+        "320",
+        "80",
+        "480"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "800 soni 30% ga kamaytirilsa, natija nechaga teng?",
+      "variantlar": [
+        "1040",
+        "530",
+        "560",
+        "590"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "600 soni 5% ga oshirilsa, natija nechaga teng?",
+      "variantlar": [
+        "570",
+        "635",
+        "630",
+        "625"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Radiusi 14 sm bo'lgan doiraning yuzini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "616",
+        "638",
+        "594",
+        "88"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Radiusi 7 sm bo'lgan doiraning yuzini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "176",
+        "154",
+        "132",
+        "44"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Asoslari 9 sm va 8 sm, balandligi 2 sm bo'lgan trapetsiyaning yuzini toping.",
+      "variantlar": [
+        "17",
+        "15",
+        "72",
+        "19"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Asoslari 12 sm va 7 sm, balandligi 8 sm bo'lgan trapetsiyaning yuzini toping.",
+      "variantlar": [
+        "68",
+        "76",
+        "84",
+        "78"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tomonlari 14 sm, 10 sm va 15 sm bo'lgan uchburchakning perimetrini toping.",
+      "variantlar": [
+        "39",
+        "41",
+        "37",
+        "140"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "To'g'ri burchakli uchburchakning katetlari 8 sm va 15 sm. Gipotenuzani toping.",
+      "variantlar": [
+        "16",
+        "18",
+        "17",
+        "23"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "To'g'ri burchakli uchburchakning katetlari 10 sm va 24 sm. Gipotenuzani toping.",
+      "variantlar": [
+        "25",
+        "26",
+        "34",
+        "27"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Asoslari 13 sm va 12 sm, balandligi 6 sm bo'lgan trapetsiyaning yuzini toping.",
+      "variantlar": [
+        "75",
+        "69",
+        "156",
+        "81"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Asoslari 6 sm va 10 sm, balandligi 4 sm bo'lgan trapetsiyaning yuzini toping.",
+      "variantlar": [
+        "36",
+        "60",
+        "28",
+        "32"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "To'g'ri burchakli uchburchakning katetlari 5 sm va 12 sm. Gipotenuzani toping.",
+      "variantlar": [
+        "13",
+        "12",
+        "17",
+        "14"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Radiusi 14 sm bo'lgan aylananing uzunligini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "66",
+        "44",
+        "88",
+        "110"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "To'g'ri burchakli uchburchakning katetlari 7 sm va 24 sm. Gipotenuzani toping.",
+      "variantlar": [
+        "24",
+        "31",
+        "26",
+        "25"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tomonlari 12 sm, 8 sm va 15 sm bo'lgan uchburchakning perimetrini toping.",
+      "variantlar": [
+        "96",
+        "35",
+        "37",
+        "33"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Radiusi 7 sm bo'lgan aylananing uzunligini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "22",
+        "44",
+        "66",
+        "58"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "To'g'ri burchakli uchburchakning katetlari 3 sm va 4 sm. Gipotenuzani toping.",
+      "variantlar": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "y = 5x - 7 funksiyada x = -1 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "-3",
+        "-11",
+        "-13",
+        "-12"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "y = -2x - 3 funksiyada x = 1 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "-6",
+        "-5",
+        "-3",
+        "-4"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "A(0; 0) va B(1; -1) nuqtalardan o'tuvchi to'g'ri chiziqning burchak koeffitsientini (k) toping.",
+      "variantlar": [
+        "-1",
+        "0",
+        "-2",
+        "1"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "y = -2x + 3 funksiyada x = 2 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "-1",
+        "0",
+        "-2",
+        "3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "A(0; 4) va B(-3; -2) nuqtalardan o'tuvchi to'g'ri chiziqning burchak koeffitsientini (k) toping.",
+      "variantlar": [
+        "-2",
+        "2",
+        "3",
+        "1"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "y = -4x - 7 funksiyada x = 3 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "-20",
+        "-18",
+        "-8",
+        "-19"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "y = 2x + 1 funksiyada x = 4 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "8",
+        "10",
+        "7",
+        "9"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "A(-1; -3) va B(1; 3) nuqtalardan o'tuvchi to'g'ri chiziqning burchak koeffitsientini (k) toping.",
+      "variantlar": [
+        "2",
+        "4",
+        "-3",
+        "3"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "A(3; -5) va B(1; 1) nuqtalardan o'tuvchi to'g'ri chiziqning burchak koeffitsientini (k) toping.",
+      "variantlar": [
+        "-4",
+        "3",
+        "-3",
+        "-2"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "A(1; 4) va B(2; -5) nuqtalardan o'tuvchi to'g'ri chiziqning burchak koeffitsientini (k) toping.",
+      "variantlar": [
+        "-8",
+        "-10",
+        "9",
+        "-9"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Quyidagi sonlarning medianasini (o'rtacha o'rindagi qiymatini) toping: 17, 18, 10, 13, 4",
+      "variantlar": [
+        "13",
+        "4",
+        "10",
+        "18"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Quyidagi sonlarning medianasini (o'rtacha o'rindagi qiymatini) toping: 12, 19, 13, 3, 15",
+      "variantlar": [
+        "12",
+        "13",
+        "3",
+        "19"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Quyidagi sonlarning medianasini (o'rtacha o'rindagi qiymatini) toping: 8, 11, 14, 5, 6",
+      "variantlar": [
+        "14",
+        "6",
+        "5",
+        "8"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Quyidagi sonlarning medianasini (o'rtacha o'rindagi qiymatini) toping: 10, 4, 1, 12, 6",
+      "variantlar": [
+        "6",
+        "4",
+        "1",
+        "12"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Quyidagi sonlarning medianasini (o'rtacha o'rindagi qiymatini) toping: 13, 19, 4, 8, 6",
+      "variantlar": [
+        "4",
+        "19",
+        "8",
+        "6"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "2 ta mahsulot 8 so'm turadi. 9 ta mahsulot necha so'm turadi (narx bir xil bo'lsa)?",
+      "variantlar": [
+        "32",
+        "44",
+        "36",
+        "40"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "6 ta mahsulot 12 so'm turadi. 4 ta mahsulot necha so'm turadi (narx bir xil bo'lsa)?",
+      "variantlar": [
+        "8",
+        "6",
+        "20",
+        "10"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "5 ishchi bir ishni 7 kunda bajaradi. 5 ishchi shu ishni necha kunda bajaradi (bir xil unumdorlikda)?",
+      "variantlar": [
+        "7",
+        "8",
+        "6",
+        "12"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "7 ishchi bir ishni 9 kunda bajaradi. 7 ishchi shu ishni necha kunda bajaradi (bir xil unumdorlikda)?",
+      "variantlar": [
+        "10",
+        "16",
+        "9",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "7 ishchi bir ishni 6 kunda bajaradi. 7 ishchi shu ishni necha kunda bajaradi (bir xil unumdorlikda)?",
+      "variantlar": [
+        "5",
+        "7",
+        "6",
+        "13"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Radiusi 28 sm bo'lgan doiraning yuzini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "176",
+        "2442",
+        "2486",
+        "2464"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Radiusi 49 sm bo'lgan aylananing uzunligini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "330",
+        "308",
+        "286",
+        "154"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Radiusi 21 sm bo'lgan doiraning yuzini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "1386",
+        "132",
+        "1364",
+        "1408"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Radiusi 56 sm bo'lgan aylananing uzunligini toping (π ≈ 22/7 dan foydalaning).",
+      "variantlar": [
+        "176",
+        "352",
+        "330",
+        "374"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "To'g'ri burchakli uchburchakning gipotenuzasi 37 sm, bir kateti 12 sm. Ikkinchi katetni toping.",
+      "variantlar": [
+        "25",
+        "34",
+        "35",
+        "36"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Sistemani yeching: x + y = 18, x - y = 10. x nechaga teng?",
+      "variantlar": [
+        "4",
+        "13",
+        "14",
+        "15"
+      ],
+      "togri": 2
+    }
+  ]
+}
