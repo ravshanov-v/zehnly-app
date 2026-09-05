@@ -1,0 +1,1205 @@
+{
+  "label": "Fizika sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "Tekis to'g'ri chiziqli harakatda tezlik qanday bo'ladi?",
+      "variantlar": [
+        "Doimiy o'zgarib turadi",
+        "Doimiy (o'zgarmas)",
+        "Har doim nolga teng",
+        "Faqat oshadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Erkin tushish - bu qanday harakat turi?",
+      "variantlar": [
+        "Tekis to'g'ri chiziqli harakat",
+        "Tekis tezlanuvchan harakat",
+        "Aylanma harakat",
+        "Tebranma harakat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gorizontal otilgan jism trayektoriyasi qanday shaklda bo'ladi (havo qarshiligisiz)?",
+      "variantlar": [
+        "To'g'ri chiziq",
+        "Parabola",
+        "Aylana",
+        "Spiral"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aylana bo'ylab tekis harakatlanuvchi jismning tezligi (moduli) qanday bo'ladi?",
+      "variantlar": [
+        "Doimiy o'zgarib turadi",
+        "Modul bo'yicha doimiy, yo'nalishi o'zgarib turadi",
+        "Har doim nolga teng",
+        "Faqat ortadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Markazga intilma tezlanish qaysi tomonga yo'nalgan?",
+      "variantlar": [
+        "Harakat yo'nalishi bo'yicha",
+        "Aylana markaziga tomon",
+        "Markazdan tashqariga",
+        "Yuqoriga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jismning og'irlik markazi qayerda joylashadi (bir jinsli shar uchun)?",
+      "variantlar": [
+        "Sirtida",
+        "Geometrik markazida",
+        "Faqat pastki qismida",
+        "Faqat yuqori qismida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Statik muvozanat sharti nima?",
+      "variantlar": [
+        "Faqat kuchlar yig'indisi nolga teng bo'lishi kifoya",
+        "Kuchlar yig'indisi va momentlar yig'indisi nolga teng bo'lishi",
+        "Faqat massalar teng bo'lishi",
+        "Faqat tezlik nolga teng bo'lishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mexanik energiya qanday tarkibiy qismlardan iborat?",
+      "variantlar": [
+        "Faqat kinetik energiyadan",
+        "Kinetik va potensial energiyadan",
+        "Faqat issiqlik energiyasidan",
+        "Faqat elektr energiyasidan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Konservativ kuchlar ta'sirida mexanik energiya qanday saqlanadi?",
+      "variantlar": [
+        "O'zgarib turadi",
+        "Umumiy mexanik energiya o'zgarmaydi",
+        "Har doim kamayadi",
+        "Har doim ortadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ishqalanish kuchi mavjud bo'lganda mexanik energiya nimaga aylanadi?",
+      "variantlar": [
+        "Faqat kinetik energiyaga",
+        "Qisman issiqlik energiyasiga",
+        "Faqat elektr energiyasiga",
+        "Yo'qoladi va hech nimaga aylanmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Termodinamikaning birinchi qonuni nimani ifodalaydi?",
+      "variantlar": [
+        "Energiya saqlanish qonunini issiqlik jarayonlari uchun",
+        "Faqat bosim o'zgarishini",
+        "Faqat harorat pasayishini",
+        "Faqat hajm o'zgarishini"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Termodinamikaning ikkinchi qonuniga ko'ra issiqlik o'z-o'zidan qanday oqadi?",
+      "variantlar": [
+        "Sovuq jismdan issiq jismga",
+        "Issiq jismdan sovuq jismga",
+        "Hech qayerga oqmaydi",
+        "Faqat teng haroratli jismlar orasida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ideal gaz holat tenglamasi (Mendeleyev-Klapeyron) qaysi kattaliklarni bog'laydi?",
+      "variantlar": [
+        "Faqat massa va hajmni",
+        "Bosim, hajm, harorat va modda miqdorini",
+        "Faqat haroratni",
+        "Faqat tezlikni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Issiqlik dvigatellarining FIKi (samaradorligi) qanday bo'lishi mumkin?",
+      "variantlar": [
+        "Har doim 100%",
+        "Har doim 100% dan kichik",
+        "Har doim 100% dan katta",
+        "Har doim 0%"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr maydon kuchlanganligi qanday miqdor?",
+      "variantlar": [
+        "Skalyar miqdor",
+        "Vektor miqdor",
+        "Faqat musbat son",
+        "Faqat manfiy son"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kulon qonuni qanday kuchni tavsiflaydi?",
+      "variantlar": [
+        "Ikki massa orasidagi tortishish kuchini",
+        "Ikki nuqtaviy zaryad orasidagi o'zaro ta'sir kuchini",
+        "Ishqalanish kuchini",
+        "Elastiklik kuchini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kulon qonuniga ko'ra, kuch zaryadlar orasidagi masofaga qanday bog'liq?",
+      "variantlar": [
+        "To'g'ri proporsional",
+        "Masofa kvadratiga teskari proporsional",
+        "Bog'liq emas",
+        "Faqat chiziqli bog'liq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektromagnit induksiya hodisasi qachon yuzaga keladi?",
+      "variantlar": [
+        "Magnit oqimi o'zgarganda konturda EYK hosil bo'lishi",
+        "Faqat doimiy magnit maydonida",
+        "Faqat issiqlik ta'sirida",
+        "Faqat yorug'lik ta'sirida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Faradey qonuni nimaga bag'ishlangan?",
+      "variantlar": [
+        "Yorug'lik sinishiga",
+        "Elektromagnit induksiya EYKsini hisoblashga",
+        "Gazlar qonuniga",
+        "Tovush tezligiga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Generator ishlash prinsipi nimaga asoslangan?",
+      "variantlar": [
+        "Elektromagnit induksiyaga",
+        "Yorug'lik sinishiga",
+        "Issiqlik o'tkazuvchanlikka",
+        "Diffuziyaga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Elektr dvigateli qanday energiyani qanday energiyaga aylantiradi?",
+      "variantlar": [
+        "Mexanik energiyani elektr energiyasiga",
+        "Elektr energiyasini mexanik energiyaga",
+        "Yorug'likni issiqlikka",
+        "Issiqlikni yorug'likka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yorug'lik qanday tabiatga ega (zamonaviy fizikada)?",
+      "variantlar": [
+        "Faqat to'lqin tabiatiga",
+        "Faqat zarracha (korpuskulyar) tabiatiga",
+        "Ham to'lqin, ham zarracha (foton) tabiatiga",
+        "Hech qanday tabiatga ega emas"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Yorug'lik tezligi vakuumda taxminan nechaga teng?",
+      "variantlar": [
+        "300 m/s",
+        "300 000 km/s",
+        "3000 km/s",
+        "30 000 km/s"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Foton nima?",
+      "variantlar": [
+        "Yorug'lik kvanti (zarrachasi)",
+        "Elektr zaryadi zarrachasi",
+        "Atom yadrosi zarrachasi",
+        "Magnit maydon zarrachasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fotoeffekt hodisasi nima?",
+      "variantlar": [
+        "Yorug'lik ta'sirida moddadan elektronlar chiqishi",
+        "Faqat issiqlik ta'sirida kengayish",
+        "Magnit maydon hosil bo'lishi",
+        "Tovush tarqalishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Atom tuzilishiga ko'ra, atom markazida nima joylashgan?",
+      "variantlar": [
+        "Elektronlar buluti",
+        "Yadro (protonlar va neytronlardan iborat)",
+        "Faqat bo'shliq",
+        "Faqat neytronlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Proton qanday zaryadga ega?",
+      "variantlar": [
+        "Manfiy",
+        "Musbat",
+        "Neytral (zaryadsiz)",
+        "O'zgaruvchan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektron qanday zaryadga ega?",
+      "variantlar": [
+        "Musbat",
+        "Manfiy",
+        "Neytral",
+        "O'zgaruvchan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Neytron qanday zaryadga ega?",
+      "variantlar": [
+        "Musbat",
+        "Manfiy",
+        "Zaryadsiz (neytral)",
+        "Doimiy o'zgaruvchan"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Izotoplar nima?",
+      "variantlar": [
+        "Bir xil elementning har xil proton soniga ega atomlari",
+        "Bir xil elementning har xil neytron soniga ega atomlari",
+        "Har xil elementlarning bir xil massali atomlari",
+        "Faqat radioaktiv elementlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Radioaktivlik hodisasi nima?",
+      "variantlar": [
+        "Ba'zi atom yadrolarining o'z-o'zidan parchalanishi",
+        "Faqat kimyoviy reaksiya turi",
+        "Faqat elektr hodisasi",
+        "Faqat magnit hodisasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yadro reaktorlarida qanday jarayon energiya ishlab chiqarishda ishlatiladi?",
+      "variantlar": [
+        "Yadroviy parchalanish (bo'linish) reaksiyasi",
+        "Faqat yonish reaksiyasi",
+        "Faqat elektroliz",
+        "Faqat diffuziya"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Quyoshda energiya ishlab chiqarilishi asosan qanday jarayonga bog'liq?",
+      "variantlar": [
+        "Yadro parchalanishi",
+        "Yadro sintezi (termoyadro reaksiyasi)",
+        "Kimyoviy yonish",
+        "Elektr toki"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mexanik to'lqinlar tarqalishi uchun nima kerak?",
+      "variantlar": [
+        "Vakuum",
+        "Modda muhiti (havo, suv, qattiq jism)",
+        "Faqat elektr maydon",
+        "Faqat magnit maydon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektromagnit to'lqinlar tarqalishi uchun modda muhiti zarurmi?",
+      "variantlar": [
+        "Ha, har doim zarur",
+        "Yo'q, vakuumda ham tarqaladi",
+        "Faqat suvda tarqaladi",
+        "Faqat havoda tarqaladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektromagnit to'lqinlar spektriga nimalar kiradi?",
+      "variantlar": [
+        "Faqat ko'zga ko'rinadigan yorug'lik",
+        "Radio to'lqinlar, infraqizil, ko'rinadigan yorug'lik, ultrabinafsha, rentgen, gamma nurlar",
+        "Faqat rentgen nurlari",
+        "Faqat radio to'lqinlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Radio to'lqinlar va gamma nurlar orasidagi asosiy farq nima?",
+      "variantlar": [
+        "Tezligi (vakuumda gamma tezroq)",
+        "Chastotasi va energiyasi (gamma nurlar yuqori chastotali)",
+        "Faqat rangi",
+        "Hech qanday farq yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Doppler effekti nima?",
+      "variantlar": [
+        "Manba yoki kuzatuvchi harakati tufayli to'lqin chastotasining o'zgarishi",
+        "Faqat yorug'likning sinishi",
+        "Faqat tovushning kuchayishi",
+        "Elektr toki hodisasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Lazer nurining asosiy xususiyati nima?",
+      "variantlar": [
+        "Tarqoq va tasodifiy nur",
+        "Monoxromatik va yo'naltirilgan (kogerent) nur",
+        "Faqat issiqlik nuri",
+        "Faqat radio to'lqin"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nisbiylik nazariyasini kim yaratgan?",
+      "variantlar": [
+        "Isaak Nyuton",
+        "Albert Eynshteyn",
+        "Maks Plank",
+        "Nils Bor"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kvant fizikasi asoschilaridan biri sifatida kim tan olinadi (kvant gipotezasi)?",
+      "variantlar": [
+        "Isaak Nyuton",
+        "Maks Plank",
+        "Galiley",
+        "Kepler"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nils Bor qaysi model bilan mashhur?",
+      "variantlar": [
+        "Yer modeli",
+        "Atomning planetar (Bor) modeli",
+        "Koinot modeli",
+        "Molekula modeli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yadro kuchlari (yadro ichidagi bog'lanish kuchi) qanday xususiyatga ega?",
+      "variantlar": [
+        "Juda kuchsiz va uzoq masofali",
+        "Juda kuchli, lekin qisqa masofali",
+        "Elektromagnit kuchdan kuchsiz",
+        "Faqat tortishish kuchiga teng"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rezonans hodisasi qachon yuz beradi?",
+      "variantlar": [
+        "Tashqi ta'sir chastotasi sistemaning xususiy chastotasiga to'g'ri kelganda",
+        "Faqat sokin holatda",
+        "Faqat sovutilganda",
+        "Hech qachon"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mexanik tebranishlarning davri nima?",
+      "variantlar": [
+        "Bir to'liq tebranish uchun ketgan vaqt",
+        "Tebranish amplitudasi",
+        "Tezlanish qiymati",
+        "Kuch miqdori"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mayatnikning tebranish davri nimaga bog'liq (kichik amplitudada)?",
+      "variantlar": [
+        "Faqat massaga",
+        "Ip uzunligi va erkin tushish tezlanishiga",
+        "Faqat rangga",
+        "Faqat haroratga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yorug'likning to'liq ichki qaytishi qachon yuz beradi?",
+      "variantlar": [
+        "Zich muhitdan siyrak muhitga o'tishda, tushish burchagi chegaraviy burchakdan katta bo'lganda",
+        "Faqat vakuumda",
+        "Faqat qorong'ida",
+        "Hech qachon"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Optik tola (optik kabel) qanday hodisaga asoslangan holda ishlaydi?",
+      "variantlar": [
+        "Yorug'likning to'liq ichki qaytishi",
+        "Elektromagnit induksiya",
+        "Diffuziya",
+        "Radioaktivlik"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yarimo'tkazgichlar qanday materiallar hisoblanadi?",
+      "variantlar": [
+        "O'tkazgichlar va izolyatorlar orasidagi oraliq xususiyatga ega materiallar",
+        "Faqat izolyatorlar",
+        "Faqat o'tkazgichlar",
+        "Faqat magnitlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Diod qanday xususiyatga ega elektron qurilma?",
+      "variantlar": [
+        "Tokni ikkala yo'nalishda bir xil o'tkazadi",
+        "Tokni asosan bir yo'nalishda o'tkazadi",
+        "Tokni umuman o'tkazmaydi",
+        "Faqat issiqlik chiqaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Boshlang'ich tezligi 8 m/s bo'lgan jism 8 m/s² tezlanish bilan 3 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "192",
+        "24",
+        "40",
+        "32"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Boshlang'ich tezligi 17 m/s bo'lgan jism 4 m/s² tezlanish bilan 9 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "57",
+        "49",
+        "612",
+        "53"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Boshlang'ich tezligi 19 m/s bo'lgan jism 2 m/s² tezlanish bilan 4 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "29",
+        "152",
+        "27",
+        "25"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Boshlang'ich tezligi 13 m/s bo'lgan jism 6 m/s² tezlanish bilan 7 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "49",
+        "55",
+        "546",
+        "61"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Boshlang'ich tezligi 8 m/s bo'lgan jism 3 m/s² tezlanish bilan 10 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "35",
+        "240",
+        "41",
+        "38"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Boshlang'ich tezligi 14 m/s bo'lgan jism 4 m/s² tezlanish bilan 8 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "50",
+        "46",
+        "42",
+        "448"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Boshlang'ich tezligi 0 m/s bo'lgan jism 1 m/s² tezlanish bilan 12 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "17",
+        "13",
+        "11",
+        "12"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Boshlang'ich tezligi 7 m/s bo'lgan jism 9 m/s² tezlanish bilan 8 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "504",
+        "79",
+        "88",
+        "70"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Boshlang'ich tezligi 0 m/s bo'lgan jism 8 m/s² tezlanish bilan 3 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "32",
+        "16",
+        "24",
+        "29"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Boshlang'ich tezligi 15 m/s bo'lgan jism 5 m/s² tezlanish bilan 7 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "45",
+        "525",
+        "50",
+        "55"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Boshlang'ich tezligi 16 m/s bo'lgan jism 8 m/s² tezlanish bilan 13 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "1664",
+        "112",
+        "120",
+        "128"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Boshlang'ich tezligi 15 m/s bo'lgan jism 3 m/s² tezlanish bilan 8 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "360",
+        "42",
+        "39",
+        "36"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Boshlang'ich tezligi 5 m/s bo'lgan jism 5 m/s² tezlanish bilan 3 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "75",
+        "25",
+        "15",
+        "20"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Boshlang'ich tezligi 17 m/s bo'lgan jism 1 m/s² tezlanish bilan 5 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "22",
+        "21",
+        "85",
+        "23"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Boshlang'ich tezligi 0 m/s bo'lgan jism 7 m/s² tezlanish bilan 10 soniya harakatlansa, oxirgi tezligini toping (m/s da).",
+      "variantlar": [
+        "75",
+        "77",
+        "70",
+        "63"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tinch holatdan 4 m/s² tezlanish bilan harakatlanayotgan jism 7 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "28",
+        "94",
+        "98",
+        "102"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tinch holatdan 10 m/s² tezlanish bilan harakatlanayotgan jism 5 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "50",
+        "115",
+        "135",
+        "125"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tinch holatdan 8 m/s² tezlanish bilan harakatlanayotgan jism 3 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "44",
+        "28",
+        "24",
+        "36"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tinch holatdan 8 m/s² tezlanish bilan harakatlanayotgan jism 2 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "8",
+        "16",
+        "32",
+        "24"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tinch holatdan 4 m/s² tezlanish bilan harakatlanayotgan jism 6 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "76",
+        "68",
+        "24",
+        "72"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tinch holatdan 8 m/s² tezlanish bilan harakatlanayotgan jism 6 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "144",
+        "152",
+        "48",
+        "136"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tinch holatdan 10 m/s² tezlanish bilan harakatlanayotgan jism 6 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "190",
+        "60",
+        "170",
+        "180"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tinch holatdan 2 m/s² tezlanish bilan harakatlanayotgan jism 6 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "34",
+        "36",
+        "12",
+        "38"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tinch holatdan 6 m/s² tezlanish bilan harakatlanayotgan jism 5 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "75",
+        "30",
+        "69",
+        "81"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tinch holatdan 6 m/s² tezlanish bilan harakatlanayotgan jism 9 soniyada qancha masofa bosib o'tadi (m da)?",
+      "variantlar": [
+        "54",
+        "237",
+        "249",
+        "243"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 2 kg, tezligi 2 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "2",
+        "8",
+        "6",
+        "4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 10 kg, tezligi 2 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "30",
+        "20",
+        "10",
+        "40"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 8 kg, tezligi 2 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "8",
+        "16",
+        "32",
+        "24"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 4 kg, tezligi 4 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "36",
+        "32",
+        "28",
+        "16"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 6 kg, tezligi 10 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "306",
+        "300",
+        "60",
+        "294"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 4 kg, tezligi 10 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "196",
+        "204",
+        "200",
+        "40"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 12 kg, tezligi 6 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "72",
+        "216",
+        "204",
+        "228"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 4 kg, tezligi 6 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "24",
+        "68",
+        "76",
+        "72"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 10 kg, tezligi 4 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "80",
+        "90",
+        "70",
+        "40"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 8 kg, tezligi 10 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "408",
+        "392",
+        "80",
+        "400"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 10 kg, tezligi 6 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "170",
+        "190",
+        "60",
+        "180"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 2 kg, tezligi 4 m/s bo'lgan jismning kinetik energiyasini toping (J da).",
+      "variantlar": [
+        "18",
+        "8",
+        "16",
+        "14"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 19 kg bo'lgan jism yerdan 9 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "1691",
+        "171",
+        "1710",
+        "1729"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 6 kg bo'lgan jism yerdan 11 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "660",
+        "66",
+        "654",
+        "666"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 8 kg bo'lgan jism yerdan 4 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "312",
+        "328",
+        "320",
+        "32"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 17 kg bo'lgan jism yerdan 6 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "102",
+        "1037",
+        "1020",
+        "1003"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 26 kg bo'lgan jism yerdan 5 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "1274",
+        "1300",
+        "1326",
+        "130"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 15 kg bo'lgan jism yerdan 11 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "1665",
+        "1635",
+        "165",
+        "1650"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 2 kg bo'lgan jism yerdan 16 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "320",
+        "32",
+        "318",
+        "322"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 3 kg bo'lgan jism yerdan 18 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "537",
+        "540",
+        "54",
+        "543"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 5 kg bo'lgan jism yerdan 4 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "200",
+        "20",
+        "195",
+        "205"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 9 kg bo'lgan jism yerdan 2 m balandlikda joylashgan. Uning potensial energiyasini toping (J da, g=10 N/kg).",
+      "variantlar": [
+        "180",
+        "18",
+        "171",
+        "189"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 7 kg, tezligi 14 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "98",
+        "105",
+        "21",
+        "91"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 20 kg, tezligi 6 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "120",
+        "100",
+        "140",
+        "26"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 11 kg, tezligi 15 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "165",
+        "26",
+        "154",
+        "176"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 17 kg, tezligi 4 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "51",
+        "85",
+        "68",
+        "21"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 20 kg, tezligi 3 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "23",
+        "40",
+        "80",
+        "60"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 4 kg, tezligi 6 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "28",
+        "10",
+        "20",
+        "24"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 9 kg, tezligi 8 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "81",
+        "63",
+        "17",
+        "72"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 18 kg, tezligi 12 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "216",
+        "30",
+        "198",
+        "234"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 7 kg, tezligi 7 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "42",
+        "49",
+        "14",
+        "56"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 2 kg, tezligi 3 m/s bo'lgan jismning impulsini toping (kg·m/s da).",
+      "variantlar": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 16 kg bo'lgan jismni 29°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "464",
+        "930",
+        "928",
+        "926"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 12 kg bo'lgan jismni 9°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "214",
+        "218",
+        "108",
+        "216"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 4 J/(kg·°C), massasi 11 kg bo'lgan jismni 18°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "788",
+        "198",
+        "796",
+        "792"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 11 kg bo'lgan jismni 16°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "350",
+        "352",
+        "176",
+        "354"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 4 J/(kg·°C), massasi 5 kg bo'lgan jismni 20°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "404",
+        "396",
+        "400",
+        "100"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 4 J/(kg·°C), massasi 2 kg bo'lgan jismni 14°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "28",
+        "116",
+        "108",
+        "112"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 4 J/(kg·°C), massasi 7 kg bo'lgan jismni 13°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "360",
+        "91",
+        "368",
+        "364"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 16 kg bo'lgan jismni 2°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "66",
+        "32",
+        "64",
+        "62"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 1 kg bo'lgan jismni 12°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "26",
+        "24",
+        "12",
+        "22"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 4 J/(kg·°C), massasi 15 kg bo'lgan jismni 3°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "184",
+        "45",
+        "180",
+        "176"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 20 kg bo'lgan jismni 8°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "160",
+        "322",
+        "318",
+        "320"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 5 kg bo'lgan jismni 25°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "250",
+        "248",
+        "252",
+        "125"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi 2 J/(kg·°C), massasi 7 kg bo'lgan jismni 20°C ga isitish uchun kerakli issiqlik miqdorini toping (J da).",
+      "variantlar": [
+        "140",
+        "278",
+        "282",
+        "280"
+      ],
+      "togri": 3
+    }
+  ]
+}

@@ -1,0 +1,1205 @@
+{
+  "label": "Fizika sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "Nyutonning birinchi qonuni nima haqida?",
+      "variantlar": [
+        "Kuch va tezlanish o'rtasidagi bog'liqlik",
+        "Inersiya (jism kuch ta'sirida bo'lmasa, tinch holatda yoki tekis to'g'ri chiziqli harakatda qoladi)",
+        "Ta'sir va aks ta'sir kuchlari",
+        "Butun olam tortishish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nyutonning ikkinchi qonuni qanday formula bilan ifodalanadi?",
+      "variantlar": [
+        "F=mg",
+        "F=ma",
+        "F=mv",
+        "F=m/a"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nyutonning uchinchi qonuni nima haqida?",
+      "variantlar": [
+        "Inersiya haqida",
+        "Ta'sir kuchi aks ta'sir kuchiga teng va qarama-qarshi yo'nalgan",
+        "Faqat og'irlik kuchi haqida",
+        "Faqat ishqalanish haqida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Inersiya nima?",
+      "variantlar": [
+        "Jismning tezlashish qobiliyati",
+        "Jismning tezlik o'zgarishiga qarshilik ko'rsatish xususiyati",
+        "Jismning og'irligi",
+        "Jismning rangi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tezlanish qanday miqdor?",
+      "variantlar": [
+        "Tezlikning vaqt birligidagi o'zgarishi",
+        "Masofaning vaqtga nisbati",
+        "Faqat doimiy son",
+        "Kuchning massaga nisbati emas"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tekis tezlanuvchan harakatda tezlanish qanday bo'ladi?",
+      "variantlar": [
+        "Doimiy o'zgarib turadi",
+        "Doimiy (o'zgarmas)",
+        "Har doim nolga teng",
+        "Faqat manfiy bo'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Erkin tushish tezlanishi Yer yuzasida taxminan nechaga teng?",
+      "variantlar": [
+        "1 m/s²",
+        "10 m/s²",
+        "100 m/s²",
+        "0 m/s²"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mexanik ish qanday aniqlanadi?",
+      "variantlar": [
+        "Kuchni masofaga ko'paytirish orqali (kuch yo'nalishi bo'yicha)",
+        "Kuchni vaqtga bo'lish orqali",
+        "Massani tezlikka ko'paytirish orqali",
+        "Faqat vaqtga bog'liq"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ish SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "Nyuton",
+        "Joul",
+        "Vatt",
+        "Paskal"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Quvvat (moshinaviy) nima?",
+      "variantlar": [
+        "Bajarilgan ishning vaqt birligidagi qiymati",
+        "Faqat kuch miqdori",
+        "Faqat massaga teng",
+        "Faqat tezlikka teng"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Quvvat SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "Joul",
+        "Vatt",
+        "Nyuton",
+        "Amper"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kinetik energiya nimaga bog'liq?",
+      "variantlar": [
+        "Faqat jism balandligiga",
+        "Jism massasi va tezligiga",
+        "Faqat rangiga",
+        "Faqat haroratga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Potensial energiya (og'irlik) nimaga bog'liq?",
+      "variantlar": [
+        "Faqat tezlikka",
+        "Jism massasi va balandligiga",
+        "Faqat vaqtga",
+        "Faqat haroratga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Energiyaning saqlanish qonuniga ko'ra, energiya qanday xususiyatga ega?",
+      "variantlar": [
+        "Yo'qoladi",
+        "Yo'qdan bor bo'lmaydi va yo'qqa aylanmaydi, faqat bir turdan boshqasiga o'tadi",
+        "Faqat ko'payadi",
+        "Faqat kamayadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Foydali mexanizmlarda samaradorlik (FIK) qanday tushuncha?",
+      "variantlar": [
+        "Foydali ishning to'liq sarflangan ishga nisbati",
+        "Faqat kuch miqdori",
+        "Faqat vaqt miqdori",
+        "Har doim 100% dan katta bo'ladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Haqiqiy mexanizmlarning FIKi (samaradorligi) nechaga teng bo'lishi mumkin?",
+      "variantlar": [
+        "Har doim 100%",
+        "Har doim 100% dan kichik",
+        "Har doim 100% dan katta",
+        "Har doim 0%"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr zanjirida kuchlanish qanday birlikda o'lchanadi?",
+      "variantlar": [
+        "Amper",
+        "Volt",
+        "Om",
+        "Vatt"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr toki kuchi qanday birlikda o'lchanadi?",
+      "variantlar": [
+        "Volt",
+        "Amper",
+        "Om",
+        "Joul"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr qarshiligi qanday birlikda o'lchanadi?",
+      "variantlar": [
+        "Volt",
+        "Amper",
+        "Om",
+        "Vatt"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Om qonuniga ko'ra, tok kuchi nimaga to'g'ri proporsional?",
+      "variantlar": [
+        "Qarshilikka",
+        "Kuchlanishga",
+        "Vaqtga",
+        "Massaga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Om qonuni formulasi qanday?",
+      "variantlar": [
+        "I = U/R",
+        "I = U*R",
+        "I = R/U",
+        "I = U+R"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ketma-ket ulangan zanjirda tok kuchi qanday bo'ladi?",
+      "variantlar": [
+        "Har bir qismda har xil",
+        "Barcha qismlarda bir xil",
+        "Faqat boshida katta",
+        "Faqat oxirida katta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Parallel ulangan zanjirda kuchlanish qanday bo'ladi?",
+      "variantlar": [
+        "Har bir tarmoqda bir xil",
+        "Har bir tarmoqda har xil",
+        "Faqat bitta tarmoqda mavjud",
+        "Umuman bo'lmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Elektr energiyasi (ish) formulasi qanday ifodalanadi (asosiy)?",
+      "variantlar": [
+        "A = U*I*t",
+        "A = U/I",
+        "A = I/t",
+        "A = U+I"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Issiqlik miqdori formulasi (jismni qizdirish uchun) qaysi kattaliklarga bog'liq?",
+      "variantlar": [
+        "Faqat massaga",
+        "Massa, solishtirma issiqlik sig'imi va harorat o'zgarishiga",
+        "Faqat haroratga",
+        "Faqat vaqtga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Solishtirma issiqlik sig'imi nimani ko'rsatadi?",
+      "variantlar": [
+        "Jismning umumiy massasini",
+        "1 kg moddani 1°C ga isitish uchun kerak bo'lgan issiqlik miqdorini",
+        "Jismning hajmini",
+        "Jismning zichligini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Moddaning qattiq holatdan suyuq holatga o'tishi qanday ataladi?",
+      "variantlar": [
+        "Bug'lanish",
+        "Erish",
+        "Kondensatsiya",
+        "Sublimatsiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Moddaning suyuq holatdan gaz holatiga o'tishi qanday ataladi?",
+      "variantlar": [
+        "Erish",
+        "Bug'lanish",
+        "Muzlash",
+        "Kristallanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Erish jarayonida modda harorati qanday o'zgaradi (erish davomida)?",
+      "variantlar": [
+        "Doimiy bo'lib qoladi",
+        "Tez ko'tariladi",
+        "Tez pasayadi",
+        "Tasodifiy o'zgaradi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yorug'likning qaytish qonuniga ko'ra, tushish burchagi va qaytish burchagi qanday bog'liq?",
+      "variantlar": [
+        "Tushish burchagi qaytish burchagidan katta",
+        "Tushish burchagi qaytish burchagiga teng",
+        "Tushish burchagi qaytish burchagidan kichik",
+        "Hech qanday bog'liqlik yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yorug'likning sinishi qachon yuz beradi?",
+      "variantlar": [
+        "Yorug'lik bir muhitdan boshqasiga o'tganda",
+        "Faqat qorong'ida",
+        "Faqat vakuumda",
+        "Faqat qattiq jismlarda"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Linzalar necha turga bo'linadi?",
+      "variantlar": [
+        "Bitta",
+        "Ikkita (yig'uvchi va sochuvchi)",
+        "Uchta",
+        "Bo'linmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yig'uvchi linza yorug'lik nurlarini qanday to'playdi?",
+      "variantlar": [
+        "Nurlarni tarqatadi",
+        "Nurlarni bir nuqtaga (fokusga) to'playdi",
+        "Nurlarni to'xtatadi",
+        "Nurlarni aks ettiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'zoynak linzalari qaysi fizik hodisaga asoslangan?",
+      "variantlar": [
+        "Tovushning tarqalishi",
+        "Yorug'likning sinishi",
+        "Elektr toki",
+        "Magnitizm"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tovush tebranish chastotasi qanday birlikda o'lchanadi?",
+      "variantlar": [
+        "Metr",
+        "Gerts (Hz)",
+        "Nyuton",
+        "Vatt"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Inson qulog'i eshitadigan tovush chastotasi diapazoni taxminan qanday?",
+      "variantlar": [
+        "20 Hz dan 20000 Hz gacha",
+        "1 dan 10 Hz gacha",
+        "1000000 Hz dan yuqori",
+        "0 Hz"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ultratovush nima?",
+      "variantlar": [
+        "Inson eshita oladigan past chastotali tovush",
+        "Inson eshitish chegarasidan yuqori chastotali tovush",
+        "Faqat yorug'lik turi",
+        "Elektr toki turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aks-sado (eho) qanday hodisa?",
+      "variantlar": [
+        "Tovushning to'siqdan qaytishi",
+        "Yorug'likning sinishi",
+        "Issiqlikning tarqalishi",
+        "Elektr tokining oqishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Suyuqlik va gazlarda bosim qanday tarqaladi (Paskal qonuni)?",
+      "variantlar": [
+        "Faqat pastga tarqaladi",
+        "Barcha yo'nalishlarda bir xilda tarqaladi",
+        "Faqat yon tomonga tarqaladi",
+        "Tarqalmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gidravlik pres ishlash prinsipi nimaga asoslangan?",
+      "variantlar": [
+        "Paskal qonuniga",
+        "Nyutonning uchinchi qonuniga",
+        "Om qonuniga",
+        "Arximed qonuniga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Atmosfera bosimi balandlik ortishi bilan qanday o'zgaradi?",
+      "variantlar": [
+        "Kamayadi",
+        "Ortadi",
+        "O'zgarmaydi",
+        "Tasodifiy o'zgaradi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Barometr nima uchun ishlatiladi?",
+      "variantlar": [
+        "Haroratni o'lchash uchun",
+        "Atmosfera bosimini o'lchash uchun",
+        "Tezlikni o'lchash uchun",
+        "Kuchni o'lchash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Impuls (harakat miqdori) qanday aniqlanadi?",
+      "variantlar": [
+        "Massani tezlikka ko'paytirish orqali",
+        "Massani vaqtga bo'lish orqali",
+        "Kuchni masofaga ko'paytirish orqali",
+        "Faqat tezlikka teng"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yopiq sistemada impulsning saqlanish qonuni nimani bildiradi?",
+      "variantlar": [
+        "Umumiy impuls o'zgarib turadi",
+        "Tashqi kuchlar ta'sir etmasa, umumiy impuls o'zgarmaydi",
+        "Impuls har doim nolga teng bo'ladi",
+        "Faqat issiqlikka aylanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molekulyar-kinetik nazariyaga ko'ra, modda nimalardan tashkil topgan?",
+      "variantlar": [
+        "Uzluksiz muhitdan",
+        "Doimiy harakatdagi zarrachalar (molekulalar, atomlar)dan",
+        "Faqat energiyadan",
+        "Faqat bo'shliqdan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gazlarning bosimi harorat oshganda (hajm o'zgarmasa) qanday o'zgaradi?",
+      "variantlar": [
+        "Kamayadi",
+        "Ortadi",
+        "O'zgarmaydi",
+        "Nolga tushadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Diffuziya hodisasi nima?",
+      "variantlar": [
+        "Moddalarning o'z-o'zidan aralashib ketishi (zarrachalar harakati tufayli)",
+        "Faqat elektr hodisasi",
+        "Faqat yorug'lik hodisasi",
+        "Faqat magnit hodisasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Statik elektr zaryadi qanday hosil bo'lishi mumkin?",
+      "variantlar": [
+        "Jismlarni ishqalash orqali",
+        "Faqat suvga botirish orqali",
+        "Faqat qizdirish orqali",
+        "Faqat sovutish orqali"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bir xil zaryadlar bir-biriga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Tortadi",
+        "Itaradi",
+        "Ta'sir qilmaydi",
+        "Yo'qoladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Har xil zaryadlar bir-biriga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Tortadi",
+        "Itaradi",
+        "Ta'sir qilmaydi",
+        "Portlaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Elektr toki magnit maydon hosil qiladimi?",
+      "variantlar": [
+        "Yo'q, hech qachon",
+        "Ha, o'tkazgichdan tok o'tganda atrofida magnit maydon hosil bo'ladi",
+        "Faqat o'zgarmas tokda emas",
+        "Faqat sovuqda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektromagnit nima?",
+      "variantlar": [
+        "Doimiy magnit turi",
+        "Tok o'tkazilganda magnit xususiyat kasb etuvchi qurilma",
+        "Faqat tabiiy magnit",
+        "Elektr zanjiridagi qarshilik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Transformator vazifasi nima?",
+      "variantlar": [
+        "Kuchlanishni oshirish yoki kamaytirish",
+        "Faqat yorug'lik chiqarish",
+        "Faqat issiqlik ishlab chiqarish",
+        "Faqat tovush chiqarish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Elektr stansiyalarida energiya odatda qaysi shakldan elektr energiyasiga aylantiriladi?",
+      "variantlar": [
+        "Faqat kimyoviy energiyadan",
+        "Mexanik (masalan suv yoki bug' bosimi) energiyadan",
+        "Faqat yorug'lik energiyasidan",
+        "Faqat tovush energiyasidan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Quyosh paneli qanday energiya turini elektr energiyasiga aylantiradi?",
+      "variantlar": [
+        "Yadro energiyasini",
+        "Yorug'lik (quyosh) energiyasini",
+        "Issiqlik energiyasini to'g'ridan-to'g'ri",
+        "Kimyoviy energiyani"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Erkin tushish paytida havo qarshiligi hisobga olinmasa, barcha jismlar qanday tezlanish bilan tushadi?",
+      "variantlar": [
+        "Massaga bog'liq har xil tezlanish bilan",
+        "Bir xil tezlanish bilan (g)",
+        "Faqat og'ir jismlar tezroq tushadi",
+        "Faqat yengil jismlar tezroq tushadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tezlanish SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "m/s",
+        "m/s²",
+        "m",
+        "s"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massa va vazn (og'irlik) o'rtasidagi bog'liqlik qanday ifodalanadi?",
+      "variantlar": [
+        "P = m/g",
+        "P = mg",
+        "P = m+g",
+        "P = m-g"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suyuqlikda botirilgan jismga ta'sir etuvchi Arximed kuchining formulasi asosan nimaga bog'liq?",
+      "variantlar": [
+        "Faqat jism rangiga",
+        "Suyuqlik zichligi, siqib chiqarilgan hajm va erkin tushish tezlanishiga",
+        "Faqat jism haroratiga",
+        "Faqat jism shakliga (rangi kabi)"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 14 kg bo'lgan jismga 10 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "154",
+        "24",
+        "126",
+        "140"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 48 kg bo'lgan jismga 8 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "56",
+        "432",
+        "384",
+        "336"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 24 kg bo'lgan jismga 9 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "33",
+        "216",
+        "192",
+        "240"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 17 kg bo'lgan jismga 9 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "153",
+        "26",
+        "136",
+        "170"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 27 kg bo'lgan jismga 5 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "162",
+        "135",
+        "108",
+        "32"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 17 kg bo'lgan jismga 2 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "19",
+        "17",
+        "51",
+        "34"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 27 kg bo'lgan jismga 7 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "189",
+        "162",
+        "216",
+        "34"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 33 kg bo'lgan jismga 10 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "43",
+        "363",
+        "297",
+        "330"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 8 kg bo'lgan jismga 6 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "40",
+        "48",
+        "14",
+        "56"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 41 kg bo'lgan jismga 2 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "41",
+        "43",
+        "123",
+        "82"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 17 kg bo'lgan jismga 7 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "102",
+        "24",
+        "136",
+        "119"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 6 kg bo'lgan jismga 2 m/s² tezlanish berish uchun qanday kuch kerak (N da)?",
+      "variantlar": [
+        "6",
+        "8",
+        "12",
+        "18"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "86 N kuch bilan jismni 3 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "258",
+        "344",
+        "172",
+        "89"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "84 N kuch bilan jismni 19 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "1512",
+        "1596",
+        "103",
+        "1680"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "37 N kuch bilan jismni 12 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "444",
+        "481",
+        "49",
+        "407"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "66 N kuch bilan jismni 2 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "66",
+        "132",
+        "198",
+        "68"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "34 N kuch bilan jismni 18 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "578",
+        "612",
+        "646",
+        "52"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "67 N kuch bilan jismni 4 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "71",
+        "201",
+        "335",
+        "268"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "43 N kuch bilan jismni 8 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "387",
+        "301",
+        "344",
+        "51"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "14 N kuch bilan jismni 18 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "32",
+        "252",
+        "238",
+        "266"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "23 N kuch bilan jismni 9 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "184",
+        "230",
+        "207",
+        "32"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "91 N kuch bilan jismni 20 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "1729",
+        "1820",
+        "111",
+        "1911"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "30 N kuch bilan jismni 17 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "47",
+        "480",
+        "540",
+        "510"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "51 N kuch bilan jismni 4 metrga siljitganda bajarilgan ishni toping (J da).",
+      "variantlar": [
+        "55",
+        "204",
+        "153",
+        "255"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "472 J ish 8 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "58",
+        "60",
+        "59",
+        "3776"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "377 J ish 13 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "4901",
+        "29",
+        "30",
+        "28"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "150 J ish 10 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "14",
+        "16",
+        "15",
+        "1500"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "172 J ish 2 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "344",
+        "86",
+        "85",
+        "87"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "321 J ish 3 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "107",
+        "963",
+        "108",
+        "106"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "274 J ish 2 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "137",
+        "136",
+        "138",
+        "548"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "84 J ish 7 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "11",
+        "13",
+        "12",
+        "588"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "348 J ish 6 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "58",
+        "59",
+        "57",
+        "2088"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "405 J ish 5 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "82",
+        "80",
+        "81",
+        "2025"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "399 J ish 7 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "56",
+        "57",
+        "58",
+        "2793"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "180 J ish 20 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "8",
+        "9",
+        "10",
+        "3600"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "250 J ish 2 soniyada bajarilgan bo'lsa, quvvatni toping (Vt da).",
+      "variantlar": [
+        "124",
+        "500",
+        "125",
+        "126"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchlanish 180 V, qarshilik 18 Om bo'lsa, tok kuchini toping (A da).",
+      "variantlar": [
+        "10",
+        "3240",
+        "9",
+        "11"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tok kuchi 2 A, qarshilik 36 Om bo'lsa, kuchlanishni toping (V da).",
+      "variantlar": [
+        "38",
+        "74",
+        "70",
+        "72"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tok kuchi 7 A, qarshilik 31 Om bo'lsa, kuchlanishni toping (V da).",
+      "variantlar": [
+        "210",
+        "38",
+        "224",
+        "217"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Kuchlanish 340 V, tok kuchi 20 A bo'lsa, qarshilikni toping (Om da).",
+      "variantlar": [
+        "17",
+        "18",
+        "16",
+        "6800"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchlanish 95 V, tok kuchi 5 A bo'lsa, qarshilikni toping (Om da).",
+      "variantlar": [
+        "19",
+        "20",
+        "18",
+        "475"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchlanish 184 V, qarshilik 1 Om bo'lsa, tok kuchini toping (A da).",
+      "variantlar": [
+        "183",
+        "185",
+        "184",
+        "186"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tok kuchi 8 A, qarshilik 7 Om bo'lsa, kuchlanishni toping (V da).",
+      "variantlar": [
+        "48",
+        "56",
+        "15",
+        "64"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchlanish 26 V, tok kuchi 13 A bo'lsa, qarshilikni toping (Om da).",
+      "variantlar": [
+        "2",
+        "1",
+        "3",
+        "338"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchlanish 150 V, tok kuchi 10 A bo'lsa, qarshilikni toping (Om da).",
+      "variantlar": [
+        "16",
+        "1500",
+        "15",
+        "14"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchlanish 93 V, qarshilik 1 Om bo'lsa, tok kuchini toping (A da).",
+      "variantlar": [
+        "94",
+        "92",
+        "95",
+        "93"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Kuchlanish 150 V, tok kuchi 15 A bo'lsa, qarshilikni toping (Om da).",
+      "variantlar": [
+        "11",
+        "9",
+        "10",
+        "2250"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchlanish 52 V, qarshilik 13 Om bo'lsa, tok kuchini toping (A da).",
+      "variantlar": [
+        "5",
+        "3",
+        "4",
+        "676"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tok kuchi 1 A, qarshilik 6 Om bo'lsa, kuchlanishni toping (V da).",
+      "variantlar": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Kuchlanish 55 V, tok kuchi 11 A bo'lsa, qarshilikni toping (Om da).",
+      "variantlar": [
+        "6",
+        "5",
+        "4",
+        "605"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchlanish 270 V, tok kuchi 18 A bo'lsa, qarshilikni toping (Om da).",
+      "variantlar": [
+        "4860",
+        "16",
+        "15",
+        "14"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchlanish 8 V, tok kuchi 6 A, vaqt 2 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "104",
+        "48",
+        "16",
+        "96"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Kuchlanish 11 V, tok kuchi 5 A, vaqt 5 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "275",
+        "55",
+        "21",
+        "286"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchlanish 7 V, tok kuchi 6 A, vaqt 6 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "259",
+        "252",
+        "19",
+        "42"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchlanish 6 V, tok kuchi 10 A, vaqt 10 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "606",
+        "600",
+        "60",
+        "26"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchlanish 19 V, tok kuchi 1 A, vaqt 7 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "19",
+        "27",
+        "133",
+        "152"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchlanish 7 V, tok kuchi 4 A, vaqt 6 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "17",
+        "28",
+        "175",
+        "168"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Kuchlanish 14 V, tok kuchi 6 A, vaqt 9 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "29",
+        "770",
+        "84",
+        "756"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Kuchlanish 8 V, tok kuchi 6 A, vaqt 10 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "48",
+        "480",
+        "488",
+        "24"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchlanish 10 V, tok kuchi 6 A, vaqt 7 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "420",
+        "23",
+        "60",
+        "430"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchlanish 5 V, tok kuchi 5 A, vaqt 5 s bo'lsa, ishlab chiqarilgan elektr energiyasini (ishni) toping (J da).",
+      "variantlar": [
+        "25",
+        "125",
+        "15",
+        "130"
+      ],
+      "togri": 1
+    }
+  ]
+}
