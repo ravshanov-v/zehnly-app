@@ -1,0 +1,1205 @@
+{
+  "label": "Fizika sinovi (5-7 sinf)",
+  "savollar": [
+    {
+      "savol": "Fizika fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat tirik organizmlarni",
+        "Tabiatdagi jismlar va hodisalarning umumiy qonuniyatlarini",
+        "Faqat kimyoviy reaksiyalarni",
+        "Faqat tarixiy voqealarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Modda necha xil asosiy agregat holatida bo'ladi?",
+      "variantlar": [
+        "Ikki",
+        "Uch (qattiq, suyuq, gaz)",
+        "To'rt",
+        "Beshta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muz qaysi agregat holatga misol bo'ladi?",
+      "variantlar": [
+        "Suyuq",
+        "Qattiq",
+        "Gazsimon",
+        "Plazma"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv bug'i qaysi agregat holatga misol bo'ladi?",
+      "variantlar": [
+        "Qattiq",
+        "Suyuq",
+        "Gazsimon",
+        "Kristall"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Uzunlik xalqaro birliklar tizimida (SI) qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "Kilogramm",
+        "Metr",
+        "Soniya",
+        "Litr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massa SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "Metr",
+        "Kilogramm",
+        "Nyuton",
+        "Litr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vaqt SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "Soat",
+        "Soniya",
+        "Kun",
+        "Daqiqa"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hajm o'lchovi uchun qaysi asbob ishlatiladi?",
+      "variantlar": [
+        "Termometr",
+        "Menzurka (o'lchov idishi)",
+        "Dinamometr",
+        "Ampermetr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massani o'lchash uchun qaysi asbobdan foydalaniladi?",
+      "variantlar": [
+        "Termometr",
+        "Tarozi",
+        "Barometr",
+        "Soat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Haroratni o'lchash uchun qaysi asbob ishlatiladi?",
+      "variantlar": [
+        "Tarozi",
+        "Termometr",
+        "Dinamometr",
+        "Menzurka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "1 kilometr necha metrga teng?",
+      "variantlar": [
+        "10 metr",
+        "100 metr",
+        "1000 metr",
+        "10000 metr"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "1 kilogramm necha grammga teng?",
+      "variantlar": [
+        "10 gramm",
+        "100 gramm",
+        "1000 gramm",
+        "10000 gramm"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "1 soat necha daqiqaga teng?",
+      "variantlar": [
+        "30 daqiqa",
+        "60 daqiqa",
+        "100 daqiqa",
+        "120 daqiqa"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "1 daqiqa necha soniyaga teng?",
+      "variantlar": [
+        "10 soniya",
+        "60 soniya",
+        "100 soniya",
+        "1000 soniya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jismning zichligi qanday aniqlanadi?",
+      "variantlar": [
+        "Massani hajmga bo'lish orqali",
+        "Massani vaqtga bo'lish orqali",
+        "Hajmni vaqtga bo'lish orqali",
+        "Massani qo'shish orqali"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Zichlik SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "kg/m³",
+        "m/s",
+        "N",
+        "J"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuch qanday miqdor hisoblanadi?",
+      "variantlar": [
+        "Skalyar miqdor",
+        "Vektor miqdor (yo'nalishga ega)",
+        "Vaqtga bog'liq bo'lmagan doimiy son",
+        "Faqat massaga teng"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuch SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "Kilogramm",
+        "Nyuton",
+        "Joul",
+        "Vatt"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer tortish kuchi tufayli jismlarga ta'sir etuvchi kuch qanday ataladi?",
+      "variantlar": [
+        "Ishqalanish kuchi",
+        "Og'irlik kuchi",
+        "Elastiklik kuchi",
+        "Magnit kuchi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jismning massasi va og'irligi bir xil narsamikan?",
+      "variantlar": [
+        "Ha, har doim bir xil",
+        "Yo'q, massa va og'irlik boshqa-boshqa fizik miqdorlar",
+        "Faqat Oyda bir xil",
+        "Faqat suvda bir xil"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikki jism sirtlari ishqalanganda yuzaga keladigan kuch qanday ataladi?",
+      "variantlar": [
+        "Og'irlik kuchi",
+        "Ishqalanish kuchi",
+        "Arximed kuchi",
+        "Elastiklik kuchi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ishqalanish kuchini kamaytirish uchun odatda nima ishlatiladi?",
+      "variantlar": [
+        "Qum",
+        "Moylash (yog'lash)",
+        "Suv sepish faqat",
+        "Kuchni oshirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Prujina cho'zilganda paydo bo'ladigan kuch qanday ataladi?",
+      "variantlar": [
+        "Ishqalanish kuchi",
+        "Elastiklik (tarang) kuchi",
+        "Og'irlik kuchi",
+        "Magnit kuchi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchni o'lchash uchun qanday asbobdan foydalaniladi?",
+      "variantlar": [
+        "Termometr",
+        "Dinamometr",
+        "Barometr",
+        "Menzurka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rag'ba (richag) qanday oddiy mexanizm hisoblanadi?",
+      "variantlar": [
+        "Kuchni yo'qotadigan mexanizm",
+        "Kuchdan yutish yoki masofadan yutish imkonini beruvchi oddiy mexanizm",
+        "Faqat elektr asbob",
+        "Faqat zamonaviy mashina"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qaychi ishlash prinsipida qaysi oddiy mexanizm qo'llaniladi?",
+      "variantlar": [
+        "Blok",
+        "Richag",
+        "Vint",
+        "Qiya tekislik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qiya tekislik nima uchun ishlatiladi?",
+      "variantlar": [
+        "Yukni balandlikka ko'tarishda kuchni kamroq sarflash uchun",
+        "Yukni og'irlashtirish uchun",
+        "Faqat bezak uchun",
+        "Suvni tozalash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "G'ildirak va o'q mexanizmi nima uchun foydali?",
+      "variantlar": [
+        "Harakatni osonlashtiradi va ishqalanishni kamaytiradi",
+        "Faqat chiroyli ko'rinish uchun",
+        "Harakatni qiyinlashtiradi",
+        "Og'irlikni oshiradi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Blok (g'ildirakli mexanizm) yuk ko'tarishda nimaga yordam beradi?",
+      "variantlar": [
+        "Kuch yo'nalishini o'zgartirish yoki kuchdan yutishga",
+        "Faqat ovoz chiqarishga",
+        "Massani kamaytirishga",
+        "Haroratni oshirishga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Suyuqlik ichiga botirilgan jismga ta'sir etuvchi ko'taruvchi kuch qanday ataladi?",
+      "variantlar": [
+        "Og'irlik kuchi",
+        "Arximed kuchi",
+        "Elastiklik kuchi",
+        "Markazdan qochma kuch"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Arximed qonuniga ko'ra, jismga ta'sir etuvchi ko'taruvchi kuch nimaga bog'liq?",
+      "variantlar": [
+        "Faqat jismning rangiga",
+        "Jism siqib chiqargan suyuqlik og'irligiga",
+        "Faqat kunning vaqtiga",
+        "Faqat haroratga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nima uchun temir mixi suvda cho'kadi, lekin katta kema cho'kmaydi?",
+      "variantlar": [
+        "Kemaning shakli siqib chiqarilgan suv og'irligini oshiradi",
+        "Temir mix yengil bo'lgani uchun",
+        "Kema og'irlik kuchiga ega emas",
+        "Suv zichligi kemalar uchun boshqacha"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bosim qanday aniqlanadi?",
+      "variantlar": [
+        "Kuchni yuza maydonga bo'lish orqali",
+        "Massani hajmga bo'lish orqali",
+        "Kuchni vaqtga bo'lish orqali",
+        "Hajmni massaga bo'lish orqali"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bosim SI tizimida qaysi birlikda o'lchanadi?",
+      "variantlar": [
+        "Nyuton",
+        "Paskal",
+        "Joul",
+        "Vatt"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nima uchun keng poshnali botinka qorda cho'kmaydi, ingichka poshnali esa cho'kadi?",
+      "variantlar": [
+        "Kengroq yuza bosimni kamaytiradi",
+        "Kengroq yuza bosimni oshiradi",
+        "Poshna shakli bosimga ta'sir qilmaydi",
+        "Faqat vazn muhim"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Harorat qanday miqdorni ifodalaydi?",
+      "variantlar": [
+        "Jismning issiqlik darajasini",
+        "Jismning og'irligini",
+        "Jismning uzunligini",
+        "Jismning rangini"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Suv necha darajada (Selsiy bo'yicha) muzlaydi?",
+      "variantlar": [
+        "-10°C",
+        "0°C",
+        "10°C",
+        "100°C"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv necha darajada (Selsiy bo'yicha) qaynaydi (normal bosimda)?",
+      "variantlar": [
+        "50°C",
+        "100°C",
+        "150°C",
+        "200°C"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Issiqlik bir jismdan ikkinchisiga qanday uzatiladi?",
+      "variantlar": [
+        "Faqat yorug'lik orqali",
+        "O'tkazuvchanlik, konveksiya va nurlanish orqali",
+        "Faqat tovush orqali",
+        "Faqat elektr orqali"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Metallar issiqlikni qanday o'tkazadi?",
+      "variantlar": [
+        "Yomon o'tkazadi",
+        "Yaxshi o'tkazadi",
+        "Umuman o'tkazmaydi",
+        "Faqat sovuqni o'tkazadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yorug'lik manbai bo'lmagan jism qanday ataladi?",
+      "variantlar": [
+        "Yoritilgan jism",
+        "O'z-o'zidan yorug'lik chiqaruvchi jism",
+        "Shaffof jism har doim",
+        "Faqat oq rangli jism"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Quyosh qanday jism hisoblanadi?",
+      "variantlar": [
+        "Yoritilgan jism",
+        "O'z-o'zidan yorug'lik chiqaruvchi jism",
+        "Faqat issiqlik manbai, yorug'lik emas",
+        "Sun'iy yorug'lik manbai"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yorug'lik to'g'ri chiziq bo'ylab tarqaladimi?",
+      "variantlar": [
+        "Yo'q, faqat egri chiziq bo'ylab",
+        "Ha, bir jinsli muhitda to'g'ri chiziq bo'ylab tarqaladi",
+        "Faqat kechasi to'g'ri chiziq bo'ylab",
+        "Yorug'lik umuman tarqalmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Soya nima sababdan hosil bo'ladi?",
+      "variantlar": [
+        "Yorug'likning to'g'ri chiziqli tarqalishi va yoritilmagan jismlar",
+        "Faqat kechasi bo'ladi",
+        "Faqat suv yaqinida bo'ladi",
+        "Faqat qishda bo'ladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ko'zgu qanday xususiyatga ega?",
+      "variantlar": [
+        "Yorug'likni yutadi",
+        "Yorug'likni qaytaradi (aks ettiradi)",
+        "Yorug'likni o'tkazadi",
+        "Yorug'lik chiqaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shaffof jismga misol qaysi?",
+      "variantlar": [
+        "Yog'och",
+        "Toza shisha",
+        "Tosh",
+        "Metall plastinka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tovush qanday hosil bo'ladi?",
+      "variantlar": [
+        "Jismlarning tebranishi natijasida",
+        "Faqat issiqlikdan",
+        "Faqat yorug'likdan",
+        "Faqat elektr tokidan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tovush vakuumda (bo'shliqda) tarqaladimi?",
+      "variantlar": [
+        "Ha, erkin tarqaladi",
+        "Yo'q, tovush tarqalishi uchun muhit kerak",
+        "Faqat kosmosda tarqaladi",
+        "Faqat suvda tarqalmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tovush havoda, suvda va qattiq jismlarning qaysi birida tezroq tarqaladi?",
+      "variantlar": [
+        "Havoda",
+        "Suvda",
+        "Qattiq jismlarda",
+        "Barchasida bir xil tezlikda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Balandligi yuqori tovush (yupqa ovoz) nimaga bog'liq?",
+      "variantlar": [
+        "Tebranish chastotasining yuqori bo'lishiga",
+        "Faqat ovoz balandligiga (kuchiga)",
+        "Faqat haroratga",
+        "Faqat masofaga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Magnitning necha qutbi bor?",
+      "variantlar": [
+        "Bitta",
+        "Ikkita (shimoliy va janubiy)",
+        "Uchta",
+        "To'rtta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Magnitning bir xil qutblari bir-biriga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Tortadi",
+        "Itaradi (qaytaradi)",
+        "Hech qanday ta'sir qilmaydi",
+        "Faqat aylanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Magnitning har xil qutblari bir-biriga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Tortadi",
+        "Itaradi",
+        "Hech qanday ta'sir qilmaydi",
+        "Portlaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kompas ishlash prinsipi nimaga asoslangan?",
+      "variantlar": [
+        "Yer magnit maydoniga",
+        "Quyosh nuriga",
+        "Shamol yo'nalishiga",
+        "Suv oqimiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Elektr toki nima?",
+      "variantlar": [
+        "Zaryadlangan zarrachalarning tartibli harakati",
+        "Faqat issiqlik oqimi",
+        "Faqat yorug'lik nurlari",
+        "Magnit maydon"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Elektr tokini o'tkazuvchi jismlar qanday ataladi?",
+      "variantlar": [
+        "Izolyatorlar",
+        "O'tkazgichlar",
+        "Yarimo'tkazgichlar har doim",
+        "Dielektriklar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Metallar elektr tokini qanday o'tkazadi?",
+      "variantlar": [
+        "Yaxshi o'tkazadi",
+        "Umuman o'tkazmaydi",
+        "Faqat qizdirilganda o'tkazadi",
+        "Faqat sovutilganda o'tkazadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Rezina, shisha, plastmassa qanday materiallar hisoblanadi (elektr jihatdan)?",
+      "variantlar": [
+        "Yaxshi o'tkazgichlar",
+        "Izolyatorlar (yomon o'tkazgichlar)",
+        "Magnitlar",
+        "Yarim o'tkazgichlar har doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr zanjiri qanday elementlardan tashkil topgan bo'lishi mumkin?",
+      "variantlar": [
+        "Faqat simlardan",
+        "Manba, o'tkazgich simlar va iste'molchidan (masalan lampochka)",
+        "Faqat lampochkadan",
+        "Faqat batareyadan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Batareya elektr zanjirida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Tokni to'xtatadi",
+        "Elektr energiyasi manbai bo'ladi",
+        "Faqat yorug'lik chiqaradi",
+        "Faqat issiqlik chiqaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 128 g, hajmi 2 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "256",
+        "63",
+        "64",
+        "65"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 126 g, hajmi 2 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "252",
+        "64",
+        "63",
+        "62"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 58 g, hajmi 2 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "29",
+        "28",
+        "116",
+        "30"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 56 g, hajmi 4 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "13",
+        "14",
+        "15",
+        "224"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 104 g, hajmi 13 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "8",
+        "9",
+        "1352",
+        "7"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 88 g, hajmi 8 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "704",
+        "12",
+        "10",
+        "11"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 192 g, hajmi 6 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "33",
+        "32",
+        "1152",
+        "31"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 120 g, hajmi 3 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "39",
+        "41",
+        "360",
+        "40"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 24 g, hajmi 4 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "7",
+        "6",
+        "96",
+        "5"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 170 g, hajmi 2 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "85",
+        "84",
+        "340",
+        "86"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 198 g, hajmi 9 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "22",
+        "1782",
+        "23",
+        "21"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 170 g, hajmi 10 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "18",
+        "1700",
+        "17",
+        "16"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 105 g, hajmi 7 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "735",
+        "16",
+        "15",
+        "14"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 159 g, hajmi 3 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "54",
+        "53",
+        "52",
+        "477"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 100 g, hajmi 4 sm³ bo'lgan jismning zichligini toping (g/sm³ da).",
+      "variantlar": [
+        "24",
+        "26",
+        "25",
+        "400"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jism 238 m masofani 14 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "18",
+        "16",
+        "17",
+        "3332"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jism 200 m masofani 4 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "50",
+        "49",
+        "800",
+        "51"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jism 132 m masofani 12 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "10",
+        "12",
+        "11",
+        "1584"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jism 20 m masofani 5 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "5",
+        "3",
+        "100",
+        "4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Jism 56 m masofani 4 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "13",
+        "14",
+        "224",
+        "15"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jism 224 m masofani 4 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "896",
+        "55",
+        "56",
+        "57"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jism 66 m masofani 3 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "23",
+        "22",
+        "21",
+        "198"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jism 36 m masofani 3 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "11",
+        "12",
+        "13",
+        "108"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jism 276 m masofani 4 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "1104",
+        "70",
+        "69",
+        "68"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jism 116 m masofani 4 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "30",
+        "464",
+        "28",
+        "29"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Jism 117 m masofani 13 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "9",
+        "8",
+        "10",
+        "1521"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jism 42 m masofani 6 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "6",
+        "8",
+        "7",
+        "252"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jism 232 m masofani 2 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "464",
+        "117",
+        "116",
+        "115"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Jism 168 m masofani 6 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "1008",
+        "28",
+        "27",
+        "29"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jism 279 m masofani 9 soniyada bosib o'tdi. Uning tezligini toping (m/s da).",
+      "variantlar": [
+        "2511",
+        "32",
+        "31",
+        "30"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tezligi 8 m/s bo'lgan jism 96 metr masofani necha soniyada bosib o'tadi?",
+      "variantlar": [
+        "13",
+        "96",
+        "12",
+        "11"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tezligi 10 m/s bo'lgan jism 150 metr masofani necha soniyada bosib o'tadi?",
+      "variantlar": [
+        "150",
+        "16",
+        "15",
+        "14"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tezligi 14 m/s bo'lgan jism 56 metr masofani necha soniyada bosib o'tadi?",
+      "variantlar": [
+        "4",
+        "3",
+        "56",
+        "5"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tezligi 16 m/s bo'lgan jism 13 soniyada qancha masofa bosib o'tadi?",
+      "variantlar": [
+        "208",
+        "192",
+        "29",
+        "224"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tezligi 13 m/s bo'lgan jism 52 metr masofani necha soniyada bosib o'tadi?",
+      "variantlar": [
+        "52",
+        "3",
+        "5",
+        "4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tezligi 20 m/s bo'lgan jism 200 metr masofani necha soniyada bosib o'tadi?",
+      "variantlar": [
+        "11",
+        "10",
+        "9",
+        "200"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tezligi 8 m/s bo'lgan jism 2 soniyada qancha masofa bosib o'tadi?",
+      "variantlar": [
+        "24",
+        "10",
+        "8",
+        "16"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tezligi 7 m/s bo'lgan jism 7 soniyada qancha masofa bosib o'tadi?",
+      "variantlar": [
+        "42",
+        "14",
+        "49",
+        "56"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tezligi 8 m/s bo'lgan jism 112 metr masofani necha soniyada bosib o'tadi?",
+      "variantlar": [
+        "112",
+        "14",
+        "15",
+        "13"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tezligi 10 m/s bo'lgan jism 140 metr masofani necha soniyada bosib o'tadi?",
+      "variantlar": [
+        "15",
+        "14",
+        "13",
+        "140"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchi 180 N bo'lgan jism yuzasi 10 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "19",
+        "18",
+        "17",
+        "1800"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchi 104 N bo'lgan jism yuzasi 13 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "7",
+        "9",
+        "1352",
+        "8"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Kuchi 195 N bo'lgan jism yuzasi 5 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "975",
+        "40",
+        "39",
+        "38"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchi 140 N bo'lgan jism yuzasi 7 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "19",
+        "980",
+        "20",
+        "21"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchi 183 N bo'lgan jism yuzasi 3 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "61",
+        "60",
+        "62",
+        "549"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchi 159 N bo'lgan jism yuzasi 3 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "477",
+        "52",
+        "53",
+        "54"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchi 30 N bo'lgan jism yuzasi 2 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "14",
+        "15",
+        "60",
+        "16"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchi 94 N bo'lgan jism yuzasi 2 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "48",
+        "47",
+        "188",
+        "46"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kuchi 112 N bo'lgan jism yuzasi 4 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "27",
+        "448",
+        "28",
+        "29"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Kuchi 76 N bo'lgan jism yuzasi 2 m² bo'lsa, bosimni toping (Pa da).",
+      "variantlar": [
+        "37",
+        "38",
+        "39",
+        "152"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 10 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "110",
+        "100",
+        "10",
+        "90"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 49 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "480",
+        "500",
+        "490",
+        "49"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 34 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "330",
+        "34",
+        "340",
+        "350"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 50 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "50",
+        "490",
+        "500",
+        "510"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 42 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "430",
+        "410",
+        "42",
+        "420"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 48 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "480",
+        "48",
+        "490",
+        "470"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 44 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "430",
+        "450",
+        "44",
+        "440"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Massasi 20 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "190",
+        "210",
+        "200",
+        "20"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 11 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "11",
+        "110",
+        "120",
+        "100"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 41 kg bo'lgan jismning og'irlik kuchini toping (N da, g=10 N/kg deb oling).",
+      "variantlar": [
+        "420",
+        "410",
+        "41",
+        "400"
+      ],
+      "togri": 1
+    }
+  ]
+}
