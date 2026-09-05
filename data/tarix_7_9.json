@@ -1,0 +1,1205 @@
+{
+  "label": "Tarix sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "Amir Temur qachon tug'ilgan?",
+      "variantlar": [
+        "1326-yilda",
+        "1336-yilda",
+        "1346-yilda",
+        "1356-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur qaysi shaharni poytaxt qilgan?",
+      "variantlar": [
+        "Buxoro",
+        "Samarqand",
+        "Toshkent",
+        "Xiva"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur qachon vafot etgan?",
+      "variantlar": [
+        "1395-yilda",
+        "1405-yilda",
+        "1415-yilda",
+        "1425-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur qaysi yurishga tayyorlanayotganda vafot etgan?",
+      "variantlar": [
+        "Hindistonga",
+        "Xitoyga",
+        "Eronga",
+        "Ossuriyaga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mirzo Ulug'bek nima bilan mashhur?",
+      "variantlar": [
+        "Harbiy yurishlar bilan",
+        "Astronomiya va fan bilan",
+        "Savdo bilan",
+        "Me'morchilik bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ulug'bek observatoriyasi qaysi shaharda joylashgan?",
+      "variantlar": [
+        "Buxoro",
+        "Samarqand",
+        "Shahrisabz",
+        "Xiva"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ulug'bek qachon Samarqand hukmdori bo'lgan?",
+      "variantlar": [
+        "1409-yildan",
+        "1419-yildan",
+        "1429-yildan",
+        "1449-yildan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Ziji jadidi Ko'ragoniy\" asari kimga tegishli?",
+      "variantlar": [
+        "Al-Xorazmiy",
+        "Ulug'bek",
+        "Ibn Sino",
+        "Ali Qushchi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ali Qushchi qaysi sohada mashhur olim bo'lgan?",
+      "variantlar": [
+        "Tibbiyot",
+        "Astronomiya va matematika",
+        "Tarix",
+        "Adabiyot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Temuriylar sulolasi taxminan necha yil hukmronlik qilgan?",
+      "variantlar": [
+        "50 yilcha",
+        "100 yilcha",
+        "150 yilcha",
+        "200 yilcha"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Temuriylar davlatiga qaysi sulola barham bergan?",
+      "variantlar": [
+        "Safaviylar",
+        "Shayboniylar",
+        "Usmoniylar",
+        "Boburiylar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muhammad Shayboniyxon qachon Movarounnahrni bosib olgan?",
+      "variantlar": [
+        "XV asr oxirida",
+        "XVI asr boshida",
+        "XVI asr o'rtasida",
+        "XVII asr boshida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zahiriddin Muhammad Bobur qaysi davlatga asos solgan?",
+      "variantlar": [
+        "Usmoniylar imperiyasi",
+        "Boburiylar (Mug'ullar) davlati Hindistonda",
+        "Safaviylar davlati",
+        "Shayboniylar davlati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Boburnoma\" asarining muallifi kim?",
+      "variantlar": [
+        "Ulug'bek",
+        "Alisher Navoiy",
+        "Bobur",
+        "Ali Qushchi"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Alisher Navoiy qaysi tilda ijod qilgan shoir sifatida mashhur?",
+      "variantlar": [
+        "Fors tilida",
+        "Turkiy (chig'atoy) tilida",
+        "Arab tilida",
+        "Rus tilida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alisher Navoiy qaysi hukmdor saroyida vazir bo'lgan?",
+      "variantlar": [
+        "Ulug'bek",
+        "Husayn Boyqaro",
+        "Bobur",
+        "Shayboniyxon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Xamsa\" asarining muallifi kim?",
+      "variantlar": [
+        "Ulug'bek",
+        "Alisher Navoiy",
+        "Bobur",
+        "Ahmad Yassaviy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ashtarxoniylar sulolasi qachon hukmronlik qilgan?",
+      "variantlar": [
+        "XV asrda",
+        "XVI-XVIII asrlarda",
+        "XIX asrda",
+        "XX asrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buxoro xonligi (amirligi) markazi qaysi shahar bo'lgan?",
+      "variantlar": [
+        "Samarqand",
+        "Buxoro",
+        "Xiva",
+        "Qo'qon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xiva xonligi qaysi hududda joylashgan edi?",
+      "variantlar": [
+        "Farg'ona vodiysida",
+        "Xorazmda",
+        "Zarafshon vodiysida",
+        "Ustyurtning sharqida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qo'qon xonligi qaysi hududda tashkil topgan?",
+      "variantlar": [
+        "Xorazmda",
+        "Farg'ona vodiysida",
+        "Buxoroda",
+        "Samarqandda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uch xonlik (Buxoro, Xiva, Qo'qon) davri taxminan qaysi asrlarni o'z ichiga oladi?",
+      "variantlar": [
+        "XIV-XV asrlar",
+        "XVI-XIX asrlar",
+        "XII-XIII asrlar",
+        "XX asr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asr Yevropasida yer egaligiga asoslangan tizim qanday ataladi?",
+      "variantlar": [
+        "Kapitalizm",
+        "Feodalizm",
+        "Sotsializm",
+        "Demokratiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asr Yevropasida ritsarlar kimga xizmat qilgan?",
+      "variantlar": [
+        "Faqat qirolga",
+        "O'z senyoriga (feodaliga)",
+        "Cherkovga",
+        "Savdogarlarga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Salib yurishlari asosan qaysi hudud uchun olib borilgan?",
+      "variantlar": [
+        "Ispaniya",
+        "Falastin (Quddus)",
+        "Angliya",
+        "Fransiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi salib yurishi qaysi asrda boshlangan?",
+      "variantlar": [
+        "X asrda",
+        "XI asr oxirida",
+        "XIII asrda",
+        "XV asrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asr Yevropasida cherkovning rahbari kim hisoblangan?",
+      "variantlar": [
+        "Imperator",
+        "Rim papasi",
+        "Qirol",
+        "Yepiskop kengashi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Angliyada \"Buyuk erkinlik xartiyasi\" (Magna Carta) qachon qabul qilingan?",
+      "variantlar": [
+        "1115-yilda",
+        "1215-yilda",
+        "1315-yilda",
+        "1415-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yuz yillik urush qaysi ikki davlat o'rtasida bo'lgan?",
+      "variantlar": [
+        "Angliya va Fransiya",
+        "Ispaniya va Portugaliya",
+        "Germaniya va Italiya",
+        "Rossiya va Polsha"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Janna d'Ark qaysi urushda mashhur bo'lgan?",
+      "variantlar": [
+        "Salib yurishlarida",
+        "Yuz yillik urushda",
+        "Napoleon urushlarida",
+        "Birinchi jahon urushida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asrlarda Yevropada qora o'lat (vabo) taxminan qaysi asrda keng tarqalgan?",
+      "variantlar": [
+        "XII asrda",
+        "XIV asrda",
+        "XVI asrda",
+        "XVIII asrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Usmonli imperiyasiga asos solgan xalq qaysi?",
+      "variantlar": [
+        "Arablar",
+        "Turklar",
+        "Forslar",
+        "Yunonlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Konstantinopol qachon usmonlilar tomonidan bosib olingan?",
+      "variantlar": [
+        "1353-yilda",
+        "1453-yilda",
+        "1553-yilda",
+        "1653-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Konstantinopol usmonlilar qo'lida qanday nom bilan atalgan?",
+      "variantlar": [
+        "Ankara",
+        "Istanbul",
+        "Izmir",
+        "Bag'dod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vizantiya imperiyasi qachon qulagan?",
+      "variantlar": [
+        "1353-yilda",
+        "1453-yilda",
+        "1553-yilda",
+        "1253-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xristofor Kolumb qaysi davlat homiyligida sayohat qilgan?",
+      "variantlar": [
+        "Portugaliya",
+        "Ispaniya",
+        "Angliya",
+        "Fransiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xristofor Kolumb Amerikani qachon kashf etgan?",
+      "variantlar": [
+        "1392-yilda",
+        "1492-yilda",
+        "1592-yilda",
+        "1292-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vasko da Gama qaysi yo'lni ochgan?",
+      "variantlar": [
+        "Amerikaga dengiz yo'lini",
+        "Hindistonga Afrika atrofidan dengiz yo'lini",
+        "Xitoyga quruqlik yo'lini",
+        "Avstraliyaga dengiz yo'lini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyo bo'ylab birinchi sayohatni kim uyushtirgan (ekspeditsiyasi yakunlagan)?",
+      "variantlar": [
+        "Kolumb",
+        "Magellan ekspeditsiyasi",
+        "Vasko da Gama",
+        "Amerigo Vespuchchi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Amerika\" qit'asi kimning nomi bilan atalgan?",
+      "variantlar": [
+        "Xristofor Kolumb",
+        "Amerigo Vespuchchi",
+        "Fernand Magellan",
+        "Vasko da Gama"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buyuk geografik kashfiyotlar davri taxminan qaysi asrlarga to'g'ri keladi?",
+      "variantlar": [
+        "XIII-XIV asrlar",
+        "XV-XVII asrlar",
+        "XVIII-XIX asrlar",
+        "X-XI asrlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uyg'onish davri (Renessans) qayerdan boshlangan?",
+      "variantlar": [
+        "Angliyadan",
+        "Italiyadan",
+        "Fransiyadan",
+        "Germaniyadan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Leonardo da Vinchi qaysi davr vakili bo'lgan?",
+      "variantlar": [
+        "O'rta asrlar",
+        "Uyg'onish davri",
+        "Sanoat inqilobi",
+        "Yangi davr oxiri"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Mona Liza\" asarining muallifi kim?",
+      "variantlar": [
+        "Mikelanjelo",
+        "Leonardo da Vinchi",
+        "Rafael",
+        "Rembrandt"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mikelanjelo qaysi cherkov shiftidagi rasmlar bilan mashhur?",
+      "variantlar": [
+        "Cho'lpon cherkovi",
+        "Sikstin kapellasi",
+        "Notr-Dam sobori",
+        "Pyotr sobori"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uyg'onish davrida insonni markazga qo'yuvchi qarash qanday ataladi?",
+      "variantlar": [
+        "Feodalizm",
+        "Gumanizm",
+        "Sotsializm",
+        "Sxolastika"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kitob bosish dastgohini kim ixtiro qilgan?",
+      "variantlar": [
+        "Isaak Nyuton",
+        "Iogann Gutenberg",
+        "Galiley",
+        "Leonardo da Vinchi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Iogann Gutenberg qachon kitob bosish dastgohini yaratgan (taxminan)?",
+      "variantlar": [
+        "XIII asrda",
+        "XV asr o'rtasida",
+        "XVII asrda",
+        "XI asrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nikolay Kopernik qanday nazariyani ilgari surgan?",
+      "variantlar": [
+        "Yer koinot markazi ekanini",
+        "Quyosh koinot markazi ekanini (geliotsentrik)",
+        "Oy Yerdan kattaligini",
+        "Yulduzlar harakatsizligini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Martin Lyuter qaysi diniy harakatga asos solgan?",
+      "variantlar": [
+        "Katoliklik",
+        "Islohot (Reformatsiya, protestantizm)",
+        "Pravoslavlik",
+        "Sunniylik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Islohot harakati qachon boshlangan (taxminan)?",
+      "variantlar": [
+        "1417-yilda",
+        "1517-yilda",
+        "1617-yilda",
+        "1717-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Moskva knyazligi (Rossiya davlati) shakllanishida qaysi shahar markaz bo'lgan?",
+      "variantlar": [
+        "Kiyev",
+        "Moskva",
+        "Novgorod",
+        "Sankt-Peterburg"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ivan IV (Grozniy) qaysi davlat hukmdori bo'lgan?",
+      "variantlar": [
+        "Polsha",
+        "Rossiya",
+        "Litva",
+        "Shvetsiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rossiya birinchi bo'lib \"tsar\" unvonini qaysi hukmdor rasman qabul qilgan?",
+      "variantlar": [
+        "I Pyotr",
+        "IV Ivan (Grozniy)",
+        "II Yekaterina",
+        "I Aleksandr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xitoyda o'rta asrlarda qaysi buyuk mudofaa inshooti yakunlangan (kengaytirilgan)?",
+      "variantlar": [
+        "Kolizey",
+        "Buyuk Xitoy devori",
+        "Buyuk Ipak yo'li stansiyalari",
+        "Sikstin kapellasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yaponiyada o'rta asrlarda harbiy hukmdorlar qanday atalgan?",
+      "variantlar": [
+        "Xonlar",
+        "Syogunlar",
+        "Sultonlar",
+        "Amirlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yaponiyaning o'rta asr jangchilar tabaqasi qanday nomlanadi?",
+      "variantlar": [
+        "Ritsarlar",
+        "Samuraylar",
+        "Kazaklar",
+        "Vikinglar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mo'g'ullar imperiyasi kim tomonidan asos solingan?",
+      "variantlar": [
+        "Amir Temur",
+        "Chingizxon",
+        "Bobur",
+        "Shayboniyxon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chingizxon imperiyasi taxminan qaysi asrda tashkil topgan?",
+      "variantlar": [
+        "XI asrda",
+        "XIII asrda",
+        "XV asrda",
+        "IX asrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Movarounnahr mo'g'ullar istilosidan keyin qaysi hukmdor davrida qayta tiklana boshlagan?",
+      "variantlar": [
+        "Chingizxon",
+        "Amir Temur",
+        "Shayboniyxon",
+        "Bobur"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur davlati boshqaruvida qanday tizim qo'llanilgan?",
+      "variantlar": [
+        "Respublika",
+        "Markazlashgan monarxiya (harbiy-ma'muriy)",
+        "Demokratiya",
+        "Feodal parchalanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur qaysi davlatga qarshi Ankara jangida g'alaba qozongan?",
+      "variantlar": [
+        "Usmonli imperiyasi",
+        "Vizantiya",
+        "Misr mamluklari",
+        "Oltin O'rda"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ankara jangi qachon bo'lgan?",
+      "variantlar": [
+        "1380-yilda",
+        "1402-yilda",
+        "1420-yilda",
+        "1450-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur Oltin O'rda xoni Toxtamishga qarshi necha marta yurish qilgan?",
+      "variantlar": [
+        "Bir marta",
+        "Ikki-uch marta",
+        "Besh martadan ko'p",
+        "Umuman qilmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sohibqiron laqabi kimga tegishli?",
+      "variantlar": [
+        "Ulug'bek",
+        "Amir Temur",
+        "Bobur",
+        "Shohruh"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temurdan keyin davlatni kim boshqargan?",
+      "variantlar": [
+        "Ulug'bek",
+        "Shohruh Mirzo",
+        "Bobur",
+        "Husayn Boyqaro"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ulug'bek o'z otasi Shohruhdan keyin qaysi hududni boshqargan?",
+      "variantlar": [
+        "Hirot",
+        "Movarounnahr (Samarqand markazida)",
+        "Ozarbayjon",
+        "Hindiston"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ulug'bek o'z jadvalida necha yulduzning koordinatalarini aniqlagan?",
+      "variantlar": [
+        "Taxminan 100 ta",
+        "Taxminan 1000 ta",
+        "Taxminan 10000 ta",
+        "Taxminan 100000 ta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Husayn Boyqaro qaysi shaharda hukmronlik qilgan?",
+      "variantlar": [
+        "Samarqand",
+        "Hirot",
+        "Buxoro",
+        "Termiz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Husayn Boyqaro davrida qaysi shahar ilm-fan va madaniyat markaziga aylangan?",
+      "variantlar": [
+        "Samarqand",
+        "Hirot",
+        "Marv",
+        "Nishopur"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kamoliddin Behzod kim bo'lgan?",
+      "variantlar": [
+        "Shoir",
+        "Mashhur miniatyurachi rassom",
+        "Olim-astronom",
+        "Me'mor"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shayboniylar sulolasiga kim asos solgan?",
+      "variantlar": [
+        "Ismoil Somoniy",
+        "Muhammad Shayboniyxon",
+        "Abdullaxon II",
+        "Boburning o'zi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shayboniyxon Bobur bilan qanday munosabatda bo'lgan?",
+      "variantlar": [
+        "Ittifoqchi bo'lgan",
+        "Raqib bo'lib, Boburni Movarounnahrdan siqib chiqargan",
+        "Birga hukmronlik qilishgan",
+        "Hech qanday aloqasi bo'lmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Abdullaxon II qaysi sulola vakili bo'lgan?",
+      "variantlar": [
+        "Shayboniylar",
+        "Ashtarxoniylar",
+        "Mang'itlar",
+        "Qo'ng'irotlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Abdullaxon II davrida qaysi shahar poytaxt bo'lgan?",
+      "variantlar": [
+        "Samarqand",
+        "Buxoro",
+        "Xiva",
+        "Toshkent"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ashtarxoniylar sulolasi qaysi xalq/urug'dan kelib chiqqan?",
+      "variantlar": [
+        "Mo'g'ullardan",
+        "Volga bo'yi (Ashtarxon) tatarlaridan",
+        "Forslardan",
+        "Arablardan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mang'itlar sulolasi qaysi shaharda hukmronlik qilgan?",
+      "variantlar": [
+        "Xiva",
+        "Buxoro (amirlik)",
+        "Qo'qon",
+        "Toshkent"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qo'ng'irotlar sulolasi qaysi xonlikda hukmronlik qilgan?",
+      "variantlar": [
+        "Buxoro",
+        "Xiva",
+        "Qo'qon",
+        "Samarqand"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ming (Minglar) sulolasi qaysi xonlikda hukmronlik qilgan?",
+      "variantlar": [
+        "Buxoro",
+        "Xiva",
+        "Qo'qon",
+        "Toshkent alohida xonlik sifatida"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Uch xonlik o'rtasida asosan qanday munosabat hukmron edi?",
+      "variantlar": [
+        "Doimiy ittifoq",
+        "Ko'pincha o'zaro urushlar va raqobat",
+        "To'liq birlashgan yagona davlat",
+        "Hech qanday aloqa bo'lmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buyuk ipak yo'lining ahamiyati XVI-XVII asrlarda nima sababdan pasaygan?",
+      "variantlar": [
+        "Yer haydaladigan bo'lib qolgani uchun",
+        "Dengiz savdo yo'llarining ochilishi (Buyuk geografik kashfiyotlar)",
+        "Urushlar tugagani uchun",
+        "Aholi ko'payib ketgani uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Angliyada mutlaq monarxiya kuchli bo'lgan qirolicha kim edi?",
+      "variantlar": [
+        "I Yelizaveta",
+        "II Yelizaveta",
+        "Mariya Styuart",
+        "Viktoriya"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ispan Armadasini (flotini) kim mag'lub etgan?",
+      "variantlar": [
+        "Fransiya",
+        "Angliya",
+        "Portugaliya",
+        "Gollandiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gollandiya (Niderlandiya) XVII asrda nima bilan mashhur bo'lgan?",
+      "variantlar": [
+        "Harbiy kuchi bilan",
+        "Savdo va dengizchilik bilan",
+        "Qishloq xo'jaligi bilan",
+        "Konchilik bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fransiyada mutlaq monarxiyaning eng yuqori cho'qqisi qaysi qirol davriga to'g'ri keladi?",
+      "variantlar": [
+        "XIV Lyudovik davriga",
+        "I Napoleon davriga",
+        "XVI Lyudovik davriga",
+        "IV Genrix davriga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Quyosh qirol\" laqabi qaysi hukmdorga berilgan?",
+      "variantlar": [
+        "I Pyotr",
+        "XIV Lyudovik",
+        "Karl V",
+        "Filipp II"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muqaddas Rim imperiyasi asosan qaysi zamonaviy davlat hududida joylashgan edi?",
+      "variantlar": [
+        "Fransiya",
+        "Germaniya (va qo'shni hududlar)",
+        "Angliya",
+        "Ispaniya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'ttiz yillik urush (1618-1648) asosan qaysi hududda bo'lib o'tgan?",
+      "variantlar": [
+        "Angliyada",
+        "Germaniya hududlarida",
+        "Ispaniyada",
+        "Italiyada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vestfaliya sulhi nimani yakunlagan?",
+      "variantlar": [
+        "Yuz yillik urushni",
+        "O'ttiz yillik urushni",
+        "Salib yurishlarini",
+        "Napoleon urushlarini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "XVII asrda Angliyada qanday muhim siyosiy o'zgarish yuz bergan?",
+      "variantlar": [
+        "Inqilob va parlament hokimiyatining kuchayishi",
+        "Mutlaq monarxiyaning tiklanishi",
+        "Respublikaning butunlay tugatilishi",
+        "Hech qanday o'zgarish bo'lmagan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Oliver Kromvel kim bo'lgan?",
+      "variantlar": [
+        "Fransiya qiroli",
+        "Angliya inqilobi rahbari",
+        "Ispaniya admirali",
+        "Rossiya tsari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "I Pyotr (Buyuk Pyotr) qaysi davlatni isloh qilgan?",
+      "variantlar": [
+        "Angliya",
+        "Rossiya",
+        "Fransiya",
+        "Shvetsiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "I Pyotr qaysi shaharga Rossiya poytaxtini ko'chirgan?",
+      "variantlar": [
+        "Moskva",
+        "Sankt-Peterburg",
+        "Kiyev",
+        "Novgorod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Boburiylar sulolasi Hindistonda taxminan qancha vaqt hukmronlik qilgan?",
+      "variantlar": [
+        "50 yilcha",
+        "Uch asrga yaqin",
+        "10 yilcha",
+        "500 yildan ortiq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Boburiylar davridagi mashhur \"Toj Mahal\" maqbarasi kim tomonidan qurdirilgan?",
+      "variantlar": [
+        "Bobur",
+        "Akbarshoh",
+        "Shoh Jahon",
+        "Aurangzeb"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Akbarshoh Boburiylar imperiyasida nima bilan mashhur bo'lgan?",
+      "variantlar": [
+        "Imperiyani parchalagani bilan",
+        "Diniy bag'rikenglik va davlatni kengaytirgani bilan",
+        "Faqat harbiy mag'lubiyatlari bilan",
+        "Savdoni taqiqlagani bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Usmonli imperiyasi eng yuqori taraqqiyot davrini qaysi sulton boshqargan?",
+      "variantlar": [
+        "Fotih Sulton Mehmed",
+        "Sulaymon Qonuniy",
+        "Ikkinchi Abdulhamid",
+        "Birinchi Salim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Usmonli imperiyasi Yevropaga qadar qaysi shaharni ikki marta qamal qilgan (muvaffaqiyatsiz)?",
+      "variantlar": [
+        "Parij",
+        "Vena",
+        "London",
+        "Rim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Safaviylar davlati qaysi hududda tashkil topgan?",
+      "variantlar": [
+        "Hindiston",
+        "Eron",
+        "Misr",
+        "Arabiston"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Safaviylar davlati qaysi diniy oqimni rasmiy din sifatida joriy qilgan?",
+      "variantlar": [
+        "Sunniylik",
+        "Shialik",
+        "Xristianlik",
+        "Buddaviylik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mali imperiyasi (o'rta asr Afrikasida) nima bilan mashhur bo'lgan?",
+      "variantlar": [
+        "Muzlik hududlar bilan",
+        "Oltin savdosi bilan",
+        "Dengiz floti bilan",
+        "Qor bilan qoplangan tog'lari bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xitoyda Min sulolasi davrida qanday muhim dengiz sayohatlari uyushtirilgan?",
+      "variantlar": [
+        "Amerikaga sayohatlar",
+        "Admiral Cheng Xening Hind okeani bo'ylab sayohatlari",
+        "Yevropaga harbiy yurishlar",
+        "Antarktidaga ekspeditsiyalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yaponiya o'rta asrlarda tashqi dunyodan qanday siyosat yuritgan (XVII asrdan)?",
+      "variantlar": [
+        "Ochiq savdo siyosati",
+        "O'zini deyarli butunlay yopib qo'yish (izolyatsiya)",
+        "Faol mustamlakachilik",
+        "Boshqa davlatlar bilan doimiy urush"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Angliya, Fransiya, Ispaniya kabi davlatlar Amerikada nima tashkil qilgan?",
+      "variantlar": [
+        "Faqat savdo shartnomalari",
+        "Mustamlakalar",
+        "Diniy ittifoqlar",
+        "Ilmiy markazlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amerikaga Yevropadan ko'chirilgan mahalliy aholi (hind qabilalari)ning aksariyati nimadan aziyat chekkan?",
+      "variantlar": [
+        "Faqat urushlardan",
+        "Yangi kasalliklar va bosqinchilikdan",
+        "Faqat ochlikdan",
+        "Hech nima bo'lmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Afrikadan Amerikaga majburiy ko'chirilgan odamlar bilan bog'liq tarixiy hodisa qanday ataladi?",
+      "variantlar": [
+        "Ko'chmanchilik",
+        "Qullar savdosi",
+        "Ziyorat",
+        "Migratsiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Galiley Galiley nimasi bilan mashhur?",
+      "variantlar": [
+        "Adabiyot bilan",
+        "Teleskop yordamida kuzatishlar va fizika bilan",
+        "Musiqa bilan",
+        "Harbiy strategiya bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Isaak Nyuton qaysi qonun bilan mashhur?",
+      "variantlar": [
+        "Nisbiylik nazariyasi",
+        "Butun olam tortishish qonuni",
+        "Evolyutsiya nazariyasi",
+        "Genetika qonunlari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fransisk Bekon va Rene Dekart qaysi soha rivojiga hissa qo'shgan?",
+      "variantlar": [
+        "Musiqa",
+        "Falsafa va ilmiy metod",
+        "Harbiy san'at",
+        "Me'morchilik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "XVII-XVIII asrlarda Yevropada ilm-fan va aql-idrokka asoslangan qarashlar qanday davr deb ataladi?",
+      "variantlar": [
+        "Qorong'u asrlar",
+        "Ma'rifat (Ma'rifatparvarlik) davri",
+        "O'rta asrlar",
+        "Antik davr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Volter va Russo qaysi davr mutafakkirlari bo'lgan?",
+      "variantlar": [
+        "Antik davr",
+        "Ma'rifatparvarlik davri",
+        "O'rta asrlar",
+        "Zamonaviy davr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sharqiy Yevropada Polsha-Litva davlati XVI-XVII asrlarda qanday boshqaruvga ega edi?",
+      "variantlar": [
+        "Mutlaq monarxiya",
+        "Zodagonlar respublikasi (saylanadigan qirol)",
+        "Diktatura",
+        "Teokratiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Habsburglar sulolasi qaysi davlatlarni boshqargan?",
+      "variantlar": [
+        "Faqat Fransiyani",
+        "Avstriya va Ispaniyani (turli davrlarda)",
+        "Faqat Angliyani",
+        "Faqat Italiyani"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Movarounnahrda XVI-XVIII asrlarda savdo-hunarmandchilik markazlaridan biri qaysi shahar bo'lgan?",
+      "variantlar": [
+        "Faqat Toshkent",
+        "Buxoro",
+        "Faqat Termiz",
+        "Faqat Andijon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asr musulmon olamida ilm-fan rivojiga katta hissa qo'shgan Ibn Sino qaysi asrda yashagan?",
+      "variantlar": [
+        "VII-VIII asr",
+        "X-XI asr",
+        "XIV-XV asr",
+        "XVII-XVIII asr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur qurdirgan mashhur maqbara qaysi?",
+      "variantlar": [
+        "Toj Mahal",
+        "Go'ri Amir maqbarasi",
+        "Sikstin kapellasi",
+        "Kolizey"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bibixonim masjidi qaysi shaharda joylashgan?",
+      "variantlar": [
+        "Buxoro",
+        "Samarqand",
+        "Xiva",
+        "Termiz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Registon maydoni qaysi shaharning tarixiy markazi hisoblanadi?",
+      "variantlar": [
+        "Buxoro",
+        "Samarqand",
+        "Xiva",
+        "Qo'qon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shohizinda majmuasi qaysi shaharda joylashgan?",
+      "variantlar": [
+        "Buxoro",
+        "Samarqand",
+        "Xiva",
+        "Toshkent"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rta asrlarda Buxoroda qurilgan mashhur minora qanday ataladi?",
+      "variantlar": [
+        "Qutb minor",
+        "Kalon minorasi",
+        "Eyfel minorasi",
+        "Pizaning qiya minorasi"
+      ],
+      "togri": 1
+    }
+  ]
+}

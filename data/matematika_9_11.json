@@ -1,0 +1,1205 @@
+{
+  "label": "Matematika sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "x² - 14x + 48 = 0 tenglamaning diskriminantini (D) toping.",
+      "variantlar": [
+        "8",
+        "4",
+        "0",
+        "196"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² + 8x + 12 = 0 tenglamaning ildizlaridan biri -6. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "-1",
+        "-3",
+        "-2",
+        "-6"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "x² + 12x + 32 = 0 tenglamaning ildizlaridan biri -8. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "-4",
+        "-8",
+        "-5",
+        "-3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "x² - 3x + -10 = 0 tenglamaning diskriminantini (D) toping.",
+      "variantlar": [
+        "53",
+        "45",
+        "9",
+        "49"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "x² - 5x + -36 = 0 tenglamaning ildizlaridan biri -4. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "8",
+        "-4",
+        "10",
+        "9"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "x² + 5x + -14 = 0 tenglamaning ildizlari yig'indisi (x1+x2) nechaga teng?",
+      "variantlar": [
+        "5",
+        "-5",
+        "-4",
+        "-14"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² + 15x + 54 = 0 tenglamaning diskriminantini (D) toping.",
+      "variantlar": [
+        "225",
+        "5",
+        "13",
+        "9"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "x² - 6x + -7 = 0 tenglamaning ildizlari ko'paytmasi (x1×x2) nechaga teng?",
+      "variantlar": [
+        "7",
+        "-7",
+        "6",
+        "-6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² - 6x + 9 = 0 tenglamaning ildizlari ko'paytmasi (x1×x2) nechaga teng?",
+      "variantlar": [
+        "-9",
+        "10",
+        "9",
+        "6"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "x² + 8x + 12 = 0 tenglamaning ildizlari yig'indisi (x1+x2) nechaga teng?",
+      "variantlar": [
+        "-7",
+        "8",
+        "12",
+        "-8"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "x² - 9x + 8 = 0 tenglamaning diskriminantini (D) toping.",
+      "variantlar": [
+        "53",
+        "49",
+        "45",
+        "81"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² + 2x + -8 = 0 tenglamaning ildizlaridan biri 2. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "-5",
+        "-4",
+        "2",
+        "-3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² + 7x + 10 = 0 tenglamaning diskriminantini (D) toping.",
+      "variantlar": [
+        "13",
+        "9",
+        "5",
+        "49"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² + 14x + 45 = 0 tenglamaning ildizlari yig'indisi (x1+x2) nechaga teng?",
+      "variantlar": [
+        "45",
+        "-14",
+        "14",
+        "-13"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² - 11x + 28 = 0 tenglamaning ildizlaridan biri 4. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "6",
+        "7",
+        "4",
+        "8"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² - 2x + -35 = 0 tenglamaning ildizlaridan biri 7. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "-5",
+        "-4",
+        "7",
+        "-6"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "x² - 12x + 35 = 0 tenglamaning ildizlari yig'indisi (x1+x2) nechaga teng?",
+      "variantlar": [
+        "35",
+        "-12",
+        "12",
+        "13"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "x² + 7x + 6 = 0 tenglamaning diskriminantini (D) toping.",
+      "variantlar": [
+        "21",
+        "29",
+        "49",
+        "25"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "x² - 9x + 20 = 0 tenglamaning ildizlari ko'paytmasi (x1×x2) nechaga teng?",
+      "variantlar": [
+        "-20",
+        "20",
+        "9",
+        "21"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "x² + 9x + 18 = 0 tenglamaning ildizlaridan biri -6. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "-3",
+        "-4",
+        "-2",
+        "-6"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "sin(90°) nechaga teng?",
+      "variantlar": [
+        "1/2",
+        "√3",
+        "0",
+        "1"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "cos(45°) nechaga teng?",
+      "variantlar": [
+        "1/2",
+        "1",
+        "√2/2",
+        "√3/3"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "sin(30°) nechaga teng?",
+      "variantlar": [
+        "0",
+        "1/2",
+        "√3",
+        "1"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "tan(45°) nechaga teng?",
+      "variantlar": [
+        "√3",
+        "√2/2",
+        "0",
+        "1"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "sin(45°) nechaga teng?",
+      "variantlar": [
+        "√3/2",
+        "√2/2",
+        "1",
+        "√3/3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "cos(0°) nechaga teng?",
+      "variantlar": [
+        "√2/2",
+        "√3/2",
+        "0",
+        "1"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "cos(60°) nechaga teng?",
+      "variantlar": [
+        "√3",
+        "1/2",
+        "√3/2",
+        "√2/2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "tan(60°) nechaga teng?",
+      "variantlar": [
+        "1",
+        "0",
+        "√3/3",
+        "√3"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "cos(30°) nechaga teng?",
+      "variantlar": [
+        "√3/2",
+        "0",
+        "1/2",
+        "1"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "sin(0°) nechaga teng?",
+      "variantlar": [
+        "√3",
+        "√3/3",
+        "0",
+        "1"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "cos(90°) nechaga teng?",
+      "variantlar": [
+        "1",
+        "0",
+        "1/2",
+        "√3/2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "sin(60°) nechaga teng?",
+      "variantlar": [
+        "1/2",
+        "√3/2",
+        "0",
+        "√3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "tan(30°) nechaga teng?",
+      "variantlar": [
+        "√3/2",
+        "√3/3",
+        "√3",
+        "√2/2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "tan(0°) nechaga teng?",
+      "variantlar": [
+        "1",
+        "0",
+        "√3/3",
+        "√2/2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Geometrik progressiyada b1=3, maxraj q=4. b5 hadni toping.",
+      "variantlar": [
+        "3072",
+        "768",
+        "60",
+        "192"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Geometrik progressiyada b1=2, b2=8. Maxrajni (q) toping.",
+      "variantlar": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Geometrik progressiyada b1=3, b2=9. Maxrajni (q) toping.",
+      "variantlar": [
+        "4",
+        "6",
+        "5",
+        "3"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=9, d=2. Birinchi 4 ta hadning yig'indisini toping.",
+      "variantlar": [
+        "50",
+        "46",
+        "48",
+        "60"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=6, d=4. Birinchi 5 ta hadning yig'indisini toping.",
+      "variantlar": [
+        "74",
+        "66",
+        "110",
+        "70"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Geometrik progressiyada b1=1, maxraj q=3. b4 hadni toping.",
+      "variantlar": [
+        "27",
+        "9",
+        "81",
+        "12"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=1, d=2. Birinchi 4 ta hadning yig'indisini toping.",
+      "variantlar": [
+        "14",
+        "18",
+        "28",
+        "16"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Geometrik progressiyada b1=3, maxraj q=4. b3 hadni toping.",
+      "variantlar": [
+        "192",
+        "36",
+        "48",
+        "12"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Geometrik progressiyada b1=1, maxraj q=2. b4 hadni toping.",
+      "variantlar": [
+        "16",
+        "7",
+        "4",
+        "8"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=9, d=-8. a6 hadni toping.",
+      "variantlar": [
+        "-23",
+        "-26",
+        "-31",
+        "-39"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=-3, d=1. a4 hadni toping.",
+      "variantlar": [
+        "-1",
+        "0",
+        "5",
+        "1"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Geometrik progressiyada b1=1, maxraj q=2. b5 hadni toping.",
+      "variantlar": [
+        "16",
+        "10",
+        "32",
+        "8"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=-7, d=7. a9 hadni toping.",
+      "variantlar": [
+        "49",
+        "54",
+        "42",
+        "56"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Geometrik progressiyada b1=5, maxraj q=3. b5 hadni toping.",
+      "variantlar": [
+        "1215",
+        "135",
+        "405",
+        "75"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=-3, d=-2. a5 hadni toping.",
+      "variantlar": [
+        "-11",
+        "-13",
+        "-9",
+        "-6"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Geometrik progressiyada b1=2, maxraj q=2. b4 hadni toping.",
+      "variantlar": [
+        "16",
+        "32",
+        "8",
+        "21"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qirrasi 10 sm bo'lgan kubning to'la yuzasini toping.",
+      "variantlar": [
+        "1000",
+        "400",
+        "600",
+        "610"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qirrasi 4 sm bo'lgan kubning to'la yuzasini toping.",
+      "variantlar": [
+        "96",
+        "100",
+        "64",
+        "92"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Radiusi 21 sm, balandligi 10 sm bo'lgan silindrning hajmini toping (π ≈ 22/7).",
+      "variantlar": [
+        "13882",
+        "13860",
+        "660",
+        "13838"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Radiusi 14 sm, balandligi 10 sm bo'lgan silindrning hajmini toping (π ≈ 22/7).",
+      "variantlar": [
+        "6138",
+        "440",
+        "6182",
+        "6160"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Radiusi 14 sm bo'lgan sharning sirt yuzasini toping (π ≈ 22/7, S=4πr²).",
+      "variantlar": [
+        "2464",
+        "2486",
+        "1232",
+        "2442"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Radiusi 7 sm bo'lgan sharning sirt yuzasini toping (π ≈ 22/7, S=4πr²).",
+      "variantlar": [
+        "616",
+        "308",
+        "638",
+        "594"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qirrasi 3 sm bo'lgan kubning to'la yuzasini toping.",
+      "variantlar": [
+        "36",
+        "27",
+        "54",
+        "57"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "O'lchamlari 7×5×5 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "190",
+        "168",
+        "182",
+        "175"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Radiusi 21 sm bo'lgan sharning sirt yuzasini toping (π ≈ 22/7, S=4πr²).",
+      "variantlar": [
+        "2772",
+        "5566",
+        "5544",
+        "5522"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "O'lchamlari 9×2×10 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "189",
+        "180",
+        "256",
+        "171"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'lchamlari 10×5×5 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "250",
+        "240",
+        "260",
+        "20"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'lchamlari 8×6×10 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "472",
+        "480",
+        "376",
+        "488"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'lchamlari 2×9×9 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "160",
+        "234",
+        "164",
+        "162"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "4^(-3) nechaga teng?",
+      "variantlar": [
+        "64",
+        "1/12",
+        "-64",
+        "1/64"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "log5(3125) nechaga teng?",
+      "variantlar": [
+        "3125",
+        "6",
+        "4",
+        "5"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "log5(125) nechaga teng?",
+      "variantlar": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "36^(1/2) nechaga teng?",
+      "variantlar": [
+        "7",
+        "18",
+        "6",
+        "5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "log2(32) nechaga teng?",
+      "variantlar": [
+        "4",
+        "2",
+        "6",
+        "5"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "log2(16) nechaga teng?",
+      "variantlar": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "log2(2) nechaga teng?",
+      "variantlar": [
+        "1",
+        "6",
+        "3",
+        "2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "4^(1/2) nechaga teng?",
+      "variantlar": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tengsizlikni yeching: 5x + 4 > -31. x qanday qiymatlardan katta?",
+      "variantlar": [
+        "-5",
+        "-7",
+        "-8",
+        "-6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tengsizlikni yeching: 6x + 20 > 80. x qanday qiymatlardan katta?",
+      "variantlar": [
+        "11",
+        "10",
+        "12",
+        "9"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tengsizlikni yeching: 7x + 9 > 72. x qanday qiymatlardan katta?",
+      "variantlar": [
+        "8",
+        "9",
+        "11",
+        "10"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tengsizlikni yeching: -8x + 18 > -30. Agar natija x < k ko'rinishida bo'lsa, k nechaga teng?",
+      "variantlar": [
+        "5",
+        "7",
+        "6",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tengsizlikni yeching: -5x + 20 > 20. Agar natija x < k ko'rinishida bo'lsa, k nechaga teng?",
+      "variantlar": [
+        "2",
+        "0",
+        "-1",
+        "1"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tengsizlikni yeching: 7x + 14 > 7. x qanday qiymatlardan katta?",
+      "variantlar": [
+        "0",
+        "1",
+        "-2",
+        "-1"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tengsizlikni yeching: -5x + 2 > -18. Agar natija x < k ko'rinishida bo'lsa, k nechaga teng?",
+      "variantlar": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tengsizlikni yeching: -5x + 6 > 16. Agar natija x < k ko'rinishida bo'lsa, k nechaga teng?",
+      "variantlar": [
+        "-1",
+        "-3",
+        "-2",
+        "0"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Tengsizlikni yeching: -3x + 17 > 2. Agar natija x < k ko'rinishida bo'lsa, k nechaga teng?",
+      "variantlar": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Tengsizlikni yeching: 7x + 11 > -17. x qanday qiymatlardan katta?",
+      "variantlar": [
+        "-3",
+        "-2",
+        "-4",
+        "-5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "A(-3; 0) va B(-3; 7) nuqtalar orasidagi kesmaning o'rta nuqtasi abssissasini (x) toping.",
+      "variantlar": [
+        "-2",
+        "-3",
+        "2",
+        "-4"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "A(5; 3) va B(-3; 2) nuqtalar orasidagi kesmaning o'rta nuqtasi abssissasini (x) toping.",
+      "variantlar": [
+        "5",
+        "2",
+        "1",
+        "0"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "A(6; 0) va B(10; -10) nuqtalar orasidagi kesmaning o'rta nuqtasi abssissasini (x) toping.",
+      "variantlar": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "A(8; 1) va B(9; 7) nuqtalar orasidagi kesmaning o'rta nuqtasi ordinatasini (y) toping.",
+      "variantlar": [
+        "3",
+        "5",
+        "4",
+        "1"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "A(-7; -9) va B(-4; -5) nuqtalar orasidagi masofani toping.",
+      "variantlar": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "A(-7; 3) va B(-4; -1) nuqtalar orasidagi masofani toping.",
+      "variantlar": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "A(-10; 2) va B(-4; -6) nuqtalar orasidagi masofani toping.",
+      "variantlar": [
+        "10",
+        "11",
+        "9",
+        "14"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "A(4; -4) va B(6; -4) nuqtalar orasidagi kesmaning o'rta nuqtasi abssissasini (x) toping.",
+      "variantlar": [
+        "10",
+        "5",
+        "4",
+        "6"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "A(6; 6) va B(1; 18) nuqtalar orasidagi masofani toping.",
+      "variantlar": [
+        "12",
+        "14",
+        "17",
+        "13"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "A(3; 7) va B(-6; 19) nuqtalar orasidagi masofani toping.",
+      "variantlar": [
+        "21",
+        "16",
+        "15",
+        "14"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qutida 6 ta shar bor, ulardan 4 tasi qizil. Tasodifan bitta shar olinganda, u qizil bo'lish ehtimolini toping.",
+      "variantlar": [
+        "2/6",
+        "3/3",
+        "4/6",
+        "2/3"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "5 ta har xil kitobni javonga necha xil usulda tizib qo'yish mumkin?",
+      "variantlar": [
+        "120",
+        "125",
+        "25",
+        "115"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qutida 20 ta shar bor, ulardan 9 tasi qizil. Tasodifan bitta shar olinganda, u qizil bo'lish ehtimolini toping.",
+      "variantlar": [
+        "9/20",
+        "10/20",
+        "11/20",
+        "9/22"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "2 ta har xil kitobni javonga necha xil usulda tizib qo'yish mumkin?",
+      "variantlar": [
+        "7",
+        "4",
+        "6",
+        "2"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "4 ta har xil kitobni javonga necha xil usulda tizib qo'yish mumkin?",
+      "variantlar": [
+        "28",
+        "20",
+        "16",
+        "24"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "2! (faktorial) nechaga teng?",
+      "variantlar": [
+        "4",
+        "6",
+        "1",
+        "2"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Qutida 6 ta shar bor, ulardan 1 tasi qizil. Tasodifan bitta shar olinganda, u qizil bo'lish ehtimolini toping.",
+      "variantlar": [
+        "1/6",
+        "1/8",
+        "2/6",
+        "5/6"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "4! (faktorial) nechaga teng?",
+      "variantlar": [
+        "6",
+        "28",
+        "24",
+        "16"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "y = 2x² + 6x + 6 funksiyada x = -3 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "6",
+        "5",
+        "7",
+        "-18"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "y = 1(x - 5)² + -4 funksiyaning uchi (vertex) abssissasi nechaga teng?",
+      "variantlar": [
+        "6",
+        "5",
+        "4",
+        "-5"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "y = (x + 2)(x - -8) funksiyaning nollaridan (ildizlaridan) biri -2 ga teng. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "-7",
+        "-8",
+        "-9",
+        "-2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "y = (x + 8)(x - 3) funksiyaning nollaridan (ildizlaridan) biri -8 ga teng. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "-8",
+        "4",
+        "3",
+        "2"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "y = 3x² + 0x + -2 funksiyada x = 2 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "4",
+        "11",
+        "9",
+        "10"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "y = 4(x + 8)² + -4 funksiyaning uchi (vertex) abssissasi nechaga teng?",
+      "variantlar": [
+        "-9",
+        "8",
+        "-8",
+        "-7"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "y = 3x² + 5x + -8 funksiyada x = -3 bo'lganda, y nechaga teng?",
+      "variantlar": [
+        "3",
+        "4",
+        "5",
+        "-32"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "y = (x - 4)(x - -1) funksiyaning nollaridan (ildizlaridan) biri 4 ga teng. Ikkinchi ildizni toping.",
+      "variantlar": [
+        "0",
+        "-2",
+        "4",
+        "-1"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "y = 2(x + 4)² + 0 funksiyaning uchi (vertex) abssissasi nechaga teng?",
+      "variantlar": [
+        "-4",
+        "-5",
+        "-3",
+        "4"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "y = 3(x - 7)² + 0 funksiyaning uchi (vertex) abssissasi nechaga teng?",
+      "variantlar": [
+        "-7",
+        "6",
+        "7",
+        "8"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "x² - 14x + 48 = 0 tenglamaning ildizlari yig'indisi (x1+x2) nechaga teng?",
+      "variantlar": [
+        "-14",
+        "15",
+        "14",
+        "48"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "A(7; 1) va B(-13; 7) nuqtalar orasidagi kesmaning o'rta nuqtasi ordinatasini (y) toping.",
+      "variantlar": [
+        "5",
+        "1",
+        "3",
+        "4"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "O'lchamlari 9×6×14 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "765",
+        "528",
+        "747",
+        "756"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "O'lchamlari 9×6×11 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "603",
+        "594",
+        "438",
+        "585"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "A(5; 7) va B(9; 13) nuqtalar orasidagi kesmaning o'rta nuqtasi ordinatasini (y) toping.",
+      "variantlar": [
+        "11",
+        "7",
+        "10",
+        "9"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "O'lchamlari 9×12×8 sm bo'lgan to'g'ri parallelepipedning hajmini toping.",
+      "variantlar": [
+        "552",
+        "873",
+        "855",
+        "864"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Geometrik progressiyada b1=3, maxraj q=5. b4 hadni toping.",
+      "variantlar": [
+        "375",
+        "60",
+        "1875",
+        "75"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "x² + 20x + 96 = 0 tenglamaning ildizlari yig'indisi (x1+x2) nechaga teng?",
+      "variantlar": [
+        "20",
+        "96",
+        "-20",
+        "-19"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Qirrasi 6 sm bo'lgan kubning hajmini toping.",
+      "variantlar": [
+        "216",
+        "221",
+        "210",
+        "222"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Arifmetik progressiyada a1=-9, d=9. a4 hadni toping.",
+      "variantlar": [
+        "23",
+        "18",
+        "27",
+        "9"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Geometrik progressiyada b1=5, maxraj q=4. b2 hadni toping.",
+      "variantlar": [
+        "80",
+        "5",
+        "40",
+        "20"
+      ],
+      "togri": 3
+    }
+  ]
+}

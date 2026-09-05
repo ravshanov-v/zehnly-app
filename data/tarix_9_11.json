@@ -1,0 +1,1205 @@
+{
+  "label": "Tarix sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "Fransiya inqilobi qachon boshlangan?",
+      "variantlar": [
+        "1689-yilda",
+        "1789-yilda",
+        "1889-yilda",
+        "1989-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bastiliya qal'asi qachon qulagan?",
+      "variantlar": [
+        "1789-yil 14-iyulda",
+        "1799-yil 14-iyulda",
+        "1779-yil 14-iyulda",
+        "1809-yil 14-iyulda"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fransiya inqilobi paytida qaysi qirol taxtdan ag'darilgan?",
+      "variantlar": [
+        "XIV Lyudovik",
+        "XVI Lyudovik",
+        "XVIII Lyudovik",
+        "I Napoleon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Inson va fuqaro huquqlari deklaratsiyasi\" qaysi inqilob davrida qabul qilingan?",
+      "variantlar": [
+        "Amerika inqilobi",
+        "Fransiya inqilobi",
+        "Rossiya inqilobi",
+        "Angliya inqilobi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Napoleon Bonapart qachon Fransiya imperatori deb e'lon qilingan?",
+      "variantlar": [
+        "1794-yilda",
+        "1804-yilda",
+        "1814-yilda",
+        "1824-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Napoleon qaysi jangda yakuniy mag'lubiyatga uchragan?",
+      "variantlar": [
+        "Austerlits jangida",
+        "Vaterloo jangida",
+        "Borodino jangida",
+        "Trafalgar jangida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vaterloo jangi qachon bo'lgan?",
+      "variantlar": [
+        "1805-yilda",
+        "1815-yilda",
+        "1825-yilda",
+        "1795-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amerika Qo'shma Shtatlari mustaqilligi qachon e'lon qilingan?",
+      "variantlar": [
+        "1676-yilda",
+        "1776-yilda",
+        "1876-yilda",
+        "1976-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "AQSh birinchi prezidenti kim bo'lgan?",
+      "variantlar": [
+        "Tomas Jefferson",
+        "Jorj Vashington",
+        "Avraam Linkoln",
+        "Benjamin Franklin"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sanoat inqilobi qayerdan boshlangan?",
+      "variantlar": [
+        "Fransiyadan",
+        "Angliyadan",
+        "Germaniyadan",
+        "Rossiyadan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bug' mashinasini takomillashtirgan ixtirochi kim?",
+      "variantlar": [
+        "Jeyms Vatt",
+        "Tomas Edison",
+        "Aleksandr Bell",
+        "Maykl Faradey"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sanoat inqilobi taxminan qaysi asrda boshlangan?",
+      "variantlar": [
+        "XVI asrda",
+        "XVIII asr ikkinchi yarmida",
+        "XX asrda",
+        "XIV asrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sanoat inqilobi natijasida qaysi ijtimoiy tabaqalar kuchaygan?",
+      "variantlar": [
+        "Feodallar va krepostnoylar",
+        "Burjuaziya va ishchilar sinfi",
+        "Ruhoniylar va ritsarlar",
+        "Faqat qirol oilalari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rossiya imperiyasi Turkistonni bosib olishni taxminan qaysi asrda boshlagan?",
+      "variantlar": [
+        "XVII asrda",
+        "XIX asr o'rtalarida",
+        "XX asr boshida",
+        "XVIII asr boshida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rossiya qo'shinlari Toshkentni qachon bosib olgan?",
+      "variantlar": [
+        "1855-yilda",
+        "1865-yilda",
+        "1875-yilda",
+        "1885-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buxoro amirligi Rossiya imperiyasiga qanday nisbatga ega bo'lgan (1868-yildan keyin)?",
+      "variantlar": [
+        "To'liq mustaqil bo'lib qolgan",
+        "Rossiyaga qaram (vassal/protektorat) davlatga aylangan",
+        "Rossiya tarkibiga to'liq qo'shilgan",
+        "Rossiya bilan urushni davom ettirgan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xiva xonligi Rossiyaga qaramligini qachon tan olgan?",
+      "variantlar": [
+        "1863-yilda",
+        "1873-yilda",
+        "1883-yilda",
+        "1893-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qo'qon xonligi qachon Rossiya imperiyasi tarkibiga to'liq qo'shib olingan?",
+      "variantlar": [
+        "1866-yilda",
+        "1876-yilda",
+        "1886-yilda",
+        "1896-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Turkiston general-gubernatorligi qachon tashkil etilgan?",
+      "variantlar": [
+        "1857-yilda",
+        "1867-yilda",
+        "1877-yilda",
+        "1887-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Turkiston general-gubernatorligi markazi qaysi shahar bo'lgan?",
+      "variantlar": [
+        "Samarqand",
+        "Toshkent",
+        "Buxoro",
+        "Qo'qon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chor Rossiyasi davrida Turkistonda qaysi qishloq xo'jaligi ekini majburiy kengaytirilgan?",
+      "variantlar": [
+        "Bug'doy",
+        "Paxta",
+        "Sholi",
+        "Uzum"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "1916-yilgi Turkistondagi qo'zg'olon nima sababdan kelib chiqqan?",
+      "variantlar": [
+        "Soliqlarning kamayishi",
+        "Aholini Birinchi jahon urushiga mardikorlikka olib ketish",
+        "Yer islohoti",
+        "Diniy bayram taqiqlanishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jadidchilik harakati nimaga qaratilgan edi?",
+      "variantlar": [
+        "Eski tuzumni saqlab qolishga",
+        "Ma'rifat, ta'lim islohoti va taraqqiyotga",
+        "Faqat harbiy islohotlarga",
+        "Dinni butunlay rad etishga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mahmudxo'ja Behbudiy kim bo'lgan?",
+      "variantlar": [
+        "Rus generali",
+        "Jadidchilik harakati vakili, ma'rifatparvar",
+        "Amir Temur avlodi",
+        "Sovet arbobi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi jahon urushi qachon boshlangan?",
+      "variantlar": [
+        "1904-yilda",
+        "1914-yilda",
+        "1924-yilda",
+        "1894-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi jahon urushini boshlab yuborgan voqea nima edi?",
+      "variantlar": [
+        "Fransiya inqilobi",
+        "Avstriya arxersogi Frans Ferdinandning o'ldirilishi",
+        "Napoleon urushlari",
+        "Rossiya inqilobi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi jahon urushida qaysi ikki asosiy blok qarama-qarshi turgan?",
+      "variantlar": [
+        "NATO va Varshava shartnomasi",
+        "Antanta va Markaziy davlatlar (Germaniya, Avstriya-Vengriya)",
+        "SSSR va AQSh",
+        "Yevropa Ittifoqi va Osiyo davlatlari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi jahon urushi qachon tugagan?",
+      "variantlar": [
+        "1916-yilda",
+        "1918-yilda",
+        "1920-yilda",
+        "1922-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rossiyada fevral inqilobi qachon bo'lgan?",
+      "variantlar": [
+        "1905-yilda",
+        "1917-yil fevralida",
+        "1917-yil oktabrida",
+        "1920-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fevral inqilobi natijasida kim taxtdan voz kechgan?",
+      "variantlar": [
+        "I Aleksandr",
+        "II Nikolay",
+        "I Nikolay",
+        "III Aleksandr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rossiyada Oktabr inqilobi (bolsheviklar hokimiyatni egallashi) qachon bo'lgan?",
+      "variantlar": [
+        "1917-yil oktabrida",
+        "1917-yil fevralida",
+        "1918-yil yanvarida",
+        "1920-yil dekabrida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Oktabr inqilobiga kim rahbarlik qilgan?",
+      "variantlar": [
+        "Iosif Stalin",
+        "Vladimir Lenin",
+        "Leon Trotskiy yolg'iz",
+        "Nikolay Romanov"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Turkiston Muxtoriyati (Qo'qon Muxtoriyati) qachon e'lon qilingan?",
+      "variantlar": [
+        "1917-yil noyabrida",
+        "1918-yil martida",
+        "1916-yilda",
+        "1920-yilda"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qo'qon Muxtoriyati taxminan qancha vaqt yashagan?",
+      "variantlar": [
+        "Bir necha oy",
+        "10 yil",
+        "20 yil",
+        "50 yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Buxoro Xalq Sovet Respublikasi qachon tashkil topgan?",
+      "variantlar": [
+        "1918-yilda",
+        "1920-yilda",
+        "1922-yilda",
+        "1924-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xorazm Xalq Sovet Respublikasi qachon tashkil topgan?",
+      "variantlar": [
+        "1918-yilda",
+        "1920-yilda",
+        "1922-yilda",
+        "1917-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "SSSR (Sovet Ittifoqi) rasman qachon tuzilgan?",
+      "variantlar": [
+        "1918-yilda",
+        "1922-yilda",
+        "1930-yilda",
+        "1936-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Sovet Sotsialistik Respublikasi qachon tashkil etilgan?",
+      "variantlar": [
+        "1922-yilda",
+        "1924-yilda",
+        "1936-yilda",
+        "1929-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "1924-yildagi milliy-hududiy chegaralanish natijasida nima yuz bergan?",
+      "variantlar": [
+        "Turkiston bir davlat sifatida saqlanib qolgan",
+        "O'rta Osiyoda millat nomlari bilan respublikalar tashkil etilgan",
+        "Barcha xonliklar tiklangan",
+        "Hech qanday o'zgarish bo'lmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sovet davrida qishloq xo'jaligini majburiy jamoalashtirish qanday nom bilan mashhur?",
+      "variantlar": [
+        "Industrlashtirish",
+        "Kollektivlashtirish",
+        "Xususiylashtirish",
+        "Liberalizatsiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "1937-1938-yillardagi Sovet davridagi ommaviy siyosiy ta'qib qanday nomlanadi?",
+      "variantlar": [
+        "Kollektivlashtirish",
+        "Repressiya (qatag'on)",
+        "Industrlashtirish",
+        "Perestroyka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushi qachon boshlangan?",
+      "variantlar": [
+        "1929-yilda",
+        "1939-yilda",
+        "1949-yilda",
+        "1919-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushini boshlab yuborgan voqea nima edi?",
+      "variantlar": [
+        "Germaniyaning Polshaga bostirib kirishi",
+        "Yaponiyaning Xitoyga hujumi",
+        "SSSRning Finlyandiyaga hujumi",
+        "AQShning urushga kirishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Germaniya SSSRga qachon hujum qilgan (Buyuk Vatan urushi boshlangan)?",
+      "variantlar": [
+        "1939-yil sentabrida",
+        "1941-yil 22-iyunda",
+        "1943-yil yanvarida",
+        "1945-yil mayida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushida hal qiluvchi janglardan biri Stalingrad jangi qachon bo'lgan?",
+      "variantlar": [
+        "1941-1942",
+        "1942-1943",
+        "1943-1944",
+        "1944-1945"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushi Yevropada qachon tugagan?",
+      "variantlar": [
+        "1944-yil dekabrida",
+        "1945-yil 9-mayda",
+        "1945-yil sentabrida",
+        "1946-yil yanvarida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yaponiyaga atom bombasi qachon tashlangan?",
+      "variantlar": [
+        "1943-yilda",
+        "1945-yil avgustida",
+        "1944-yil dekabrida",
+        "1946-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushi butunlay qachon tugagan (Yaponiya taslim bo'lgach)?",
+      "variantlar": [
+        "1945-yil sentabrida",
+        "1945-yil mayida",
+        "1946-yil yanvarida",
+        "1944-yil dekabrida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ikkinchi jahon urushi davrida O'zbekistondan qancha kishi frontga jo'natilgan (taxminan)?",
+      "variantlar": [
+        "10 mingdan kam",
+        "Bir milliondan ortiq",
+        "100 kishi",
+        "Yuz mingdan kam"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Urush yillarida O'zbekistonga qaysi hududlardan sanoat korxonalari va aholi ko'chirilgan?",
+      "variantlar": [
+        "Yaponiyadan",
+        "SSSRning g'arbiy hududlaridan (frontga yaqin)",
+        "AQShdan",
+        "Xitoydan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushidan keyin dunyoda qanday geosiyosiy qarama-qarshilik boshlangan?",
+      "variantlar": [
+        "Sovuq urush (AQSh va SSSR o'rtasida)",
+        "Uchinchi jahon urushi",
+        "To'liq tinchlik davri",
+        "Yevropa ittifoqi tuzilishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Birlashgan Millatlar Tashkiloti (BMT) qachon tuzilgan?",
+      "variantlar": [
+        "1919-yilda",
+        "1945-yilda",
+        "1955-yilda",
+        "1991-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "NATO harbiy blok qachon tuzilgan?",
+      "variantlar": [
+        "1945-yilda",
+        "1949-yilda",
+        "1955-yilda",
+        "1961-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Varshava shartnomasi tashkiloti qachon tuzilgan?",
+      "variantlar": [
+        "1949-yilda",
+        "1955-yilda",
+        "1961-yilda",
+        "1970-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sovuq urush davrida dunyo asosan necha blokka bo'lingan edi?",
+      "variantlar": [
+        "Bitta",
+        "Ikkita (G'arb va Sharq bloklari)",
+        "Beshta",
+        "O'nta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Berlin devori qachon qurilgan?",
+      "variantlar": [
+        "1949-yilda",
+        "1961-yilda",
+        "1975-yilda",
+        "1985-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Berlin devori qachon qulagan?",
+      "variantlar": [
+        "1979-yilda",
+        "1989-yilda",
+        "1999-yilda",
+        "1969-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Inson birinchi marta kosmosga qachon uchgan?",
+      "variantlar": [
+        "1957-yilda",
+        "1961-yilda",
+        "1969-yilda",
+        "1975-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kosmosga uchgan birinchi inson kim bo'lgan?",
+      "variantlar": [
+        "Neil Armstrong",
+        "Yuriy Gagarin",
+        "Valentina Tereshkova",
+        "Sergey Korolyov"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Odam birinchi marta Oyga qachon qadam qo'ygan?",
+      "variantlar": [
+        "1961-yilda",
+        "1969-yilda",
+        "1975-yilda",
+        "1981-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mixail Gorbachyov qachon SSSR rahbari bo'lgan?",
+      "variantlar": [
+        "1975-yilda",
+        "1985-yilda",
+        "1995-yilda",
+        "1965-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Qayta qurish\" (Perestroyka) siyosati kim tomonidan boshlangan?",
+      "variantlar": [
+        "Leonid Brejnev",
+        "Mixail Gorbachyov",
+        "Iosif Stalin",
+        "Nikita Xrushchyov"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Oshkoralik\" (Glasnost) siyosati nimani anglatgan?",
+      "variantlar": [
+        "Iqtisodiy yopiqlik",
+        "Axborot va fikr erkinligining kengayishi",
+        "Harbiy kuchayish",
+        "Diniy taqiqlar kuchayishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "SSSR qachon tarqalib ketgan?",
+      "variantlar": [
+        "1989-yilda",
+        "1991-yilda",
+        "1993-yilda",
+        "1995-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Respublikasi Davlat mustaqilligi qachon e'lon qilingan?",
+      "variantlar": [
+        "1990-yil 20-iyunda",
+        "1991-yil 31-avgustda",
+        "1992-yil 1-yanvarda",
+        "1989-yil 1-sentabrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston mustaqilligi kuni qanday nishonlanadi?",
+      "variantlar": [
+        "1-sentabr",
+        "31-avgust",
+        "9-may",
+        "8-dekabr"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston Respublikasining birinchi Prezidenti kim bo'lgan?",
+      "variantlar": [
+        "Shavkat Mirziyoyev",
+        "Islom Karimov",
+        "Rashidov Sharof",
+        "Nishonov Rafiq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Respublikasi Konstitutsiyasi qachon qabul qilingan?",
+      "variantlar": [
+        "1991-yil 31-avgustda",
+        "1992-yil 8-dekabrda",
+        "1993-yil 1-yanvarda",
+        "1994-yil 25-dekabrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonning milliy valyutasi so'm qachon muomalaga kiritilgan?",
+      "variantlar": [
+        "1992-yilda",
+        "1994-yilda",
+        "1996-yilda",
+        "1998-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston BMTga qachon a'zo bo'lgan?",
+      "variantlar": [
+        "1991-yilda",
+        "1992-yilda",
+        "1993-yilda",
+        "1995-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Respublikasi Davlat bayrog'i qachon qabul qilingan?",
+      "variantlar": [
+        "1991-yil noyabrida",
+        "1992-yil noyabrida",
+        "1993-yil dekabrida",
+        "1990-yil iyunida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston Respublikasi Davlat gerbi qachon qabul qilingan?",
+      "variantlar": [
+        "1991-yilda",
+        "1992-yilda",
+        "1993-yilda",
+        "1994-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Qurolli Kuchlari (milliy armiya) qachon tashkil etilgan?",
+      "variantlar": [
+        "1991-yilda",
+        "1992-yilda",
+        "1993-yilda",
+        "1994-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mustaqillikdan keyin O'zbekistonda qaysi yozuvga o'tish rasman e'lon qilingan?",
+      "variantlar": [
+        "Kirill alifbosi saqlanib qolgan",
+        "Lotin alifbosiga o'tish boshlangan",
+        "Arab alifbosiga o'tilgan",
+        "Xitoy yozuviga o'tilgan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda \"Navro'z\" bayrami qanday maqomga ega?",
+      "variantlar": [
+        "Taqiqlangan bayram",
+        "Rasmiy davlat bayrami",
+        "Faqat diniy bayram",
+        "Nishonlanmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur haykali (yodgorligi) Toshkentda qachon o'rnatilgan?",
+      "variantlar": [
+        "1993-yilda",
+        "1994-yilda",
+        "1995-yilda",
+        "1996-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shavkat Mirziyoyev O'zbekiston Prezidenti sifatida qachon saylangan?",
+      "variantlar": [
+        "2014-yilda",
+        "2016-yilda",
+        "2018-yilda",
+        "2020-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda Islom Karimov vafotidan keyin kim Prezident lavozimini vaqtincha bajargan?",
+      "variantlar": [
+        "Shavkat Mirziyoyev",
+        "Nigmatilla Yuldashev",
+        "Rustam Azimov",
+        "Sodiq Safoyev"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yevropa Ittifoqi (EI) qachon zamonaviy shaklda tashkil topgan (Maastrixt shartnomasi)?",
+      "variantlar": [
+        "1957-yilda",
+        "1993-yilda",
+        "1999-yilda",
+        "2004-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yagona Yevropa valyutasi \"yevro\" qachon muomalaga kiritilgan?",
+      "variantlar": [
+        "1993-yilda",
+        "1999-2002 yillarda",
+        "2010-yilda",
+        "2020-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xitoy Xalq Respublikasi qachon e'lon qilingan?",
+      "variantlar": [
+        "1939-yilda",
+        "1949-yilda",
+        "1959-yilda",
+        "1969-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xitoy Xalq Respublikasiga kim asos solgan?",
+      "variantlar": [
+        "Chan Kayshi",
+        "Mao Szedun",
+        "Den Syaopin",
+        "Xu Szintao"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hindiston qachon Britaniyadan mustaqillikka erishgan?",
+      "variantlar": [
+        "1937-yilda",
+        "1947-yilda",
+        "1957-yilda",
+        "1967-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mahatma Gandi qanday usul bilan mustaqillik uchun kurashgan?",
+      "variantlar": [
+        "Qurolli qo'zg'olon",
+        "Zo'ravonliksiz (tinch) qarshilik",
+        "Diplomatik urush",
+        "Iqtisodiy blokada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Isroil davlati qachon tashkil topgan?",
+      "variantlar": [
+        "1938-yilda",
+        "1948-yilda",
+        "1958-yilda",
+        "1968-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Koreya urushi qachon bo'lib o'tgan?",
+      "variantlar": [
+        "1940-1943",
+        "1950-1953",
+        "1960-1963",
+        "1970-1973"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vetnam urushi asosan qaysi ikki davlat kuchlari o'rtasida kechgan (asosiy tomonlar)?",
+      "variantlar": [
+        "AQSh va Shimoliy Vetnam",
+        "SSSR va Xitoy",
+        "Fransiya va Angliya",
+        "Yaponiya va Xitoy"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuba inqilobiga kim rahbarlik qilgan?",
+      "variantlar": [
+        "Che Gevara yolg'iz",
+        "Fidel Kastro",
+        "Nikita Xrushchyov",
+        "Jon Kennedi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Karib inqirozi (raketa inqirozi) qachon yuz bergan?",
+      "variantlar": [
+        "1952-yilda",
+        "1962-yilda",
+        "1972-yilda",
+        "1982-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Janubiy Afrikada irqiy kamsitish siyosati (aparteid) qachon tugatilgan?",
+      "variantlar": [
+        "1970-yillarda",
+        "1990-yillar boshida",
+        "2000-yillarda",
+        "1950-yillarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nelson Mandela nimasi bilan mashhur?",
+      "variantlar": [
+        "Aparteidga qarshi kurash va JAR birinchi qora tanli prezidenti",
+        "Sovet Ittifoqi rahbari",
+        "Xitoy inqilobchisi",
+        "Yevropa Ittifoqi asoschisi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Sentabr voqealari\" (11-sentabr terrorchilik hujumlari) qachon sodir bo'lgan?",
+      "variantlar": [
+        "1991-yilda",
+        "2001-yilda",
+        "2011-yilda",
+        "1981-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Internet keng jamoatchilik uchun asosan qaysi davrdan boshlab ommalasha boshlagan?",
+      "variantlar": [
+        "1960-yillar",
+        "1990-yillar",
+        "1930-yillar",
+        "2010-yillar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonning ikkinchi Prezidenti kim bo'lgan?",
+      "variantlar": [
+        "Islom Karimov",
+        "Shavkat Mirziyoyev",
+        "Sodiq Safoyev",
+        "Rustam Inoyatov"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Oliy Majlisi necha palatadan iborat?",
+      "variantlar": [
+        "Bitta palata",
+        "Ikki palata (Qonunchilik palatasi va Senat)",
+        "Uch palata",
+        "Palata yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda yangi Konstitutsiya (yangilangan tahrir) qachon referendum orqali qabul qilingan?",
+      "variantlar": [
+        "2016-yilda",
+        "2023-yilda",
+        "2010-yilda",
+        "2005-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda Prezidentlik muddati yangi Konstitutsiyaga ko'ra necha yil?",
+      "variantlar": [
+        "4 yil",
+        "5 yil",
+        "7 yil",
+        "6 yil"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Orol dengizi muammosi asosan nima bilan bog'liq?",
+      "variantlar": [
+        "Zilzila oqibati",
+        "Sug'orish uchun suvning ortiqcha olinishi natijasida qurib borishi",
+        "Vulqon otilishi",
+        "Iqlim sovishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Markaziy Osiyo davlatlari bilan chegara masalalarini asosan qanday hal qilishga harakat qilmoqda (2016-yildan keyin)?",
+      "variantlar": [
+        "Urush orqali",
+        "Diplomatik muzokaralar orqali",
+        "Iqtisodiy blokada orqali",
+        "Hech qanday harakat qilinmayapti"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Yangi O'zbekiston\" strategiyasi qaysi davrga tegishli islohotlar dasturi?",
+      "variantlar": [
+        "1991-1995",
+        "2017-yildan keyingi davr",
+        "1960-yillar",
+        "2000-2005"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda erkin iqtisodiy zonalar va investitsiya muhitini yaxshilash siyosati qachon jadallashgan?",
+      "variantlar": [
+        "1980-yillarda",
+        "2017-yildan keyin",
+        "1950-yillarda",
+        "1930-yillarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jahon savdo tashkiloti (JST/WTO) qachon tashkil topgan?",
+      "variantlar": [
+        "1975-yilda",
+        "1995-yilda",
+        "2005-yilda",
+        "1985-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Global isish va iqlim o'zgarishi bo'yicha Parij kelishuvi qachon qabul qilingan?",
+      "variantlar": [
+        "1997-yilda",
+        "2015-yilda",
+        "2005-yilda",
+        "2020-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi jahon urushidan keyin qaysi shartnoma imzolangan (Germaniya bilan)?",
+      "variantlar": [
+        "Vestfaliya sulhi",
+        "Versal shartnomasi",
+        "Yalta bitimi",
+        "Potsdam bitimi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushidan keyingi dunyo tartibini belgilagan asosiy konferensiyalardan biri qaysi?",
+      "variantlar": [
+        "Vena kongressi",
+        "Yalta konferensiyasi",
+        "Vestfaliya kongressi",
+        "Parij kongressi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Usmonli imperiyasi qachon tugatilgan va Turkiya Respublikasi e'lon qilingan?",
+      "variantlar": [
+        "1913-yilda",
+        "1923-yilda",
+        "1933-yilda",
+        "1943-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Turkiya Respublikasiga kim asos solgan?",
+      "variantlar": [
+        "Sulton Abdulhamid",
+        "Mustafo Kamol Ataturk",
+        "Anvar posho",
+        "Ismet Inonu"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fashistik Germaniya rahbari kim bo'lgan?",
+      "variantlar": [
+        "Benito Mussolini",
+        "Adolf Gitler",
+        "Franko",
+        "Xirohito"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Italiyada fashizmga asos solgan kim?",
+      "variantlar": [
+        "Adolf Gitler",
+        "Benito Mussolini",
+        "Franko",
+        "Salazar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Buyuk depressiya\" (jahon iqtisodiy inqirozi) qachon boshlangan?",
+      "variantlar": [
+        "1919-yilda",
+        "1929-yilda",
+        "1939-yilda",
+        "1949-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buyuk depressiya birinchi bo'lib qaysi davlatda boshlangan?",
+      "variantlar": [
+        "Germaniya",
+        "AQSh",
+        "Yaponiya",
+        "Fransiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Franklin Ruzvelt AQShda qanday dastur bilan mashhur?",
+      "variantlar": [
+        "\"Yangi kurs\" (New Deal)",
+        "\"Sovuq urush\" siyosati",
+        "\"Marshall rejasi\"",
+        "\"Manhetten loyihasi\""
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Marshall rejasi\" nima maqsadda ishlab chiqilgan?",
+      "variantlar": [
+        "SSSRni qo'llab-quvvatlash",
+        "Urushdan keyingi Yevropa iqtisodiyotini tiklashga AQSh yordami",
+        "Osiyoni mustamlaka qilish",
+        "Afrikani mustamlaka qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Varshava shartnomasi tashkiloti qachon tarqatib yuborilgan?",
+      "variantlar": [
+        "1985-yilda",
+        "1991-yilda",
+        "1995-yilda",
+        "2001-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yugoslaviya 1990-yillarda qanday jarayonni boshdan kechirgan?",
+      "variantlar": [
+        "Mustahkamlanish",
+        "Parchalanish va urushlar",
+        "Yevropa Ittifoqiga qo'shilish",
+        "Monarxiya tiklanishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Germaniya qachon qayta birlashgan?",
+      "variantlar": [
+        "1985-yilda",
+        "1990-yilda",
+        "1995-yilda",
+        "2000-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rossiya Federatsiyasi SSSR tarqagandan keyin qanday maqomga ega bo'lgan?",
+      "variantlar": [
+        "Yangi kichik davlat",
+        "SSSRning huquqiy vorisi sifatida tan olingan",
+        "BMTdan chiqarilgan",
+        "Mustamlaka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Markaziy Osiyo davlatlari (Qozog'iston, Qirg'iziston, Tojikiston, Turkmaniston, O'zbekiston) mustaqillikni qaysi yilda qo'lga kiritgan?",
+      "variantlar": [
+        "1989-yilda",
+        "1991-yilda",
+        "1993-yilda",
+        "1995-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mustaqil Davlatlar Hamdo'stligi (MDH) qachon tashkil etilgan?",
+      "variantlar": [
+        "1989-yilda",
+        "1991-yilda",
+        "1993-yilda",
+        "1995-yilda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston tashqi siyosatida qaysi tamoyil rasman e'lon qilingan (harbiy bloklarga oid)?",
+      "variantlar": [
+        "Har qanday blokka a'zo bo'lish",
+        "Harbiy-siyosiy bloklarga qo'shilmaslik siyosati",
+        "Faqat bitta davlat bilan ittifoq",
+        "Butunlay xalqaro aloqalarni rad etish"
+      ],
+      "togri": 1
+    }
+  ]
+}
