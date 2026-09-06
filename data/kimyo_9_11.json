@@ -1,0 +1,1205 @@
+{
+  "label": "Kimyo sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "Organik kimyo nimani o'rganadi?",
+      "variantlar": [
+        "Faqat metallarni",
+        "Uglerod birikmalarini (uglevodorodlar va ularning hosilalarini)",
+        "Faqat gazlarni",
+        "Faqat kislotalarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alkanlar umumiy formulasi qanday?",
+      "variantlar": [
+        "CnH2n+2",
+        "CnH2n",
+        "CnH2n-2",
+        "CnHn"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Metan qaysi uglevodorodlar sinfiga kiradi?",
+      "variantlar": [
+        "Alkenlar",
+        "Alkanlar",
+        "Alkinlar",
+        "Arenlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alkenlar tarkibida qanday bog' mavjud?",
+      "variantlar": [
+        "Faqat oddiy bog'",
+        "Bitta qo'sh bog'",
+        "Uchlamchi bog'",
+        "Ion bog'"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Etilen (eten) qaysi sinfga kiradi?",
+      "variantlar": [
+        "Alkanlar",
+        "Alkenlar",
+        "Alkinlar",
+        "Spirtlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alkinlar tarkibida qanday bog' mavjud?",
+      "variantlar": [
+        "Faqat oddiy bog'",
+        "Qo'sh bog'",
+        "Uchlamchi bog'",
+        "Bog' umuman yo'q"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Atsetilen qaysi sinfga misol bo'ladi?",
+      "variantlar": [
+        "Alkanlar",
+        "Alkenlar",
+        "Alkinlar",
+        "Aromatik uglevodorodlar"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Benzol qaysi guruh uglevodorodlariga kiradi?",
+      "variantlar": [
+        "Alkanlar",
+        "Aromatik uglevodorodlar (arenlar)",
+        "Alkinlar",
+        "Faqat alkenlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Spirtlar tarkibida qanday funksional guruh mavjud?",
+      "variantlar": [
+        "-COOH",
+        "-OH (gidroksil)",
+        "-NH2",
+        "-CHO"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Etanol (etil spirti) qanday sohalarda ishlatiladi?",
+      "variantlar": [
+        "Faqat qurilishda",
+        "Tibbiyot, sanoat va boshqa sohalarda erituvchi/dezinfeksiyalovchi sifatida",
+        "Faqat oziq-ovqatda konservant sifatida",
+        "Faqat kiyim tikishda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Karbon kislotalar tarkibida qanday funksional guruh mavjud?",
+      "variantlar": [
+        "-OH",
+        "-COOH (karboksil)",
+        "-NH2",
+        "-CHO"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sirka kislotaning formulasi qanday?",
+      "variantlar": [
+        "CH3COOH",
+        "HCOOH",
+        "C2H5OH",
+        "CH4"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Oqsillar (proteinlar) qaysi kichik birliklardan (monomerlardan) tashkil topgan?",
+      "variantlar": [
+        "Glyukoza",
+        "Aminokislotalar",
+        "Nukleotidlar",
+        "Yog' kislotalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uglevodlar (masalan kraxmal) qaysi kichik birlikdan tashkil topgan?",
+      "variantlar": [
+        "Aminokislotalar",
+        "Monosaharidlar (masalan glyukoza)",
+        "Nukleotidlar",
+        "Yog' kislotalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "DNK qanday birlik (monomer)lardan tashkil topgan?",
+      "variantlar": [
+        "Aminokislotalar",
+        "Nukleotidlar",
+        "Monosaharidlar",
+        "Yog' kislotalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Polimerizatsiya reaksiyasi nima?",
+      "variantlar": [
+        "Katta molekulaning kichik molekulalarga parchalanishi",
+        "Kichik molekulalarning birikib katta molekula (polimer) hosil qilishi",
+        "Faqat gaz ajralish reaksiyasi",
+        "Faqat cho'kma hosil bo'lish reaksiyasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Reaksiya tezligi nimalarga bog'liq bo'lishi mumkin?",
+      "variantlar": [
+        "Faqat rangga",
+        "Kontsentratsiya, harorat, katalizator va boshqalarga",
+        "Faqat vaqtga",
+        "Hech nimaga bog'liq emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Harorat oshishi bilan reaksiya tezligi odatda qanday o'zgaradi?",
+      "variantlar": [
+        "Kamayadi",
+        "Ortadi",
+        "O'zgarmaydi",
+        "Har doim nolga tushadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kontsentratsiya oshishi bilan reaksiya tezligi odatda qanday o'zgaradi?",
+      "variantlar": [
+        "Kamayadi",
+        "Ortadi",
+        "O'zgarmaydi",
+        "Nolga tushadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy muvozanat nima?",
+      "variantlar": [
+        "Reaksiya to'liq to'xtashi",
+        "To'g'ri va teskari reaksiya tezliklari teng bo'lgan holat",
+        "Faqat mahsulotlar hosil bo'lishi",
+        "Faqat boshlang'ich moddalar qolishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Le Shatelye prinsipiga ko'ra, tashqi ta'sir (masalan harorat) muvozanatga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Muvozanat shu ta'sirni kamaytiruvchi tomonga siljiydi",
+        "Reaksiyani butunlay to'xtatadi",
+        "Faqat rangni o'zgartiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oksidlanish jarayonida elektronlar qanday harakatlanadi?",
+      "variantlar": [
+        "Elektronlar qabul qilinadi",
+        "Elektronlar berilib yuboriladi",
+        "Elektronlar harakatlanmaydi",
+        "Faqat protonlar harakatlanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qaytarilish jarayonida elektronlar qanday harakatlanadi?",
+      "variantlar": [
+        "Elektronlar berilib yuboriladi",
+        "Elektronlar qabul qilinadi",
+        "Hech narsa sodir bo'lmaydi",
+        "Faqat neytronlar harakatlanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oksidlanish-qaytarilish (OQR) reaksiyalarida nima sodir bo'ladi?",
+      "variantlar": [
+        "Faqat harorat o'zgaradi",
+        "Elektronlar bir moddadan ikkinchisiga o'tadi",
+        "Faqat hajm o'zgaradi",
+        "Hech narsa o'zgarmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Galvanik element (batareya) qanday jarayonga asoslangan ishlaydi?",
+      "variantlar": [
+        "Faqat mexanik harakatga",
+        "Kimyoviy energiyani elektr energiyasiga aylantiruvchi OQR reaksiyasiga",
+        "Faqat yorug'lik energiyasiga",
+        "Faqat issiqlik energiyasiga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektroliz jarayonida qanday energiya turi qaysi turga aylanadi?",
+      "variantlar": [
+        "Elektr energiyasi kimyoviy energiyaga",
+        "Kimyoviy energiya elektr energiyasiga",
+        "Issiqlik energiyasi yorug'likka",
+        "Yorug'lik energiyasi issiqlikka"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Metallarni zanglashdan himoya qilish usullaridan biri qaysi?",
+      "variantlar": [
+        "Ularni suvda saqlash",
+        "Bo'yash yoki boshqa metall bilan qoplash (masalan sinklash)",
+        "Ularni isitish",
+        "Ularni maydalash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Neft asosan qanday moddalar aralashmasi?",
+      "variantlar": [
+        "Faqat metallar",
+        "Uglevodorodlar aralashmasi",
+        "Faqat tuzlar",
+        "Faqat kislotalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Neftni qayta ishlashda qanday usul ko'p qo'llaniladi?",
+      "variantlar": [
+        "Elektroliz",
+        "Fraksion haydash (distillash)",
+        "Filtrlash faqat",
+        "Kristallanish faqat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy tola va plastmassalar odatda qaysi xomashyodan olinadi?",
+      "variantlar": [
+        "Faqat metaldan",
+        "Neft mahsulotlaridan (organik xomashyo)",
+        "Faqat suvdan",
+        "Faqat havodan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sovunlanish reaksiyasi natijasida odatda nima hosil bo'ladi?",
+      "variantlar": [
+        "Faqat suv",
+        "Sovun va glitserin (yog' va ishqor reaksiyasidan)",
+        "Faqat gaz",
+        "Faqat tuz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fermentlar nima?",
+      "variantlar": [
+        "Sun'iy kimyoviy moddalar",
+        "Biologik katalizatorlar (odatda oqsil tabiatli)",
+        "Faqat metallar",
+        "Faqat gazlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Izomerlar nima?",
+      "variantlar": [
+        "Bir xil molekulyar formulaga ega, lekin har xil tuzilishga ega moddalar",
+        "Bir xil moddaning turli agregat holatlari",
+        "Faqat radioaktiv atomlar",
+        "Faqat metallarning turlari"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kimyoviy elementlarning davriy jadvalida guruh (ustun) bo'yicha joylashuvi nimani ko'rsatadi?",
+      "variantlar": [
+        "Faqat atom massasini",
+        "O'xshash kimyoviy xossalarga ega elementlarni",
+        "Faqat kashf etilgan yilini",
+        "Faqat rangi bo'yicha guruhlashni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Davr (qator) bo'yicha davriy jadvalda chapdan o'ngga siljiganda metall xossalari qanday o'zgaradi?",
+      "variantlar": [
+        "Kuchayadi",
+        "Kamayadi",
+        "O'zgarmaydi",
+        "Tasodifiy o'zgaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Galogenlar davriy jadvalning qaysi guruhiga kiradi?",
+      "variantlar": [
+        "I guruh",
+        "VII guruh (masalan ftor, xlor)",
+        "VIII guruh (inert gazlar)",
+        "II guruh"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ishqoriy metallar davriy jadvalning qaysi guruhiga kiradi?",
+      "variantlar": [
+        "I guruh",
+        "II guruh",
+        "VII guruh",
+        "VIII guruh"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Inert (nodir) gazlar nima uchun kimyoviy jihatdan kam faol?",
+      "variantlar": [
+        "Tashqi elektron qavati to'liq bo'lgani uchun",
+        "Massasi juda katta bo'lgani uchun",
+        "Rangi yo'qligi uchun",
+        "Juda kichik bo'lgani uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Suvning qattiqligi nima bilan bog'liq?",
+      "variantlar": [
+        "Suvdagi kaltsiy va magniy tuzlarining miqdori bilan",
+        "Suvning harorati bilan",
+        "Suvning rangi bilan",
+        "Suvning hajmi bilan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ozon (O3) qatlami Yer atmosferasida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Issiqlikni saqlaydi faqat",
+        "Zararli ultrabinafsha nurlardan himoya qiladi",
+        "Kislorodni yo'q qiladi",
+        "Hech qanday vazifasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kislotali yomg'ir asosan qaysi gazlar tufayli hosil bo'ladi?",
+      "variantlar": [
+        "Kislorod va azot",
+        "Oltingugurt va azot oksidlari",
+        "Faqat vodorod",
+        "Faqat inert gazlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Issiqxona effektiga eng ko'p hissa qo'shuvchi gazlardan biri qaysi?",
+      "variantlar": [
+        "Azot",
+        "Karbonat angidrid (CO2)",
+        "Inert gazlar",
+        "Kislorod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Katalizator reaksiya faollashish energiyasiga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Oshiradi",
+        "Kamaytiradi",
+        "O'zgartirmaydi",
+        "Nolga tenglashtiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekzotermik reaksiyada mahsulotlarning energiyasi boshlang'ich moddalarnikiga nisbatan qanday bo'ladi?",
+      "variantlar": [
+        "Kattaroq",
+        "Kichikroq",
+        "Teng",
+        "Aniqlab bo'lmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Endotermik reaksiyada mahsulotlarning energiyasi boshlang'ich moddalarnikiga nisbatan qanday bo'ladi?",
+      "variantlar": [
+        "Kattaroq",
+        "Kichikroq",
+        "Teng",
+        "Aniqlab bo'lmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Aminokislotalar tarkibida qanday ikkita funksional guruh mavjud?",
+      "variantlar": [
+        "-OH va -COOH",
+        "-NH2 va -COOH",
+        "-CHO va -OH",
+        "-NH2 va -OH"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Peptid bog'lanish qaysi molekulalar orasida hosil bo'ladi?",
+      "variantlar": [
+        "Ikki aminokislota orasida",
+        "Ikki glyukoza orasida",
+        "Ikki nukleotid orasida",
+        "Ikki yog' kislota orasida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yog'lar (lipidlar) tarkibida odatda qaysi ikkita komponent mavjud?",
+      "variantlar": [
+        "Glitserin va yog' kislotalar",
+        "Aminokislotalar va shakar",
+        "Nukleotid va fosfat",
+        "Faqat suv"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fotosintez jarayonida qaysi modda 'yoqilg'i' sifatida ishlatiladi (yorug'lik energiyasi manbai)?",
+      "variantlar": [
+        "Yorug'lik energiyasi (quyosh)",
+        "Elektr energiyasi",
+        "Yadro energiyasi",
+        "Mexanik energiya"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Katalitik krekinglash jarayoni neft sanoatida nima uchun ishlatiladi?",
+      "variantlar": [
+        "Katta uglevodorod molekulalarini kichikroqlarga parchalash uchun",
+        "Faqat rang berish uchun",
+        "Faqat sovutish uchun",
+        "Faqat filtrlash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Galvanik elementda qaysi elektrod oksidlanish jarayoni yuz beradigan joy hisoblanadi?",
+      "variantlar": [
+        "Katod",
+        "Anod",
+        "Ikkalasi ham emas",
+        "Faqat elektrolit"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektrolitik dissotsiatsiya nima?",
+      "variantlar": [
+        "Moddaning suvda ionlarga ajralishi",
+        "Moddaning qattiq holatga o'tishi",
+        "Moddaning gazga aylanishi",
+        "Moddaning yonishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchli elektrolitlar qanday xususiyatga ega?",
+      "variantlar": [
+        "Suvda deyarli to'liq ionlarga ajraladi",
+        "Suvda umuman ajralmaydi",
+        "Faqat qattiq holatda ionlashadi",
+        "Faqat gaz holatida ionlashadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bufer eritma nima uchun ishlatiladi?",
+      "variantlar": [
+        "pH ni keskin o'zgarishlardan saqlash uchun",
+        "Faqat rang berish uchun",
+        "Faqat harorat oshirish uchun",
+        "Faqat hidini yo'qotish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Alyuminiy ishlab chiqarishda asosan qaysi jarayon ishlatiladi?",
+      "variantlar": [
+        "Elektroliz",
+        "Faqat filtrlash",
+        "Faqat distillash",
+        "Faqat kristallanish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Portlovchi moddalarning ko'pchiligi qanday reaksiya turiga misol?",
+      "variantlar": [
+        "Juda tez ekzotermik reaksiya (ko'p gaz va issiqlik ajratish bilan)",
+        "Juda sekin endotermik reaksiya",
+        "Faqat fizik hodisa",
+        "Yadro reaksiyasi har doim"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qattiq yoqilg'ilarning (ko'mir) yonishi natijasida asosan qaysi gaz ajraladi?",
+      "variantlar": [
+        "Kislorod",
+        "Karbonat angidrid (CO2)",
+        "Vodorod",
+        "Inert gazlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy o'g'itlarning tarkibida odatda qaysi elementlar ko'p bo'ladi?",
+      "variantlar": [
+        "Faqat uglerod",
+        "Azot, fosfor, kaliy",
+        "Faqat kislorod",
+        "Faqat oltin"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yuqori molekulali birikmalarga (polimerlarga) qaysi tabiiy modda misol bo'ladi?",
+      "variantlar": [
+        "Osh tuzi",
+        "Kraxmal (tabiiy polimer)",
+        "Suv",
+        "Kislorod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kauchuk (rezina) qanday modda turkumiga kiradi?",
+      "variantlar": [
+        "Metallar",
+        "Elastomerlar (polimerlar)",
+        "Kislotalar",
+        "Tuzlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nordon yomg'ir tuproq va suv havzalariga qanday ta'sir qilishi mumkin?",
+      "variantlar": [
+        "Foydali ta'sir qiladi",
+        "pH ni pasaytirib, zararli ta'sir qilishi mumkin",
+        "Hech qanday ta'sir qilmaydi",
+        "Faqat rangini o'zgartiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy sanoatda ammiak sintezida (Gaber jarayoni) qaysi ikki gaz ishlatiladi?",
+      "variantlar": [
+        "Kislorod va vodorod",
+        "Azot va vodorod",
+        "Kislorod va azot",
+        "Vodorod va xlor"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan NaOH moddasidan 40 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "1",
+        "3",
+        "40",
+        "2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 17 g/mol bo'lgan NH3 moddasidan 102 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "6",
+        "5",
+        "7",
+        "102"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 16 g/mol bo'lgan CH4 moddasidan 2 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "16",
+        "32",
+        "18",
+        "48"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 98 g/mol bo'lgan H2SO4 moddasidan 1 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "98",
+        "99",
+        "196",
+        "100"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 32 g/mol bo'lgan O2 moddasidan 192 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "6",
+        "192",
+        "7",
+        "5"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 28 g/mol bo'lgan N2 moddasidan 1 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "29",
+        "28",
+        "30",
+        "56"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 17 g/mol bo'lgan NH3 moddasidan 2 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "34",
+        "19",
+        "51",
+        "17"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 44 g/mol bo'lgan CO2 moddasidan 264 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "6",
+        "5",
+        "7",
+        "264"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 16 g/mol bo'lgan CH4 moddasidan 6 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "112",
+        "96",
+        "22",
+        "80"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan NaOH moddasidan 4 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "200",
+        "120",
+        "44",
+        "160"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Molyar massasi 32 g/mol bo'lgan O2 moddasidan 64 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "3",
+        "2",
+        "1",
+        "64"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 98 g/mol bo'lgan H2SO4 moddasidan 4 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "102",
+        "490",
+        "294",
+        "392"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Molyar massasi 17 g/mol bo'lgan NH3 moddasidan 17 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "1",
+        "17",
+        "2",
+        "3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 28 g/mol bo'lgan N2 moddasidan 140 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "5",
+        "6",
+        "140",
+        "4"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 28 g/mol bo'lgan N2 moddasidan 4 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "32",
+        "140",
+        "112",
+        "84"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 100 g/mol bo'lgan CaCO3 moddasidan 500 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "4",
+        "6",
+        "5",
+        "500"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 44 g/mol bo'lgan CO2 moddasidan 220 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "4",
+        "220",
+        "6",
+        "5"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Molyar massasi 100 g/mol bo'lgan CaCO3 moddasidan 8 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "800",
+        "108",
+        "700",
+        "900"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 17 g/mol bo'lgan NH3 moddasidan 51 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "3",
+        "4",
+        "2",
+        "51"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan NaOH moddasidan 8 mol olinsa, massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "320",
+        "360",
+        "280",
+        "48"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Nukleofil va elektrofil tushunchalari qaysi fanga tegishli?",
+      "variantlar": [
+        "Anorganik kimyo",
+        "Organik kimyo (reaksiya mexanizmlari)",
+        "Fizika",
+        "Biologiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Metanol va etanol o'rtasidagi asosiy farq nima?",
+      "variantlar": [
+        "Metanol zaharli, etanol iste'mol uchun ishlatiladigan spirt turi",
+        "Ikkalasi ham bir xil modda",
+        "Metanol qattiq, etanol gaz",
+        "Farq yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Glyukoza qaysi uglevod turiga kiradi?",
+      "variantlar": [
+        "Polisaharid",
+        "Monosaharid",
+        "Disaharid",
+        "Oqsil"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Saxaroza (oddiy shakar) qaysi uglevod turiga kiradi?",
+      "variantlar": [
+        "Monosaharid",
+        "Disaharid",
+        "Polisaharid",
+        "Aminokislota"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kraxmal va sellyuloza qaysi uglevod turiga kiradi?",
+      "variantlar": [
+        "Monosaharid",
+        "Disaharid",
+        "Polisaharid",
+        "Yog'"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "DNK va RNK orasidagi asosiy farqlardan biri nima?",
+      "variantlar": [
+        "DNK ikki zanjirli, RNK odatda bir zanjirli",
+        "Ikkalasi bir xil tuzilishga ega",
+        "DNK faqat o'simliklarda uchraydi",
+        "RNK faqat hayvonlarda uchraydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Vitaminlar organizmda qanday rol o'ynaydi?",
+      "variantlar": [
+        "Energiya manbai sifatida asosiy rol o'ynaydi",
+        "Kichik miqdorda zarur bo'lgan organik moddalar, ko'plab jarayonlarni tartibga soladi",
+        "Faqat tuzilish materiali",
+        "Hech qanday rol o'ynamaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Denaturatsiya jarayoni nima?",
+      "variantlar": [
+        "Oqsilning tabiiy tuzilishi (funksiyasi) buzilishi (masalan qizdirishda)",
+        "Yangi oqsil hosil bo'lishi",
+        "Faqat rang o'zgarishi",
+        "Faqat hid o'zgarishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kimyoviy sanoatda sulfat kislota ishlab chiqarish qaysi jarayon deb ataladi?",
+      "variantlar": [
+        "Gaber jarayoni",
+        "Kontakt jarayoni",
+        "Solvey jarayoni",
+        "Elektroliz jarayoni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sovun ishlab chiqarishda qanday xomashyo ishlatiladi (asosiy)?",
+      "variantlar": [
+        "Yog'lar va ishqorlar",
+        "Faqat metallar",
+        "Faqat kislotalar",
+        "Faqat tuzlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Vodorod bog'lanish qanday hodisa?",
+      "variantlar": [
+        "Faqat kovalent bog'lanishning kuchli turi",
+        "Elektromanfiy atomga bog'langan vodorod bilan boshqa elektromanfiy atom orasidagi zaif tortishish",
+        "Faqat metall bog'lanish turi",
+        "Ion bog'lanishning kuchli turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suvning yuqori qaynash harorati (boshqa kichik molekulali moddalarga nisbatan) nima bilan izohlanadi?",
+      "variantlar": [
+        "Molekulalar orasidagi vodorod bog'lanishlar",
+        "Faqat molekula og'irligi",
+        "Faqat rangi",
+        "Tasodifiy hodisa"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Aromatik uglevodorodlar (masalan benzol) qanday tuzilishga ega?",
+      "variantlar": [
+        "Chiziqli tuzilish",
+        "Halqasimon (halqali) tuzilish",
+        "Faqat tarmoqlangan tuzilish",
+        "Faqat uch o'lchamli panjara"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xlorftoruglerodlar (freonlar) atmosferaga qanday ta'sir ko'rsatishi bilan mashhur?",
+      "variantlar": [
+        "Foydali ta'sir",
+        "Ozon qatlamini buzishi bilan",
+        "Hech qanday ta'sir qilmasligi bilan",
+        "Yog'ingarchilikni oshirishi bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy energiya manbalaridan biri sifatida vodorod yoqilg'i xujayralari nima ishlab chiqaradi?",
+      "variantlar": [
+        "Faqat issiqlik",
+        "Elektr energiyasi (vodorod va kislorod reaksiyasidan)",
+        "Faqat yorug'lik",
+        "Faqat tovush"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Biodizel qanday xomashyodan olinishi mumkin?",
+      "variantlar": [
+        "Faqat neftdan",
+        "O'simlik yog'lari yoki hayvon yog'laridan",
+        "Faqat ko'mirdan",
+        "Faqat metalldan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qayta tiklanadigan energiya manbalariga qaysi biri kiradi?",
+      "variantlar": [
+        "Ko'mir",
+        "Quyosh energiyasi",
+        "Neft",
+        "Tabiiy gaz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Radioaktiv chiqindilarni saqlash nima uchun muhim muammo hisoblanadi?",
+      "variantlar": [
+        "Ular tez orada butunlay zararsizlanadi",
+        "Ular uzoq vaqt davomida (ba'zan minglab yillar) xavfli bo'lib qolishi mumkin",
+        "Ularni yo'qotish oson",
+        "Muammo umuman mavjud emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik toza kimyo (\"yashil kimyo\") qanday maqsadni ko'zlaydi?",
+      "variantlar": [
+        "Kimyoviy jarayonlarning atrof-muhitga zararini kamaytirish",
+        "Faqat rang chiroyli qilish",
+        "Faqat tezroq reaksiya olish",
+        "Faqat arzon xomashyo topish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Metallarni erituvchi kislotalarda eritish jarayoni odatda qanday reaksiya turi?",
+      "variantlar": [
+        "Faqat fizik hodisa",
+        "O'rin bosish (oksidlanish-qaytarilish) reaksiyasi",
+        "Faqat parchalanish reaksiyasi",
+        "Yadro reaksiyasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Titrlash (titrimetriya) usuli nima uchun ishlatiladi?",
+      "variantlar": [
+        "Eritmadagi modda kontsentratsiyasini aniqlash uchun",
+        "Faqat rang berish uchun",
+        "Faqat filtrlash uchun",
+        "Faqat qizdirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sirka kislota va spirt reaksiyasidan qanday modda sinfi hosil bo'ladi?",
+      "variantlar": [
+        "Kislotalar",
+        "Efirlar (esterlar)",
+        "Oksidlar",
+        "Tuzlar faqat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kraking mahsulotlaridan biri sifatida qaysi yoqilg'i turi olinadi?",
+      "variantlar": [
+        "Faqat ko'mir",
+        "Benzin",
+        "Faqat suv",
+        "Faqat tuz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Karbonat angidridning qattiq holati (quruq muz) qanday xususiyatga ega?",
+      "variantlar": [
+        "Erimaydi, faqat sublimatsiyalanadi (to'g'ridan-to'g'ri gazga aylanadi)",
+        "Faqat suyuqlanadi",
+        "Hech qachon gazga aylanmaydi",
+        "Faqat metall bilan reaksiyaga kirishadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yadroviy kimyoda izotoplarning qo'llanilishiga qaysi soha misol bo'ladi?",
+      "variantlar": [
+        "Faqat oshxona",
+        "Tibbiyot (masalan diagnostika va davolash)",
+        "Faqat sport",
+        "Faqat qishloq xo'jaligi kiyim tikish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aluminiy oksidi (Al2O3) tabiatda qaysi mineral shaklida ko'p uchraydi?",
+      "variantlar": [
+        "Ohaktosh",
+        "Boksit",
+        "Namak",
+        "Grafit"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy formulada 'aq' qisqartmasi (masalan NaCl(aq)) nimani bildiradi?",
+      "variantlar": [
+        "Qattiq holat",
+        "Suvli eritma holati",
+        "Gaz holati",
+        "Suyuq (erigan) metall holati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xrom va nikel kabi metallar qaysi maqsadda po'latga qo'shiladi?",
+      "variantlar": [
+        "Faqat rang berish uchun",
+        "Zanglashga chidamlilikni oshirish uchun (masalan zanglamaydigan po'lat)",
+        "Faqat og'irlikni oshirish uchun",
+        "Faqat narxni oshirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suvning muzlashi paytida uning hajmi qanday o'zgaradi (boshqa moddalardan farqli)?",
+      "variantlar": [
+        "Kamayadi",
+        "Ortadi (muz suvdan yengilroq)",
+        "O'zgarmaydi",
+        "Nolga tushadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy reaksiyalarda entropiya tushunchasi nimani ifodalaydi?",
+      "variantlar": [
+        "Tartibsizlik darajasini",
+        "Faqat massani",
+        "Faqat haroratni",
+        "Faqat bosimni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ekzergonik va endergonik reaksiyalar farqi nimada (energetik jihatdan)?",
+      "variantlar": [
+        "Ekzergonik reaksiyada erkin energiya ajraladi, endergonikda yutiladi",
+        "Farq yo'q",
+        "Ikkalasida ham energiya ajraladi",
+        "Ikkalasida ham energiya yutiladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kimyoviy sanoatda ishlab chiqarilgan mahsulotlarning atrof-muhitga ta'sirini kamaytirish uchun nima qilinadi?",
+      "variantlar": [
+        "Chiqindilarni qayta ishlash va filtrlash tizimlarini joriy etish",
+        "Hech narsa qilinmaydi",
+        "Faqat ishlab chiqarishni to'xtatish",
+        "Faqat narxni oshirish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amfoter moddalar qanday xususiyatga ega?",
+      "variantlar": [
+        "Faqat kislota kabi harakat qiladi",
+        "Ham kislota, ham asos kabi harakat qilishi mumkin",
+        "Hech qanday reaksiyaga kirishmaydi",
+        "Faqat metall kabi harakat qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alyuminiy gidroksid Al(OH)3 qanday moddalar sinfiga misol bo'ladi?",
+      "variantlar": [
+        "Faqat kislota",
+        "Amfoter gidroksid",
+        "Faqat tuz",
+        "Faqat oksid"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy tahlilda spektroskopiya usuli nima uchun ishlatiladi?",
+      "variantlar": [
+        "Moddalarni ularning yorug'lik bilan o'zaro ta'siriga qarab aniqlash uchun",
+        "Faqat massani o'lchash uchun",
+        "Faqat haroratni o'lchash uchun",
+        "Faqat hidni aniqlash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Xromatografiya usuli nima uchun ishlatiladi?",
+      "variantlar": [
+        "Aralashmadagi moddalarni ajratish va aniqlash uchun",
+        "Faqat rang berish uchun",
+        "Faqat qizdirish uchun",
+        "Faqat sovutish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kimyoviy termodinamikada Gibbs erkin energiyasi nimani bashorat qilishga yordam beradi?",
+      "variantlar": [
+        "Reaksiyaning o'z-o'zidan borish-bormasligini",
+        "Faqat rangni",
+        "Faqat hidini",
+        "Faqat og'irligini"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Metallurgiya sohasi nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat o'simliklar bilan",
+        "Rudalardan metallarni ajratib olish va qayta ishlash bilan",
+        "Faqat gazlar bilan",
+        "Faqat suv tozalash bilan"
+      ],
+      "togri": 1
+    }
+  ]
+}

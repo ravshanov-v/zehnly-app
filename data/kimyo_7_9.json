@@ -1,0 +1,1205 @@
+{
+  "label": "Kimyo sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "Kimyo fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat jismlarning harakatini",
+        "Moddalarning tuzilishi, xossalari va o'zgarishlarini",
+        "Faqat tirik organizmlarni",
+        "Faqat tarixiy voqealarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Modda eng kichik zarrachasi qanday ataladi (elementar tarkibiy qism)?",
+      "variantlar": [
+        "Molekula yoki atom",
+        "Hujayra",
+        "Elektron faqat",
+        "Yadro faqat"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Atom nimalardan tashkil topgan?",
+      "variantlar": [
+        "Faqat elektronlardan",
+        "Yadro (proton, neytron) va elektronlardan",
+        "Faqat protonlardan",
+        "Faqat molekulalardan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy element nima?",
+      "variantlar": [
+        "Bir xil yadro zaryadiga (proton soniga) ega atomlar turi",
+        "Har qanday modda",
+        "Faqat metallar",
+        "Faqat gazlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "D.I.Mendeleyev nimasi bilan mashhur?",
+      "variantlar": [
+        "Atom modelini yaratgani bilan",
+        "Kimyoviy elementlar davriy jadvalini yaratgani bilan",
+        "Molekula tushunchasini kiritgani bilan",
+        "Kislorodni kashf etgani bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Davriy jadvalda elementlar nima asosida joylashtirilgan?",
+      "variantlar": [
+        "Alifbo tartibida",
+        "Atom massasi va xossalarining davriyligi (atom raqami) asosida",
+        "Kashf etilgan sanasi bo'yicha",
+        "Rangi bo'yicha"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vodorod davriy jadvalda nechanchi element?",
+      "variantlar": [
+        "1-element",
+        "2-element",
+        "6-element",
+        "8-element"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kislorodning kimyoviy belgisi qanday?",
+      "variantlar": [
+        "O",
+        "K",
+        "Ks",
+        "Q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Vodorodning kimyoviy belgisi qanday?",
+      "variantlar": [
+        "V",
+        "H",
+        "Vd",
+        "Vo"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uglerodning kimyoviy belgisi qanday?",
+      "variantlar": [
+        "U",
+        "C",
+        "Ug",
+        "Uk"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molekula nima?",
+      "variantlar": [
+        "Ikkita yoki undan ortiq atomning kimyoviy bog' bilan birikkan zarrachasi",
+        "Faqat bitta atom",
+        "Faqat elektron",
+        "Faqat yadro"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Suv molekulasining kimyoviy formulasi qanday?",
+      "variantlar": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Karbonat angidrid gazining formulasi qanday?",
+      "variantlar": [
+        "CO",
+        "CO2",
+        "C2O",
+        "H2CO3"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Osh tuzining kimyoviy formulasi qanday?",
+      "variantlar": [
+        "NaCl",
+        "KCl",
+        "CaCl2",
+        "NaOH"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kimyoviy bog'lanishning asosiy turlari qaysilar?",
+      "variantlar": [
+        "Faqat ion bog'lanish",
+        "Ion, kovalent va metall bog'lanish",
+        "Faqat kovalent bog'lanish",
+        "Faqat vodorod bog'lanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ion bog'lanish qanday atomlar orasida hosil bo'ladi?",
+      "variantlar": [
+        "Faqat metallar orasida",
+        "Metall va nometall atomlari orasida",
+        "Faqat nometallar orasida",
+        "Faqat inert gazlar orasida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kovalent bog'lanish nima asosida hosil bo'ladi?",
+      "variantlar": [
+        "Elektronlarning to'liq berilishi",
+        "Umumiy elektron juftlarining hosil bo'lishi",
+        "Faqat proton almashinuvi",
+        "Faqat neytron almashinuvi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aralashma va toza modda o'rtasidagi farq nima?",
+      "variantlar": [
+        "Aralashma bir xil moddadan iborat",
+        "Aralashma ikki yoki undan ortiq moddadan tashkil topgan",
+        "Toza modda har doim gaz bo'ladi",
+        "Farq yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Filtrlash usuli nima uchun ishlatiladi?",
+      "variantlar": [
+        "Gazlarni ajratish uchun",
+        "Qattiq va suyuq aralashmani ajratish uchun",
+        "Faqat rangni o'zgartirish uchun",
+        "Faqat haroratni oshirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Distillash (haydash) usuli nimaga asoslangan?",
+      "variantlar": [
+        "Moddalarning qaynash haroratlari farqiga",
+        "Moddalarning rangiga",
+        "Moddalarning og'irligiga",
+        "Moddalarning hidiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fizik hodisa bilan kimyoviy hodisa o'rtasidagi asosiy farq nima?",
+      "variantlar": [
+        "Fizik hodisada yangi modda hosil bo'lmaydi, kimyoviy hodisada hosil bo'ladi",
+        "Farq yo'q",
+        "Fizik hodisa faqat gazlarda bo'ladi",
+        "Kimyoviy hodisa faqat qattiq jismlarda bo'ladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Muzning erishi qanday hodisaga misol?",
+      "variantlar": [
+        "Kimyoviy hodisa",
+        "Fizik hodisa",
+        "Yadro reaksiyasi",
+        "Elektr hodisasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yog'ochning yonishi qanday hodisaga misol?",
+      "variantlar": [
+        "Fizik hodisa",
+        "Kimyoviy hodisa",
+        "Faqat issiqlik hodisasi",
+        "Faqat elektr hodisasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy reaksiya tenglamasida moddalar oldidagi sonlar (koeffitsientlar) nima uchun kerak?",
+      "variantlar": [
+        "Faqat chiroyli ko'rinish uchun",
+        "Atomlar sonining tenglashtirilishi (massa saqlanish qonuni) uchun",
+        "Haroratni ko'rsatish uchun",
+        "Vaqtni ko'rsatish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Massaning saqlanish qonuniga ko'ra, reaksiyaga kirishuvchi moddalar massasi va hosil bo'luvchi mahsulotlar massasi qanday bo'ladi?",
+      "variantlar": [
+        "Har doim har xil",
+        "Bir-biriga teng",
+        "Mahsulotlar massasi har doim kichik",
+        "Mahsulotlar massasi har doim katta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kislotalar suvli eritmada qanday ionlarni hosil qiladi?",
+      "variantlar": [
+        "OH- ionlarini",
+        "H+ (vodorod) ionlarini",
+        "Faqat metall ionlarini",
+        "Hech qanday ion hosil qilmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Asoslar suvli eritmada qanday ionlarni hosil qiladi?",
+      "variantlar": [
+        "H+ ionlarini",
+        "OH- (gidroksid) ionlarini",
+        "Faqat kislorod ionlarini",
+        "Faqat vodorod atomlarini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kislota va asos o'zaro reaksiyaga kirishganda odatda nima hosil bo'ladi?",
+      "variantlar": [
+        "Faqat gaz",
+        "Tuz va suv (neytrallanish reaksiyasi)",
+        "Faqat cho'kma",
+        "Hech narsa hosil bo'lmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "pH shkalasi nimani ko'rsatadi?",
+      "variantlar": [
+        "Eritmaning rangini",
+        "Eritmaning kislotali yoki ishqoriy muhitini",
+        "Eritmaning haroratini",
+        "Eritmaning hajmini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "pH=7 bo'lgan eritma qanday muhitga ega?",
+      "variantlar": [
+        "Kislotali",
+        "Neytral",
+        "Ishqoriy",
+        "Aniqlanmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "pH<7 bo'lgan eritma qanday muhitga ega?",
+      "variantlar": [
+        "Kislotali",
+        "Neytral",
+        "Ishqoriy",
+        "Aniqlanmagan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Lakmus indikatori kislotali muhitda qanday rangga bo'yaladi?",
+      "variantlar": [
+        "Ko'k",
+        "Qizil",
+        "Yashil",
+        "Sariq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tuzlar odatda qanday moddalar reaksiyasidan hosil bo'ladi?",
+      "variantlar": [
+        "Faqat metallardan",
+        "Kislota va asos (yoki metall) reaksiyasidan",
+        "Faqat suvdan",
+        "Faqat gazlardan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vodorod eng ko'p qaysi moddada uchraydi (tabiatda)?",
+      "variantlar": [
+        "Toza holda havoda",
+        "Suv tarkibida",
+        "Faqat metallarda",
+        "Faqat tuproqda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kislorod havoning taxminan necha foizini tashkil qiladi?",
+      "variantlar": [
+        "1%",
+        "21%",
+        "50%",
+        "78%"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Azot havoning taxminan necha foizini tashkil qiladi?",
+      "variantlar": [
+        "21%",
+        "50%",
+        "78%",
+        "10%"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Yonish reaksiyasi uchun asosan qaysi gaz zarur?",
+      "variantlar": [
+        "Azot",
+        "Kislorod",
+        "Vodorod",
+        "Karbonat angidrid"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Metallarning umumiy fizik xossalaridan biri nima?",
+      "variantlar": [
+        "Issiqlik va elektr tokini yomon o'tkazadi",
+        "Issiqlik va elektr tokini yaxshi o'tkazadi",
+        "Har doim gaz holatida bo'ladi",
+        "Har doim shaffof bo'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nometallarning xossasi metallardan qanday farq qiladi?",
+      "variantlar": [
+        "Odatda elektr tokini yomonroq o'tkazadi",
+        "Har doim metalldan qattiqroq",
+        "Har doim og'irroq",
+        "Farq yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Oksidlar nima?",
+      "variantlar": [
+        "Elementning kislorod bilan birikmasi",
+        "Elementning vodorod bilan birikmasi",
+        "Faqat tuzlar",
+        "Faqat kislotalar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Temir zanglashi qanday reaksiya turi?",
+      "variantlar": [
+        "Faqat fizik hodisa",
+        "Kislorod bilan oksidlanish (kimyoviy) reaksiyasi",
+        "Yadro reaksiyasi",
+        "Faqat erish jarayoni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mol tushunchasi nimani ifodalaydi?",
+      "variantlar": [
+        "Faqat massani",
+        "Modda miqdorining o'lchov birligini (6.02×10^23 zarracha)",
+        "Faqat hajmni",
+        "Faqat haroratni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Avogadro soni taxminan nechaga teng?",
+      "variantlar": [
+        "6.02×10^23",
+        "3.14×10^10",
+        "9.8×10^5",
+        "1.6×10^-19"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kimyoviy reaksiya turlariga qaysi biri kirmaydi?",
+      "variantlar": [
+        "Birikish reaksiyasi",
+        "Almashinish reaksiyasi",
+        "Fotosintez faqat biologik jarayon",
+        "Parchalanish reaksiyasi"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Birikish reaksiyasida nima sodir bo'ladi?",
+      "variantlar": [
+        "Ikki yoki undan ortiq modda birikib, bitta murakkab modda hosil qiladi",
+        "Bitta modda ikkiga bo'linadi",
+        "Hech narsa o'zgarmaydi",
+        "Faqat rang o'zgaradi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Parchalanish reaksiyasida nima sodir bo'ladi?",
+      "variantlar": [
+        "Bir modda ikki yoki undan ortiq moddaga ajraladi",
+        "Ikki modda birikadi",
+        "Faqat harorat o'zgaradi",
+        "Hech narsa o'zgarmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Eritma nima?",
+      "variantlar": [
+        "Faqat toza modda",
+        "Ikki yoki undan ortiq moddaning bir jinsli aralashmasi",
+        "Faqat gaz holatidagi modda",
+        "Faqat qattiq modda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Erituvchi va erigan modda tushunchalarida qaysi biri odatda ko'proq miqdorda bo'ladi?",
+      "variantlar": [
+        "Erigan modda",
+        "Erituvchi",
+        "Ikkalasi teng bo'lishi shart",
+        "Aniqlab bo'lmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "To'yingan eritma nima?",
+      "variantlar": [
+        "Modda umuman erimagan eritma",
+        "Ma'lum haroratda modda maksimal miqdorda erigan eritma",
+        "Faqat suvli eritma",
+        "Faqat gaz eritmasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Metallarning reaktivlik qatorida qaysi metall eng faol hisoblanadi (berilgan variantlar orasida)?",
+      "variantlar": [
+        "Oltin",
+        "Kaliy",
+        "Kumush",
+        "Mis"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oltin nima uchun zargarlik buyumlarida ko'p ishlatiladi?",
+      "variantlar": [
+        "Juda faol metall bo'lgani uchun",
+        "Kimyoviy jihatdan barqaror (kam reaksiyaga kirishuvchi) bo'lgani uchun",
+        "Juda yengil bo'lgani uchun",
+        "Rangi yo'qligi uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Natriy\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "I",
+        "K",
+        "Na",
+        "Al"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "\"Kaliy\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Cu",
+        "Fe",
+        "Au",
+        "K"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Kaltsiy\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Ag",
+        "Zn",
+        "Mg",
+        "Ca"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Temir\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "K",
+        "I",
+        "Au",
+        "Fe"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Mis\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Hg",
+        "Br",
+        "Cu",
+        "S"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "\"Rux\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "N",
+        "Zn",
+        "S",
+        "Ag"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Alyuminiy\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Mg",
+        "Si",
+        "N",
+        "Al"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Oltingugurt\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "S",
+        "Al",
+        "Ca",
+        "Cu"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Xlor\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Na",
+        "Cl",
+        "Si",
+        "Ca"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Ftor\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "F",
+        "S",
+        "Si",
+        "I"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Azot\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "F",
+        "N",
+        "K",
+        "Pb"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Fosfor\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Hg",
+        "Cu",
+        "K",
+        "P"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Kremniy\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Ca",
+        "Cl",
+        "Au",
+        "Si"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Magniy\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Si",
+        "Na",
+        "F",
+        "Mg"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Kumush\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Zn",
+        "Hg",
+        "Si",
+        "Ag"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "\"Oltin\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "N",
+        "Mg",
+        "Au",
+        "S"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "\"Qo'rg'oshin\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Zn",
+        "P",
+        "Pb",
+        "Cl"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "\"Simob\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Hg",
+        "K",
+        "Cl",
+        "N"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Yod\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "I",
+        "Zn",
+        "K",
+        "Ag"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Brom\" elementining kimyoviy belgisi qanday?",
+      "variantlar": [
+        "Pb",
+        "K",
+        "Br",
+        "Si"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 1 g/mol bo'lgan 'H' elementidan 6 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "1",
+        "7",
+        "6",
+        "5"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 1 g/mol bo'lgan 'H' elementidan 9 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "8",
+        "11",
+        "9",
+        "10"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan 'Ca' elementidan 80 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "2",
+        "3",
+        "80",
+        "1"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 14 g/mol bo'lgan 'N' elementidan 1 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "14",
+        "15",
+        "16",
+        "28"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 23 g/mol bo'lgan 'Na' elementidan 115 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "5",
+        "4",
+        "6",
+        "115"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 14 g/mol bo'lgan 'N' elementidan 7 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "21",
+        "84",
+        "98",
+        "112"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 12 g/mol bo'lgan 'C' elementidan 96 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "96",
+        "7",
+        "8",
+        "9"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan 'Ca' elementidan 280 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "8",
+        "7",
+        "6",
+        "280"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan 'Ca' elementidan 120 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "3",
+        "4",
+        "2",
+        "120"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 39 g/mol bo'lgan 'K' elementidan 2 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "41",
+        "117",
+        "78",
+        "39"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Molyar massasi 16 g/mol bo'lgan 'O' elementidan 48 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "4",
+        "3",
+        "48",
+        "2"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 12 g/mol bo'lgan 'C' elementidan 72 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "5",
+        "6",
+        "72",
+        "7"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 32 g/mol bo'lgan 'S' elementidan 192 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "6",
+        "5",
+        "192",
+        "7"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 1 g/mol bo'lgan 'H' elementidan 5 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 12 g/mol bo'lgan 'C' elementidan 24 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "1",
+        "3",
+        "24",
+        "2"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Molyar massasi 12 g/mol bo'lgan 'C' elementidan 3 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "15",
+        "36",
+        "48",
+        "24"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molyar massasi 1 g/mol bo'lgan 'H' elementidan 1 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "1",
+        "3",
+        "2",
+        "6"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan 'Ca' elementidan 3 mol olinsa, uning massasi qancha bo'ladi (g da)?",
+      "variantlar": [
+        "120",
+        "160",
+        "80",
+        "43"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 40 g/mol bo'lgan 'Ca' elementidan 40 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "1",
+        "40",
+        "3",
+        "2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Molyar massasi 1 g/mol bo'lgan 'H' elementidan 8 gramm olinsa, necha mol bo'ladi?",
+      "variantlar": [
+        "8",
+        "1",
+        "7",
+        "9"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Vodorodning valentligi odatda nechaga teng?",
+      "variantlar": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kislorodning valentligi odatda nechaga teng?",
+      "variantlar": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Natriyning valentligi nechaga teng?",
+      "variantlar": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kaltsiyning valentligi nechaga teng?",
+      "variantlar": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alyuminiyning valentligi nechaga teng?",
+      "variantlar": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Metan gazining kimyoviy formulasi qanday?",
+      "variantlar": [
+        "CH4",
+        "CO2",
+        "C2H6",
+        "NH3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ammiakning kimyoviy formulasi qanday?",
+      "variantlar": [
+        "NH3",
+        "HNO3",
+        "N2O",
+        "NaNH2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sulfat kislotaning formulasi qanday?",
+      "variantlar": [
+        "H2SO4",
+        "HCl",
+        "HNO3",
+        "H2S"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Xlorid kislotaning formulasi qanday?",
+      "variantlar": [
+        "HCl",
+        "H2SO4",
+        "HNO3",
+        "H2CO3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Natriy gidroksidning formulasi qanday?",
+      "variantlar": [
+        "NaOH",
+        "NaCl",
+        "Na2O",
+        "NaHCO3"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kaltsiy karbonatning formulasi qanday?",
+      "variantlar": [
+        "CaCO3",
+        "CaO",
+        "Ca(OH)2",
+        "CaCl2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Vodorod peroksidning formulasi qanday?",
+      "variantlar": [
+        "H2O2",
+        "H2O",
+        "HO2",
+        "H3O2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Almashinish reaksiyasida nima sodir bo'ladi?",
+      "variantlar": [
+        "Ikki murakkab modda tarkibiy qismlari bilan almashadi",
+        "Bitta modda ikkiga bo'linadi",
+        "Ikki modda birikadi",
+        "Hech narsa o'zgarmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'rin bosish reaksiyasida nima sodir bo'ladi?",
+      "variantlar": [
+        "Oddiy modda murakkab moddadagi elementni almashtiradi",
+        "Ikki murakkab modda o'zaro almashadi",
+        "Faqat gaz ajraladi",
+        "Faqat rang o'zgaradi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ekzotermik reaksiya nima?",
+      "variantlar": [
+        "Issiqlik yutiladigan reaksiya",
+        "Issiqlik ajralib chiqadigan reaksiya",
+        "Faqat gaz hosil qiluvchi reaksiya",
+        "Faqat rang o'zgaruvchi reaksiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Endotermik reaksiya nima?",
+      "variantlar": [
+        "Issiqlik ajraladigan reaksiya",
+        "Issiqlik yutiladigan reaksiya",
+        "Faqat yorug'lik chiqaradigan reaksiya",
+        "Hech qanday energiya almashinuvisiz reaksiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Katalizator vazifasi nima?",
+      "variantlar": [
+        "Reaksiya tezligini o'zgartirish (odatda tezlashtirish), lekin o'zi sarflanmaydi",
+        "Reaksiyani to'liq to'xtatish",
+        "Faqat rang berish",
+        "Faqat massa qo'shish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Cho'kma hosil bo'lish reaksiyasi qanday reaksiyaga misol?",
+      "variantlar": [
+        "Almashinish reaksiyasi turiga",
+        "Faqat yonish reaksiyasi",
+        "Faqat parchalanish reaksiyasi",
+        "Yadro reaksiyasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Gaz ajralib chiqishi reaksiya sodir bo'lganligining qaysi belgisi hisoblanadi?",
+      "variantlar": [
+        "Fizik o'zgarish belgisi emas, kimyoviy reaksiya belgisi",
+        "Hech qanday narsani bildirmaydi",
+        "Faqat erish belgisi",
+        "Faqat muzlash belgisi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ammiakli suv qanday muhitga ega?",
+      "variantlar": [
+        "Kislotali",
+        "Ishqoriy (asosli)",
+        "Neytral",
+        "Aniqlanmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy formuladagi indeks (pastki raqam) nimani ko'rsatadi?",
+      "variantlar": [
+        "Molekuladagi shu element atomlari sonini",
+        "Reaksiya tezligini",
+        "Haroratni",
+        "Bosimni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Organik va anorganik moddalar orasidagi asosiy farq nimada?",
+      "variantlar": [
+        "Organik moddalar asosan uglerodga asoslangan",
+        "Anorganik moddalar faqat gazlardan iborat",
+        "Farq yo'q",
+        "Organik moddalar faqat metalldan iborat"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Uglevodorodlar tarkibida qaysi ikki element mavjud?",
+      "variantlar": [
+        "Uglerod va kislorod",
+        "Uglerod va vodorod",
+        "Azot va vodorod",
+        "Kislorod va vodorod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Polimerlar nima?",
+      "variantlar": [
+        "Kichik molekulalardan tashkil topgan uzun zanjirli katta molekulalar",
+        "Faqat metallar",
+        "Faqat gazlar",
+        "Faqat kislotalar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Plastmassa qanday moddalar guruhiga kiradi?",
+      "variantlar": [
+        "Metallar",
+        "Polimerlar (organik)",
+        "Nodir metallar",
+        "Tabiiy minerallar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Elektroliz jarayoni nima?",
+      "variantlar": [
+        "Elektr toki yordamida moddani parchalash",
+        "Faqat mexanik aralashtirish",
+        "Faqat qizdirish",
+        "Faqat sovutish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Zang qanday moddadan iborat (asosan)?",
+      "variantlar": [
+        "Toza temir",
+        "Temir oksidi",
+        "Temir sulfat",
+        "Temir karbonat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Marmar (ohaktosh) asosan qaysi moddadan iborat?",
+      "variantlar": [
+        "Natriy xlorid",
+        "Kaltsiy karbonat",
+        "Kaliy nitrat",
+        "Magniy sulfat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sirka kislota kundalik hayotda qayerda ko'p ishlatiladi?",
+      "variantlar": [
+        "Faqat sanoatda",
+        "Oshxonada (masalan sirka sifatida)",
+        "Faqat tibbiyotda",
+        "Faqat qurilishda"
+      ],
+      "togri": 1
+    }
+  ]
+}
