@@ -1,0 +1,1205 @@
+{
+  "label": "Biologiya sinovi (5-7 sinf)",
+  "savollar": [
+    {
+      "savol": "Biologiya fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat jonsiz tabiatni",
+        "Tirik organizmlar va ularning hayot faoliyatini",
+        "Faqat kimyoviy moddalarni",
+        "Faqat yulduzlarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tirik organizmlarning eng kichik tuzilish va faoliyat birligi nima?",
+      "variantlar": [
+        "Molekula",
+        "Hujayra",
+        "Atom",
+        "To'qima"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hujayrani birinchi bo'lib kim kashf etgan?",
+      "variantlar": [
+        "Charlz Darvin",
+        "Robert Guk",
+        "Grigor Mendel",
+        "Lui Paster"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simlik va hayvon hujayralari orasidagi asosiy farqlardan biri nima?",
+      "variantlar": [
+        "Hayvon hujayrasida hujayra devori bor, o'simliknikida yo'q",
+        "O'simlik hujayrasida hujayra devori va xloroplast bor, hayvon hujayrasida yo'q",
+        "Farq yo'q",
+        "Ikkalasida ham yadro yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hujayra yadrosi qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat energiya ishlab chiqaradi",
+        "Irsiy ma'lumotni (DNK) saqlaydi va hujayra faoliyatini boshqaradi",
+        "Faqat oziq moddalarni saqlaydi",
+        "Hech qanday vazifasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fotosintez jarayoni qayerda sodir bo'ladi?",
+      "variantlar": [
+        "Hayvon hujayrasida",
+        "O'simlik hujayrasidagi xloroplastlarda",
+        "Faqat ildizda",
+        "Faqat gulda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fotosintez natijasida o'simlik nima ishlab chiqaradi?",
+      "variantlar": [
+        "Karbonat angidrid va suv",
+        "Kislorod va organik moddalar (glyukoza)",
+        "Faqat azot",
+        "Faqat suv"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simliklar fotosintez uchun nimalardan foydalanadi?",
+      "variantlar": [
+        "Faqat suv",
+        "Yorug'lik, suv va karbonat angidrid",
+        "Faqat tuproq",
+        "Faqat kislorod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simlik ildizining asosiy vazifasi nima?",
+      "variantlar": [
+        "Faqat gul chiqarish",
+        "Tuproqqa mahkamlanish va suv-mineral moddalarni so'rish",
+        "Faqat urug' hosil qilish",
+        "Faqat fotosintez qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Barg o'simlik uchun asosan qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat chiroy uchun",
+        "Fotosintez va gazlar almashinuvi",
+        "Faqat suv yig'ish",
+        "Faqat urug' tarqatish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gullar o'simlikda asosan qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat chiroy uchun",
+        "Ko'payish (changlanish va urug' hosil bo'lishi) uchun",
+        "Faqat fotosintez uchun",
+        "Faqat suv saqlash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simliklar necha katta guruhga bo'linadi (urug'li va urug'siz)?",
+      "variantlar": [
+        "Bitta guruh",
+        "Ikki asosiy guruh",
+        "O'nta guruh",
+        "Bo'linmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mox va qirqbo'g'im qanday o'simliklar guruhiga kiradi?",
+      "variantlar": [
+        "Urug'li o'simliklar",
+        "Urug'siz (spora bilan ko'payuvchi) o'simliklar",
+        "Faqat gulli o'simliklar",
+        "Faqat daraxtlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hayvonlar asosan qanday oziqlanish turiga ega?",
+      "variantlar": [
+        "O'zlari fotosintez qiladi",
+        "Tayyor organik moddalar bilan oziqlanadi (geterotrof)",
+        "Hech narsa bilan oziqlanmaydi",
+        "Faqat suv ichadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Umurtqali hayvonlarning asosiy belgisi nima?",
+      "variantlar": [
+        "Umurtqa pog'onasi (ichki skelet) mavjudligi",
+        "Faqat qanotlari borligi",
+        "Faqat suvda yashashi",
+        "Faqat uchishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Umurtqasiz hayvonlarga qaysi guruh misol bo'ladi?",
+      "variantlar": [
+        "Sutemizuvchilar",
+        "Hasharotlar",
+        "Qushlar",
+        "Baliqlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sutemizuvchilarning asosiy belgisi nima?",
+      "variantlar": [
+        "Tuxum qo'yish va sut bermaslik",
+        "Bolalarini sut bilan boqishi",
+        "Faqat suvda yashashi",
+        "Faqat qanotli bo'lishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qushlarning asosiy ko'payish usuli qanday?",
+      "variantlar": [
+        "Tirik tug'ish",
+        "Tuxum qo'yish",
+        "Bo'linish orqali",
+        "Spora orqali"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Baliqlar nafas olish uchun qanday organdan foydalanadi?",
+      "variantlar": [
+        "O'pka",
+        "Jabra",
+        "Teri faqat",
+        "Traxeya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amfibiyalar (qurbaqasimonlar) hayotining qaysi bosqichida suvda, qaysi bosqichida quruqlikda yashaydi?",
+      "variantlar": [
+        "Butun umri faqat suvda",
+        "Lichinka bosqichida suvda, kattalik bosqichida asosan quruqlikda",
+        "Butun umri faqat quruqlikda",
+        "Umuman suvga yaqinlashmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hasharotlarning tanasi necha qismdan iborat?",
+      "variantlar": [
+        "Ikki qismdan",
+        "Uch qismdan (bosh, ko'krak, qorin)",
+        "Beshta qismdan",
+        "Bir butun qismdan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hasharotlar necha oyoqqa ega?",
+      "variantlar": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rgimchaklar necha oyoqqa ega?",
+      "variantlar": [
+        "6",
+        "8",
+        "10",
+        "4"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bakteriyalar qanday tuzilishga ega organizmlar?",
+      "variantlar": [
+        "Ko'p hujayrali murakkab organizmlar",
+        "Bir hujayrali, yadrosiz (prokariot) organizmlar",
+        "Faqat o'simliklar",
+        "Faqat hayvonlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zamburug'lar (qo'ziqorinlar) qanday oziqlanadi?",
+      "variantlar": [
+        "Fotosintez orqali",
+        "Tayyor organik moddalar bilan (geterotrof)",
+        "Faqat suv ichib",
+        "Faqat havo yutib"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologiya fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat hayvonlarning tuzilishini",
+        "Organizmlarning bir-biri va muhit bilan o'zaro munosabatini",
+        "Faqat o'simliklar tuzilishini",
+        "Faqat inson tanasini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekotizim nima?",
+      "variantlar": [
+        "Faqat jonsiz tabiat",
+        "Tirik organizmlar va ularning yashash muhitining birligi",
+        "Faqat bitta turdagi hayvonlar",
+        "Faqat o'simliklar to'plami"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oziq zanjiri (ovqat zanjiri) nima?",
+      "variantlar": [
+        "Organizmlar orasidagi oziqlanish bog'liqligining ketma-ketligi",
+        "Faqat o'simliklar ro'yxati",
+        "Faqat hayvonlar ro'yxati",
+        "Tasodifiy tartib"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Produtsentlar (ishlab chiqaruvchilar) oziq zanjirida kim hisoblanadi?",
+      "variantlar": [
+        "Yirtqich hayvonlar",
+        "O'simliklar (fotosintez qiluvchilar)",
+        "Bakteriyalar faqat",
+        "Zamburug'lar faqat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Konsumentlar (iste'molchilar) oziq zanjirida kimlar hisoblanadi?",
+      "variantlar": [
+        "Faqat o'simliklar",
+        "Hayvonlar (o'simlik yoki boshqa hayvonlar bilan oziqlanuvchilar)",
+        "Faqat bakteriyalar",
+        "Faqat zamburug'lar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Redutsentlar (parchalovchilar) ekotizimda qanday rol o'ynaydi?",
+      "variantlar": [
+        "O'lik organik moddalarni parchalab, tabiiy aylanishni ta'minlaydi",
+        "Faqat fotosintez qiladi",
+        "Faqat ovqat yeydi",
+        "Hech qanday rol o'ynamaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Inson tanasida qancha asosiy organ sistemasi mavjud?",
+      "variantlar": [
+        "Faqat bitta",
+        "Bir nechta (nafas, qon aylanish, ovqat hazm qilish va boshqalar)",
+        "Ikkita",
+        "Sistema tushunchasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yurak inson tanasida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Ovqatni hazm qilish",
+        "Qonni tomirlar orqali haydash (qon aylanishini ta'minlash)",
+        "Nafas olish",
+        "Fikrlash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'pka inson tanasida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Qon aylantiradi",
+        "Nafas olish (gazlar almashinuvi)ni ta'minlaydi",
+        "Ovqatni hazm qiladi",
+        "Suyaklarni harakatlantiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Miya inson tanasida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat qon aylantiradi",
+        "Asab tizimini boshqaradi, fikrlash va his qilish markazidir",
+        "Faqat ovqat hazm qiladi",
+        "Faqat nafas oldiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Skelet (suyak tizimi) inson tanasida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat chiroy uchun",
+        "Tananing tayanchi va himoya vazifasini bajaradi",
+        "Faqat ovqat hazm qiladi",
+        "Faqat nafas oldiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muskul (mushak) tizimi nima uchun kerak?",
+      "variantlar": [
+        "Faqat qon ishlab chiqarish",
+        "Tananing harakatini ta'minlash uchun",
+        "Faqat fikrlash uchun",
+        "Faqat ovqat hazm qilish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Inson ovqat hazm qilish tizimi qaysi organdan boshlanadi?",
+      "variantlar": [
+        "Oshqozon",
+        "Og'iz bo'shlig'i",
+        "Ichak",
+        "Jigar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oziq moddalarning asosiy so'rilishi qaysi organda sodir bo'ladi?",
+      "variantlar": [
+        "Og'iz bo'shlig'ida",
+        "Ingichka ichakda",
+        "Qalin ichakda",
+        "Oshqozonda to'liq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Teri inson tanasida qanday vazifalarni bajaradi?",
+      "variantlar": [
+        "Faqat chiroy uchun",
+        "Himoya, harorat tartibga solish va sezgi organi vazifasi",
+        "Faqat rang berish",
+        "Hech qanday vazifasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insonda qancha asosiy sezgi a'zosi bor deb hisoblanadi (an'anaviy)?",
+      "variantlar": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'z qanday sezgi turini ta'minlaydi?",
+      "variantlar": [
+        "Eshitish",
+        "Ko'rish",
+        "Hidlash",
+        "Ta'm bilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Quloq qanday sezgi turini ta'minlaydi?",
+      "variantlar": [
+        "Ko'rish",
+        "Eshitish",
+        "Hidlash",
+        "Ta'm bilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sog'lom turmush tarzi uchun nima muhim?",
+      "variantlar": [
+        "Faqat ko'p uxlash",
+        "To'g'ri ovqatlanish, jismoniy faollik va yetarli dam olish",
+        "Faqat sport bilan shug'ullanish",
+        "Faqat kam ovqatlanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vitaminlar organizm uchun nima uchun zarur?",
+      "variantlar": [
+        "Faqat energiya manbai sifatida",
+        "Ko'plab hayotiy jarayonlarni normal borishi uchun kichik miqdorda zarur",
+        "Hech qanday ahamiyati yo'q",
+        "Faqat rang berish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simliklar tabiatda kislorod manbai sifatida qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Fotosintez orqali atmosferaga kislorod chiqaradi",
+        "Faqat karbonat angidrid chiqaradi",
+        "Faqat azot chiqaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rmonlarning kesilishi (deforestatsiya) qanday oqibatlarga olib kelishi mumkin?",
+      "variantlar": [
+        "Hech qanday salbiy oqibat bo'lmaydi",
+        "Bioxilma-xillikning kamayishi va ekologik muvozanatning buzilishi",
+        "Faqat foydali oqibatlar",
+        "Havoni tozalaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bioxilma-xillik nima?",
+      "variantlar": [
+        "Faqat bitta turdagi organizmlar soni",
+        "Yerdagi turli xil tirik organizmlarning boyligi",
+        "Faqat o'simliklar soni",
+        "Faqat hayvonlar rangi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nesli qirilib borayotgan (yo'qolib ketish xavfi ostidagi) hayvonlarni himoya qilish uchun nima qilinadi?",
+      "variantlar": [
+        "Ularni ovlashni kengaytirish",
+        "Qo'riqxonalar tashkil etish va ov qilishni cheklash",
+        "Hech narsa qilinmaydi",
+        "Yashash muhitini yo'q qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv tirik organizmlar uchun nima uchun juda muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Ko'pchilik hayotiy jarayonlar suv ishtirokida boradi",
+        "Faqat chanqoqni qondirish uchun",
+        "Faqat yuvinish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simliklarda changlanish jarayoni nima?",
+      "variantlar": [
+        "Gulning so'lishi",
+        "Chang donachalarining gul tumshug'iga tushishi (urug'lanishga tayyorgarlik)",
+        "Barglarning to'kilishi",
+        "Ildizning o'sishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Urug' tarqalishining tabiiy usullariga qaysi biri kiradi?",
+      "variantlar": [
+        "Shamol, suv va hayvonlar orqali",
+        "Faqat inson orqali",
+        "Faqat mashina orqali",
+        "Tarqalmaydi, joyida qoladi har doim"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ko'chmanchi (migratsiya qiluvchi) qushlar nima uchun uzoq masofalarga uchib ketishadi?",
+      "variantlar": [
+        "Faqat sayohat uchun",
+        "Qulay iqlim va oziq-ovqat qidirib (fasllar almashinuviga moslashish)",
+        "Hech qanday sababsiz",
+        "Faqat dam olish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yirtqich va o'ljasi orasidagi munosabat qanday ataladi?",
+      "variantlar": [
+        "Simbioz",
+        "Yirtqichlik (predatsiya)",
+        "Parazitizm",
+        "Neytral munosabat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Simbioz munosabat nima?",
+      "variantlar": [
+        "Bir tomon ikkinchisiga zarar keltiradigan munosabat",
+        "Ikki organizm o'zaro foyda ko'radigan yashash birgaligi",
+        "Faqat raqobat",
+        "Hech qanday aloqa bo'lmasligi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Parazitizm munosabatida nima sodir bo'ladi?",
+      "variantlar": [
+        "Ikkala organizm ham foyda ko'radi",
+        "Bir organizm (parazit) ikkinchisi (xo'jayin) hisobiga yashaydi va unga zarar yetkazadi",
+        "Hech qanday ta'sir bo'lmaydi",
+        "Ikkalasi ham zarar ko'radi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mavsumiy o'zgarishlar (fasllar) o'simliklarga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Ba'zi o'simliklar barglarini to'kadi, gullash vaqti o'zgaradi",
+        "Faqat rangini o'zgartiradi doimo",
+        "O'simliklar umuman o'zgarmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tirik organizmlarning umumiy xossalariga qaysi biri kirmaydi?",
+      "variantlar": [
+        "Oziqlanish",
+        "Ko'payish",
+        "Doimiy harakatsizlik va o'zgarmaslik",
+        "O'sish"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Barcha tirik organizmlar nima qilishi kerak (yashash uchun)?",
+      "variantlar": [
+        "Hech narsa qilmasligi kerak",
+        "Oziqlanishi, nafas olishi va ko'payishi kerak",
+        "Faqat harakatlanishi kerak",
+        "Faqat uxlashi kerak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hujayra devori qaysi organizmlarda mavjud?",
+      "variantlar": [
+        "Faqat hayvonlarda",
+        "O'simliklar, zamburug'lar va bakteriyalarda",
+        "Faqat odamda",
+        "Hech kimda yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xloroplast qanday vazifani bajaradi?",
+      "variantlar": [
+        "Hujayrani himoya qiladi",
+        "Fotosintez jarayonini amalga oshiradi (yashil rang beradi)",
+        "Faqat suv saqlaydi",
+        "Faqat oziq hazm qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bir yillik o'simliklar hayot davri qancha vaqtni oladi?",
+      "variantlar": [
+        "Bir necha soat",
+        "Bir yil ichida (urug'dan urug'gacha)",
+        "Yuz yil",
+        "Bir kun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'p yillik o'simliklarga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "Bug'doy",
+        "Daraxtlar (masalan olma daraxti)",
+        "Faqat sabzavotlar",
+        "Faqat gullar bir yillik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Poya o'simlikda qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat chiroy uchun",
+        "Suv va oziq moddalarni tashish hamda tayanch vazifasi",
+        "Faqat urug' hosil qilish",
+        "Faqat gaz almashinuvi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Danak (urug') ichida nima mavjud?",
+      "variantlar": [
+        "Faqat suv",
+        "Kurtak (embrion) va oziq moddalar zahirasi",
+        "Faqat havo",
+        "Hech narsa yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sabzavotlarning qaysi qismi ildiz hisoblanadi?",
+      "variantlar": [
+        "Sabzi",
+        "Pomidor",
+        "Karam bargi",
+        "Bodring"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Meva o'simlikda nima vazifasini bajaradi?",
+      "variantlar": [
+        "Faqat chiroy uchun",
+        "Urug'ni himoya qilish va tarqatishga yordam berish",
+        "Faqat fotosintez qilish",
+        "Faqat suv yig'ish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yirtqich hayvonlarga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "Quyon",
+        "Bo'ri",
+        "Kalamush",
+        "Kapalak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'txo'r hayvonlarga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "Sher",
+        "Quyon",
+        "Bo'ri",
+        "Ilon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hammaxo'r (ham o'simlik, ham go'sht yeydigan) hayvonlarga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "Sher (faqat go'sht)",
+        "Ayiq",
+        "Quyon (faqat o'simlik)",
+        "Sigir (faqat o'simlik)"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sudralib yuruvchilar (ilon, kaltakesak) qanday tuxum qo'yadi (asosan)?",
+      "variantlar": [
+        "Suvda",
+        "Quruqlikda",
+        "Havoda",
+        "Tuxum qo'ymaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'pchilik hasharotlar rivojlanishida nechta bosqich mavjud (to'liq o'zgarishda)?",
+      "variantlar": [
+        "Ikkita",
+        "To'rtta (tuxum, lichinka, g'umbak, kattalik)",
+        "Bitta",
+        "O'nta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Asalarilar tabiatda qanday muhim vazifani bajaradi?",
+      "variantlar": [
+        "Hech qanday vazifasi yo'q",
+        "Gullarni changlatib, o'simliklarning ko'payishiga yordam beradi",
+        "Faqat asal yeydi",
+        "Faqat uxlaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chuvalchanglar (yer chuvalchangi) tuproq uchun nima uchun foydali?",
+      "variantlar": [
+        "Tuproqni buzadi",
+        "Tuproqni yumshatib, unumdorligini oshiradi",
+        "Hech qanday foydasi yo'q",
+        "Faqat zarar keltiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Baliqlarning suvda suzishiga nima yordam beradi?",
+      "variantlar": [
+        "Oyoqlari",
+        "Suzgich qanotlari va oqim shaklidagi tanasi",
+        "Qanotlari",
+        "Uzun bo'yni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Delfin va kit qanday hayvonlar guruhiga kiradi (garchi suvda yashasa ham)?",
+      "variantlar": [
+        "Baliqlar",
+        "Sutemizuvchilar",
+        "Amfibiyalar",
+        "Mollyuskalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tuya cho'l sharoitiga qanday moslashgan?",
+      "variantlar": [
+        "Moslashmagan",
+        "Suvni uzoq vaqt saqlay oladi va issiqqa chidamli",
+        "Faqat sovuqqa chidamli",
+        "Faqat suvda yashaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qutb ayig'i sovuq iqlimga qanday moslashgan?",
+      "variantlar": [
+        "Yupqa mo'yna bilan",
+        "Qalin mo'yna va yog' qatlami bilan",
+        "Moslashmagan",
+        "Faqat uxlab yashaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bo'ri kabi hayvonlar odatda qanday guruh bo'lib yashaydi?",
+      "variantlar": [
+        "Yakka holda faqat",
+        "Suruv (to'da) bo'lib",
+        "Juft-juft bo'lib faqat",
+        "Umuman guruh bo'lmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mikroskop nima uchun ishlatiladi?",
+      "variantlar": [
+        "Uzoqdagi jismlarni ko'rish uchun",
+        "Ko'zga ko'rinmas kichik obyektlarni (hujayra kabi) kattalashtirib ko'rish uchun",
+        "Faqat rasm chizish uchun",
+        "Faqat o'lchash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bakteriyalar tabiatda qanday foydali rol o'ynashi mumkin?",
+      "variantlar": [
+        "Faqat kasallik tarqatadi",
+        "Chirituvchi (parchalovchi) va foydali jarayonlarda (masalan qatiq tayyorlashda) ishtirok etadi",
+        "Hech qanday foydasi yo'q",
+        "Faqat zararli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zamburug'lar (qo'ziqorin) o'simlikmi yoki hayvonmi?",
+      "variantlar": [
+        "O'simlik",
+        "Hayvon",
+        "Alohida katta guruh (na o'simlik, na hayvon)",
+        "Bakteriya turi"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Lishayniklar (yo'sinlar) qanday ikki organizmning birgalikda yashashidan hosil bo'ladi?",
+      "variantlar": [
+        "Ikki hayvon",
+        "Zamburug' va suvo'tining simbiozidan",
+        "Ikki bakteriya",
+        "Ikki o'simlik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chanqagan holatda organizm nima qilishi kerak?",
+      "variantlar": [
+        "Ovqat yeyishi kerak",
+        "Suv ichishi kerak",
+        "Uxlashi kerak",
+        "Hech narsa qilmasligi kerak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uyqu inson salomatligi uchun nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Tananing dam olishi va tiklanishi uchun zarur",
+        "Faqat vaqtni o'tkazish uchun",
+        "Faqat zerikish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shaxsiy gigiyena qoidalariga rioya qilish nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Kasalliklarning oldini olish uchun",
+        "Faqat chiroyli ko'rinish uchun",
+        "Faqat boshqalarga yoqish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qo'lni sovun bilan yuvish nima uchun tavsiya etiladi?",
+      "variantlar": [
+        "Faqat quruq qilish uchun",
+        "Mikroblarni yo'qotib, kasalliklar tarqalishining oldini olish uchun",
+        "Hech qanday sababsiz",
+        "Faqat vaqt o'tkazish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muvozanatli ovqatlanish nimani anglatadi?",
+      "variantlar": [
+        "Faqat bitta turdagi ovqat yeyish",
+        "Turli xil oziq moddalarni (oqsil, uglevod, yog', vitamin) yetarli miqdorda iste'mol qilish",
+        "Umuman ovqat yemaslik",
+        "Faqat shirinlik yeyish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sport va jismoniy mashqlar organizmga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Salbiy ta'sir qiladi",
+        "Sog'liqni mustahkamlaydi va tanani rivojlantiradi",
+        "Hech qanday ta'sir qilmaydi",
+        "Faqat charchatadi, foydasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yerdagi hayot uchun Quyoshning ahamiyati nimada?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Issiqlik va yorug'lik manbai, fotosintez uchun zarur",
+        "Faqat tunni yoritadi",
+        "Faqat rang beradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv aylanishi tabiatda qanday jarayon?",
+      "variantlar": [
+        "Suvning bug'lanishi, bulut hosil bo'lishi va yog'in sifatida qaytishi",
+        "Faqat daryoning oqishi",
+        "Faqat dengizning to'lqinlanishi",
+        "Hech qanday jarayon emas"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tuproq tarkibida nima bo'ladi?",
+      "variantlar": [
+        "Faqat suv",
+        "Mineral zarralar, organik moddalar, suv va havo",
+        "Faqat tosh",
+        "Faqat qum"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Cho'l ekotizimi qanday sharoit bilan xarakterlanadi?",
+      "variantlar": [
+        "Ko'p yog'ingarchilik va sovuq",
+        "Kam yog'ingarchilik va issiq (yoki keskin harorat farqi)",
+        "Doimiy muz",
+        "Doimiy yomg'ir"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rmon ekotizimida qaysi organizmlar ko'p uchraydi?",
+      "variantlar": [
+        "Faqat qumli o'simliklar",
+        "Daraxtlar, turli hayvonlar va o'simliklar",
+        "Faqat bitta turdagi o'simlik",
+        "Hech qanday organizm"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dengiz va okean ekotizimlarida qanday organizmlar yashaydi?",
+      "variantlar": [
+        "Faqat quruqlik hayvonlari",
+        "Baliqlar, dengiz sutemizuvchilari, mollyuskalar va boshqalar",
+        "Faqat qushlar",
+        "Hech kim yashamaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Inson faoliyati (sanoat, transport) tabiatga qanday ta'sir qilishi mumkin?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Ifloslanish va ekologik muvozanatning buzilishiga olib kelishi mumkin",
+        "Faqat foydali ta'sir",
+        "Tabiatni yaxshilaydi faqat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chiqindilarni qayta ishlash (retsikling) nima uchun foydali?",
+      "variantlar": [
+        "Foydasi yo'q",
+        "Tabiiy resurslarni tejaydi va ifloslanishni kamaytiradi",
+        "Faqat vaqt yo'qotish",
+        "Faqat xarajat oshiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv havzalarining ifloslanishi baliqlarga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Ularning yashashi va sog'lig'iga zarar yetkazishi mumkin",
+        "Faqat foydali ta'sir",
+        "Ularni ko'paytiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yowvoyi hayvonlarni saqlash uchun tashkil etilgan maxsus hududlar qanday ataladi?",
+      "variantlar": [
+        "Fermalar",
+        "Qo'riqxonalar (milliy bog'lar)",
+        "Bozorlar",
+        "Zavodlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda qanday tabiiy qo'riqxonalar mavjud (umumiy tushuncha)?",
+      "variantlar": [
+        "Umuman yo'q",
+        "Turli hududiy qo'riqxonalar (masalan Chotqol, Zomin va boshqalar)",
+        "Faqat bittasi bor va u yopiq",
+        "Faqat xorijda mavjud"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer yuzida hayot uchun zarur uchta asosiy tabiiy resurs qaysilar?",
+      "variantlar": [
+        "Faqat oltin, kumush, po'lat",
+        "Suv, havo va tuproq",
+        "Faqat neft va gaz",
+        "Faqat elektr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insonning nafas olish jarayonida qanday gaz yutiladi va qanday gaz chiqariladi?",
+      "variantlar": [
+        "Kislorod yutiladi, karbonat angidrid chiqariladi",
+        "Karbonat angidrid yutiladi, kislorod chiqariladi",
+        "Faqat azot yutiladi",
+        "Hech narsa almashmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yurak necha kamerdan (bo'lim) iborat (odam yuragi)?",
+      "variantlar": [
+        "Ikkita",
+        "To'rtta",
+        "Oltita",
+        "Bitta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qon tanada nima vazifasini bajaradi?",
+      "variantlar": [
+        "Faqat rang berish",
+        "Kislorod, oziq moddalar va boshqa zarur elementlarni tashish",
+        "Hech qanday vazifasi yo'q",
+        "Faqat isitish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Miya va orqa miya birgalikda qanday tizimni tashkil qiladi?",
+      "variantlar": [
+        "Qon aylanish tizimi",
+        "Markaziy asab tizimi",
+        "Ovqat hazm qilish tizimi",
+        "Nafas olish tizimi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bo'g'imlar (masalan tizza) tananing qaysi vazifasini ta'minlashga yordam beradi?",
+      "variantlar": [
+        "Ko'rish",
+        "Harakatlanish (egilish, bukilish)",
+        "Eshitish",
+        "Hidlash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tish tuzilishida eng qattiq qism qaysi?",
+      "variantlar": [
+        "Pulpa",
+        "Emal (tish sirtqi qattiq qatlami)",
+        "Ildiz kanali",
+        "Dentin faqat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chaqaloqlarda va bolalarda o'sish uchun qanday oziq moddalar ayniqsa muhim?",
+      "variantlar": [
+        "Faqat shakar",
+        "Oqsillar, vitaminlar va minerallar",
+        "Faqat suv",
+        "Hech narsa muhim emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insonning tana harorati normada taxminan necha darajaga teng?",
+      "variantlar": [
+        "25°C",
+        "36.6°C",
+        "45°C",
+        "20°C"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Odam yuragi tinch holatda bir daqiqada taxminan necha marta uradi?",
+      "variantlar": [
+        "10-20 marta",
+        "60-80 marta",
+        "200-300 marta",
+        "500 martadan ko'p"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Odam skeletida taxminan nechta suyak mavjud (kattalarda)?",
+      "variantlar": [
+        "50 ta",
+        "206 ta",
+        "500 ta",
+        "1000 ta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik muammolarni hal qilishda har bir insonning qanday hissasi bo'lishi mumkin?",
+      "variantlar": [
+        "Hech qanday hissasi bo'lmaydi",
+        "Chiqindilarni kamaytirish, suv va energiyani tejash kabi kichik harakatlar orqali",
+        "Faqat davlat javobgar, oddiy odam hech narsa qila olmaydi",
+        "Faqat boy odamlar hissa qo'sha oladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Global isish nima bilan bog'liq muammo?",
+      "variantlar": [
+        "Yer haroratining sun'iy ravishda pasayishi",
+        "Issiqxona gazlari ta'sirida Yer o'rtacha haroratining ko'tarilishi",
+        "Faqat mahalliy hodisa",
+        "Hech qanday muammo emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muzliklarning erishi qanday oqibatlarga olib kelishi mumkin?",
+      "variantlar": [
+        "Hech qanday oqibat bo'lmaydi",
+        "Dengiz sathining ko'tarilishi va ekotizimlarning o'zgarishi",
+        "Faqat foydali oqibat",
+        "Quruqlik ko'payadi faqat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insonlar tomonidan o'rmonlarga daraxt ekish (ko'kalamzorlashtirish) nima uchun foydali?",
+      "variantlar": [
+        "Foydasi yo'q",
+        "Kislorod ishlab chiqarish va ekotizimni tiklashga yordam beradi",
+        "Faqat manzarani buzadi",
+        "Faqat suv sarflaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Har bir tur (organizm turi) ekotizimda qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "O'zining o'ziga xos o'rni (ekologik nishasi) va ahamiyati bor",
+        "Faqat katta hayvonlar muhim",
+        "Faqat o'simliklar muhim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bolalar tabiatni asrashni nima uchun o'rganishi kerak?",
+      "variantlar": [
+        "Kerak emas",
+        "Kelajakda sog'lom muhitda yashash uchun tabiatni ehtiyot qilish muhim",
+        "Faqat kattalar mas'ul",
+        "Foydasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Quyoshdan olinadigan energiya ekotizim uchun qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Deyarli barcha oziq zanjirlari uchun asosiy energiya manbai",
+        "Faqat issitish uchun",
+        "Faqat yorug'lik uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tuproqdagi chirindi (gumus) nima uchun muhim?",
+      "variantlar": [
+        "Foydasi yo'q",
+        "O'simliklar uchun oziq moddalar manbai bo'lib xizmat qiladi",
+        "Faqat rang beradi",
+        "Faqat og'irlik qo'shadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yovvoyi tabiatni kuzatish (sayohatlar davomida) nimalarga o'rgatadi?",
+      "variantlar": [
+        "Hech nimaga o'rgatmaydi",
+        "Tabiat va organizmlar haqida bilim va ularni ehtiyot qilishni",
+        "Faqat vaqt o'tkazishga",
+        "Faqat charchashga"
+      ],
+      "togri": 1
+    }
+  ]
+}

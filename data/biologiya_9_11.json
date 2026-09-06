@@ -1,0 +1,1205 @@
+{
+  "label": "Biologiya sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "Molekulyar biologiyaning markaziy dogmasi (DNK→RNK→oqsil) nimani ifodalaydi?",
+      "variantlar": [
+        "Genetik ma'lumot oqimining asosiy yo'nalishini",
+        "Faqat hujayra bo'linishini",
+        "Faqat fotosintez jarayonini",
+        "Faqat evolyutsion jarayonni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Transkripsiya jarayonida nima sodir bo'ladi?",
+      "variantlar": [
+        "DNKdan RNK sintezlanadi",
+        "RNKdan oqsil sintezlanadi",
+        "Oqsildan DNK sintezlanadi",
+        "Hujayra bo'linadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Translyatsiya jarayonida nima sodir bo'ladi?",
+      "variantlar": [
+        "DNKdan RNK sintezlanadi",
+        "mRNK asosida ribosomada oqsil sintezlanadi",
+        "Hujayra devori hosil bo'ladi",
+        "DNK ikkilanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kodon nima?",
+      "variantlar": [
+        "Bitta nukleotid",
+        "mRNKdagi uchta nukleotiddan iborat, bitta aminokislotani kodlovchi ketma-ketlik",
+        "Butun gen",
+        "Butun xromosoma"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "DNK replikatsiyasi (ikkilanishi) qachon sodir bo'ladi?",
+      "variantlar": [
+        "Hujayra bo'linishidan oldin",
+        "Faqat o'lim paytida",
+        "Hech qachon",
+        "Faqat fotosintez paytida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "DNK replikatsiyasi qanday tarzda amalga oshiriladi (umumiy tamoyil)?",
+      "variantlar": [
+        "Yangi zanjir eskisidan mustaqil hosil bo'ladi",
+        "Yarim konservativ usulda (har bir yangi molekula bitta eski, bitta yangi zanjirdan iborat)",
+        "Faqat RNK orqali",
+        "Tasodifiy usulda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mitoz bo'linish natijasida hosil bo'lgan hujayralar ona hujayraga nisbatan qanday xromosoma to'plamiga ega?",
+      "variantlar": [
+        "Yarmi",
+        "Bir xil (teng) xromosoma to'plamiga",
+        "Ikki barobar ko'p",
+        "Umuman xromosomasiz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Meyoz bo'linish natijasida hosil bo'lgan jinsiy hujayralar xromosoma to'plami qanday bo'ladi?",
+      "variantlar": [
+        "Ona hujayranikidan ikki barobar ko'p",
+        "Ona hujayranikining yarmi (gaploid)",
+        "Bir xil (diploid)",
+        "Umuman xromosomasiz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Meyoz jarayonining biologik ahamiyati nimada?",
+      "variantlar": [
+        "Faqat hujayra sonini oshirish",
+        "Jinsiy hujayralar hosil qilish va genetik xilma-xillikni ta'minlash",
+        "Faqat o'sishni ta'minlash",
+        "Hech qanday ahamiyati yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Krossingover (xromosomalar orasida bo'lak almashinuvi) qachon sodir bo'ladi?",
+      "variantlar": [
+        "Mitozda",
+        "Meyoz I bosqichida",
+        "Hech qachon",
+        "Faqat oqsil sintezida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dixibrid chatishtirish nima?",
+      "variantlar": [
+        "Bitta belgi bo'yicha chatishtirish",
+        "Ikkita belgi bo'yicha chatishtirish",
+        "Uchta belgi bo'yicha chatishtirish",
+        "Chatishtirish emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mendelning mustaqil ajralish qonuni nimani bildiradi?",
+      "variantlar": [
+        "Barcha genlar birga irsiylanadi",
+        "Turli xromosomalardagi genlar bir-biriga bog'liq bo'lmagan holda mustaqil ajraladi",
+        "Genlar umuman irsiylanmaydi",
+        "Faqat bitta gen mavjud bo'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bog'langan irsiylanish (genlarning bog'liqligi) qachon kuzatiladi?",
+      "variantlar": [
+        "Genlar bir xromosomada yaqin joylashganda",
+        "Genlar har doim mustaqil bo'lganda",
+        "Faqat mitozda",
+        "Hech qachon"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Nuqtaviy mutatsiya nima?",
+      "variantlar": [
+        "Butun xromosomaning yo'qolishi",
+        "DNK ketma-ketligidagi bitta nukleotiddagi o'zgarish",
+        "Hujayraning o'lishi",
+        "Organning shikastlanishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xromosoma mutatsiyalariga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "Bitta nukleotid almashinishi",
+        "Xromosoma bo'lagining yo'qolishi, ikkilanishi yoki joyi o'zgarishi",
+        "Faqat oqsil funksiyasi o'zgarishi",
+        "Faqat tashqi ko'rinish o'zgarishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mutatsiyalar evolyutsiya uchun qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Genetik xilma-xillikning asosiy manbalaridan biri hisoblanadi",
+        "Faqat zararli, hech qachon foydali emas",
+        "Evolyutsiyaga to'sqinlik qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Darvin nazariyasining asosiy tayanch nuqtalaridan biri nima?",
+      "variantlar": [
+        "Barcha turlar o'zgarmas",
+        "Turlar vaqt o'tishi bilan tabiiy tanlanish orqali o'zgarib boradi",
+        "Faqat inson yaratilgan, boshqalar o'zgarmagan",
+        "Evolyutsiya yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy evolyutsion sintez (neodarvinizm) nimalarni birlashtiradi?",
+      "variantlar": [
+        "Faqat Darvin g'oyalarini",
+        "Darvin nazariyasini genetika bilan birlashtiradi",
+        "Faqat Mendel qonunlarini",
+        "Hech nimani birlashtirmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik drift (tasodifiy o'zgarish) qanday populyatsiyalarda kuchliroq ta'sir ko'rsatadi?",
+      "variantlar": [
+        "Katta populyatsiyalarda",
+        "Kichik populyatsiyalarda",
+        "Ta'sir qilmaydi",
+        "Faqat bitta organizmda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Reproduktiv izolyatsiya nima?",
+      "variantlar": [
+        "Ikki populyatsiya orasida erkin chatishish",
+        "Populyatsiyalar orasida chatishish (genetik almashinuv)ni to'suvchi omillar",
+        "Faqat geografik masofa",
+        "Hech qanday to'siq yo'qligi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Divergent evolyutsiya nima?",
+      "variantlar": [
+        "Bir turdan turli sharoitlarda turli turlarning kelib chiqishi",
+        "Turli turlarning bitta turga aylanishi",
+        "Hech qanday o'zgarish bo'lmasligi",
+        "Faqat tashqi ko'rinish o'zgarishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Konvergent evolyutsiya nima?",
+      "variantlar": [
+        "Bir-biriga aloqasi bo'lmagan turlarning o'xshash sharoitlarga moslashib, o'xshash belgilar kasb etishi",
+        "Bitta turning ko'payishi",
+        "Faqat mutatsiya",
+        "Faqat genetik drift"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Analogik organlar nima?",
+      "variantlar": [
+        "Umumiy kelib chiqishga ega organlar",
+        "Kelib chiqishi har xil, lekin vazifasi o'xshash organlar",
+        "Faqat bir xil rangdagi organlar",
+        "Hech qanday farq yo'q homolog organlardan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rudiment organlar nima?",
+      "variantlar": [
+        "To'liq faol organlar",
+        "Evolyutsiya jarayonida ahamiyatini yo'qotgan qoldiq organlar",
+        "Yangi rivojlangan organlar",
+        "Faqat kasal organlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "PZR (PCR - polimeraza zanjir reaksiyasi) nima uchun ishlatiladi?",
+      "variantlar": [
+        "DNKni yo'q qilish uchun",
+        "DNKning ma'lum qismini ko'p nusxada ko'paytirish uchun",
+        "Faqat oqsilni parchalash uchun",
+        "Faqat hujayrani o'ldirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gen terapiyasi nima maqsadda qo'llaniladi?",
+      "variantlar": [
+        "Faqat kosmetik maqsadda",
+        "Kasallikka sabab bo'lgan genetik nuqsonlarni tuzatish yoki kompensatsiya qilish uchun",
+        "Faqat sport natijalarini oshirish uchun",
+        "Hech qanday tibbiy maqsadda emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Transgen organizmlar (GMO) nima?",
+      "variantlar": [
+        "Tabiiy yo'l bilan o'zgargan organizmlar",
+        "Genetik muhandislik yo'li bilan boshqa organizm genini olgan organizmlar",
+        "Faqat mutatsiyaga uchragan organizmlar",
+        "Hech qanday o'zgarishga uchramagan organizmlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik suksessiya ikki turga bo'linadi, ular qaysilar?",
+      "variantlar": [
+        "Faqat birlamchi",
+        "Birlamchi va ikkilamchi suksessiya",
+        "Faqat ikkilamchi",
+        "Suksessiya bo'linmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Biosfera tushunchasini kim rivojlantirgan (ekologiya faniga katta hissa qo'shgan)?",
+      "variantlar": [
+        "Charlz Darvin",
+        "Vladimir Vernadskiy",
+        "Grigor Mendel",
+        "Lui Paster"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uglerod aylanishi (karbon sikli) tabiatda qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Hayot uchun zarur uglerodning ekotizimlar orasida aylanib turishini ta'minlaydi",
+        "Faqat havoni ifloslantiradi",
+        "Faqat suvni ifloslantiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Azot aylanishida qaysi organizmlar muhim rol o'ynaydi?",
+      "variantlar": [
+        "Faqat hayvonlar",
+        "Azot to'plovchi bakteriyalar",
+        "Faqat viruslar",
+        "Faqat zamburug'lar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ozon qatlamining yupqalashishi qanday moddalar ta'sirida sodir bo'ladi (asosan)?",
+      "variantlar": [
+        "Kislorod",
+        "Xlorftoruglerodlar (freonlar)",
+        "Azot",
+        "Vodorod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genom nima?",
+      "variantlar": [
+        "Bitta gen",
+        "Organizmning barcha genetik materiali (DNKsi)",
+        "Faqat bitta xromosoma",
+        "Faqat oqsil"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Inson genomi loyihasi (Human Genome Project) nimaga erishishga qaratilgan edi?",
+      "variantlar": [
+        "Insonni klonlashga",
+        "Inson DNKsidagi barcha genlarni aniqlash va xaritalashga",
+        "Faqat davolashga",
+        "Faqat statistik tahlilga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Epigenetika nimani o'rganadi?",
+      "variantlar": [
+        "Faqat DNK ketma-ketligini",
+        "DNK ketma-ketligini o'zgartirmasdan gen faoliyatiga ta'sir qiluvchi omillarni",
+        "Faqat oqsil tuzilishini",
+        "Faqat hujayra bo'linishini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bunyodkor hujayralarning tibbiyotdagi salohiyati nimada?",
+      "variantlar": [
+        "Hech qanday salohiyati yo'q",
+        "Shikastlangan to'qima va organlarni tiklashda ishlatilishi mumkinligida",
+        "Faqat kosmetik maqsadda",
+        "Faqat tadqiqot uchun, amaliy foyda yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Klonlangan birinchi sutemizuvchi sifatida mashhur bo'lgan qo'y qanday nomlangan edi?",
+      "variantlar": [
+        "Molli",
+        "Dolli",
+        "Polli",
+        "Kelli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bioetika fani nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat biologik tajribalar texnikasi bilan",
+        "Biologiya va tibbiyotdagi axloqiy masalalar bilan",
+        "Faqat statistik tahlil bilan",
+        "Faqat moliyaviy masalalar bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Immunitet tizimida antikorlar qanday vazifani bajaradi?",
+      "variantlar": [
+        "Kislorod tashiydi",
+        "Begona moddalar (antigenlar)ni tanib, ularga qarshi kurashadi",
+        "Ovqat hazm qiladi",
+        "Qonni ivitadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Autoimmun kasalliklar nima sababdan kelib chiqadi?",
+      "variantlar": [
+        "Immunitet tizimining tashqi mikroblarga hujum qilishi",
+        "Immunitet tizimining o'z tanasi hujayralariga xato hujum qilishi",
+        "Faqat ovqatlanish tufayli",
+        "Faqat sovuq tegishi tufayli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Allergiya nima?",
+      "variantlar": [
+        "Foydali immun javob",
+        "Immunitet tizimining zararsiz moddaga haddan tashqari kuchli reaksiyasi",
+        "Faqat charchoq",
+        "Faqat ovqat hazm qilish muammosi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik kod qanday xususiyatga ega (umuman olganda)?",
+      "variantlar": [
+        "Har bir tur uchun butunlay boshqacha",
+        "Deyarli barcha tirik organizmlar uchun universal",
+        "Faqat odamda mavjud",
+        "Faqat o'simliklarda mavjud"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bir nechta genning birgalikda bitta belgini nazorat qilishi qanday hodisa deb ataladi?",
+      "variantlar": [
+        "Monogen irsiylanish",
+        "Poligen irsiylanish",
+        "Sitoplazmatik irsiylanish",
+        "Bog'langan irsiylanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sitoplazmatik (mitoxondrial) irsiylanish odatda qaysi ota-ona orqali o'tadi (odamda)?",
+      "variantlar": [
+        "Faqat otadan",
+        "Faqat onadan",
+        "Ikkalasidan teng",
+        "Hech kimdan o'tmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kanser (o'sma) kasalligining molekulyar asosida ko'pincha nima yotadi?",
+      "variantlar": [
+        "Faqat bakteriya infeksiyasi",
+        "Hujayra bo'linishini nazorat qiluvchi genlardagi mutatsiyalar",
+        "Faqat vitamin yetishmasligi",
+        "Faqat sovuq tegishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Onkogenlar nima?",
+      "variantlar": [
+        "Hujayra o'sishini normal tartibga soluvchi genlar",
+        "Mutatsiyaga uchraganda hujayrani nazoratsiz bo'linishga undovchi genlar",
+        "Faqat zararsiz genlar",
+        "Faqat immunitet genlari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Apoptoz nima?",
+      "variantlar": [
+        "Hujayraning nazoratsiz bo'linishi",
+        "Dasturlashtirilgan (tabiiy) hujayra o'limi",
+        "Hujayraning cheksiz yashashi",
+        "Hujayraning kattalashishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Biologik xilma-xillikni saqlash bo'yicha xalqaro kelishuvlarning maqsadi nima?",
+      "variantlar": [
+        "Hech qanday maqsad yo'q",
+        "Turlar va ekotizimlarni yo'qolishdan saqlash",
+        "Faqat savdoni rivojlantirish",
+        "Faqat sanoatni rivojlantirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Iqlim o'zgarishi bioxilma-xillikka qanday ta'sir qilishi mumkin?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Yashash muhitlarining o'zgarishi va ba'zi turlarning yo'qolish xavfini oshirishi mumkin",
+        "Faqat foydali ta'sir",
+        "Barcha turlarga bir xil ta'sir qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fotosintezning yorug'lik bosqichi qayerda sodir bo'ladi (xloroplast ichida)?",
+      "variantlar": [
+        "Stroma",
+        "Tilakoid membranalarda",
+        "Mitoxondriyada",
+        "Yadroda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fotosintezning qorong'ulik bosqichi (Kalvin sikli) qayerda sodir bo'ladi?",
+      "variantlar": [
+        "Tilakoidda",
+        "Stromada",
+        "Mitoxondriyada",
+        "Yadroda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hujayra nafas olishi (aerob) asosan qaysi organoidda sodir bo'ladi?",
+      "variantlar": [
+        "Xloroplast",
+        "Mitoxondriya",
+        "Ribosoma",
+        "Golji apparati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "ATP molekulasi hujayrada qanday rol o'ynaydi?",
+      "variantlar": [
+        "Genetik ma'lumot saqlaydi",
+        "Universal energiya valyutasi (energiya tashuvchi) vazifasini bajaradi",
+        "Faqat tuzilish materiali",
+        "Faqat himoya vazifasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Glikoliz jarayoni qayerda sodir bo'ladi?",
+      "variantlar": [
+        "Mitoxondriyada",
+        "Sitoplazmada",
+        "Yadroda",
+        "Xloroplastda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Anaerob nafas olish (bijg'ish) qachon sodir bo'ladi?",
+      "variantlar": [
+        "Kislorod yetarli bo'lganda",
+        "Kislorod yetishmaganda",
+        "Hech qachon",
+        "Faqat o'simliklarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Achitqi (drojji) qanday organizmlarga misol bo'ladi?",
+      "variantlar": [
+        "Bakteriyalar",
+        "Bir hujayrali zamburug'lar",
+        "Viruslar",
+        "Suvo'tlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Viruslar hujayrali tuzilishga egami?",
+      "variantlar": [
+        "Ha, to'liq hujayra tuzilishiga ega",
+        "Yo'q, ular hujayrasiz tuzilma (faqat nuklein kislota va oqsil qobiq)",
+        "Faqat qisman hujayra tuzilishiga ega",
+        "Ular bakteriyalarga o'xshash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Viruslar ko'payish uchun nimaga muhtoj?",
+      "variantlar": [
+        "Hech nimaga muhtoj emas, mustaqil ko'payadi",
+        "Xo'jayin hujayrasiga (uning mexanizmlaridan foydalanadi)",
+        "Faqat quyosh nuriga",
+        "Faqat suvga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bakteriofaglar nima?",
+      "variantlar": [
+        "Bakteriyalarni yuquvchi viruslar",
+        "Bakteriyalarni ovqatlantiruvchi moddalar",
+        "Bakteriya turi",
+        "Antibiotik turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Prokariot va evkariot hujayralar orasidagi asosiy farq nima?",
+      "variantlar": [
+        "Prokariotlarda haqiqiy yadro yo'q, evkariotlarda bor",
+        "Ikkalasi bir xil",
+        "Prokariotlar faqat o'simliklarda uchraydi",
+        "Evkariotlar faqat bakteriyalarda uchraydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ribosomalar hujayrada qanday vazifani bajaradi?",
+      "variantlar": [
+        "DNKni saqlaydi",
+        "Oqsil sintezini amalga oshiradi",
+        "Energiya ishlab chiqaradi",
+        "Hujayrani himoya qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Golji apparati hujayrada qanday vazifani bajaradi?",
+      "variantlar": [
+        "Energiya ishlab chiqaradi",
+        "Oqsillarni qadoqlash va tashish uchun tayyorlaydi",
+        "DNKni saqlaydi",
+        "Fotosintez qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Lizosomalar hujayrada qanday vazifani bajaradi?",
+      "variantlar": [
+        "Energiya ishlab chiqaradi",
+        "Hujayra ichidagi keraksiz moddalarni parchalaydi (hazm qiladi)",
+        "Genetik ma'lumot saqlaydi",
+        "Fotosintez qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Endoplazmatik to'r (ER) qanday ikki turga bo'linadi?",
+      "variantlar": [
+        "Katta va kichik",
+        "Silliq va donador (gran)",
+        "Yashil va sariq",
+        "Qattiq va yumshoq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hujayra membranasining asosiy tarkibiy qismlari qaysilar?",
+      "variantlar": [
+        "Faqat oqsil",
+        "Lipid ikki qavati va oqsillar",
+        "Faqat DNK",
+        "Faqat uglevodlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Osmoz jarayoni nima?",
+      "variantlar": [
+        "Erigan moddalarning harakati",
+        "Suvning yarim o'tkazgich parda orqali kam kontsentratsiyadan yuqori kontsentratsiyaga harakati",
+        "Faqat gazlarning harakati",
+        "Hech qanday harakat emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Diffuziya va osmoz orasidagi farq nima?",
+      "variantlar": [
+        "Diffuziya har qanday moddaning, osmoz esa xususan suvning harakati",
+        "Ular bir xil jarayon",
+        "Diffuziya faqat gazlarda, osmoz faqat qattiq jismlarda",
+        "Farq yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Aktiv transport (faol tashish) nima uchun energiya talab qiladi?",
+      "variantlar": [
+        "Talab qilmaydi",
+        "Moddalar kontsentratsiya gradientiga qarshi (kam joydan ko'p joyga) tashilgani uchun",
+        "Faqat katta molekulalar uchun",
+        "Faqat kichik molekulalar uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekzositoz va endositoz jarayonlari nima bilan bog'liq?",
+      "variantlar": [
+        "Faqat DNK replikatsiyasi bilan",
+        "Hujayra membranasi orqali katta moddalarni chiqarish/qabul qilish bilan",
+        "Faqat fotosintez bilan",
+        "Faqat nafas olish bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hujayra sikli necha asosiy bosqichdan iborat (umumiy)?",
+      "variantlar": [
+        "Bitta",
+        "Interfaza va mitotik (bo'linish) faza",
+        "Beshta alohida faza",
+        "Bo'linish umuman yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Interfaza davomida hujayrada nima sodir bo'ladi (asosan)?",
+      "variantlar": [
+        "Hujayra bo'linadi",
+        "Hujayra o'sadi va DNK replikatsiyasi sodir bo'ladi",
+        "Hech narsa sodir bo'lmaydi",
+        "Faqat o'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kanserogen moddalar nima?",
+      "variantlar": [
+        "Foydali vitaminlar",
+        "O'sma (rak) rivojlanishiga sabab bo'lishi mumkin bo'lgan moddalar",
+        "Faqat oziq moddalar",
+        "Faqat davolovchi dorilar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tamaki chekish qanday kasalliklar xavfini oshiradi?",
+      "variantlar": [
+        "Hech qanday xavf oshmaydi",
+        "O'pka saratoni va yurak-qon tomir kasalliklari xavfini oshiradi",
+        "Faqat foydali ta'sir qiladi",
+        "Faqat tish og'rig'ini kamaytiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik konsultatsiya (maslahat) nima uchun beriladi?",
+      "variantlar": [
+        "Hech qanday maqsadda",
+        "Oilalarga irsiy kasalliklar xavfi haqida ma'lumot va maslahat berish uchun",
+        "Faqat pul ishlash uchun",
+        "Faqat statistik hisobot uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amniosentez usuli tibbiyotda nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat tashqi ko'rikda",
+        "Homila rivojlanishida genetik tekshiruv o'tkazish uchun",
+        "Faqat operatsiya uchun",
+        "Faqat rentgen uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Farmakogenetika nimani o'rganadi?",
+      "variantlar": [
+        "Faqat o'simliklar genetikasini",
+        "Genetik farqlarning dorilarga javob berishga ta'sirini",
+        "Faqat hayvonlar genetikasini",
+        "Faqat bakteriyalar genetikasini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy urug'lantirish texnologiyasi qaysi sohalarda qo'llaniladi?",
+      "variantlar": [
+        "Faqat sportda",
+        "Chorvachilik va reproduktiv tibbiyotda",
+        "Faqat qurilishda",
+        "Faqat elektronikada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik footprint (ekologik iz) tushunchasi nimani ifodalaydi?",
+      "variantlar": [
+        "Faqat hayvonlarning izlari",
+        "Insonning tabiiy resurslarga ko'rsatayotgan umumiy ta'sirini",
+        "Faqat CO2 miqdorini",
+        "Hech narsani anglatmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Barqaror rivojlanish tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat iqtisodiy o'sish",
+        "Kelajak avlodlar ehtiyojini ta'minlash imkoniyatini saqlagan holda hozirgi ehtiyojlarni qondirish",
+        "Faqat tabiatni butunlay saqlab, rivojlanmaslik",
+        "Hech qanday ma'noga ega emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv resurslarining barqaror boshqaruvi nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Suv cheklangan resurs bo'lib, kelajak uchun ham yetarli bo'lishi kerak",
+        "Suv cheksiz resurs",
+        "Faqat sanoat uchun kerak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Agroekologiya nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat shahar qurilishi bilan",
+        "Qishloq xo'jaligi va ekologiya o'rtasidagi bog'liqlikni o'rganish bilan",
+        "Faqat kosmik tadqiqotlar bilan",
+        "Faqat dengiz tadqiqotlari bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Organik (ekologik toza) qishloq xo'jaligi nimani nazarda tutadi?",
+      "variantlar": [
+        "Sun'iy kimyoviy moddalardan ko'p foydalanish",
+        "Sintetik pestitsid va o'g'itlardan kamroq yoki umuman foydalanmaslik",
+        "Faqat GMO ishlatish",
+        "Hech qanday farqi yo'q oddiy xo'jalikdan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv havzalaridagi evtrofikatsiya (ortiqcha ozuqa moddalar) qanday muammoga olib kelishi mumkin?",
+      "variantlar": [
+        "Hech qanday muammo",
+        "Suvo'tlarning haddan tashqari ko'payishi va kislorod yetishmovchiligi",
+        "Suvni tozalaydi",
+        "Baliqlar sonini oshiradi doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Introduksiya qilingan (begona) turlar mahalliy ekotizimga qanday ta'sir qilishi mumkin?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Mahalliy turlar bilan raqobatlashib, ekologik muvozanatni buzishi mumkin",
+        "Faqat foydali ta'sir",
+        "Ekotizimni mustahkamlaydi doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik muhandislikda plazmidalar nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat energiya manbai sifatida",
+        "Yot genlarni bakteriya hujayrasiga kiritish vositasi sifatida",
+        "Faqat oziq modda sifatida",
+        "Faqat rang berish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rekombinant DNK texnologiyasi nima?",
+      "variantlar": [
+        "Tabiiy DNK ketma-ketligini o'rganish",
+        "Turli manbalardan olingan DNK bo'laklarini birlashtirib yangi DNK yaratish",
+        "Faqat DNKni yo'q qilish",
+        "Faqat DNKni nusxalash, birlashtirmasdan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insulinning sanoat miqyosida ishlab chiqarilishida qaysi biotexnologik usul qo'llaniladi?",
+      "variantlar": [
+        "Faqat hayvonlardan olish",
+        "Genetik jihatdan o'zgartirilgan bakteriyalar (masalan E. coli) yordamida",
+        "Faqat o'simliklardan olish",
+        "Faqat sintetik kimyoviy usul"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fermentatsiya jarayoni sanoatda qaysi mahsulotlar ishlab chiqarishda qo'llaniladi?",
+      "variantlar": [
+        "Faqat metall ishlab chiqarishda",
+        "Non, sirka, yogurt kabi oziq-ovqat mahsulotlarida",
+        "Faqat plastmassa ishlab chiqarishda",
+        "Faqat shisha ishlab chiqarishda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bioremediatsiya nima?",
+      "variantlar": [
+        "Tabiatni ifloslantirish jarayoni",
+        "Mikroorganizmlar yordamida ifloslangan muhitni tozalash usuli",
+        "Faqat kimyoviy tozalash",
+        "Hech qanday tozalash usuli emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nasllarni saqlash bo'yicha genbanklar (urug' banklari) nima uchun tashkil etiladi?",
+      "variantlar": [
+        "Hech qanday maqsadda",
+        "Genetik xilma-xillikni kelajak uchun saqlash maqsadida",
+        "Faqat savdo uchun",
+        "Faqat ko'rgazma uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Svalbard urug' ombori (global urug' banki) qayerda joylashgan?",
+      "variantlar": [
+        "AQShda",
+        "Norvegiyada",
+        "Xitoyda",
+        "Rossiyada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik monitoring nima?",
+      "variantlar": [
+        "Bir martalik tekshiruv",
+        "Atrof-muhit holatini muntazam kuzatish va baholash jarayoni",
+        "Faqat statistik hisobot",
+        "Hech qanday tekshiruv emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yowvoyi populyatsiyalarning genetik xilma-xilligi kamayishi qanday xavf tug'diradi?",
+      "variantlar": [
+        "Hech qanday xavf yo'q",
+        "Kasalliklarga va muhit o'zgarishlariga moslasha olmaslik xavfini oshiradi",
+        "Faqat foydali natija",
+        "Populyatsiyani kuchaytiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uzoq muddatli ekologik tadqiqotlar (masalan iqlim o'zgarishi bo'yicha) nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Uzoq muddatli tendentsiyalarni aniqlash va bashorat qilish imkonini beradi",
+        "Faqat qisqa muddatli foyda beradi",
+        "Foydasiz vaqt sarfi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik testlash orqali qanday kasalliklarni oldindan aniqlash mumkin (umumiy tushuncha)?",
+      "variantlar": [
+        "Hech qanday kasallikni aniqlab bo'lmaydi",
+        "Ba'zi irsiy kasalliklarga moyillikni",
+        "Faqat yuqumli kasalliklarni",
+        "Faqat travmalarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "CRISPR texnologiyasi nima uchun mashhur?",
+      "variantlar": [
+        "Faqat rasm chizish uchun",
+        "DNKni aniq va nisbatan oson tahrirlash imkonini berganligi uchun",
+        "Faqat statistik tahlil uchun",
+        "Faqat matematik hisoblash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy fotosintez tadqiqotlari qanday maqsadni ko'zlaydi?",
+      "variantlar": [
+        "Hech qanday maqsad yo'q",
+        "Quyosh energiyasidan foydalanib, sun'iy usulda energiya yoki yoqilg'i olish",
+        "Faqat o'simliklarni yo'q qilish",
+        "Faqat rasmiy tadqiqot, amaliy ahamiyati yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik ta'lim (bolalar va yoshlarga tabiatni asrashni o'rgatish) nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Kelajak avlodlarda ekologik ongni shakllantirish uchun",
+        "Faqat maktab dasturi to'ldirish uchun",
+        "Foydasiz mavzu"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yashil energiya manbalariga (quyosh, shamol) o'tish nima uchun ekologik jihatdan foydali?",
+      "variantlar": [
+        "Foydasi yo'q",
+        "Issiqxona gazlari chiqindisini kamaytirishga yordam beradi",
+        "Faqat qimmat, foydasiz",
+        "Iqlimga hech qanday ta'sir qilmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Global miqyosda hayvonot dunyosini himoya qilish bo'yicha CITES konvensiyasi nimaga qaratilgan?",
+      "variantlar": [
+        "Hech nimaga",
+        "Xavf ostidagi turlar bilan xalqaro savdoni tartibga solishga",
+        "Faqat baliq ovlashni cheklashga",
+        "Faqat o'simliklarni himoya qilishga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kariotip nima?",
+      "variantlar": [
+        "Bitta xromosoma",
+        "Organizm hujayrasidagi xromosomalarning to'liq to'plami va tuzilishi",
+        "Faqat gen",
+        "Faqat oqsil"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Daun sindromi qanday genetik o'zgarish bilan bog'liq?",
+      "variantlar": [
+        "Bitta xromosoma yetishmasligi",
+        "21-xromosomaning qo'shimcha nusxasi (trisomiya)",
+        "Genlar umuman yo'qligi",
+        "Hech qanday genetik o'zgarish bilan bog'liq emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kariotiplashtirish usuli tibbiyotda nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat rasm chizish uchun",
+        "Xromosoma anomaliyalarini aniqlash uchun",
+        "Faqat vazn o'lchash uchun",
+        "Faqat qon guruhini aniqlash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik populyatsiyalarda Xardi-Vaynberg qonuni nimani tavsiflaydi?",
+      "variantlar": [
+        "Populyatsiyaning doimiy o'sishini",
+        "Muvozanatdagi populyatsiyada gen chastotalarining barqarorligini",
+        "Faqat mutatsiya tezligini",
+        "Faqat migratsiyani"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gen oqimi (genlarning populyatsiyalar orasida almashinuvi) nima orqali sodir bo'ladi?",
+      "variantlar": [
+        "Faqat mutatsiya orqali",
+        "Organizmlarning migratsiyasi va chatishishi orqali",
+        "Faqat tabiiy tanlanish orqali",
+        "Hech qanday mexanizm orqali emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Assortativ chatishtirish (o'xshash belgiga ega individlarning tanlab chatishishi) populyatsiyaga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Ma'lum genotiplar chastotasini o'zgartirishi mumkin",
+        "Faqat mutatsiyaga ta'sir qiladi",
+        "Faqat migratsiyaga ta'sir qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Filogenetik daraxt nima?",
+      "variantlar": [
+        "Haqiqiy daraxt turi",
+        "Turlar orasidagi evolyutsion qarindoshlik munosabatlarini ko'rsatuvchi diagramma",
+        "Faqat geografik xarita",
+        "Faqat oziq zanjiri sxemasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molekulyar soat (molecular clock) usuli nimaga asoslanadi?",
+      "variantlar": [
+        "Faqat fizik vaqt o'lchagichlarga",
+        "DNK/oqsil ketma-ketligidagi mutatsiyalar to'planish tezligiga asoslanib evolyutsion vaqtni baholashga",
+        "Faqat geologik qatlamlarga",
+        "Faqat arxeologik topilmalarga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qazilma qoldiqlar (fossillar) evolyutsiyani o'rganishda qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "O'tmishdagi organizmlar va ularning o'zgarishi haqida dalil beradi",
+        "Faqat estetik ahamiyatga ega",
+        "Faqat geologik ahamiyatga ega"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gomo sapiens turi qaysi kattaroq guruhga (oilaga) kiradi?",
+      "variantlar": [
+        "Mushuksimonlar",
+        "Odamsimon maymunlar (Hominidae)",
+        "Itsimonlar",
+        "Qushlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Neandertallar zamonaviy odam (Homo sapiens) bilan qanday munosabatda bo'lgan (ilmiy qarash)?",
+      "variantlar": [
+        "Umuman aloqasi bo'lmagan",
+        "Qarindosh tur bo'lib, ba'zi populyatsiyalarda genetik aralashish dalillari topilgan",
+        "Xuddi bir xil tur",
+        "Hech qachon birga yashamagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Antropogenez fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat hayvonlar kelib chiqishini",
+        "Insonning biologik kelib chiqishi va evolyutsiyasini",
+        "Faqat o'simliklar kelib chiqishini",
+        "Faqat geologik jarayonlarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik piramidalarning uch turi qaysilar (sonlar, biomassa, energiya piramidalari)?",
+      "variantlar": [
+        "Faqat bitta tur mavjud",
+        "Sonlar, biomassa va energiya piramidalari",
+        "Faqat rang piramidasi",
+        "Bunday piramidalar mavjud emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Limitlovchi omil (cheklovchi omil) tushunchasi ekologiyada nimani anglatadi?",
+      "variantlar": [
+        "Hech narsani anglatmaydi",
+        "Organizm yoki populyatsiya o'sishini cheklovchi eng tanqis resurs yoki sharoit",
+        "Faqat harorat",
+        "Faqat yorug'lik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik muhandislik yordamida yaratilgan zararkunandalarga chidamli ekinlar qanday afzallikka ega bo'lishi mumkin?",
+      "variantlar": [
+        "Hech qanday afzalligi yo'q",
+        "Pestitsid sarfini kamaytirishi va hosildorlikni oshirishi mumkin",
+        "Faqat zararli ta'sir qiladi",
+        "Hosildorlikni kamaytiradi doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik xilma-xillikni saqlashda mahalliy jamoalarning roli qanday?",
+      "variantlar": [
+        "Hech qanday roli yo'q",
+        "Tabiiy resurslardan oqilona foydalanish va himoya qilishda muhim rol o'ynashi mumkin",
+        "Faqat davlat mas'ul",
+        "Faqat olimlar mas'ul"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik moslashuv va fenotipik plastiklik orasidagi farq nima?",
+      "variantlar": [
+        "Bir xil tushuncha",
+        "Genetik moslashuv avloddan-avlodga o'tadi, fenotipik plastiklik bitta organizmning muhitga javoban o'zgarishi",
+        "Fenotipik plastiklik irsiy, genetik moslashuv emas",
+        "Ikkalasi ham mavjud emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Global oziq-ovqat xavfsizligini ta'minlashda biotexnologiya qanday rol o'ynashi mumkin?",
+      "variantlar": [
+        "Hech qanday rol o'ynamaydi",
+        "Yuqori hosildor va chidamli navlar yaratishga yordam berishi mumkin",
+        "Faqat zarar keltiradi",
+        "Foydasiz sohaga aylanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik tarmoq (oziq to'ri) oziq zanjiridan nima bilan farq qiladi?",
+      "variantlar": [
+        "Bir xil narsa",
+        "Oziq to'ri bir nechta bog'liq oziq zanjirlarining murakkab tarmog'i",
+        "Oziq to'ri faqat bitta turni o'z ichiga oladi",
+        "Farqi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy biologiyada bioinformatika fanining ahamiyati nimada?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Katta hajmdagi biologik ma'lumotlarni (masalan genom ma'lumotlarini) tahlil qilishga yordam beradi",
+        "Faqat statistik o'yin",
+        "Faqat dasturlash mashqi"
+      ],
+      "togri": 1
+    }
+  ]
+}

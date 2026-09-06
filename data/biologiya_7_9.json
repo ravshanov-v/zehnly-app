@@ -1,0 +1,1205 @@
+{
+  "label": "Biologiya sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "Tirik organizmlarning ilmiy tasnifi (sistematikasi) nima uchun kerak?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Organizmlarni guruhlash va o'rganishni osonlashtirish uchun",
+        "Faqat nom qo'yish uchun",
+        "Faqat rasm chizish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tur (species) tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Har qanday organizmlar to'plami",
+        "O'zaro chatishib, unumdor avlod qoldira oladigan organizmlar guruhi",
+        "Faqat bir xil rangdagi organizmlar",
+        "Faqat bir joyda yashovchi organizmlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkilik nomenklatura (binomial nomenklatura) tizimini kim taklif qilgan?",
+      "variantlar": [
+        "Charlz Darvin",
+        "Karl Linney",
+        "Grigor Mendel",
+        "Lui Paster"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tirik organizmlar odatda necha katta olamga (qirollikka) bo'linadi?",
+      "variantlar": [
+        "Ikkita",
+        "Bir nechta (masalan hayvonlar, o'simliklar, zamburug'lar, bakteriyalar)",
+        "Bitta",
+        "O'nta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Umurtqali hayvonlarning asosiy sinflariga qaysilar kiradi?",
+      "variantlar": [
+        "Faqat baliqlar",
+        "Baliqlar, amfibiyalar, sudralib yuruvchilar, qushlar, sutemizuvchilar",
+        "Faqat sutemizuvchilar",
+        "Faqat hasharotlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mollyuskalarga (yumshoq tanlilarga) qaysi hayvon misol bo'ladi?",
+      "variantlar": [
+        "Chuvalchang",
+        "Shilliqqurt",
+        "Chayon",
+        "Chigirtka"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bo'g'imoyoqlilar tipiga qaysi hayvonlar kiradi?",
+      "variantlar": [
+        "Faqat baliqlar",
+        "Hasharotlar, o'rgimchaksimonlar va qisqichbaqasimonlar",
+        "Faqat qushlar",
+        "Faqat sutemizuvchilar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gulli o'simliklar (angiospermlar) qaysi xususiyati bilan ajralib turadi?",
+      "variantlar": [
+        "Urug'lari yalang'och bo'ladi",
+        "Urug'lari meva ichida rivojlanadi",
+        "Umuman urug' hosil qilmaydi",
+        "Faqat sporalar bilan ko'payadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yalang'och urug'lilarga (masalan qarag'ay) qaysi xususiyat xos?",
+      "variantlar": [
+        "Urug'lari meva ichida yopiq",
+        "Urug'lari ochiq (masalan konussimon shishalarda)",
+        "Umuman urug' bo'lmaydi",
+        "Faqat gul hosil qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bir pallali va ikki pallali o'simliklar orasidagi asosiy farq nima?",
+      "variantlar": [
+        "Urug'idagi urug'palla (kotiledon) soni",
+        "Faqat rangi",
+        "Faqat balandligi",
+        "Faqat yashash muddati"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fotosintez tenglamasida qanday moddalar ishtirok etadi (umumiy)?",
+      "variantlar": [
+        "Faqat suv",
+        "Karbonat angidrid + suv (yorug'lik energiyasi bilan) → glyukoza + kislorod",
+        "Faqat kislorod",
+        "Faqat azot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nafas olish (hujayra darajasida) jarayonida nima sodir bo'ladi?",
+      "variantlar": [
+        "Glyukoza va kislorod energiyaga, karbonat angidrid va suvga aylanadi",
+        "Faqat kislorod ishlab chiqariladi",
+        "Faqat suv ajraladi",
+        "Hech narsa o'zgarmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Inson ovqat hazm qilish tizimida oshqozon qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat suvni saqlaydi",
+        "Ovqatni mexanik va kimyoviy (fermentlar yordamida) qayta ishlaydi",
+        "Faqat nafas oldiradi",
+        "Faqat qon ishlab chiqaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jigar inson tanasida qanday vazifalarni bajaradi?",
+      "variantlar": [
+        "Faqat qon aylantiradi",
+        "Zaharli moddalarni zararsizlantirish, o't suyuqligini ishlab chiqarish va boshqa ko'plab vazifalar",
+        "Faqat nafas oldiradi",
+        "Faqat fikrlash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buyrak inson tanasida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Ovqatni hazm qiladi",
+        "Qonni tozalab, siydik hosil qiladi (ajratish tizimi)",
+        "Nafas oldiradi",
+        "Fikrlaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yurak necha kamer (bo'lim)dan iborat va ular qanday ataladi?",
+      "variantlar": [
+        "Ikkita, faqat qorinchalar",
+        "To'rtta: ikki bo'lmacha va ikki qorincha",
+        "Bitta katta bo'lim",
+        "Oltita kichik bo'lim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Arteriyalar qonni qaysi yo'nalishda oqizadi (asosan)?",
+      "variantlar": [
+        "Yurakdan tananing boshqa qismlariga",
+        "Tanadan yurakka",
+        "Faqat o'pkadan yurakka",
+        "Hech qayerga oqizmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Venalar qonni qaysi yo'nalishda oqizadi (asosan)?",
+      "variantlar": [
+        "Yurakdan tanaga",
+        "Tanadan yurakka",
+        "Faqat miyaga",
+        "Hech qayerga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qonning asosiy tarkibiy qismlariga qaysilar kiradi?",
+      "variantlar": [
+        "Faqat suv",
+        "Plazma, eritrotsitlar, leykotsitlar va trombotsitlar",
+        "Faqat oq hujayralar",
+        "Faqat qizil hujayralar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Eritrotsitlar (qizil qon hujayralari) asosiy vazifasi nima?",
+      "variantlar": [
+        "Infeksiyaga qarshi kurashish",
+        "Kislorodni tashish",
+        "Qonni ivitish",
+        "Ovqat hazm qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Leykotsitlar (oq qon hujayralari) asosiy vazifasi nima?",
+      "variantlar": [
+        "Kislorod tashish",
+        "Organizmni infeksiyalardan himoya qilish (immunitet)",
+        "Qonni ivitish",
+        "Ovqat hazm qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Trombotsitlar qanday vazifani bajaradi?",
+      "variantlar": [
+        "Kislorod tashish",
+        "Qon ivishida ishtirok etish (yara bitishiga yordam berish)",
+        "Infeksiyaga qarshi kurashish",
+        "Ovqat hazm qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'pkada gazlar almashinuvi qaysi kichik pufakchalarda sodir bo'ladi?",
+      "variantlar": [
+        "Bronxlarda",
+        "Alveolalarda",
+        "Traxeyada",
+        "Xalqumda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Diafragma nafas olish jarayonida qanday vazifani bajaradi?",
+      "variantlar": [
+        "Hech qanday vazifasi yo'q",
+        "Qisqarib va bo'shashib, ko'krak qafasi hajmini o'zgartirib nafas olish-chiqarishga yordam beradi",
+        "Faqat ovqat hazm qiladi",
+        "Faqat qon tozalaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Neyron (asab hujayrasi) qanday vazifani bajaradi?",
+      "variantlar": [
+        "Kislorod tashiydi",
+        "Elektr-kimyoviy signallarni uzatadi (axborot o'tkazadi)",
+        "Ovqat hazm qiladi",
+        "Qon ishlab chiqaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Reflekslar nima?",
+      "variantlar": [
+        "Ongli, o'ylab qilingan harakatlar",
+        "Tashqi ta'sirga tezkor, avtomatik javob (masalan issiqdan qo'lni tortish)",
+        "Faqat uyqu jarayoni",
+        "Faqat nafas olish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Endokrin tizim nima orqali organizmni boshqaradi?",
+      "variantlar": [
+        "Faqat mushaklar orqali",
+        "Gormonlar (ichki sekretsiya bezlari ishlab chiqaradigan) orqali",
+        "Faqat suyaklar orqali",
+        "Faqat teri orqali"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insulin gormoni qaysi organ tomonidan ishlab chiqariladi?",
+      "variantlar": [
+        "Jigar",
+        "Me'da osti bezi (pankreas)",
+        "Buyrak",
+        "Yurak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insulin organizmda qanday vazifani bajaradi?",
+      "variantlar": [
+        "Qondagi shakar (glyukoza) miqdorini tartibga soladi",
+        "Qon bosimini oshiradi",
+        "Nafas olishni boshqaradi",
+        "Ovqat hazm qiladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Genetika fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat hujayra tuzilishini",
+        "Irsiyat va o'zgaruvchanlik qonuniyatlarini",
+        "Faqat ekotizimlarni",
+        "Faqat organlar tuzilishini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetika faniga asos solgan olim kim hisoblanadi?",
+      "variantlar": [
+        "Charlz Darvin",
+        "Grigor Mendel",
+        "Lui Paster",
+        "Karl Linney"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gen nima?",
+      "variantlar": [
+        "Hujayraning tashqi qobig'i",
+        "Irsiy belgini belgilovchi DNK bo'lagi",
+        "Faqat oqsil turi",
+        "Faqat hujayra organoidlaridan biri"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xromosoma nima?",
+      "variantlar": [
+        "Hujayra membranasi",
+        "DNK va oqsillardan tashkil topgan, irsiy ma'lumot tashuvchi tuzilma",
+        "Faqat energiya manbai",
+        "Faqat suv saqlovchi organoid"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Odam hujayrasida (jinsiy hujayralardan tashqari) odatda nechta xromosoma bo'ladi?",
+      "variantlar": [
+        "23 ta",
+        "46 ta",
+        "92 ta",
+        "12 ta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dominant va retsessiv belgilar tushunchasi kimning tajribalari bilan bog'liq?",
+      "variantlar": [
+        "Charlz Darvin",
+        "Grigor Mendel (no'xat o'simligi tajribalari)",
+        "Lui Paster",
+        "Robert Guk"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dominant belgi nima?",
+      "variantlar": [
+        "Faqat bitta nusxada bo'lganda ham namoyon bo'ladigan kuchli belgi",
+        "Har doim yashirin qoladigan belgi",
+        "Faqat kasallik belgisi",
+        "Hech qachon namoyon bo'lmaydigan belgi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Retsessiv belgi qachon namoyon bo'ladi?",
+      "variantlar": [
+        "Har doim",
+        "Faqat ikkala nusxa ham retsessiv bo'lganda",
+        "Hech qachon",
+        "Faqat bitta nusxa bo'lganda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jinsni aniqlovchi xromosomalar odamda qanday belgilanadi?",
+      "variantlar": [
+        "Faqat X",
+        "X va Y xromosomalari (ayolda XX, erkakda XY)",
+        "Faqat Y",
+        "Z va W"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mutatsiya nima?",
+      "variantlar": [
+        "Hujayraning normal bo'linishi",
+        "DNK tuzilishidagi to'satdan yuz beradigan o'zgarish",
+        "Faqat tashqi ko'rinish o'zgarishi",
+        "Faqat oziqlanish o'zgarishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Evolyutsiya nazariyasining asoschisi kim hisoblanadi?",
+      "variantlar": [
+        "Grigor Mendel",
+        "Charlz Darvin",
+        "Lui Paster",
+        "Robert Guk"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tabiiy tanlanish nazariyasi nimani ifodalaydi?",
+      "variantlar": [
+        "Barcha organizmlar bir xilda omon qoladi",
+        "Muhitga yaxshiroq moslashgan organizmlar omon qolish va ko'payish imkoniyati ko'proq bo'ladi",
+        "Faqat kuchli hayvonlar yashaydi",
+        "Tasodifiy hodisa, qonuniyat yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Moslashuv (adaptatsiya) nima?",
+      "variantlar": [
+        "Organizmning muhit sharoitlariga mos xususiyatlari",
+        "Faqat tashqi ko'rinish",
+        "Faqat rang o'zgarishi",
+        "Hech qanday ahamiyati yo'q xususiyat"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Homologik organlar nima?",
+      "variantlar": [
+        "Tuzilishi bir xil, lekin vazifasi har xil bo'lishi mumkin bo'lgan, umumiy kelib chiqishga ega organlar",
+        "Faqat bir xil vazifali organlar",
+        "Faqat rang jihatidan o'xshash organlar",
+        "Hech qanday aloqasi bo'lmagan organlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fotosintez va nafas olish jarayonlari orasida qanday bog'liqlik bor?",
+      "variantlar": [
+        "Hech qanday bog'liqlik yo'q",
+        "Bir-biriga qarama-qarshi jarayonlar bo'lib, gazlar almashinuvida bir-birini to'ldiradi",
+        "Ikkalasi ham bir xil jarayon",
+        "Faqat hayvonlarda sodir bo'ladi ikkalasi ham"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekotizimdagi energiya oqimi qaysi yo'nalishda boradi?",
+      "variantlar": [
+        "Konsumentlardan produtsentlarga",
+        "Produtsentlardan konsumentlarga va keyingi trofik darajalarga",
+        "Faqat teskari yo'nalishda",
+        "Energiya oqimi bo'lmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bioindikator organizmlar nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Ular muhit holatini (masalan ifloslanish darajasini) aniqlashga yordam beradi",
+        "Faqat chiroy uchun",
+        "Faqat oziqlanish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Antibiotiklar qanday organizmlarga qarshi ishlaydi (asosan)?",
+      "variantlar": [
+        "Viruslarga qarshi",
+        "Bakteriyalarga qarshi",
+        "Faqat zamburug'larga qarshi",
+        "Hech kimga ta'sir qilmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vaksinatsiya (emlash) tamoyili nimaga asoslangan?",
+      "variantlar": [
+        "Organizmni zaiflashtirishga",
+        "Immunitet tizimini zararli mikroorganizmga oldindan \"tanishtirib\" himoya hosil qilishga",
+        "Hech qanday ilmiy asosga ega emas",
+        "Faqat kasallikni davolashga (profilaktika emas)"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chorvachilik va o'simlikchilikda seleksiya (nav va zot yaratish) nimaga asoslanadi?",
+      "variantlar": [
+        "Tasodifiy tanlashga",
+        "Kerakli belgilarni tanlab, ko'paytirish orqali yangi nav/zot yaratishga",
+        "Hech qanday ilmiy asosga",
+        "Faqat tabiiy jarayonga, inson aralashuvisiz"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv o'tlar (suvo'tlar) qanday organizmlar guruhiga kiradi?",
+      "variantlar": [
+        "Hayvonlar",
+        "O'simliksimon organizmlar (ko'pi fotosintez qiladi)",
+        "Bakteriyalar",
+        "Zamburug'lar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bir hujayrali organizmlarga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "Odam",
+        "Amyoba",
+        "Daraxt",
+        "Baliq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'p hujayrali organizmlarda hujayralar qanday guruhlanadi?",
+      "variantlar": [
+        "Guruhlanmaydi, alohida ishlaydi",
+        "To'qima, organ va organlar tizimiga birlashadi",
+        "Faqat tasodifiy joylashadi",
+        "Faqat bitta katta hujayraga aylanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Epiteliy to'qima qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat qon ishlab chiqaradi",
+        "Tana yuzasi va organlarni qoplab, himoya vazifasini bajaradi",
+        "Faqat harakatlanish",
+        "Faqat fikrlash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muskul to'qima qanday xususiyatga ega?",
+      "variantlar": [
+        "Qisqarish qobiliyatiga ega, harakatni ta'minlaydi",
+        "Faqat himoya qiladi",
+        "Faqat signal uzatadi",
+        "Faqat oziq saqlaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Asab to'qimasi qanday vazifani bajaradi?",
+      "variantlar": [
+        "Harakatlanish",
+        "Signallarni qabul qilish va uzatish",
+        "Himoya qilish",
+        "Oziq moddalarni saqlash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Biriktiruvchi to'qima (masalan suyak, qon) qanday umumiy vazifaga ega?",
+      "variantlar": [
+        "Faqat harakat",
+        "Organlarni bog'lash, tayanch va himoya",
+        "Faqat signal uzatish",
+        "Faqat fotosintez"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Odam tanasida qancha asosiy to'qima turi mavjud?",
+      "variantlar": [
+        "Ikkita",
+        "To'rtta (epiteliy, muskul, asab, biriktiruvchi)",
+        "O'ntadan ortiq",
+        "Bitta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sinaps nima?",
+      "variantlar": [
+        "Hujayraning bir turi",
+        "Ikki neyron orasidagi signal uzatiluvchi bog'lanish nuqtasi",
+        "Suyak turi",
+        "Qon hujayrasi turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bosh miya necha asosiy qismga bo'linadi (umumiy)?",
+      "variantlar": [
+        "Bitta butun qism",
+        "Bir necha (masalan katta miya, miyacha, miya sopi)",
+        "Ikkita teng yarim",
+        "O'nta qism"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'z qorachig'i (zrachok) nima uchun kerak?",
+      "variantlar": [
+        "Rang berish uchun",
+        "Ko'zga tushayotgan yorug'lik miqdorini tartibga solish uchun",
+        "Faqat chiroy uchun",
+        "Hech qanday vazifasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Quloqning ichki qismi (labirint) nima uchun ham javobgar (eshitishdan tashqari)?",
+      "variantlar": [
+        "Ko'rish uchun",
+        "Muvozanatni saqlash uchun",
+        "Hidlash uchun",
+        "Ta'm bilish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Teri necha asosiy qavatdan iborat?",
+      "variantlar": [
+        "Bitta",
+        "Uchta (epidermis, dermis, gipodermis)",
+        "Beshta",
+        "Ikkita alohida organ"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ter bezlari qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat hidni yaxshilash",
+        "Tana haroratini tartibga solish (terlash orqali sovutish)",
+        "Faqat rang berish",
+        "Faqat himoya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Skelet mushaklari qanday nazorat ostida ishlaydi?",
+      "variantlar": [
+        "Faqat beixtiyor (avtomatik)",
+        "Asosan ixtiyoriy (ongli boshqariladigan)",
+        "Umuman nazoratsiz",
+        "Faqat uyqu paytida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yurak mushaklari (miokard) qanday xususiyatga ega?",
+      "variantlar": [
+        "Ixtiyoriy boshqariladi",
+        "Beixtiyor va ritmik qisqaradi (avtomatik ishlaydi)",
+        "Umuman qisqarmaydi",
+        "Faqat ongli nazorat bilan ishlaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bo'g'im suyuqligi (sinovial suyuqlik) nima uchun kerak?",
+      "variantlar": [
+        "Bo'g'imlarni moylash va ishqalanishni kamaytirish uchun",
+        "Faqat rang berish uchun",
+        "Qon hosil qilish uchun",
+        "Nafas olish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Odamda ovqat hazm qilish jarayoni qancha vaqt davom etishi mumkin (umumiy, taxminan)?",
+      "variantlar": [
+        "Bir necha soniya",
+        "Bir necha soatdan 1-2 kungacha",
+        "Bir necha soniyada tugaydi",
+        "Hech qachon tugamaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fermentlar ovqat hazm qilishda qanday rol o'ynaydi?",
+      "variantlar": [
+        "Hech qanday rol o'ynamaydi",
+        "Murakkab moddalarni sodda moddalarga parchalashga yordam beradi (biokatalizator)",
+        "Faqat rang beradi",
+        "Faqat harorat oshiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amilaza fermenti qaysi moddani parchalashga yordam beradi?",
+      "variantlar": [
+        "Yog'larni",
+        "Kraxmalni (uglevodlarni)",
+        "Oqsillarni",
+        "Vitaminlarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Lipaza fermenti qaysi moddani parchalaydi?",
+      "variantlar": [
+        "Uglevodlarni",
+        "Yog'larni",
+        "Oqsillarni",
+        "Vitaminlarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Pepsin fermenti qaysi organda va qaysi moddani parchalash uchun ishlaydi?",
+      "variantlar": [
+        "Og'izda, uglevodlarni",
+        "Oshqozonda, oqsillarni",
+        "Ichakda, yog'larni",
+        "Jigarda, vitaminlarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vitamin C yetishmasligi qanday muammoga olib kelishi mumkin (umumiy tushuncha)?",
+      "variantlar": [
+        "Hech qanday muammo bo'lmaydi",
+        "Immunitet pasayishi va boshqa sog'liq muammolariga",
+        "Faqat sochning oqarishiga",
+        "Faqat tirnoqning sinishiga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kaltsiy elementi organizmda asosan nima uchun zarur?",
+      "variantlar": [
+        "Faqat energiya uchun",
+        "Suyak va tishlarning mustahkamligi uchun",
+        "Faqat qon hosil qilish uchun",
+        "Faqat ko'rish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Temir elementi organizmda asosan nima uchun zarur?",
+      "variantlar": [
+        "Suyak mustahkamligi uchun",
+        "Gemoglobin tarkibida kislorod tashishda ishtirok etadi",
+        "Faqat teri uchun",
+        "Faqat asab tizimi uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gormonlar qon orqali tashilib, uzoq organlarga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Maqsadli organ/hujayralarning faoliyatini boshqaradi/tartibga soladi",
+        "Faqat rang o'zgartiradi",
+        "Faqat harorat oshiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adrenalin gormoni qanday vaziyatda ko'proq ishlab chiqariladi?",
+      "variantlar": [
+        "Tinch, dam olish holatida",
+        "Stress yoki xavf tug'ilgan vaziyatda ('kurash yoki qoch' reaksiyasi)",
+        "Faqat uyqu paytida",
+        "Hech qachon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qalqonsimon bez (shchitovidnaya) qanday gormon ishlab chiqaradi va nima uchun muhim?",
+      "variantlar": [
+        "Insulin, qandni tartibga soladi",
+        "Tiroksin, metabolizmni tartibga soladi",
+        "Adrenalin, stressga javob beradi",
+        "Estrogen, ko'payish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simliklar va hayvonlar orasidagi moslashuvga (koevolyutsiyaga) qaysi misol to'g'ri keladi?",
+      "variantlar": [
+        "Hech qanday bog'liqlik yo'q ular orasida",
+        "Gullar va changlatuvchi hasharotlarning bir-biriga moslashishi",
+        "Faqat raqobat",
+        "Faqat urush"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "DNK tuzilishini kim(lar) aniqlagan (qo'sh spiral modeli)?",
+      "variantlar": [
+        "Grigor Mendel",
+        "Jeyms Uotson va Frensis Krik",
+        "Charlz Darvin",
+        "Lui Paster"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "DNK tarkibida qanday to'rtta asosiy azotli asos mavjud?",
+      "variantlar": [
+        "A, T, G, C (adenin, timin, guanin, sitozin)",
+        "Faqat ikkita asos",
+        "Faqat bitta asos",
+        "O'ntadan ortiq asos"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "RNK va DNK orasidagi bitta farq nima?",
+      "variantlar": [
+        "RNKda timin o'rniga uratsil bo'ladi",
+        "Ikkalasi bir xil",
+        "DNKda faqat ikkita asos bor",
+        "RNK hech qachon hujayrada uchramaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Oqsil sintezi jarayonida qanday asosiy bosqichlar mavjud?",
+      "variantlar": [
+        "Faqat bitta bosqich",
+        "Transkripsiya va translyatsiya",
+        "Faqat fotosintez",
+        "Faqat nafas olish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genotip va fenotip tushunchalari orasidagi farq nima?",
+      "variantlar": [
+        "Bir xil narsa",
+        "Genotip - organizmning genetik tarkibi, fenotip - tashqi namoyon bo'lishi",
+        "Fenotip faqat kasallikka tegishli",
+        "Genotip faqat tashqi ko'rinish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Duragaylash (chatishtirish) tajribalarida F1 avlod nimani anglatadi?",
+      "variantlar": [
+        "Ota-ona avlodi",
+        "Birinchi avlod (bolalar)",
+        "Ikkinchi avlod (nabiralar)",
+        "Hech qanday avlodni anglatmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Monogibrid chatishtirish nima?",
+      "variantlar": [
+        "Ikki belgi bo'yicha chatishtirish",
+        "Bitta belgi bo'yicha chatishtirish",
+        "Uchta belgi bo'yicha chatishtirish",
+        "Chatishtirish umuman emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jinsga bog'liq irsiylanishga qaysi misol keltirilishi mumkin?",
+      "variantlar": [
+        "Ko'z rangi har doim",
+        "Rangni farqlay olmaslik (daltonizm)ning ko'pincha erkaklarda uchrashi",
+        "Barcha belgilar bir xil irsiylanadi",
+        "Hech qanday misol yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xromosoma to'plamining o'zgarishi (masalan qo'shimcha xromosoma) qanday holatlarga olib kelishi mumkin?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Ba'zi genetik holatlar/sindromlarga olib kelishi mumkin",
+        "Har doim foydali bo'ladi",
+        "Faqat tashqi ko'rinishni chiroyli qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Seleksiya jarayonida gibridlash (chatishtirish) usuli nima uchun qo'llaniladi?",
+      "variantlar": [
+        "Faqat ko'rinish uchun",
+        "Kerakli belgilarni birlashtirib, yangi nav/zot olish uchun",
+        "Hech qanday maqsad yo'q",
+        "Faqat urug'sizlantirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Biotexnologiya sohasi nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat mashina qurish bilan",
+        "Tirik organizmlar yoki ularning tizimlaridan foydalanib mahsulot va texnologiyalar yaratish bilan",
+        "Faqat kompyuter dasturlash bilan",
+        "Faqat qurilish bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik muhandislik (genlarni tahrirlash) qanday maqsadlarda ishlatilishi mumkin?",
+      "variantlar": [
+        "Hech qanday foydali maqsadda ishlatilmaydi",
+        "Kasalliklarni davolash, qishloq xo'jaligi mahsuldorligini oshirish kabi maqsadlarda",
+        "Faqat zararli maqsadlarda",
+        "Faqat o'yin-kulgi uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Populyatsiya (aholi/tur populyatsiyasi) tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Bitta organizm",
+        "Ma'lum hududda yashovchi bir tur vakillari to'plami",
+        "Barcha turlar yig'indisi",
+        "Faqat inson jamiyati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Turlar orasidagi raqobat (konkurensiya) nima uchun sodir bo'ladi?",
+      "variantlar": [
+        "Hech qanday sababsiz",
+        "Cheklangan resurslar (oziq, hudud) uchun kurash natijasida",
+        "Faqat o'yin uchun",
+        "Faqat tasodifiy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik nisha (niche) tushunchasi nimani ifodalaydi?",
+      "variantlar": [
+        "Faqat organizmning joylashgan hududi",
+        "Organizmning ekotizimdagi o'ziga xos roli va yashash sharoiti",
+        "Faqat rangi",
+        "Faqat ovqatlanish vaqti"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suksessiya (ekologik ketma-ketlik) nima?",
+      "variantlar": [
+        "Ekotizimning vaqt o'tishi bilan bosqichma-bosqich o'zgarishi",
+        "Bir kunlik hodisa",
+        "Faqat hayvonlarning ko'chishi",
+        "Hech qanday o'zgarish emas"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Zaharli moddalarning oziq zanjiri bo'ylab to'planishi (biomagnifikatsiya) qanday xavf tug'diradi?",
+      "variantlar": [
+        "Hech qanday xavf yo'q",
+        "Yuqori trofik darajadagi organizmlarda zaharli moddalar kontsentratsiyasi ortib, zararli bo'lishi mumkin",
+        "Faqat pastki darajadagilar zarar ko'radi",
+        "Foydali ta'sir qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer yuzidagi biomlar (masalan cho'l, o'rmon, tundra) nimaga qarab farqlanadi?",
+      "variantlar": [
+        "Faqat rangiga qarab",
+        "Iqlim sharoitlari va shu sharoitlarga mos organizmlarga qarab",
+        "Faqat balandligiga qarab",
+        "Tasodifiy farqlanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Antropogen omillar ekotizimga qanday ta'sir ko'rsatishi mumkin?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Inson faoliyati orqali ijobiy yoki salbiy o'zgarishlarga olib kelishi mumkin",
+        "Faqat ijobiy ta'sir qiladi",
+        "Faqat foydali natija beradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zararli moddalar bilan zaharlanishning oldini olish uchun qanday choralar ko'riladi (umumiy)?",
+      "variantlar": [
+        "Hech qanday chora ko'rilmaydi",
+        "Kimyoviy moddalardan xavfsiz foydalanish qoidalariga rioya qilish",
+        "Faqat davolash",
+        "Faqat kasal bo'lgach chora ko'rish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bakteriyalarning antibiotiklarga chidamliligi (rezistentligi) qanday muammo tug'diradi?",
+      "variantlar": [
+        "Hech qanday muammo tug'dirmaydi",
+        "Infeksiyalarni davolashni qiyinlashtiradi",
+        "Faqat foydali natija beradi",
+        "Bakteriyalarni yo'q qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Molekulyar biologiya fani asosan nimani o'rganadi?",
+      "variantlar": [
+        "Faqat ekotizimlarni",
+        "Hujayra ichidagi molekulalar (DNK, RNK, oqsillar) darajasidagi jarayonlarni",
+        "Faqat organizmlar tashqi ko'rinishini",
+        "Faqat iqlimni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bunyodkor hujayralar qanday xususiyatga ega?",
+      "variantlar": [
+        "Faqat bitta funksiyani bajaradi",
+        "Turli xil hujayra turlariga aylanish (differensiatsiyalanish) qobiliyatiga ega",
+        "Hech qanday maxsus xususiyati yo'q",
+        "Faqat o'lik hujayralar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Klonlash (klonirovaniye) nima?",
+      "variantlar": [
+        "Yangi tur yaratish",
+        "Genetik jihatdan bir xil organizm yoki hujayra nusxasini yaratish",
+        "Faqat rasm chizish usuli",
+        "Faqat statistik usul"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik piramida (energiya piramidasi) nimani ko'rsatadi?",
+      "variantlar": [
+        "Faqat organizmlar sonini",
+        "Trofik darajalar bo'yicha energiya yoki biomassaning kamayib borishini",
+        "Faqat rangini",
+        "Hech narsani ko'rsatmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Har bir trofik darajada energiyaning taxminan qancha qismi keyingi darajaga o'tadi (umumiy tushuncha)?",
+      "variantlar": [
+        "100%",
+        "Kichik qismi (odatda 10% atrofida), qolgani issiqlik sifatida yo'qoladi",
+        "0%",
+        "Barchasi o'tadi yo'qolmasdan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik xilma-xillik nima uchun tur uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Muhit o'zgarishlariga moslashish va omon qolish imkoniyatini oshiradi",
+        "Faqat chiroy uchun",
+        "Turni zaiflashtiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Inbriding (yaqin qarindoshlar orasida chatishtirish) nima uchun xavfli hisoblanadi?",
+      "variantlar": [
+        "Hech qanday xavfi yo'q",
+        "Zararli retsessiv genlarning namoyon bo'lish ehtimolini oshiradi",
+        "Faqat foydali natija beradi",
+        "Genetik xilma-xillikni oshiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik muvozanat buzilganda odatda nima kuzatiladi?",
+      "variantlar": [
+        "Hech narsa o'zgarmaydi",
+        "Turlar sonining keskin o'zgarishi yoki ba'zi turlarning yo'qolishi",
+        "Faqat foydali o'zgarish",
+        "Ekotizim yanada mustahkamlanadi doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yowvoyi hayvonlarni saqlash bo'yicha xalqaro tashkilotlar (masalan IUCN) nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Hech narsa bilan shug'ullanmaydi",
+        "Yo'qolib borayotgan turlarni aniqlash va himoya choralarini ishlab chiqish bilan",
+        "Faqat ov qilish bilan",
+        "Faqat savdo bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fotosintez jarayonining tezligiga qanday omillar ta'sir qiladi?",
+      "variantlar": [
+        "Hech qanday omil ta'sir qilmaydi",
+        "Yorug'lik intensivligi, harorat va karbonat angidrid miqdori",
+        "Faqat rang",
+        "Faqat vaqt"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Transpiratsiya (o'simlik orqali suv bug'lanishi) jarayoni nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Suv va minerallarning ildizdan barglarga ko'tarilishiga yordam beradi",
+        "Faqat gulni sarg'aytiradi",
+        "Faqat o'simlikni zaiflashtiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'simliklarning geotropizm (yerga nisbatan harakat) xususiyati nima?",
+      "variantlar": [
+        "O'simlik yorug'likka qarab o'sadi",
+        "Ildiz pastga (yer tortishishi bo'yicha), poya yuqoriga o'sish tendensiyasi",
+        "O'simlik harakat qilmaydi umuman",
+        "Faqat suvga qarab o'sadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fototropizm nima?",
+      "variantlar": [
+        "O'simlikning yorug'lik manbaiga qarab o'sish yo'nalishini o'zgartirishi",
+        "Faqat ildizning pastga o'sishi",
+        "Hech qanday harakat emas",
+        "Faqat gulning ochilishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Simbioz munosabatning bir turi \"mutualizm\" nima?",
+      "variantlar": [
+        "Ikkala tomon ham zarar ko'radi",
+        "Ikkala tomon ham foyda ko'radi",
+        "Faqat bir tomon foyda, ikkinchisi zarar",
+        "Hech qanday aloqa yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kommensalizm munosabatida nima sodir bo'ladi?",
+      "variantlar": [
+        "Ikkalasi ham zarar ko'radi",
+        "Bir tomon foyda ko'radi, ikkinchisiga na foyda na zarar",
+        "Ikkalasi ham foyda ko'radi",
+        "Ikkalasi ham yo'qoladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amensalizm munosabatida nima sodir bo'ladi?",
+      "variantlar": [
+        "Ikkalasi ham foyda ko'radi",
+        "Bir tomon zarar ko'radi, ikkinchisiga ta'sir yo'q",
+        "Ikkalasi ham zarar ko'rmaydi",
+        "Faqat foydali natija"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Trofik daraja nima?",
+      "variantlar": [
+        "Oziq zanjiridagi har bir bosqich (masalan produtsent, birlamchi konsument)",
+        "Faqat harorat darajasi",
+        "Faqat balandlik darajasi",
+        "Hech narsani anglatmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Detritivorlar (chirindixo'rlar) ekotizimda qanday rol o'ynaydi?",
+      "variantlar": [
+        "Hech qanday rol o'ynamaydi",
+        "O'lik organik moddalarni iste'mol qilib, moddalar aylanishiga yordam beradi",
+        "Faqat fotosintez qiladi",
+        "Faqat suv ichadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Genetik kasalliklarga qaysi misol keltirilishi mumkin?",
+      "variantlar": [
+        "Gripp",
+        "Daltonizm (rang farqlay olmaslik)",
+        "Sovuq tegishi",
+        "Charchoq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Odam tanasida homeostaz (ichki muhit barqarorligi) nima uchun muhim?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Organizm hujayralari normal ishlashi uchun barqaror ichki sharoit zarur",
+        "Faqat tashqi ko'rinish uchun",
+        "Faqat harorat oshishi uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qon guruhlari tizimi (masalan A, B, AB, 0) nimaga asoslangan?",
+      "variantlar": [
+        "Qondagi shakar miqdoriga",
+        "Eritrotsitlar sirtidagi maxsus antigenlarga",
+        "Qonning rangiga",
+        "Qonning haroratiga"
+      ],
+      "togri": 1
+    }
+  ]
+}
