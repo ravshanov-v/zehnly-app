@@ -1,0 +1,505 @@
+{
+  "label": "Adabiyot sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "Mumtoz adabiyot deganda nima tushuniladi?",
+      "variantlar": [
+        "Faqat zamonaviy asarlar",
+        "O'tmishda yaratilgan, yuksak badiiy qimmatga ega an'anaviy adabiyot",
+        "Faqat tarjima asarlar",
+        "Faqat bolalar adabiyoti"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alisher Navoiyning \"Farhod va Shirin\" dostoni qaysi asarga kiradi?",
+      "variantlar": [
+        "\"Xamsa\" tarkibiga",
+        "\"Boburnoma\"ga",
+        "\"Devoni lug'otit turk\"ga",
+        "\"Qutadg'u bilig\"ga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Xamsa\"ga kirgan dostonlar qaysi tartibda?",
+      "variantlar": [
+        "\"Hayrat ul-abror\", \"Farhod va Shirin\", \"Layli va Majnun\", \"Sab'ai sayyor\", \"Saddi Iskandariy\"",
+        "Faqat bitta doston bor",
+        "\"Boburnoma\", \"O'tkan kunlar\"",
+        "Faqat she'rlar to'plami, doston yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yusuf Xos Hojib qaysi asari bilan mashhur?",
+      "variantlar": [
+        "\"Qutadg'u bilig\"",
+        "\"O'tkan kunlar\"",
+        "\"Boburnoma\"",
+        "\"Alpomish\""
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mahmud Koshg'ariyning \"Devonu lug'otit turk\" asari nima haqida?",
+      "variantlar": [
+        "Faqat she'rlar to'plami",
+        "Turkiy tillarning birinchi qomusiy lug'ati",
+        "Tarixiy roman",
+        "Diniy risola"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ahmad Yassaviy qaysi janrda ijod qilgan?",
+      "variantlar": [
+        "Faqat ilmiy risolalar",
+        "Hikmat janrida, tasavvufiy-diniy she'riyat",
+        "Faqat tarixiy romanlar",
+        "Faqat komediya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zahiriddin Muhammad Boburning \"Boburnoma\" asari qaysi janrga mansub?",
+      "variantlar": [
+        "Sof badiiy roman",
+        "Xotira-tarixiy, memuar janridagi asar",
+        "Ertak",
+        "Ruboiylar to'plami"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Boburning she'riy merosi qaysi janrlarda namoyon bo'lgan?",
+      "variantlar": [
+        "Faqat masal janrida",
+        "G'azal va ruboiylarda",
+        "Faqat dramada",
+        "Faqat latifalarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"O'tkan kunlar\" romanining bosh qahramoni kim?",
+      "variantlar": [
+        "Otabek",
+        "Yusufbek hoji",
+        "Homid",
+        "Zaynab"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Abdulla Qodiriyning yana qaysi mashhur romani bor?",
+      "variantlar": [
+        "\"Mehrobdan chayon\"",
+        "\"Shum bola\"",
+        "\"Sarob\"",
+        "\"Qutlug' qon\""
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Cho'lponning \"Kecha va kunduz\" asari qaysi janrga mansub?",
+      "variantlar": [
+        "She'riy to'plam",
+        "Roman",
+        "Ertak",
+        "Latifa"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oybekning \"Qutlug' qon\" romani qaysi davr voqealarini aks ettiradi?",
+      "variantlar": [
+        "XV asr",
+        "XX asr boshlaridagi ijtimoiy-tarixiy voqealar",
+        "Qadimgi davr",
+        "Kelajak haqida fantastika"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulla Qahhor qaysi janrda ayniqsa mahoratli edi?",
+      "variantlar": [
+        "Faqat drama",
+        "Hikoyanavislik (kichik hajmli hikoyalar ustasi)",
+        "Faqat doston",
+        "Faqat lug'atshunoslik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulla Qahhorning \"O'tmishdan ertaklar\" asari qaysi janrga yaqin?",
+      "variantlar": [
+        "Fantastik roman",
+        "Avtobiografik qissa",
+        "Diniy risola",
+        "Ilmiy maqola"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mumtoz adabiyotda \"tazkira\" nima?",
+      "variantlar": [
+        "She'riy vazn turi",
+        "Shoirlar haqida ma'lumot beruvchi adabiy-biografik asar",
+        "Diniy marosim",
+        "Musiqiy asar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aruz vazni nima?",
+      "variantlar": [
+        "Bo'g'inlar soniga asoslangan vazn tizimi",
+        "Cho'ziq va qisqa bo'g'inlarning muayyan tartibda kelishiga asoslangan mumtoz she'riy vazn",
+        "Faqat qofiyasiz she'r turi",
+        "Faqat nasriy uslub"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Barmoq vazni nimaga asoslangan?",
+      "variantlar": [
+        "Bo'g'inlar sonining tengligiga",
+        "Cho'ziq-qisqa bo'g'inlar tartibiga",
+        "Faqat qofiyaga",
+        "Faqat harflar soniga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qasida qanday she'riy janr?",
+      "variantlar": [
+        "Kimnidir yoki nimanidir madh etuvchi (maqtovga bag'ishlangan) lirik janr",
+        "Faqat hazil she'r",
+        "Faqat marsiya (motam she'ri)",
+        "Faqat bolalar she'ri"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Marsiya qanday she'riy janr?",
+      "variantlar": [
+        "Quvonchli voqealarga bag'ishlangan she'r",
+        "Vafot etgan kishiga bag'ishlangan motam she'ri",
+        "Faqat tabiat tasviri",
+        "Faqat topishmoq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muxammas qanday band tuzilishiga ega?",
+      "variantlar": [
+        "Har bandi ikki misradan iborat",
+        "Har bandi besh misradan iborat",
+        "Har bandi bitta misradan iborat",
+        "Band tushunchasi yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Musammat qanday she'riy shakl turkumiga kiradi?",
+      "variantlar": [
+        "Bandlarga bo'lingan she'riy shakllar (muxammas, musaddas va h.k.) umumiy nomi",
+        "Faqat bitta janr nomi",
+        "Faqat nasriy asar turi",
+        "Faqat xalq qo'shig'i"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Konflikt (ziddiyat) asarda qanday rol o'ynaydi?",
+      "variantlar": [
+        "Hech qanday rol o'ynamaydi",
+        "Syujetni harakatga keltiruvchi qarama-qarshilik, voqealar rivojiga turtki beradi",
+        "Faqat sarlavhani belgilaydi",
+        "Faqat muqova rangini belgilaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekspozitsiya asar tuzilishida nimani anglatadi?",
+      "variantlar": [
+        "Asarning eng cho'qqi nuqtasi",
+        "Voqealarga kirish, qahramonlar va vaziyat bilan tanishtirish qismi",
+        "Asarning yakuni",
+        "Faqat muallif haqida ma'lumot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kulminatsiya nima?",
+      "variantlar": [
+        "Asarning kirish qismi",
+        "Voqealar rivojining eng yuqori, keskin nuqtasi",
+        "Faqat qahramonlar ro'yxati",
+        "Asar nomi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yechim (finali) asarda nimani bildiradi?",
+      "variantlar": [
+        "Voqealarning boshlanishi",
+        "Ziddiyatning hal bo'lishi, asar yakuni",
+        "Faqat qahramon tavsifi",
+        "Faqat manzara tasviri"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Lirik qahramon tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat romandagi asosiy shaxs",
+        "She'rda muallif hissiyotlarini ifodalovchi shartli obraz",
+        "Faqat dramadagi personaj",
+        "Faqat xalq og'zaki ijodidagi qahramon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ramziy (majoziy) ma'no adabiyotda nimani bildiradi?",
+      "variantlar": [
+        "So'zning to'g'ridan-to'g'ri, aynan ma'nosi",
+        "Bir tushuncha orqali boshqa chuqurroq ma'noni ifodalash",
+        "Faqat grammatik shakl",
+        "Faqat imlo qoidasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Antiteza (qarama-qarshi qo'yish) badiiy usuli nima?",
+      "variantlar": [
+        "Ikki tushuncha yoki holatni bir-biriga zid qo'yib tasvirlash",
+        "Ikki bir xil narsani solishtirish",
+        "Faqat sanab o'tish",
+        "Faqat takrorlash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tazod (ziddiyat) san'ati adabiyotda qanday qo'llaniladi?",
+      "variantlar": [
+        "Bir baytda yoki misrada zid ma'noli so'zlarni qo'llash orqali",
+        "Faqat bir xil so'zlarni takrorlash orqali",
+        "Faqat rang tasviri orqali",
+        "Faqat sanoq son ishlatish orqali"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tanosub (uyg'unlik) san'ati nima?",
+      "variantlar": [
+        "Bir-biriga zid so'zlarni qo'llash",
+        "Ma'no jihatidan bir-biriga bog'liq, mos so'zlarni bir baytda qo'llash",
+        "Faqat qofiyani buzish",
+        "Faqat vaznni o'zgartirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy oqim (yo'nalish) nima?",
+      "variantlar": [
+        "Bitta muallifning shaxsiy uslubi",
+        "Muayyan davr ijodkorlariga xos umumiy g'oyaviy-badiiy xususiyatlar majmuasi",
+        "Faqat kitob nashriyoti",
+        "Faqat bitta asar nomi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jadidchilik harakati o'zbek adabiyotida qanday yo'nalish edi?",
+      "variantlar": [
+        "Faqat diniy harakat",
+        "XX asr boshida ma'rifatparvarlik va milliy uyg'onishni targ'ib qilgan ijtimoiy-adabiy harakat",
+        "Faqat harbiy harakat",
+        "Faqat savdo tashkiloti"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulhamid Cho'lpon qaysi mashhur she'ri bilan tanilgan?",
+      "variantlar": [
+        "\"Bahor\"",
+        "\"Uyg'on\"",
+        "\"Yulduzlar\"",
+        "\"Vatan\""
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fitrat qaysi sohalarda ijod qilgan?",
+      "variantlar": [
+        "Faqat rassomlik",
+        "Adib, dramaturg va olim sifatida ko'p qirrali ijod qilgan",
+        "Faqat sportchi",
+        "Faqat me'mor"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mumtoz adabiyotda \"muhammas\" va \"musaddas\" qanday tushunchalar?",
+      "variantlar": [
+        "Musiqiy asboblar nomi",
+        "She'riy shaklning band tuzilishiga ko'ra turlari",
+        "Diniy marosimlar",
+        "Tarixiy sanalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nazira (javob) an'anasi mumtoz adabiyotda nima edi?",
+      "variantlar": [
+        "Boshqa shoirning asariga vazn va mavzu jihatdan mos, lekin mustaqil javob asar yaratish",
+        "Boshqa shoirning asarini aynan ko'chirish",
+        "Faqat tanqid yozish",
+        "Faqat tarjima qilish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Munozara (bahs) janri adabiyotda nimani anglatadi?",
+      "variantlar": [
+        "Ikki narsa yoki tushuncha o'rtasidagi bahs-munozarani tasvirlovchi asar turi",
+        "Faqat lirik she'r",
+        "Faqat tarixiy hujjat",
+        "Faqat lug'at"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Publitsistika adabiyot bilan qanday bog'liq?",
+      "variantlar": [
+        "Umuman bog'liq emas",
+        "Ijtimoiy-siyosiy mavzularni badiiy-publitsistik uslubda yoritadigan yozuv turi",
+        "Faqat she'riy janr",
+        "Faqat xalq og'zaki ijodi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Insho janri nimani nazarda tutadi?",
+      "variantlar": [
+        "Faqat she'r yozish",
+        "Muayyan mavzuda erkin fikr bildirilgan nasriy asar",
+        "Faqat lug'at tuzish",
+        "Faqat tarjima qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Badiiy tarjima nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Boshqa xalqlar adabiyotini o'z tilida tanishtirish imkonini beradi",
+        "Faqat til o'rganish uchun",
+        "Faqat imlo mashqi uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Sarob\" romani kimning asari?",
+      "variantlar": [
+        "Oybek",
+        "Abdulla Qahhor",
+        "Cho'lpon",
+        "G'afur G'ulom"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Said Ahmad qaysi janrda mashhur asarlar yaratgan?",
+      "variantlar": [
+        "Faqat she'riyat",
+        "Qissa va hikoyanavislikda ('Ufq' romani bilan ham tanilgan)",
+        "Faqat dramaturgiya",
+        "Faqat tarjimonlik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Pirimqul Qodirov qaysi tarixiy romani bilan mashhur?",
+      "variantlar": [
+        "\"Yulduzli tunlar\" (Bobur haqida)",
+        "\"O'tkan kunlar\"",
+        "\"Qutlug' qon\"",
+        "\"Mehrobdan chayon\""
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Adabiy tanqid nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat asar yozish",
+        "Badiiy asarlarni tahlil qilish va baholash",
+        "Faqat lug'at tuzish",
+        "Faqat kitob sotish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uslub (individual stil) deganda nima tushuniladi?",
+      "variantlar": [
+        "Barcha yozuvchilarga xos umumiy uslub",
+        "Muallifning o'ziga xos til va ifoda tarzi",
+        "Faqat nashriyot talablari",
+        "Faqat imlo qoidalari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kompozitsiya asarda nimani anglatadi?",
+      "variantlar": [
+        "Faqat muqova dizayni",
+        "Asar qismlarining o'zaro joylashuvi va tuzilish tartibi",
+        "Faqat nashr sanasi",
+        "Faqat sahifalar soni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Detal (badiiy detal) nima?",
+      "variantlar": [
+        "Asarning umumiy mazmuni",
+        "Muallif tomonidan alohida ta'kidlangan, ma'noli kichik tafsilot",
+        "Faqat sarlavha",
+        "Faqat muallif ismi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ichki monolog badiiy asarda nimani ifodalaydi?",
+      "variantlar": [
+        "Ikki qahramon suhbatini",
+        "Qahramonning o'z ichki kechinmalari, fikrlari bayonini",
+        "Faqat tashqi manzarani",
+        "Faqat muallif izohini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nutq uslublari orasida badiiy uslub qanday xususiyatga ega?",
+      "variantlar": [
+        "Faqat quruq faktlarni bayon qiladi",
+        "Obrazlilik, hissiylik va badiiy tasvir vositalaridan foydalanishi bilan ajralib turadi",
+        "Faqat rasmiy hujjatlarda ishlatiladi",
+        "Faqat ilmiy formulalardan iborat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiyotda \"an'ana va novatorlik\" tushunchalari nimani anglatadi?",
+      "variantlar": [
+        "Faqat eski asarlarni takrorlash",
+        "O'tmish tajribasidan foydalanish (an'ana) bilan birga yangilik kiritish (novatorlik)",
+        "Faqat yangilikni butunlay rad etish",
+        "Ikkalasi ham bir xil ma'noni bildiradi"
+      ],
+      "togri": 1
+    }
+  ]
+}

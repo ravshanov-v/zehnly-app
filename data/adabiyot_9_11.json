@@ -1,0 +1,475 @@
+{
+  "label": "Adabiyot sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "Alisher Navoiyning \"Hayrat ul-abror\" dostoni qaysi mavzuga bag'ishlangan?",
+      "variantlar": [
+        "Faqat ishqiy voqealarga",
+        "Axloqiy-falsafiy va ijtimoiy masalalarga",
+        "Faqat harbiy yurishlarga",
+        "Faqat tabiat tasviriga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Saddi Iskandariy\" dostonida qaysi tarixiy-afsonaviy shaxs tasvirlanadi?",
+      "variantlar": [
+        "Amir Temur",
+        "Iskandar Zulqarnayn",
+        "Chingizxon",
+        "Bobur"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Navoiyning \"Muhokamat ul-lug'atayn\" asari nimaga bag'ishlangan?",
+      "variantlar": [
+        "Ikki tilni (turkiy va forsiy) qiyosiy tahlil qilishga",
+        "Faqat tarixiy voqealarga",
+        "Faqat diniy masalalarga",
+        "Faqat geografiyaga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Navoiy o'z devonlarini qanday umumiy nom ostida to'plagan?",
+      "variantlar": [
+        "\"Xamsa\"",
+        "\"Xazoyin ul-maoniy\"",
+        "\"Boburnoma\"",
+        "\"Devonu lug'otit turk\""
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mashrab qaysi adabiy oqim vakili sifatida tanilgan?",
+      "variantlar": [
+        "Tasavvuf adabiyoti (qalandarona she'riyat)",
+        "Zamonaviy realizm",
+        "Futurizm",
+        "Jadidchilik"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Turdi shoir qaysi janrda ijtimoiy-tanqidiy ruhdagi asarlar yaratgan?",
+      "variantlar": [
+        "Faqat ertak",
+        "She'riyat (satirik va ijtimoiy mazmundagi she'rlar)",
+        "Faqat drama",
+        "Faqat memuar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Munis Xorazmiy va Ogahiy qaysi mintaqa adabiy muhitining vakillari edi?",
+      "variantlar": [
+        "Farg'ona vodiysi",
+        "Xorazm adabiy muhiti",
+        "Buxoro amirligi",
+        "Zarafshon vodiysi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muqimiy ijodida qaysi mavzular ustunlik qiladi?",
+      "variantlar": [
+        "Faqat harbiy mavzular",
+        "Ijtimoiy-maishiy hayot, xalq turmushi va satira",
+        "Faqat diniy mavzular",
+        "Faqat tabiat tasviri"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Furqat qaysi jihati bilan o'zbek adabiyotida alohida o'rin tutadi?",
+      "variantlar": [
+        "Faqat harbiy sarkarda sifatida",
+        "Sayohatnoma va publitsistik asarlari, jadid g'oyalariga yaqinligi bilan",
+        "Faqat rassom sifatida",
+        "Faqat tabib sifatida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "XX asr boshidagi o'zbek adabiyotida jadid dramaturgiyasining asoschilaridan biri kim edi?",
+      "variantlar": [
+        "Alisher Navoiy",
+        "Mahmudxo'ja Behbudiy",
+        "Bobur",
+        "Yassaviy"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Padarkush\" dramasi qaysi muallifga tegishli?",
+      "variantlar": [
+        "Mahmudxo'ja Behbudiy",
+        "Abdulla Qodiriy",
+        "Cho'lpon",
+        "Hamza"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Abdurauf Fitratning dramaturgiyadagi mashhur asarlaridan biri qaysi?",
+      "variantlar": [
+        "\"Bekjon\"",
+        "\"Abulfayzxon\"",
+        "\"Alpomish\"",
+        "\"Boburnoma\""
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Cho'lponning \"Kecha va kunduz\" romani nechta qismdan iborat bo'lishi rejalashtirilgan edi (muallif faqat birinchisini yozib ulgurgan)?",
+      "variantlar": [
+        "Bitta",
+        "Ikkita",
+        "Uchta",
+        "Beshta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oybekning \"Navoiy\" romani qaysi tarixiy shaxs hayotiga bag'ishlangan?",
+      "variantlar": [
+        "Bobur",
+        "Alisher Navoiy",
+        "Amir Temur",
+        "Ulug'bek"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulla Qahhorning \"Sarob\" romani qaysi ijtimoiy muhitni tanqidiy tasvirlaydi?",
+      "variantlar": [
+        "Sovet davri ziyolilarining ikkiyuzlamachiligi va illatlarini",
+        "Faqat qishloq hayotini",
+        "Faqat harbiy voqealarni",
+        "Faqat tarixiy o'tmishni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Shukur Xolmirzayev qaysi janrda mashhur bo'lgan?",
+      "variantlar": [
+        "Faqat lug'atshunoslik",
+        "Qishloq hayotini tasvirlovchi hikoya va qissalar",
+        "Faqat dramaturgiya",
+        "Faqat tarjimonlik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'tkir Hoshimov qaysi asari bilan ayniqsa mashhur?",
+      "variantlar": [
+        "\"Dunyoning ishlari\" romani",
+        "\"O'tkan kunlar\"",
+        "\"Qutlug' qon\"",
+        "\"Sarob\""
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Ikki eshik orasi\" romani kimning asari?",
+      "variantlar": [
+        "O'tkir Hoshimov",
+        "Abdulla Qahhor",
+        "Cho'lpon",
+        "Oybek"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Erkin Vohidov qaysi mashhur poemasi bilan tanilgan?",
+      "variantlar": [
+        "\"Ruhlar isyoni\"",
+        "\"Yurak qo'ynidagi armon\"",
+        "\"Muqaddas\"",
+        "\"Munojot\""
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Abdulla Oripovning \"O'zbekiston\" she'ri qanday mavzuda?",
+      "variantlar": [
+        "Sevgi mavzusida",
+        "Vatanparvarlik mavzusida",
+        "Tabiat mavzusida",
+        "Hazil mavzusida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulla Oripov O'zbekiston Respublikasi Davlat madhiyasi matnining muallifi hisoblanadimi?",
+      "variantlar": [
+        "Yo'q, u boshqa shoirga tegishli",
+        "Ha, u davlat madhiyasi matnini yozgan",
+        "Bu masala noaniq",
+        "Faqat musiqasini yozgan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Pirimqul Qodirovning \"Yulduzli tunlar\" romani qaysi tarixiy shaxsga bag'ishlangan?",
+      "variantlar": [
+        "Amir Temur",
+        "Zahiriddin Muhammad Bobur",
+        "Alisher Navoiy",
+        "Ulug'bek"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tohir Malik qaysi janrda ko'plab asarlar yozgan?",
+      "variantlar": [
+        "Faqat lirik she'riyat",
+        "Detektiv va ijtimoiy-psixologik roman janrida",
+        "Faqat tarjima",
+        "Faqat drama"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Shaytanat\" asari kimning qalamiga mansub?",
+      "variantlar": [
+        "Tohir Malik",
+        "O'tkir Hoshimov",
+        "Erkin A'zam",
+        "Xurshid Do'stmuhammad"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Realizm adabiy oqimi qanday tamoyilga asoslanadi?",
+      "variantlar": [
+        "Xayoliy, fantastik voqealarni tasvirlashga",
+        "Voqelikni haqqoniy, hayotiy tarzda aks ettirishga",
+        "Faqat ramziy tasvirga",
+        "Faqat mavhum g'oyalarga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Romantizm adabiy oqimi uchun nima xarakterli?",
+      "variantlar": [
+        "Faqat quruq faktlarni bayon qilish",
+        "His-tuyg'u, orzu-intilish va shaxs erkinligini yuksak ideallar bilan tasvirlash",
+        "Faqat statistik ma'lumotlar berish",
+        "Faqat ilmiy tahlil"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Modernizm adabiyotda qanday yondashuv bilan xarakterlanadi?",
+      "variantlar": [
+        "An'anaviy shakllarni qat'iy saqlash",
+        "An'anaviy shakl va uslublardan chekinib, yangi ifoda vositalarini izlash",
+        "Faqat xalq og'zaki ijodiga qaytish",
+        "Faqat diniy mavzularga cheklanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sotsialistik realizm nima edi?",
+      "variantlar": [
+        "Faqat diniy adabiyot yo'nalishi",
+        "Sovet davrida rasmiy mafkura talablariga mos badiiy metod",
+        "Faqat xalq og'zaki ijodi",
+        "Faqat mumtoz adabiyot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiyotshunoslikda \"janr\" tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Muallifning ismi",
+        "Asarning shakl va mazmun xususiyatlariga ko'ra turkumlanishi (roman, hikoya, she'r va h.k.)",
+        "Faqat nashriyot nomi",
+        "Faqat kitobning narxi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Xronotop\" adabiyotshunoslik atamasi nimani ifodalaydi?",
+      "variantlar": [
+        "Faqat asar sarlavhasini",
+        "Asardagi vaqt va makonning o'zaro bog'liqligini",
+        "Faqat muallif tarjimai holini",
+        "Faqat qofiya turini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Intertekstuallik tushunchasi adabiyotda nimani bildiradi?",
+      "variantlar": [
+        "Matnlar o'rtasidagi o'zaro bog'liqlik va ta'sirlanish",
+        "Faqat bitta matnning yagona ma'nosi",
+        "Faqat imlo qoidalari",
+        "Faqat kitob muqovasi dizayni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Psixologizm badiiy asarda nimani anglatadi?",
+      "variantlar": [
+        "Faqat tashqi voqealar tasviri",
+        "Qahramonning ichki ruhiy kechinmalarini chuqur tasvirlash",
+        "Faqat tarixiy faktlar bayoni",
+        "Faqat statistik ma'lumot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekzistensializm falsafiy-adabiy yo'nalishi nimaga e'tibor qaratadi?",
+      "variantlar": [
+        "Faqat jamiyat tuzilishiga",
+        "Inson mavjudligi, erkinligi va tanlov masalalariga",
+        "Faqat tabiat hodisalariga",
+        "Faqat iqtisodiy masalalarga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy asarda \"pafos\" tushunchasi nimani bildiradi?",
+      "variantlar": [
+        "Asarning hajmi",
+        "Asarning umumiy hissiy-g'oyaviy ruhi, kuchli emotsional yo'nalishi",
+        "Faqat muallif ismi",
+        "Faqat nashr yili"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Roman-epopeya\" janri qanday xususiyatga ega?",
+      "variantlar": [
+        "Juda qisqa hikoya",
+        "Katta tarixiy davrni, ko'plab qahramonlar taqdirini keng qamrovda aks ettiruvchi yirik asar",
+        "Faqat she'riy to'plam",
+        "Faqat bitta qahramon haqida qisqa lavha"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy portret janri nimani tasvirlaydi?",
+      "variantlar": [
+        "Faqat tabiat manzarasini",
+        "Real yoki adabiy shaxsning xarakteri va qiyofasini badiiy-publitsistik uslubda",
+        "Faqat statistik ma'lumotlarni",
+        "Faqat rasmiy hujjatni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Esse janrining o'ziga xosligi nimada?",
+      "variantlar": [
+        "Qat'iy ilmiy dalillarga asoslangan rasmiy matn",
+        "Muallifning shaxsiy fikr-mulohazalarini erkin, badiiy-publitsistik uslubda bayon qilishi",
+        "Faqat xalq og'zaki ijodi namunasi",
+        "Faqat lug'aviy tushuntirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy oqim sifatida \"jadidchilik\" adabiyotidagi asosiy g'oya nima edi?",
+      "variantlar": [
+        "Eski tuzumni saqlab qolish",
+        "Ma'rifat, taraqqiyot va milliy uyg'onishni targ'ib qilish",
+        "Faqat diniy an'analarni kuchaytirish",
+        "Faqat harbiy kuchni oshirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiyotda \"betaraf hikoyachi\" (obyektiv bayon) uslubi nimani anglatadi?",
+      "variantlar": [
+        "Hikoyachi voqealarga o'z bahosini bermay, faqat bayon qiladi",
+        "Hikoyachi doim o'z fikrini bildiradi",
+        "Hikoyachi qahramon bilan bir xil shaxs",
+        "Asarda hikoyachi umuman yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Zamonaviy o'zbek adabiyotida \"erkin she'r\" (vers libre) qanday xususiyatga ega?",
+      "variantlar": [
+        "Qat'iy vazn va qofiyaga bo'ysunadi",
+        "An'anaviy vazn va qofiya qoidalaridan ozod, erkin ritmga ega",
+        "Faqat nasriy matn",
+        "Faqat xalq qo'shig'i shakli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy asarni tahlil qilishda \"g'oya\" tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Asarning tashqi hajmi",
+        "Asar orqali ifodalangan asosiy fikr, xulosa yoki maqsad",
+        "Faqat muallif ismi",
+        "Faqat nashr sanasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Mavzu\" va \"g'oya\" tushunchalari o'rtasidagi farq nimada?",
+      "variantlar": [
+        "Ular bir xil ma'noni bildiradi",
+        "Mavzu asarda nima haqida so'z yuritilishi, g'oya esa muallifning shu orqali aytmoqchi bo'lgan xulosasi",
+        "Mavzu faqat she'rda, g'oya faqat nasrda bo'ladi",
+        "Farqi umuman yo'q"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy asardagi \"tip\" (tipik obraz) tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat bitta noyob, takrorlanmas shaxs",
+        "Muayyan davr yoki muhitga xos ko'plab shaxslarning umumlashma xususiyatlarini o'zida mujassam etgan obraz",
+        "Faqat muallifning o'zi",
+        "Faqat tarixiy sana"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy o'zbek dramaturgiyasida ijtimoiy muammolarni ko'targan asarlar qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyati yo'q",
+        "Jamiyatdagi dolzarb muammolarga sahna orqali e'tibor qaratish imkonini beradi",
+        "Faqat ko'ngil ochish uchun",
+        "Faqat tarixni o'rgatish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy merosni o'rganish nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Milliy qadriyatlarni saqlash va yosh avlodni ma'naviy tarbiyalash uchun",
+        "Faqat imtihon topshirish uchun",
+        "Faqat vaqt o'tkazish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy jahon adabiyoti bilan tanishish o'zbek o'quvchisiga nima beradi?",
+      "variantlar": [
+        "Hech narsa bermaydi",
+        "Dunyoqarashni kengaytirish va turli madaniyatlarni tushunish imkoniyatini",
+        "Faqat vaqtni behuda sarflash",
+        "Faqat chalkashlik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy asarlarni qiyosiy tahlil qilish (komparativistika) nimaga xizmat qiladi?",
+      "variantlar": [
+        "Faqat bitta asarni yodlashga",
+        "Turli adabiyotlar va davrlar o'rtasidagi o'xshashlik va farqlarni aniqlashga",
+        "Faqat imlo xatolarini topishga",
+        "Faqat kitob narxini belgilashga"
+      ],
+      "togri": 1
+    }
+  ]
+}
