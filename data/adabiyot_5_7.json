@@ -1,0 +1,525 @@
+{
+  "label": "Adabiyot sinovi (5-7 sinf)",
+  "savollar": [
+    {
+      "savol": "Adabiyot nima?",
+      "variantlar": [
+        "Faqat gazeta va jurnallar",
+        "So'z san'ati, badiiy asarlar majmuasi",
+        "Faqat darsliklar",
+        "Faqat rasmlar to'plami"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xalq og'zaki ijodi qanday yaratiladi?",
+      "variantlar": [
+        "Bitta muallif tomonidan yozma ravishda",
+        "Xalq orasida og'zaki tarzda yaratilib, avloddan-avlodga o'tadi",
+        "Faqat shoirlar tomonidan",
+        "Faqat kompyuterda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ertak qanday asar turi?",
+      "variantlar": [
+        "Haqiqiy voqealar haqidagi ilmiy asar",
+        "Sehrli-fantastik voqealarni o'z ichiga olgan xalq og'zaki ijodi janri",
+        "Faqat she'riy asar",
+        "Faqat tarixiy hujjat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Maqol nima?",
+      "variantlar": [
+        "Uzun hikoya",
+        "Chuqur ma'noli, qisqa va ixcham xalq hikmati",
+        "Faqat qo'shiq matni",
+        "Faqat topishmoq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Topishmoq nima uchun yaratiladi?",
+      "variantlar": [
+        "Faqat kulish uchun",
+        "Fikrlash va topqirlikni sinash uchun, biror narsani yashirin tasvirlab ifodalash",
+        "Faqat qo'rqitish uchun",
+        "Faqat raqamlarni yodlash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Doston qanday asar hisoblanadi?",
+      "variantlar": [
+        "Juda qisqa she'r",
+        "Katta hajmli, qahramonlik yoki sevgi mavzusidagi she'riy yoki aralash asar",
+        "Faqat nasriy hikoya",
+        "Faqat maqollar to'plami"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Alpomish\" qanday asar?",
+      "variantlar": [
+        "Zamonaviy roman",
+        "O'zbek xalq qahramonlik dostoni",
+        "Ilmiy maqola",
+        "Xorijiy ertak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alisher Navoiy qaysi davrda yashab ijod qilgan?",
+      "variantlar": [
+        "XX asrda",
+        "XV asrda",
+        "XVIII asrda",
+        "XXI asrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alisher Navoiy qaysi tilda ko'plab asarlar yaratib, bu tilning boyligini isbotlagan?",
+      "variantlar": [
+        "Fors tilida",
+        "Turkiy (o'zbek) tilida",
+        "Arab tilida",
+        "Rus tilida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Xamsa\" asari nechta dostondan iborat?",
+      "variantlar": [
+        "Uchta",
+        "Beshta",
+        "Yettita",
+        "Ikkita"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "She'r qanday asar turi?",
+      "variantlar": [
+        "Vazn va qofiyaga ega bo'lgan, hissiyotni ifodalovchi nazmiy asar",
+        "Faqat oddiy gaplar to'plami",
+        "Faqat ilmiy matn",
+        "Faqat jadval"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qofiya nima?",
+      "variantlar": [
+        "She'r mavzusi",
+        "Misralar oxiridagi ovozlarning ohangdosh takrorlanishi",
+        "She'rning uzunligi",
+        "Muallifning ismi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Misra nima?",
+      "variantlar": [
+        "She'rning bir qatori",
+        "Butun bir she'r",
+        "Faqat oxirgi so'z",
+        "Nasriy asar bo'limi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Band (bayt guruhi) nima?",
+      "variantlar": [
+        "Bitta harf",
+        "Bir necha misradan tashkil topgan she'riy bo'lak",
+        "Faqat sarlavha",
+        "Muallif imzosi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nasr qanday asar turi?",
+      "variantlar": [
+        "Vazn va qofiyasiz, erkin bayon qilinadigan asar turi",
+        "Faqat qofiyali she'r",
+        "Faqat qo'shiq matni",
+        "Faqat topishmoq"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hikoya qanday asar hisoblanadi?",
+      "variantlar": [
+        "Juda katta hajmli, ko'p qahramonli asar",
+        "Nisbatan qisqa hajmli, bitta voqea yoki holatni tasvirlovchi nasriy asar",
+        "Faqat she'riy asar",
+        "Faqat ilmiy hisobot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qissa hikoyadan nimasi bilan farq qiladi?",
+      "variantlar": [
+        "Qissa hikoyadan kichikroq bo'ladi",
+        "Qissa hikoyaga nisbatan kattaroq hajmga va murakkabroq syujetga ega bo'ladi",
+        "Ular bir xil janr",
+        "Qissa faqat she'riy bo'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Roman qanday asar turi?",
+      "variantlar": [
+        "Eng qisqa nasriy asar",
+        "Katta hajmli, ko'p qahramonli, murakkab syujetli nasriy asar",
+        "Faqat she'rlar to'plami",
+        "Faqat maqollar kitobi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qahramon (obraz) nima?",
+      "variantlar": [
+        "Asar muallifi",
+        "Asarda tasvirlangan shaxs yoki personaj",
+        "Kitobning nomi",
+        "Nashriyot nomi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Syujet nima?",
+      "variantlar": [
+        "Asardagi voqealarning izchil rivojlanish tizimi",
+        "Faqat asar sarlavhasi",
+        "Faqat muallif haqida ma'lumot",
+        "Kitobning jildi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Abdulla Qodiriy qanday asari bilan mashhur?",
+      "variantlar": [
+        "\"O'tkan kunlar\" romani",
+        "\"Alpomish\" dostoni",
+        "\"Boburnoma\" asari",
+        "\"Xamsa\" dostoni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"O'tkan kunlar\" romani o'zbek adabiyotida qanday ahamiyatga ega?",
+      "variantlar": [
+        "Birinchi o'zbek dostoni hisoblanadi",
+        "O'zbek adabiyotidagi birinchi realistik roman hisoblanadi",
+        "Faqat bolalar uchun ertak",
+        "Ilmiy darslik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zahiriddin Muhammad Bobur qanday asari bilan mashhur?",
+      "variantlar": [
+        "\"Boburnoma\" - xotira-tarixiy asari",
+        "\"O'tkan kunlar\" romani",
+        "\"Mehrobdan chayon\" romani",
+        "\"Shum bola\" qissasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "G'afur G'ulom qaysi sohada ijod qilgan?",
+      "variantlar": [
+        "Faqat rassomlik",
+        "Shoir va yozuvchi sifatida she'riy va nasriy asarlar yaratgan",
+        "Faqat musiqachi",
+        "Faqat olim-fizik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Shum bola\" qissasining muallifi kim?",
+      "variantlar": [
+        "Abdulla Qodiriy",
+        "G'afur G'ulom",
+        "Oybek",
+        "Cho'lpon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oybek qanday taxallus bo'lib, uning asl ismi nima edi?",
+      "variantlar": [
+        "Bu uning asl ismi, taxallusi yo'q",
+        "Taxallus, asl ismi Muso Toshmuhammad o'g'li",
+        "Faqat lug'aviy so'z, muallifga aloqasi yo'q",
+        "Bu nashriyot nomi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Cho'lpon qaysi janrlarda ijod qilgan?",
+      "variantlar": [
+        "Faqat ilmiy maqolalar",
+        "She'riyat, nasr va dramaturgiya sohalarida ijod qilgan",
+        "Faqat lug'at tuzgan",
+        "Faqat tarjima qilgan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hamza Hakimzoda Niyoziy qanday faoliyat bilan tanilgan?",
+      "variantlar": [
+        "Faqat rassom sifatida",
+        "Shoir, yozuvchi va dramaturg sifatida",
+        "Faqat sportchi sifatida",
+        "Faqat me'mor sifatida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Erkin Vohidov va Abdulla Oripov qaysi davr o'zbek adabiyotining yirik shoirlari hisoblanadi?",
+      "variantlar": [
+        "XV asr",
+        "XX asr (zamonaviy o'zbek adabiyoti)",
+        "IX asr",
+        "XII asr"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Lirika qanday adabiy tur?",
+      "variantlar": [
+        "Muallifning ichki his-tuyg'ularini ifodalovchi adabiy tur",
+        "Faqat voqealarni bayon qiluvchi tur",
+        "Faqat sahna asari",
+        "Faqat ilmiy tur"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Epos (epik asar) nimani tasvirlaydi?",
+      "variantlar": [
+        "Faqat muallifning kayfiyatini",
+        "Voqea-hodisalar va qahramonlar hayotini keng tasvirlaydi",
+        "Faqat sahna ko'rsatmalarini",
+        "Faqat qofiyalarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Drama qanday adabiy tur?",
+      "variantlar": [
+        "Faqat she'riy tur",
+        "Sahnada ijro etish uchun mo'ljallangan, dialoglar orqali ifodalanadigan tur",
+        "Faqat ilmiy tur",
+        "Faqat xalq og'zaki ijodi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Metafora (istiora) nima?",
+      "variantlar": [
+        "So'zning aynan, to'g'ridan-to'g'ri ma'nosi",
+        "Bir narsani boshqa narsaga o'xshatib, ko'chma ma'noda ifodalash",
+        "Faqat sonlarni ifodalash usuli",
+        "Faqat grammatik qoida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tashbeh (o'xshatish) nima?",
+      "variantlar": [
+        "Ikki narsa yoki hodisani o'xshashlik jihati bo'yicha qiyoslash",
+        "So'zlarni teskari tartibda yozish",
+        "Faqat she'r vaznini o'lchash",
+        "Faqat nuqtani qo'yish qoidasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jonlantirish (personifikatsiya) badiiy san'ati nima?",
+      "variantlar": [
+        "Jonsiz narsalarga inson xususiyatlarini berish",
+        "Faqat hayvonlarni tasvirlash",
+        "Faqat ranglarni tasvirlash",
+        "Faqat sonlarni sanash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mubolag'a (bo'rttirish) nima?",
+      "variantlar": [
+        "Voqea yoki xususiyatni haqiqatdan ancha kattalashtirib tasvirlash",
+        "Voqeani kichraytirib tasvirlash",
+        "Faqat raqamlarni aniq berish",
+        "Faqat sana ko'rsatish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Epitet (sifatlash) nima?",
+      "variantlar": [
+        "Predmet yoki hodisaga badiiy ta'sirchan sifat qo'shish",
+        "Faqat fe'l shakli",
+        "Faqat son turkumi",
+        "Gapning bosh bo'lagi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Radif nima?",
+      "variantlar": [
+        "She'r misralarining oxirida qofiyadan keyin takrorlanuvchi so'z yoki so'z birikmasi",
+        "She'rning birinchi misrasi",
+        "Muallifning taxallusi",
+        "Asarning bosh qahramoni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "G'azal qanday she'riy janr?",
+      "variantlar": [
+        "Faqat bolalar uchun yozilgan hazil she'r",
+        "Sharq mumtoz she'riyatida ishq-muhabbat va falsafiy mavzularda yoziladigan lirik janr",
+        "Faqat ilmiy maqola shakli",
+        "Faqat qissa turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ruboiy nechta misradan iborat she'riy janr?",
+      "variantlar": [
+        "Ikkita",
+        "To'rtta",
+        "Oltita",
+        "Sakkizta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Masal qanday asar turi?",
+      "variantlar": [
+        "Hayvonlar yoki jonsiz narsalar orqali axloqiy saboq beruvchi qisqa hikoya",
+        "Faqat tarixiy voqealar bayoni",
+        "Faqat ilmiy maqola",
+        "Faqat lug'at"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Latifa qanday xususiyatga ega bo'lgan xalq og'zaki ijodi janri?",
+      "variantlar": [
+        "Uzun va jiddiy hikoya",
+        "Qisqa, kulgili va hikmatli hikoyacha",
+        "Faqat she'r turi",
+        "Faqat topishmoq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nasriddin Afandi haqidagi latifalar qanday xarakterga ega?",
+      "variantlar": [
+        "Faqat qo'rqinchli",
+        "Hazil-mutoyiba va hikmat orqali xalq donoligini aks ettiradi",
+        "Faqat ilmiy",
+        "Faqat harbiy mavzuda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Prototip nima?",
+      "variantlar": [
+        "Muallifning asosiy qahramoni uchun asos bo'lgan haqiqiy shaxs yoki obraz",
+        "Kitobning muqovasi",
+        "Nashriyot nomi",
+        "Asarning oxirgi bo'limi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Adabiy qahramonning tashqi va ichki xususiyatlari tasviri qanday ataladi?",
+      "variantlar": [
+        "Manzara",
+        "Portret (tasvir)",
+        "Dialog",
+        "Epigraf"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dialog nima?",
+      "variantlar": [
+        "Bir kishining ichki monologi",
+        "Ikki yoki undan ortiq qahramon o'rtasidagi so'zlashuv",
+        "Faqat tabiat tasviri",
+        "Muallif izohi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Monolog nima?",
+      "variantlar": [
+        "Ikki kishining suhbati",
+        "Bitta qahramonning o'z-o'zi bilan yoki o'quvchiga qaratilgan nutqi",
+        "Faqat sarlavha",
+        "Kitob muqovasidagi matn"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Manzara tasviri asarda nimani ifodalaydi?",
+      "variantlar": [
+        "Faqat qahramonlarning ismini",
+        "Tabiat va atrof-muhit ko'rinishini",
+        "Faqat muallif hayoti",
+        "Faqat asar nomini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bosh qahramon (bosh obraz) deganda nima tushuniladi?",
+      "variantlar": [
+        "Asardagi eng kam tilga olinadigan personaj",
+        "Asar syujetida markaziy o'rin egallagan asosiy personaj",
+        "Faqat muallifning do'sti",
+        "Faqat kitob muqovasidagi rasm"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vatanparvarlik mavzusidagi asarlar nimani tarbiyalashga xizmat qiladi?",
+      "variantlar": [
+        "Hech narsani",
+        "O'quvchida Vatanga muhabbat va milliy g'urur tuyg'usini",
+        "Faqat qo'rquvni",
+        "Faqat zerikishni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bolalar adabiyoti kimlar uchun yaratiladi?",
+      "variantlar": [
+        "Faqat kattalar uchun",
+        "Asosan bolalar va o'smirlar uchun, ularning yosh xususiyatlariga mos tarzda",
+        "Faqat olimlar uchun",
+        "Faqat muallifning o'zi uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yozma adabiyot xalq og'zaki ijodidan asosan nimasi bilan farq qiladi?",
+      "variantlar": [
+        "Farqi yo'q, bir xil",
+        "Muallifi aniq bo'lib, yozma shaklda yaratiladi va saqlanadi",
+        "Faqat qisqaligi bilan",
+        "Faqat rangli rasmlar borligi bilan"
+      ],
+      "togri": 1
+    }
+  ]
+}
