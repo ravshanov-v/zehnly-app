@@ -1,0 +1,485 @@
+{
+  "label": "Ona tili sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "Morfologiya bo'limi nimani o'rganadi?",
+      "variantlar": [
+        "Tovushlarni",
+        "So'z turkumlari va ularning grammatik shakllarini",
+        "Gap tuzilishini",
+        "Matn tuzilishini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sintaksis bo'limi nimani o'rganadi?",
+      "variantlar": [
+        "So'z tarkibini",
+        "So'z birikmasi va gap tuzilishini",
+        "Tovushlarni",
+        "Urg'uni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbek tilida nechta kelishik bor?",
+      "variantlar": [
+        "4 ta",
+        "6 ta",
+        "8 ta",
+        "10 ta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bosh kelishik qanday xususiyatga ega?",
+      "variantlar": [
+        "Maxsus qo'shimchaga ega",
+        "Qo'shimchasiz, so'zning boshlang'ich shakli",
+        "Faqat -ni qo'shimchasi bilan",
+        "Faqat -ga qo'shimchasi bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qaratqich kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+      "variantlar": [
+        "-ni",
+        "-ning",
+        "-ga",
+        "-da"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tushum kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+      "variantlar": [
+        "-ning",
+        "-ni",
+        "-dan",
+        "-ga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jo'nalish kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+      "variantlar": [
+        "-ga (-ka, -qa)",
+        "-ni",
+        "-dan",
+        "-da"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'rin-payt kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+      "variantlar": [
+        "-ga",
+        "-da",
+        "-ni",
+        "-ning"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chiqish kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+      "variantlar": [
+        "-dan",
+        "-ga",
+        "-ni",
+        "-da"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fe'lning mayllari nechta?",
+      "variantlar": [
+        "Ikkita",
+        "To'rtta (aniqlik, buyruq-istak, shart, maqsad)",
+        "Oltita",
+        "Bitta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fe'lning aniqlik mayli nimani ifodalaydi?",
+      "variantlar": [
+        "Faraz qilingan harakatni",
+        "Haqiqatda ro'y bergan yoki ro'y beradigan real harakatni",
+        "Buyruqni",
+        "Shartni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fe'lning shart mayli qanday qo'shimcha bilan yasaladi?",
+      "variantlar": [
+        "-sa",
+        "-di",
+        "-moqchi",
+        "-yotir"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fe'l zamonlari nechta asosiy turga bo'linadi?",
+      "variantlar": [
+        "Ikkita",
+        "Uchta: o'tgan, hozirgi, kelasi zamon",
+        "Beshta",
+        "Bitta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'timli fe'l va o'timsiz fe'l o'rtasidagi farq nima?",
+      "variantlar": [
+        "O'timli fe'l tushum kelishigidagi so'zni boshqaradi (masalan kitobni o'qidi), o'timsiz esa boshqarmaydi",
+        "Farqi yo'q",
+        "O'timsiz fe'l faqat buyruq maylida bo'ladi",
+        "O'timli fe'l faqat kelasi zamonda bo'ladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Nisbat (fe'l nisbati) nechta turga bo'linadi?",
+      "variantlar": [
+        "Ikkita",
+        "Beshta: aniq, majhul, o'zlik, birgalik, orttirma",
+        "Uchta",
+        "Bo'linmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Majhul nisbatdagi fe'l nimani bildiradi?",
+      "variantlar": [
+        "Ish bajaruvchi aniq ko'rsatilgan harakatni",
+        "Ish bajaruvchisi noma'lum yoki ta'kidlanmagan harakatni (masalan: kitob o'qildi)",
+        "Ikki kishi birgalikda bajargan harakatni",
+        "O'zi o'ziga qaratilgan harakatni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sifatdosh nima?",
+      "variantlar": [
+        "Fe'l va sifat xususiyatlarini birlashtirgan fe'l shakli (masalan: o'qigan, yozayotgan)",
+        "Faqat sifat so'z turkumi",
+        "Faqat ravish turi",
+        "Faqat ot turkumi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ravishdosh nima?",
+      "variantlar": [
+        "Fe'l va ravish xususiyatlarini birlashtirgan, holni ifodalovchi fe'l shakli (masalan: o'qib, yozgach)",
+        "Faqat ot turkumi",
+        "Faqat sifat turkumi",
+        "Faqat son turkumi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Harakat nomi (masdar) qanday qo'shimcha bilan yasaladi?",
+      "variantlar": [
+        "-moq / -ish",
+        "-gan",
+        "-yotgan",
+        "-sa"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ega bilan kesim o'rtasidagi grammatik moslikka nima deyiladi?",
+      "variantlar": [
+        "Boshqaruv",
+        "Moslashuv (kelishuv)",
+        "Bitishuv",
+        "Qo'shilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "So'z birikmasida bog'lanish turlaridan biri \"boshqaruv\" nimani anglatadi?",
+      "variantlar": [
+        "Bosh so'z ergash so'zni ma'lum kelishik yoki ko'makchi shaklda talab qilishi",
+        "Ikki so'zning shunchaki yonma-yon kelishi",
+        "So'zlarning shakl jihatdan bir xilligi",
+        "Faqat ohang orqali bog'lanish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Bitishuv\" bog'lanish turi qanday amalga oshadi?",
+      "variantlar": [
+        "So'zlar hech qanday qo'shimchasiz, faqat tartib orqali bog'lanadi",
+        "Faqat kelishik qo'shimchasi orqali",
+        "Faqat ko'makchi orqali",
+        "Faqat bog'lovchi orqali"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Uyushiq bo'laklar nima?",
+      "variantlar": [
+        "Gapda bir xil so'roqqa javob bo'lib, bir xil bo'lak vazifasini bajaruvchi so'zlar",
+        "Gapning bosh bo'laklari",
+        "Faqat ega va kesim",
+        "Faqat undov so'zlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kirish so'z (kirish qurilma) gapda qanday vazifa bajaradi?",
+      "variantlar": [
+        "Gap bo'lagi hisoblanadi",
+        "Gap bo'lagi bo'lmay, so'zlovchining munosabatini bildiradi (masalan: albatta, afsuski)",
+        "Faqat ega vazifasini bajaradi",
+        "Faqat kesim vazifasini bajaradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Undalma nima?",
+      "variantlar": [
+        "Gap bo'lagi hisoblangan so'z",
+        "Nutq kimga qaratilganini bildiruvchi, gap bo'lagi bo'lmagan so'z",
+        "Faqat kesim",
+        "Faqat hol"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ajratilgan bo'lak (izohlovchi) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Gapni qisqartirish uchun",
+        "Gap bo'lagini aniqlashtirish, to'ldirish uchun, ko'pincha vergul bilan ajratiladi",
+        "Faqat gap oxirida turadi",
+        "Faqat so'roq gaplarda ishlatiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qo'shma gaplar necha turga bo'linadi?",
+      "variantlar": [
+        "Ikkita: bog'langan qo'shma gap va ergashgan qo'shma gap",
+        "Bitta",
+        "Beshta",
+        "O'nta"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bog'langan qo'shma gap qanday bog'lanadi?",
+      "variantlar": [
+        "Ergashtiruvchi bog'lovchilar orqali",
+        "Teng bog'lovchilar yoki ohang orqali, qismlar teng huquqli",
+        "Faqat ko'makchilar orqali",
+        "Faqat kelishik qo'shimchalari orqali"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ergashgan qo'shma gapda qismlar qanday nomlanadi?",
+      "variantlar": [
+        "Ikkalasi ham teng, nomlanmaydi",
+        "Bosh gap va ergash gap",
+        "Faqat bosh gap",
+        "Faqat ergash gap"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ergash gaplar mazmuniga ko'ra qanday turlarga bo'linadi?",
+      "variantlar": [
+        "Faqat bitta turga",
+        "Ega, kesim, to'ldiruvchi, aniqlovchi, hol ergash gaplarga",
+        "Faqat ikkita turga",
+        "Bo'linmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "To'g'ridan-to'g'ri nutq (o'zganing gapi) qanday beriladi?",
+      "variantlar": [
+        "O'zgartirmasdan, aynan tirnoq ichida",
+        "Faqat qayta hikoya qilib",
+        "Faqat qisqartirib",
+        "Umuman berilmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ko'chirma gap qanday tinish belgilari bilan rasmiylashtiriladi?",
+      "variantlar": [
+        "Faqat vergul bilan",
+        "Tirnoq va ikki nuqta (yoki tire) bilan",
+        "Faqat nuqta bilan",
+        "Hech qanday belgi kerak emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zlashtirma gap nima?",
+      "variantlar": [
+        "Boshqa kishining gapini aynan takrorlash",
+        "Boshqa kishining gapini o'z so'zlari bilan, ergash gap shaklida bayon qilish",
+        "Faqat savol gap",
+        "Faqat buyruq gap"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Uslubiyat (stilistika) nimani o'rganadi?",
+      "variantlar": [
+        "Faqat tovushlarni",
+        "Til vositalaridan turli nutq vaziyatlarida foydalanish qonuniyatlarini",
+        "Faqat gap bo'laklarini",
+        "Faqat imloni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rasmiy-ish uslubi qayerda ishlatiladi?",
+      "variantlar": [
+        "She'riyatda",
+        "Rasmiy hujjatlar, ariza, bayonnoma kabi matnlarda",
+        "Kundalik suhbatda",
+        "Ilmiy maqolalarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ilmiy uslub qanday xususiyatga ega?",
+      "variantlar": [
+        "Hissiy va obrazli",
+        "Aniq, mantiqiy va atamalarga boy",
+        "Faqat so'zlashuv tiliga xos",
+        "Faqat badiiy tasvir vositalaridan iborat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "So'zlashuv uslubi qayerda qo'llaniladi?",
+      "variantlar": [
+        "Rasmiy hujjatlarda",
+        "Kundalik og'zaki muloqotda",
+        "Ilmiy risolalarda",
+        "Qonun matnlarida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Badiiy uslubning o'ziga xosligi nimada?",
+      "variantlar": [
+        "Faqat quruq faktlarni bayon qiladi",
+        "Obrazlilik va badiiy tasvir vositalaridan foydalaniladi",
+        "Faqat rasmiy tildan iborat",
+        "Faqat ilmiy atamalardan iborat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Frazeologizm (turg'un birikma) nima?",
+      "variantlar": [
+        "Erkin so'z birikmasi",
+        "Tarkibi barqaror, ko'chma ma'noli turg'un so'z birikmasi (masalan: ko'zi to'rt bo'ldi)",
+        "Faqat qo'shma so'z",
+        "Faqat sinonim so'zlar guruhi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dialektizm nima?",
+      "variantlar": [
+        "Adabiy tilning me'yoriy so'zi",
+        "Muayyan hududga xos, umumxalq tilidan farq qiluvchi so'z yoki forma",
+        "Faqat chet so'z",
+        "Faqat ilmiy atama"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Arxaizm nima?",
+      "variantlar": [
+        "Yangi paydo bo'lgan so'z",
+        "Iste'moldan chiqib ketgan, eskirgan so'z",
+        "Faqat dialekt so'zi",
+        "Faqat qisqartma so'z"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Neologizm nima?",
+      "variantlar": [
+        "Eskirgan so'z",
+        "Yangi paydo bo'lgan, tilga yangi kirib kelayotgan so'z",
+        "Faqat dialektal so'z",
+        "Faqat frazeologizm"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy til me'yori nima uchun zarur?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Tilning yagona, barcha uchun tushunarli va to'g'ri qo'llanilishini ta'minlash uchun",
+        "Faqat imtihon uchun",
+        "Faqat rasmiy hujjatlar uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Imlo qoidalari nimaga xizmat qiladi?",
+      "variantlar": [
+        "Faqat talaffuzni belgilashga",
+        "So'zlarni to'g'ri va bir xilda yozishni ta'minlashga",
+        "Faqat gap tuzishga",
+        "Faqat matn mazmunini belgilashga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Punktuatsiya (tinish belgilari) nimani tartibga soladi?",
+      "variantlar": [
+        "So'z tarkibini",
+        "Yozma nutqda gap va uning qismlarini ajratish qoidalarini",
+        "Faqat talaffuzni",
+        "Faqat urg'uni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikki nuqta qachon qo'yiladi?",
+      "variantlar": [
+        "Faqat gap boshida",
+        "Sanab o'tishdan oldin yoki ko'chirma gapdan oldin",
+        "Faqat gap oxirida",
+        "Hech qachon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tire (chiziqcha) tinish belgisi qachon ishlatiladi?",
+      "variantlar": [
+        "Faqat so'z boshida",
+        "Ega va kesim orasida (ba'zi holatlarda), dialogda, izohlashda",
+        "Faqat sonlar orasida",
+        "Hech qachon ishlatilmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nutq madaniyati nimani anglatadi?",
+      "variantlar": [
+        "Faqat chiroyli yozish",
+        "Tildan to'g'ri, aniq va odob-axloq me'yorlariga mos foydalanish",
+        "Faqat tez gapirish",
+        "Faqat ko'p so'z bilish"
+      ],
+      "togri": 1
+    }
+  ]
+}

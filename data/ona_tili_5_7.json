@@ -1,0 +1,505 @@
+{
+  "label": "Ona tili sinovi (5-7 sinf)",
+  "savollar": [
+    {
+      "savol": "Til nima?",
+      "variantlar": [
+        "Faqat yozuv belgilari",
+        "Kishilar orasida fikr almashish vositasi bo'lgan belgilar tizimi",
+        "Faqat ovoz chiqarish",
+        "Faqat imo-ishora"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nutq nima?",
+      "variantlar": [
+        "Tilning yozma shakli",
+        "Til vositalaridan foydalanib fikr bildirish jarayoni",
+        "Faqat she'r o'qish",
+        "Faqat imlo qoidalari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fonetika bo'limi nimani o'rganadi?",
+      "variantlar": [
+        "So'zlarning ma'nosini",
+        "Tovushlar va ularning talaffuzini",
+        "Gap bo'laklarini",
+        "Matn tuzilishini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbek tilida nechta unli tovush bor?",
+      "variantlar": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Undosh tovushlar unlilardan nimasi bilan farq qiladi?",
+      "variantlar": [
+        "Talaffuzda faqat ovoz ishtirok etadi",
+        "Talaffuzda ovoz va shovqin yoki faqat shovqin ishtirok etadi",
+        "Farqi yo'q",
+        "Faqat yozuvda ishlatiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bo'g'in nima?",
+      "variantlar": [
+        "Gapning bir qismi",
+        "Bir zarb bilan aytiladigan tovush yoki tovushlar birikmasi",
+        "Faqat unli tovush",
+        "Faqat undosh tovush"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Urg'u nima?",
+      "variantlar": [
+        "So'zdagi bo'g'inlardan birining boshqalariga nisbatan kuchliroq talaffuz qilinishi",
+        "So'zning yozilishi",
+        "Gapning oxiri",
+        "Tinish belgisi turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Leksikologiya nimani o'rganadi?",
+      "variantlar": [
+        "Tovushlarni",
+        "So'z boyligi va so'zlarning ma'nosini",
+        "Gap tuzilishini",
+        "Tinish belgilarini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sinonim (ma'nodosh) so'zlar nima?",
+      "variantlar": [
+        "Ma'nosi qarama-qarshi so'zlar",
+        "Ma'nosi bir-biriga yaqin yoki bir xil so'zlar",
+        "Talaffuzi bir xil, ma'nosi har xil so'zlar",
+        "Faqat qarindosh tillardagi so'zlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Antonim (zid ma'noli) so'zlar nima?",
+      "variantlar": [
+        "Ma'nosi bir xil so'zlar",
+        "Ma'nosi bir-biriga qarama-qarshi so'zlar",
+        "Yozilishi bir xil so'zlar",
+        "Faqat sifat so'z turkumi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Omonim so'zlar nima?",
+      "variantlar": [
+        "Yozilishi yoki talaffuzi bir xil, lekin ma'nosi har xil so'zlar",
+        "Ma'nosi bir xil so'zlar",
+        "Zid ma'noli so'zlar",
+        "Faqat qo'shma so'zlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "So'z turkumlari nechta asosiy guruhga bo'linadi?",
+      "variantlar": [
+        "Ikkita: mustaqil va yordamchi so'z turkumlari",
+        "Bitta guruh",
+        "O'nta guruh",
+        "Bo'linmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ot so'z turkumi nimani bildiradi?",
+      "variantlar": [
+        "Harakatni",
+        "Predmet (narsa, shaxs, tushuncha) nomini",
+        "Belgini",
+        "Miqdorni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sifat so'z turkumi nimani bildiradi?",
+      "variantlar": [
+        "Predmet nomini",
+        "Predmetning belgisini",
+        "Harakatni",
+        "Sonni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Son so'z turkumi nimani bildiradi?",
+      "variantlar": [
+        "Predmetning miqdori yoki tartibini",
+        "Predmetning belgisini",
+        "Harakatni",
+        "Predmet nomini"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Olmosh so'z turkumi vazifasi nima?",
+      "variantlar": [
+        "Ot, sifat, son o'rnida qo'llaniladi",
+        "Faqat harakatni bildiradi",
+        "Faqat gapni bog'laydi",
+        "Faqat undov bildiradi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fe'l so'z turkumi nimani bildiradi?",
+      "variantlar": [
+        "Predmet nomini",
+        "Harakat yoki holatni",
+        "Predmet belgisini",
+        "Miqdorni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ravish so'z turkumi nimani bildiradi?",
+      "variantlar": [
+        "Harakat, holat yoki belgining turli xususiyatini (payt, o'rin, tarz va h.k.)",
+        "Faqat predmet nomini",
+        "Faqat miqdorni",
+        "Faqat shaxsni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yordamchi so'z turkumlariga qaysilar kiradi?",
+      "variantlar": [
+        "Ot, sifat, son",
+        "Ko'makchi, bog'lovchi, yuklama",
+        "Fe'l, ravish",
+        "Olmosh, undov"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Undov so'zlar nimani ifodalaydi?",
+      "variantlar": [
+        "His-hayajon, chaqiriq yoki taqlidni",
+        "Predmet nomini",
+        "Harakatni",
+        "Miqdorni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Gap nima?",
+      "variantlar": [
+        "Bir nechta harflar to'plami",
+        "Tugallangan fikrni ifodalovchi so'z yoki so'zlar birikmasi",
+        "Faqat bitta so'z",
+        "Faqat tinish belgisi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ega gapning qaysi bo'lagi hisoblanadi?",
+      "variantlar": [
+        "Harakatni bildiruvchi bo'lak",
+        "Gapda so'z bo'lgan predmet yoki shaxsni bildiruvchi bosh bo'lak",
+        "Faqat aniqlovchi",
+        "Faqat hol"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kesim gapning qaysi bo'lagi hisoblanadi?",
+      "variantlar": [
+        "Ega haqida xabar beruvchi, harakat yoki holatni bildiruvchi bosh bo'lak",
+        "Faqat predmet nomini bildiruvchi bo'lak",
+        "Faqat son bo'lagi",
+        "Faqat undov bo'lagi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Aniqlovchi gap bo'lagi nimani bildiradi?",
+      "variantlar": [
+        "Harakatning bajarilish vaqtini",
+        "Predmetning belgisi yoki xususiyatini",
+        "Harakatning o'zini",
+        "Gapning egasini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "To'ldiruvchi gap bo'lagi qanday savollarga javob beradi?",
+      "variantlar": [
+        "Kim? Nima? (ega kabi)",
+        "Kimni? Nimani? Kimga? Nimaga? va boshqa kelishik savollariga",
+        "Qachon? Qayerda?",
+        "Qanday? Qay tarzda?"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hol gap bo'lagi nimani bildiradi?",
+      "variantlar": [
+        "Predmet nomini",
+        "Harakatning bajarilish payti, o'rni, sababi, tarzi va h.k.ni",
+        "Predmetning egasi kimligini",
+        "Faqat miqdorni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sodda gap qanday gap hisoblanadi?",
+      "variantlar": [
+        "Bir nechta ega va kesimga ega gap",
+        "Bitta grammatik asosga (ega-kesimga) ega gap",
+        "Faqat savol gap",
+        "Faqat buyruq gap"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qo'shma gap qanday gap hisoblanadi?",
+      "variantlar": [
+        "Bitta grammatik asosga ega gap",
+        "Ikki yoki undan ortiq sodda gapdan tashkil topgan gap",
+        "Faqat undov gap",
+        "Faqat atov gap"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Darak gap nimani bildiradi?",
+      "variantlar": [
+        "Savol beradi",
+        "Voqea-hodisa haqida xabar beradi",
+        "Buyruq beradi",
+        "His-hayajonni ifodalaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "So'roq gap nimani bildiradi?",
+      "variantlar": [
+        "Xabar beradi",
+        "Savol beradi",
+        "Buyuradi",
+        "Chaqiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Buyruq gap nimani ifodalaydi?",
+      "variantlar": [
+        "Xabar",
+        "Savol",
+        "Ish-harakatni bajarishga da'vat, buyruq",
+        "Faqat rozilik"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Undov gap nimani ifodalaydi?",
+      "variantlar": [
+        "Oddiy xabar",
+        "Kuchli his-hayajonni",
+        "Faqat savol",
+        "Faqat buyruq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nuqta qanday gaplar oxiriga qo'yiladi?",
+      "variantlar": [
+        "So'roq gaplar oxiriga",
+        "Darak gaplar oxiriga",
+        "Undov gaplar oxiriga",
+        "Hech qayerga qo'yilmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "So'roq belgisi qachon qo'yiladi?",
+      "variantlar": [
+        "Darak gap oxirida",
+        "So'roq gap oxirida",
+        "Undov gap oxirida",
+        "Har doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Undov belgisi qachon qo'yiladi?",
+      "variantlar": [
+        "Oddiy darak gap oxirida",
+        "Kuchli his-hayajon ifodalangan gap oxirida",
+        "So'roq gap oxirida",
+        "Hech qachon"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vergul gapda asosan qachon ishlatiladi?",
+      "variantlar": [
+        "Gap oxirida",
+        "Uyushiq bo'laklarni, qo'shma gap qismlarini ajratishda",
+        "Faqat so'z boshida",
+        "Faqat sarlavhada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bosh harf bilan nimalar yoziladi?",
+      "variantlar": [
+        "Har bir so'z",
+        "Gap boshi, kishilarning ismi-sharifi, atoqli otlar",
+        "Faqat sonlar",
+        "Faqat fe'llar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Atoqli ot va turdosh ot o'rtasidagi farq nima?",
+      "variantlar": [
+        "Atoqli ot alohida shaxs yoki narsaning o'ziga xos nomi, turdosh ot esa umumiy nom",
+        "Farqi yo'q",
+        "Atoqli ot faqat kichik harf bilan yoziladi",
+        "Turdosh ot faqat bosh harf bilan yoziladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qo'shma so'z nima?",
+      "variantlar": [
+        "Ikki yoki undan ortiq so'zning birikishidan hosil bo'lgan yangi so'z",
+        "Faqat bitta bo'g'inli so'z",
+        "Faqat chet so'z",
+        "Faqat qisqartma so'z"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qo'shimchalar so'zga qo'shilib nimani bildiradi?",
+      "variantlar": [
+        "Hech narsani o'zgartirmaydi",
+        "So'zga yangi ma'no yoki grammatik shakl qo'shadi",
+        "Faqat so'zni qisqartiradi",
+        "Faqat so'zni uzaytiradi, ma'nosiga ta'sir qilmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "So'z yasovchi qo'shimchalar nima uchun xizmat qiladi?",
+      "variantlar": [
+        "Faqat gap bo'lagini ko'rsatish uchun",
+        "Yangi so'z (yasama so'z) hosil qilish uchun",
+        "Faqat tinish belgisi qo'yish uchun",
+        "Faqat so'zni ko'plik shakliga o'tkazish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "So'z o'zgartuvchi qo'shimchalar vazifasi nima?",
+      "variantlar": [
+        "Yangi so'z yasaydi",
+        "So'zning grammatik shaklini (kelishik, son, shaxs va h.k.) o'zgartiradi",
+        "So'zni butunlay boshqa so'zga aylantiradi",
+        "Faqat talaffuzni o'zgartiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'plik qo'shimchasi o'zbek tilida qaysi?",
+      "variantlar": [
+        "-lar",
+        "-ning",
+        "-ga",
+        "-dan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ravish yasashda ko'p ishlatiladigan qo'shimchalardan biri qaysi?",
+      "variantlar": [
+        "-cha",
+        "-lar",
+        "-ning",
+        "-ni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Matn nima?",
+      "variantlar": [
+        "Tartibsiz so'zlar to'plami",
+        "Bir-biriga mazmunan va grammatik jihatdan bog'langan gaplar majmuasi",
+        "Faqat bitta gap",
+        "Faqat sarlavha"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Matnning asosiy qismlari odatda qaysilar?",
+      "variantlar": [
+        "Faqat kirish",
+        "Kirish, asosiy qism va xulosa (yakun)",
+        "Faqat xulosa",
+        "Faqat sarlavha"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Diktant nima?",
+      "variantlar": [
+        "Erkin fikr yozish",
+        "Aytilgan matnni imlo qoidalariga rioya qilib yozish mashqi",
+        "Faqat og'zaki hikoya qilish",
+        "Faqat rasm chizish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bayon nima?",
+      "variantlar": [
+        "O'qilgan yoki tinglangan matn mazmunini o'z so'zlari bilan qayta hikoya qilib yozish",
+        "Faqat she'r yodlash",
+        "Faqat lug'at tuzish",
+        "Faqat imlo mashqi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Insho nima?",
+      "variantlar": [
+        "Berilgan mavzuda o'z fikrini erkin bayon qilib yozish",
+        "Faqat boshqa matnni ko'chirish",
+        "Faqat lug'at ishlatish",
+        "Faqat jadval to'ldirish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Nutq odobi (muomala odobi) nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Kishilar orasida hurmatli va madaniyatli muloqotni ta'minlash uchun",
+        "Faqat imtihon uchun",
+        "Faqat yozma nutqda kerak"
+      ],
+      "togri": 1
+    }
+  ]
+}

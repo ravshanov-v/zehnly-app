@@ -1,0 +1,425 @@
+{
+  "label": "Ona tili sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "Tilshunoslik fani nechta asosiy bo'limga ega?",
+      "variantlar": [
+        "Faqat bitta",
+        "Bir nechta: fonetika, leksikologiya, morfologiya, sintaksis, stilistika va boshqalar",
+        "Faqat ikkita",
+        "Bo'linmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fonema tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Yozma harf",
+        "Ma'no farqlash xususiyatiga ega bo'lgan eng kichik til birligi (tovush)",
+        "Butun so'z",
+        "Gap bo'lagi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Morfema tushunchasi nimani bildiradi?",
+      "variantlar": [
+        "Tilning eng kichik ma'noli birligi (o'zak yoki qo'shimcha)",
+        "Butun bir gap",
+        "Faqat tovush",
+        "Faqat matn"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Leksema tushunchasi tilshunoslikda nimani anglatadi?",
+      "variantlar": [
+        "Faqat qo'shimcha",
+        "Lug'aviy ma'noga ega bo'lgan so'zning mavhum birligi",
+        "Faqat gap bo'lagi",
+        "Faqat tovush birikmasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Grammatika fani nimalarni o'z ichiga oladi?",
+      "variantlar": [
+        "Faqat fonetikani",
+        "Morfologiya va sintaksisni",
+        "Faqat leksikologiyani",
+        "Faqat stilistikani"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "So'z yasalishining asosiy usullaridan biri qaysi?",
+      "variantlar": [
+        "Faqat tovush almashtirish",
+        "Affiksatsiya (qo'shimchalar orqali), qo'shish, qisqartirish kabi usullar",
+        "Faqat urg'u ko'chirish",
+        "Faqat gapni qisqartirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Konversiya (so'z turkumini o'zgartirish) yo'li bilan so'z yasalishiga misol qaysi?",
+      "variantlar": [
+        "\"Yoz\" fe'lidan \"yoz\" (fasl) otining farqlanishi kabi holatlar",
+        "Faqat qo'shimcha qo'shish",
+        "Faqat so'zni qisqartirish",
+        "Faqat ikki so'zni qo'shish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sintaktik sinonimiya tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Bir xil ma'noni turli sintaktik qurilmalar bilan ifodalash imkoniyati",
+        "Faqat leksik sinonimlar",
+        "Faqat tovush o'zgarishi",
+        "Faqat imlo qoidasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Gapning aktual bo'linishi (mavzu va rema) nimani anglatadi?",
+      "variantlar": [
+        "Gapning grammatik bo'laklarga bo'linishi",
+        "Gapning ma'lum (mavzu) va yangi (rema) axborotga bo'linishi, matn tahlilida muhim",
+        "Faqat tovushlarga ajratish",
+        "Faqat bo'g'inlarga ajratish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Matn lingvistikasi nimani o'rganadi?",
+      "variantlar": [
+        "Faqat bitta gapni",
+        "Matnning tuzilishi, bog'lanish vositalari va yaxlitligini",
+        "Faqat tovushlarni",
+        "Faqat so'z yasalishini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kogeziya (bog'lanish) matnda nimani ta'minlaydi?",
+      "variantlar": [
+        "Matn qismlarining grammatik va leksik jihatdan bog'lanishini",
+        "Faqat sarlavhani",
+        "Faqat imloni",
+        "Faqat urg'uni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kogerentlik (yaxlitlik) matnda nimani anglatadi?",
+      "variantlar": [
+        "Matnning mazmuniy yaxlitligi va mantiqiy izchilligi",
+        "Faqat tashqi ko'rinishi",
+        "Faqat uzunligi",
+        "Faqat muallif ismi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Pragmatika tilshunoslik sohasi nimani o'rganadi?",
+      "variantlar": [
+        "Faqat tovushlarni",
+        "Tilning nutq vaziyatida qo'llanilishi va kontekstga bog'liqligini",
+        "Faqat morfologik shakllarni",
+        "Faqat imlo qoidalarini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Semantika nimani o'rganadi?",
+      "variantlar": [
+        "Til birliklarining ma'nosini",
+        "Faqat tovush tuzilishini",
+        "Faqat gap qurilishini",
+        "Faqat yozuv tarixini"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Terminologiya (atamashunoslik) nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat badiiy so'zlar bilan",
+        "Muayyan soha atamalarini tartibga solish va o'rganish bilan",
+        "Faqat xalq maqollari bilan",
+        "Faqat dialektlar bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Grammatik kategoriya tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat bitta so'z",
+        "Umumiy grammatik ma'noni ifodalovchi shakllar tizimi (masalan son, kelishik kategoriyasi)",
+        "Faqat tovush turi",
+        "Faqat gap turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ergativlik (ega-kesim munosabati) tipologik jihatdan tillarni qanday tasniflashda ishlatiladi?",
+      "variantlar": [
+        "Tillarning grammatik qurilish tipini aniqlashda",
+        "Faqat tovush tizimini aniqlashda",
+        "Faqat lug'at boyligini aniqlashda",
+        "Faqat yozuv turini aniqlashda"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Agglyutinativ til tipiga o'zbek tili kiradimi?",
+      "variantlar": [
+        "Yo'q, flektiv tilga kiradi",
+        "Ha, o'zbek tili agglyutinativ (qo'shimchali) tillar guruhiga kiradi",
+        "Izolyatsiyalashgan tilga kiradi",
+        "Bunday tasnif mavjud emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nutq faoliyati turlariga qaysilar kiradi?",
+      "variantlar": [
+        "Faqat gapirish",
+        "Tinglash, gapirish, o'qish, yozish",
+        "Faqat o'qish",
+        "Faqat yozish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ritorika (notiqlik san'ati) nimani o'rgatadi?",
+      "variantlar": [
+        "Faqat yozish qoidalarini",
+        "Ta'sirchan va mantiqli nutq so'zlash mahoratini",
+        "Faqat imlo qoidalarini",
+        "Faqat tinish belgilarini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Argumentatsiya (dalillash) nutqda qanday rol o'ynaydi?",
+      "variantlar": [
+        "Hech qanday rol o'ynamaydi",
+        "Fikrni dalillar bilan asoslab, ishonarli qilib bayon etishga xizmat qiladi",
+        "Faqat matnni uzaytiradi",
+        "Faqat chalkashtiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Til sohasidagi \"norma\" (me'yor) tushunchasi nimani bildiradi?",
+      "variantlar": [
+        "Har kim xohlagancha yozishi mumkinligini",
+        "Adabiy tilda qabul qilingan, umumiy tan olingan qo'llanish qoidalarini",
+        "Faqat dialektal shaklni",
+        "Faqat eskirgan shaklni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kodifikatsiya (til me'yorlarini qonunlashtirish) nima uchun amalga oshiriladi?",
+      "variantlar": [
+        "Til me'yorlarini lug'at va grammatikalarda rasmiy tarzda belgilash uchun",
+        "Faqat dialektlarni yo'qotish uchun",
+        "Faqat yangi harflar yaratish uchun",
+        "Ahamiyati yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ikki tillilik (bilingvizm) nimani anglatadi?",
+      "variantlar": [
+        "Faqat bitta tilni bilish",
+        "Bir shaxs yoki jamiyatning ikki tilda erkin muloqot qila olishini",
+        "Faqat yozma tilni bilish",
+        "Faqat dialektni bilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tarjima nazariyasi (translatologiya) nimani o'rganadi?",
+      "variantlar": [
+        "Faqat bitta tilni",
+        "Bir tildan boshqa tilga matnni ma'no va uslubini saqlab o'girish qonuniyatlarini",
+        "Faqat imlo qoidalarini",
+        "Faqat tovush o'zgarishini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Korpus lingvistika nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat qo'lyozmalarni saqlash bilan",
+        "Katta hajmdagi matnlar to'plami (korpus) asosida tilni statistik-tahliliy o'rganish bilan",
+        "Faqat she'r yozish bilan",
+        "Faqat lug'at sotish bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sotsiolingvistika nimani o'rganadi?",
+      "variantlar": [
+        "Faqat tovushlarni",
+        "Til va jamiyat o'rtasidagi munosabatni",
+        "Faqat morfologiyani",
+        "Faqat imlo tarixini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Psixolingvistika qaysi masalalar bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat imlo qoidalari bilan",
+        "Nutqni idrok etish va yaratish jarayonlarining psixologik asoslari bilan",
+        "Faqat dialektologiya bilan",
+        "Faqat tarix bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kompyuter lingvistikasi (hisoblash tilshunosligi) nima bilan bog'liq?",
+      "variantlar": [
+        "Faqat qo'lda yozish bilan",
+        "Tabiiy tilni kompyuter dasturlari yordamida qayta ishlash bilan",
+        "Faqat xattotlik bilan",
+        "Faqat adabiy tanqid bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Til tarixi (diaxroniya) va hozirgi holati (sinxroniya) o'rtasidagi farq nima?",
+      "variantlar": [
+        "Farqi yo'q",
+        "Diaxroniya tilning tarixiy taraqqiyotini, sinxroniya esa muayyan davrdagi holatini o'rganadi",
+        "Ikkalasi ham faqat tovushlarni o'rganadi",
+        "Diaxroniya faqat yozuvni o'rganadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbek tilining davlat tili sifatidagi maqomi qachon qonun bilan mustahkamlangan?",
+      "variantlar": [
+        "1989-yilda \"Davlat tili haqida\"gi qonun bilan",
+        "1991-yilda",
+        "2000-yilda",
+        "Hech qachon rasmiylashtirilmagan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Lotin yozuviga asoslangan o'zbek alifbosiga o'tish jarayoni qaysi davrda boshlangan?",
+      "variantlar": [
+        "1993-yildan boshlab qabul qilingan qonun asosida",
+        "1917-yilda",
+        "2010-yilda birinchi marta",
+        "Hech qachon boshlanmagan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Adabiy tilning og'zaki va yozma shakllari o'rtasidagi asosiy farq nima?",
+      "variantlar": [
+        "Farqi yo'q",
+        "Og'zaki shakl bevosita, erkinroq; yozma shakl esa qat'iyroq me'yorlarga bo'ysunadi",
+        "Yozma shakl faqat she'rda bo'ladi",
+        "Og'zaki shakl faqat rasmiy hujjatlarda bo'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Publitsistik uslub qanday xususiyatga ega?",
+      "variantlar": [
+        "Faqat quruq statistik ma'lumot beradi",
+        "Ijtimoiy-siyosiy mavzularni ta'sirchan va ommabop tarzda yoritadi",
+        "Faqat badiiy tasvirdan iborat",
+        "Faqat rasmiy hujjat tilida yoziladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nutqning ta'sirchanligini oshiruvchi vositalardan biri qaysi?",
+      "variantlar": [
+        "Faqat uzun jumlalar ishlatish",
+        "Ritorik so'roq, takror va boshqa stilistik vositalardan foydalanish",
+        "Faqat lug'aviy takrorlardan qochish",
+        "Faqat imlo xatolarini ko'paytirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Idiomatik iboralar (frazeologik birliklar) tarjimada nima uchun qiyinchilik tug'diradi?",
+      "variantlar": [
+        "Ahamiyati yo'q, oson tarjima qilinadi",
+        "Ularning ma'nosi so'zma-so'z tarjimadan farq qilib, madaniy kontekstga bog'liq bo'ladi",
+        "Faqat qisqaligi sababli",
+        "Faqat imlosi murakkab bo'lgani uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tilning kommunikativ funktsiyasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat estetik vazifani",
+        "Kishilar orasida axborot almashish vazifasini",
+        "Faqat tarixiy vazifani",
+        "Faqat huquqiy vazifani"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tilning kognitiv (fikrlash) funktsiyasi nimani bildiradi?",
+      "variantlar": [
+        "Til faqat muloqot vositasi ekanini",
+        "Til fikrlash va bilishning ham vositasi ekanini",
+        "Faqat yozuv vazifasini",
+        "Faqat estetik vazifani"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nutqiy vaziyat (kommunikativ vaziyat) tahlilida nimalar hisobga olinadi?",
+      "variantlar": [
+        "Faqat so'zlovchining kayfiyati",
+        "So'zlovchi, tinglovchi, muloqot maqsadi va konteksti",
+        "Faqat imlo qoidalari",
+        "Faqat gap uzunligi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy o'zbek tilida chet so'zlarning o'zlashishi qanday jarayon?",
+      "variantlar": [
+        "Til taraqqiyotida tabiiy va tarixan kuzatiladigan jarayon",
+        "Umuman sodir bo'lmaydigan jarayon",
+        "Faqat rasmiy tilda sodir bo'ladi",
+        "Faqat dialektlarda sodir bo'ladi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Davlat tilida ish yuritishning ahamiyati nimada?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Millat va davlat mustaqilligining muhim ko'rsatkichlaridan biri sifatida",
+        "Faqat tashqi ko'rinish uchun",
+        "Faqat xorijliklar uchun qulaylik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ona tilini mukammal bilish nima uchun har bir shaxs uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "To'g'ri fikrlash, samarali muloqot qilish va milliy o'zlikni anglash uchun",
+        "Faqat imtihon topshirish uchun",
+        "Faqat kasbiy talab sifatida"
+      ],
+      "togri": 1
+    }
+  ]
+}
