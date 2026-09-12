@@ -1,0 +1,515 @@
+{
+  "label": "Ingliz tili CEFR sinovi (C1-C2)",
+  "savollar": [
+    {
+      "savol": "Choose the correct sentence: 'Were it not for your help, I ___ have finished the project.'",
+      "variantlar": [
+        "wouldn't",
+        "won't",
+        "don't",
+        "hadn't"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct word: 'The committee's decision was met with ___ criticism.'",
+      "variantlar": [
+        "wide",
+        "widespread",
+        "widen",
+        "widely"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence with a mixed conditional: 'If she had studied medicine, she ___ a doctor now.'",
+      "variantlar": [
+        "would be",
+        "would have been",
+        "will be",
+        "had been"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'ubiquitous.'",
+      "variantlar": [
+        "Rare and unusual",
+        "Present everywhere",
+        "Extremely old",
+        "Difficult to understand"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'ephemeral.'",
+      "variantlar": [
+        "Lasting forever",
+        "Lasting for a very short time",
+        "Extremely important",
+        "Very expensive"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'to exacerbate a problem.'",
+      "variantlar": [
+        "To solve a problem",
+        "To make a problem worse",
+        "To ignore a problem",
+        "To explain a problem"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'a plethora of options.'",
+      "variantlar": [
+        "A lack of options",
+        "An overabundance of options",
+        "A single option",
+        "A confusing option"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence structure (cleft sentence): '___ that concerns me most.'",
+      "variantlar": [
+        "It is his attitude",
+        "His attitude is",
+        "That his attitude",
+        "Attitude his is"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct word: 'The lecture was so ___ that half the audience fell asleep.'",
+      "variantlar": [
+        "engaging",
+        "tedious",
+        "captivating",
+        "riveting"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of the idiom 'to read between the lines.'",
+      "variantlar": [
+        "To read very quickly",
+        "To understand a hidden or implied meaning",
+        "To skip parts of a text",
+        "To read literally"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'a double-edged sword.'",
+      "variantlar": [
+        "Something with both positive and negative consequences",
+        "A very dangerous weapon",
+        "Something completely useless",
+        "A perfect solution"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct usage of the subjunctive mood: 'The manager insisted that the report ___ submitted by Friday.'",
+      "variantlar": [
+        "is",
+        "was",
+        "be",
+        "will be"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct word: 'His argument, though ___, failed to convince the panel.'",
+      "variantlar": [
+        "cogent",
+        "cogency",
+        "cogently",
+        "cogence"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to acquiesce.'",
+      "variantlar": [
+        "To strongly object",
+        "To reluctantly agree without protest",
+        "To celebrate",
+        "To completely ignore"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'a fait accompli.'",
+      "variantlar": [
+        "A plan for the future",
+        "Something already done that cannot be changed",
+        "A complete failure",
+        "A pleasant surprise"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence with an inverted conditional: '___ any problems, please contact us immediately.'",
+      "variantlar": [
+        "Should you encounter",
+        "If you should encountered",
+        "You should encounter",
+        "Encountering you should"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to vindicate someone.'",
+      "variantlar": [
+        "To prove someone guilty",
+        "To clear someone of blame or suspicion",
+        "To punish someone",
+        "To ignore someone's claims"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'tantamount to.'",
+      "variantlar": [
+        "Completely different from",
+        "Equivalent in effect to",
+        "Opposite of",
+        "Unrelated to"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'The politician's speech was full of ___ promises that were never kept.'",
+      "variantlar": [
+        "hollow",
+        "hollowed",
+        "hollowly",
+        "hollowness"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to be at loggerheads with someone.'",
+      "variantlar": [
+        "To be in complete agreement with someone",
+        "To be in strong disagreement with someone",
+        "To be friends with someone",
+        "To ignore someone"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct usage: 'Not until the results were announced ___ how much was at stake.'",
+      "variantlar": [
+        "we realized",
+        "did we realize",
+        "we did realize",
+        "had we realized"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'a Pyrrhic victory.'",
+      "variantlar": [
+        "A victory won at such great cost it feels like a defeat",
+        "An easy and effortless victory",
+        "A victory achieved through cheating",
+        "A victory celebrated for a long time"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct word: 'The evidence presented was largely ___, lacking any solid proof.'",
+      "variantlar": [
+        "circumstantial",
+        "conclusive",
+        "irrefutable",
+        "definitive"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to be on the fence about something.'",
+      "variantlar": [
+        "To be very certain about something",
+        "To be undecided about something",
+        "To strongly oppose something",
+        "To fully support something"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence with an emphatic structure: 'It was only ___ that I understood the truth.'",
+      "variantlar": [
+        "later",
+        "then that",
+        "later that",
+        "that later"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct meaning of 'to be inundated with requests.'",
+      "variantlar": [
+        "To receive very few requests",
+        "To be overwhelmed with a large number of requests",
+        "To reject all requests",
+        "To forget about requests"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'a moot point.'",
+      "variantlar": [
+        "A point that is highly relevant and urgent",
+        "A subject open to debate or with no practical significance",
+        "A well-established fact",
+        "A point that everyone agrees on"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'Her ___ remarks left the audience both amused and thoughtful.'",
+      "variantlar": [
+        "sardonic",
+        "sardonically",
+        "sardonicism",
+        "sardonicness"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to play devil's advocate.'",
+      "variantlar": [
+        "To genuinely support an evil cause",
+        "To argue the opposite side of a debate for the sake of discussion",
+        "To betray a friend",
+        "To avoid any argument"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence: 'Rarely ___ such dedication in a young employee.'",
+      "variantlar": [
+        "have I seen",
+        "I have seen",
+        "I saw",
+        "did I saw"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to be in the same boat.'",
+      "variantlar": [
+        "To be in a completely different situation",
+        "To be in the same difficult situation as someone else",
+        "To travel together literally",
+        "To compete against someone"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'The professor's lecture was notably ___, weaving together ideas from multiple disciplines.'",
+      "variantlar": [
+        "interdisciplinary",
+        "disciplinary",
+        "undisciplined",
+        "discipline"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to throw caution to the wind.'",
+      "variantlar": [
+        "To act very carefully",
+        "To take a reckless risk without worrying about consequences",
+        "To avoid all risks",
+        "To seek advice before acting"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'an ostensible reason.'",
+      "variantlar": [
+        "The true, underlying reason",
+        "A reason that appears to be true but may not be",
+        "An illegal reason",
+        "A reason that is never stated"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'to be inextricably linked.'",
+      "variantlar": [
+        "To be completely unrelated",
+        "To be connected in a way that is impossible to separate",
+        "To be temporarily connected",
+        "To be loosely associated"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'a Sisyphean task.'",
+      "variantlar": [
+        "A quick and easy task",
+        "An endless and seemingly pointless task",
+        "A highly rewarding task",
+        "A task done by a team"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence: 'So intense ___ the debate that the moderator had to intervene.'",
+      "variantlar": [
+        "was",
+        "the debate was",
+        "it was",
+        "did become"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of 'to be at the mercy of something.'",
+      "variantlar": [
+        "To have full control over something",
+        "To be completely dependent on and vulnerable to something",
+        "To ignore something's influence",
+        "To be in charge of a decision"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'to gloss over an issue.'",
+      "variantlar": [
+        "To examine an issue in great detail",
+        "To deal with an issue briefly, avoiding important details",
+        "To completely solve an issue",
+        "To publicly announce an issue"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'Despite overwhelming evidence, he remained ___ in his denial.'",
+      "variantlar": [
+        "obdurate",
+        "flexible",
+        "compliant",
+        "amenable"
+      ],
+      "togri": 0
+    },
+    {
+      "matn": "The phenomenon of cognitive dissonance, first articulated by psychologist Leon Festinger, describes the mental discomfort experienced when a person holds two contradictory beliefs simultaneously. To alleviate this discomfort, individuals often rationalize their behavior or selectively ignore information that conflicts with their existing beliefs, a tendency that has profound implications for decision-making and persuasion.",
+      "savol": "What does cognitive dissonance refer to, according to the passage?",
+      "variantlar": [
+        "A physical illness",
+        "Mental discomfort from holding contradictory beliefs",
+        "A memory disorder",
+        "A type of persuasive technique"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "The phenomenon of cognitive dissonance, first articulated by psychologist Leon Festinger, describes the mental discomfort experienced when a person holds two contradictory beliefs simultaneously. To alleviate this discomfort, individuals often rationalize their behavior or selectively ignore information that conflicts with their existing beliefs, a tendency that has profound implications for decision-making and persuasion.",
+      "savol": "How do people typically cope with cognitive dissonance, based on the passage?",
+      "variantlar": [
+        "By seeking professional therapy",
+        "By rationalizing behavior or ignoring conflicting information",
+        "By avoiding all decisions",
+        "By publicly admitting their errors"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "The phenomenon of cognitive dissonance, first articulated by psychologist Leon Festinger, describes the mental discomfort experienced when a person holds two contradictory beliefs simultaneously. To alleviate this discomfort, individuals often rationalize their behavior or selectively ignore information that conflicts with their existing beliefs, a tendency that has profound implications for decision-making and persuasion.",
+      "savol": "Which word is closest in meaning to 'alleviate' in the passage?",
+      "variantlar": [
+        "Worsen",
+        "Reduce",
+        "Ignore",
+        "Create"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "The phenomenon of cognitive dissonance, first articulated by psychologist Leon Festinger, describes the mental discomfort experienced when a person holds two contradictory beliefs simultaneously. To alleviate this discomfort, individuals often rationalize their behavior or selectively ignore information that conflicts with their existing beliefs, a tendency that has profound implications for decision-making and persuasion.",
+      "savol": "What field of study does the passage primarily relate to?",
+      "variantlar": [
+        "Economics",
+        "Psychology",
+        "Biology",
+        "Astronomy"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "The phenomenon of cognitive dissonance, first articulated by psychologist Leon Festinger, describes the mental discomfort experienced when a person holds two contradictory beliefs simultaneously. To alleviate this discomfort, individuals often rationalize their behavior or selectively ignore information that conflicts with their existing beliefs, a tendency that has profound implications for decision-making and persuasion.",
+      "savol": "According to the passage, cognitive dissonance has implications for which two areas?",
+      "variantlar": [
+        "Sleep and diet",
+        "Decision-making and persuasion",
+        "Exercise and fitness",
+        "Music and art"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Globalization has engendered a paradoxical effect on cultural identity: while it facilitates unprecedented cross-cultural exchange, it simultaneously threatens the erosion of indigenous traditions as homogenized, often Western-centric, cultural products proliferate. Scholars remain divided on whether this represents a net loss to cultural diversity or an inevitable, and perhaps enriching, evolution of human societies.",
+      "savol": "What paradox does the passage describe regarding globalization?",
+      "variantlar": [
+        "It increases poverty while reducing crime",
+        "It facilitates cultural exchange while threatening indigenous traditions",
+        "It improves technology while harming the environment",
+        "It raises prices while lowering wages"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Globalization has engendered a paradoxical effect on cultural identity: while it facilitates unprecedented cross-cultural exchange, it simultaneously threatens the erosion of indigenous traditions as homogenized, often Western-centric, cultural products proliferate. Scholars remain divided on whether this represents a net loss to cultural diversity or an inevitable, and perhaps enriching, evolution of human societies.",
+      "savol": "Which word is closest in meaning to 'engendered' in the passage?",
+      "variantlar": [
+        "Prevented",
+        "Caused",
+        "Ignored",
+        "Destroyed"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Globalization has engendered a paradoxical effect on cultural identity: while it facilitates unprecedented cross-cultural exchange, it simultaneously threatens the erosion of indigenous traditions as homogenized, often Western-centric, cultural products proliferate. Scholars remain divided on whether this represents a net loss to cultural diversity or an inevitable, and perhaps enriching, evolution of human societies.",
+      "savol": "What is the scholarly debate mentioned in the passage about?",
+      "variantlar": [
+        "Whether globalization is a net loss or an enriching evolution for culture",
+        "Whether globalization increases GDP",
+        "Whether globalization affects the climate",
+        "Whether globalization reduces population"
+      ],
+      "togri": 0
+    },
+    {
+      "matn": "Globalization has engendered a paradoxical effect on cultural identity: while it facilitates unprecedented cross-cultural exchange, it simultaneously threatens the erosion of indigenous traditions as homogenized, often Western-centric, cultural products proliferate. Scholars remain divided on whether this represents a net loss to cultural diversity or an inevitable, and perhaps enriching, evolution of human societies.",
+      "savol": "Which word is closest in meaning to 'proliferate' in the passage?",
+      "variantlar": [
+        "Disappear",
+        "Spread rapidly",
+        "Remain constant",
+        "Decline slowly"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Globalization has engendered a paradoxical effect on cultural identity: while it facilitates unprecedented cross-cultural exchange, it simultaneously threatens the erosion of indigenous traditions as homogenized, often Western-centric, cultural products proliferate. Scholars remain divided on whether this represents a net loss to cultural diversity or an inevitable, and perhaps enriching, evolution of human societies.",
+      "savol": "What is the overall tone of the passage?",
+      "variantlar": [
+        "Purely celebratory",
+        "Analytical and balanced",
+        "Dismissive",
+        "Humorous"
+      ],
+      "togri": 1
+    }
+  ]
+}

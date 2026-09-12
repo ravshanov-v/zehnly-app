@@ -1,0 +1,515 @@
+{
+  "label": "Ingliz tili CEFR sinovi (B1-B2)",
+  "savollar": [
+    {
+      "savol": "Choose the correct form: 'By the time we arrived, the movie ___ already started.'",
+      "variantlar": [
+        "has",
+        "had",
+        "have",
+        "was"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct form: 'I ___ to Paris three times.'",
+      "variantlar": [
+        "went",
+        "have been",
+        "am going",
+        "go"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence in the passive voice: 'The book was written by...'",
+      "variantlar": [
+        "the author wrote it",
+        "an author",
+        "wrote the author",
+        "the author is writing"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct conditional: 'If I ___ more time, I would learn French.'",
+      "variantlar": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct reported speech: He said, 'I am tired.' → He said that ___",
+      "variantlar": [
+        "he is tired",
+        "he was tired",
+        "he tired",
+        "he has tired"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct relative pronoun: 'The man ___ called you is my uncle.'",
+      "variantlar": [
+        "which",
+        "who",
+        "whom",
+        "whose"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct relative pronoun: 'This is the house ___ I grew up.'",
+      "variantlar": [
+        "which",
+        "who",
+        "where",
+        "whom"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct modal for past deduction: 'She ___ have forgotten about the meeting.'",
+      "variantlar": [
+        "must",
+        "should",
+        "can",
+        "will"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct phrase: 'I'm used ___ early every day.'",
+      "variantlar": [
+        "to wake up",
+        "to waking up",
+        "wake up",
+        "waking up"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence: 'I wish I ___ more languages.'",
+      "variantlar": [
+        "speak",
+        "spoke",
+        "will speak",
+        "am speaking"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct gerund/infinitive form: 'She enjoys ___ novels.'",
+      "variantlar": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct gerund/infinitive form: 'He decided ___ a new career.'",
+      "variantlar": [
+        "start",
+        "starting",
+        "to start",
+        "started"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct phrasal verb: 'She had to ___ the trip because of the storm.'",
+      "variantlar": [
+        "call off",
+        "call up",
+        "call on",
+        "call in"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the meaning of 'to put up with something.'",
+      "variantlar": [
+        "To tolerate something",
+        "To build something",
+        "To postpone something",
+        "To reject something"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the meaning of 'to run out of something.'",
+      "variantlar": [
+        "To have plenty of something",
+        "To have no more of something",
+        "To run quickly",
+        "To sell something"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'The company's profits have ___ significantly this year.'",
+      "variantlar": [
+        "increase",
+        "increased",
+        "increasing",
+        "to increase"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct linking word: '___ the rain, they went out for a walk.'",
+      "variantlar": [
+        "Despite",
+        "Although",
+        "Because",
+        "So"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct linking word: 'She was tired; ___, she kept working.'",
+      "variantlar": [
+        "however",
+        "moreover",
+        "because",
+        "so"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct third conditional: 'If I had known, I ___ helped you.'",
+      "variantlar": [
+        "would",
+        "would have",
+        "will",
+        "had"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct passive form: 'A new bridge ___ next year.'",
+      "variantlar": [
+        "will build",
+        "will be built",
+        "is building",
+        "has built"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word order for an indirect question: 'Could you tell me ___?'",
+      "variantlar": [
+        "where is the station",
+        "where the station is",
+        "is where the station",
+        "the station where is"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'to bring up a topic.'",
+      "variantlar": [
+        "To ignore a topic",
+        "To raise or mention a topic",
+        "To finish a topic",
+        "To forbid a topic"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'He is ___ responsible for the accident than his colleague.'",
+      "variantlar": [
+        "more",
+        "much",
+        "very",
+        "most"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct sentence with 'not only... but also':",
+      "variantlar": [
+        "She not only sings but also she dances.",
+        "She not only sings but also dances.",
+        "Not only she sings but also dances.",
+        "She sings not only but also dances."
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct causative form: 'I need to ___ my car repaired.'",
+      "variantlar": [
+        "have",
+        "make",
+        "do",
+        "get to"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct meaning of the idiom 'to hit the books.'",
+      "variantlar": [
+        "To throw books",
+        "To study hard",
+        "To buy books",
+        "To organize a bookshelf"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of the idiom 'once in a blue moon.'",
+      "variantlar": [
+        "Very often",
+        "Never",
+        "Very rarely",
+        "Every month"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct future perfect form: 'By 2030, scientists ___ a cure for many diseases.'",
+      "variantlar": [
+        "will find",
+        "will have found",
+        "have found",
+        "find"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'The evidence was not ___ enough to convict him.'",
+      "variantlar": [
+        "convince",
+        "convincing",
+        "convinced",
+        "convincingly"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct sentence with an inversion: 'Never ___ such a beautiful sunset.'",
+      "variantlar": [
+        "I have seen",
+        "have I seen",
+        "I saw",
+        "did I saw"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'Her argument was quite ___; I couldn't find any flaws.'",
+      "variantlar": [
+        "convincing",
+        "convince",
+        "convinced",
+        "convincingly"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct preposition: 'She is good ___ solving problems.'",
+      "variantlar": [
+        "in",
+        "at",
+        "on",
+        "for"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct preposition: 'He apologized ___ being late.'",
+      "variantlar": [
+        "for",
+        "of",
+        "about",
+        "to"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Choose the correct phrase: 'It's high time we ___ a decision.'",
+      "variantlar": [
+        "make",
+        "made",
+        "will make",
+        "making"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'Despite ___ hard, he failed the exam.'",
+      "variantlar": [
+        "study",
+        "studying",
+        "studied",
+        "to study"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of 'to weigh up the pros and cons.'",
+      "variantlar": [
+        "To ignore advantages",
+        "To carefully consider advantages and disadvantages",
+        "To weigh something physically",
+        "To reject a decision"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word for a formal writing style: 'I am writing to ___ my concerns about the recent changes.'",
+      "variantlar": [
+        "tell",
+        "say",
+        "express",
+        "talk"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Choose the correct sentence: 'Hardly ___ home when the phone rang.'",
+      "variantlar": [
+        "I had got",
+        "had I got",
+        "I got",
+        "did I get"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct word: 'The negotiations were ___ due to disagreements.'",
+      "variantlar": [
+        "broke down",
+        "broken down",
+        "breaking down",
+        "break down"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Choose the correct meaning of the phrase 'to see eye to eye with someone.'",
+      "variantlar": [
+        "To agree with someone",
+        "To argue with someone",
+        "To avoid someone",
+        "To meet someone in person"
+      ],
+      "togri": 0
+    },
+    {
+      "matn": "Remote work has become increasingly common over the past decade, with more companies offering flexible arrangements. While some employees enjoy the freedom of working from home, others find it isolating and prefer the social interaction of an office environment. Studies suggest that productivity levels vary greatly depending on the individual's personality and home setup.",
+      "savol": "According to the passage, what is a downside of remote work for some people?",
+      "variantlar": [
+        "It increases productivity",
+        "It causes isolation",
+        "It requires more equipment",
+        "It is more expensive"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Remote work has become increasingly common over the past decade, with more companies offering flexible arrangements. While some employees enjoy the freedom of working from home, others find it isolating and prefer the social interaction of an office environment. Studies suggest that productivity levels vary greatly depending on the individual's personality and home setup.",
+      "savol": "What does the passage say about productivity in remote work?",
+      "variantlar": [
+        "It is always higher at home",
+        "It is always lower at home",
+        "It depends on the person and their environment",
+        "It cannot be measured"
+      ],
+      "togri": 2
+    },
+    {
+      "matn": "Remote work has become increasingly common over the past decade, with more companies offering flexible arrangements. While some employees enjoy the freedom of working from home, others find it isolating and prefer the social interaction of an office environment. Studies suggest that productivity levels vary greatly depending on the individual's personality and home setup.",
+      "savol": "Which word in the passage is closest in meaning to 'flexible'?",
+      "variantlar": [
+        "Increasingly",
+        "Common",
+        "Adaptable",
+        "Isolating"
+      ],
+      "togri": 2
+    },
+    {
+      "matn": "Remote work has become increasingly common over the past decade, with more companies offering flexible arrangements. While some employees enjoy the freedom of working from home, others find it isolating and prefer the social interaction of an office environment. Studies suggest that productivity levels vary greatly depending on the individual's personality and home setup.",
+      "savol": "What is the main topic of the passage?",
+      "variantlar": [
+        "The history of offices",
+        "The advantages and disadvantages of remote work",
+        "How to increase salary",
+        "The cost of home equipment"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Remote work has become increasingly common over the past decade, with more companies offering flexible arrangements. While some employees enjoy the freedom of working from home, others find it isolating and prefer the social interaction of an office environment. Studies suggest that productivity levels vary greatly depending on the individual's personality and home setup.",
+      "savol": "According to the passage, why do some employees prefer the office?",
+      "variantlar": [
+        "For social interaction",
+        "For higher pay",
+        "For shorter hours",
+        "For free lunch"
+      ],
+      "togri": 0
+    },
+    {
+      "matn": "Plastic pollution in the oceans has reached alarming levels, threatening marine life and ecosystems. Every year, millions of tons of plastic waste enter the sea, much of it breaking down into microplastics that are ingested by fish and other creatures. Environmental organizations are calling for stricter regulations on single-use plastics to address this growing crisis.",
+      "savol": "What is the main problem described in the passage?",
+      "variantlar": [
+        "Overfishing",
+        "Plastic pollution in the oceans",
+        "Climate change",
+        "Water shortage"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Plastic pollution in the oceans has reached alarming levels, threatening marine life and ecosystems. Every year, millions of tons of plastic waste enter the sea, much of it breaking down into microplastics that are ingested by fish and other creatures. Environmental organizations are calling for stricter regulations on single-use plastics to address this growing crisis.",
+      "savol": "What happens to much of the plastic waste according to the passage?",
+      "variantlar": [
+        "It disappears completely",
+        "It breaks down into microplastics",
+        "It turns into oxygen",
+        "It is recycled immediately"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Plastic pollution in the oceans has reached alarming levels, threatening marine life and ecosystems. Every year, millions of tons of plastic waste enter the sea, much of it breaking down into microplastics that are ingested by fish and other creatures. Environmental organizations are calling for stricter regulations on single-use plastics to address this growing crisis.",
+      "savol": "What are environmental organizations calling for?",
+      "variantlar": [
+        "More fishing boats",
+        "Stricter regulations on single-use plastics",
+        "Lower taxes",
+        "More tourism"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Plastic pollution in the oceans has reached alarming levels, threatening marine life and ecosystems. Every year, millions of tons of plastic waste enter the sea, much of it breaking down into microplastics that are ingested by fish and other creatures. Environmental organizations are calling for stricter regulations on single-use plastics to address this growing crisis.",
+      "savol": "Which word is closest in meaning to 'ingested' in the passage?",
+      "variantlar": [
+        "Ignored",
+        "Swallowed",
+        "Avoided",
+        "Produced"
+      ],
+      "togri": 1
+    },
+    {
+      "matn": "Plastic pollution in the oceans has reached alarming levels, threatening marine life and ecosystems. Every year, millions of tons of plastic waste enter the sea, much of it breaking down into microplastics that are ingested by fish and other creatures. Environmental organizations are calling for stricter regulations on single-use plastics to address this growing crisis.",
+      "savol": "What tone does the passage take toward plastic pollution?",
+      "variantlar": [
+        "Indifferent",
+        "Concerned",
+        "Celebratory",
+        "Humorous"
+      ],
+      "togri": 1
+    }
+  ]
+}
