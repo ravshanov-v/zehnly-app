@@ -346,7 +346,9 @@ const mavzuFayllari = {
   adabiyot_9_11: 'data/adabiyot_9_11.json',
   ona_tili_5_7: 'data/ona_tili_5_7.json',
   ona_tili_7_9: 'data/ona_tili_7_9.json',
-  ona_tili_9_11: 'data/ona_tili_9_11.json'
+  ona_tili_9_11: 'data/ona_tili_9_11.json',
+  cefr_b1_b2: 'data/cefr_b1_b2.json',
+  cefr_c1_c2: 'data/cefr_c1_c2.json'
 };
 
 function getMavzuFromUrl() {
@@ -462,7 +464,14 @@ function updateTrail() {
 function renderQuestion() {
   const q = order[index];
   document.getElementById('questionEyebrow').textContent = `Savol ${index + 1}/${order.length}`;
-  document.getElementById('questionText').textContent = q.savol;
+
+  const questionTextEl = document.getElementById('questionText');
+  if (q.matn) {
+    questionTextEl.innerHTML = `<div style="font-size:15px; font-weight:500; line-height:1.5; margin-bottom:16px; color: var(--text-muted); background: var(--surface); border: 1.5px solid var(--border-default); border-radius: 14px; padding: 14px 16px;">${q.matn}</div><div>${q.savol}</div>`;
+  } else {
+    questionTextEl.textContent = q.savol;
+  }
+
   document.getElementById('scoreValue').textContent = score;
 
   const container = document.getElementById('answersContainer');
