@@ -1,0 +1,255 @@
+{
+  "label": "Ma'lumotlar bazasi sinovi",
+  "savollar": [
+    {
+      "savol": "Ma'lumotlar bazasi (database) nima?",
+      "variantlar": [
+        "Tartibli tarzda saqlanadigan va boshqariladigan ma'lumotlar to'plami",
+        "Faqat rasm fayllari to'plami",
+        "Dasturlash tili",
+        "Veb-sayt turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "DBMS (Database Management System) nima?",
+      "variantlar": [
+        "Ma'lumotlar bazasini yaratish va boshqarish uchun dasturiy ta'minot",
+        "Faqat rasm tahrirlash dasturi",
+        "Faqat operatsion tizim",
+        "Faqat brauzer"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Relatsion ma'lumotlar bazasi (relational database) nimaga asoslanadi?",
+      "variantlar": [
+        "Jadvallar va ular orasidagi bog'lanishlarga",
+        "Faqat matn fayllariga",
+        "Faqat rasm fayllariga",
+        "Faqat video fayllariga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jadval (table) ma'lumotlar bazasida nimadan tashkil topgan?",
+      "variantlar": [
+        "Qatorlar va ustunlardan",
+        "Faqat matndan",
+        "Faqat rasmlardan",
+        "Faqat sonlardan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bosh kalit (primary key) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Jadvaldagi har bir yozuvni noyob tarzda aniqlash uchun",
+        "Faqat ma'lumotlarni tartiblash uchun",
+        "Faqat ma'lumotlarni o'chirish uchun",
+        "Faqat rangni belgilash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tashqi kalit (foreign key) nima?",
+      "variantlar": [
+        "Bir jadvaldagi ustunning boshqa jadvaldagi bosh kalitga havolasi",
+        "Faqat parol turi",
+        "Faqat rang kodi",
+        "Faqat fayl formati"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "SQL nimani anglatadi?",
+      "variantlar": [
+        "Structured Query Language",
+        "Simple Question Language",
+        "System Quality Level",
+        "Standard Query List"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "SELECT buyrug'i SQL'da nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumotlarni o'chirish uchun",
+        "Ma'lumotlar bazasidan ma'lumot olish uchun",
+        "Yangi jadval yaratish uchun",
+        "Ma'lumotlarni yangilash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "INSERT buyrug'i SQL'da nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumotlarni o'chirish uchun",
+        "Jadvalga yangi ma'lumot qo'shish uchun",
+        "Jadvalni o'chirish uchun",
+        "Ma'lumotni o'qish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "UPDATE buyrug'i SQL'da nima uchun ishlatiladi?",
+      "variantlar": [
+        "Mavjud ma'lumotlarni o'zgartirish uchun",
+        "Yangi jadval yaratish uchun",
+        "Ma'lumotlarni o'qish uchun",
+        "Bazani o'chirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "DELETE buyrug'i SQL'da nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumot qo'shish uchun",
+        "Jadvaldan ma'lumotlarni o'chirish uchun",
+        "Ma'lumotni o'qish uchun",
+        "Yangi baza yaratish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "NoSQL ma'lumotlar bazalariga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Oracle"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Normalizatsiya (normalization) ma'lumotlar bazasida nima uchun qilinadi?",
+      "variantlar": [
+        "Ma'lumotlarni takrorlanishini kamaytirish va tuzilishni yaxshilash uchun",
+        "Ma'lumotlarni ko'paytirish uchun",
+        "Ma'lumotlarni shifrlash uchun",
+        "Ma'lumotlarni o'chirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ma'lumotlar bazasidagi \"tranzaksiya\" (transaction) tushunchasi nimani bildiradi?",
+      "variantlar": [
+        "Bo'linmas amallar guruhi, hammasi bajariladi yoki hech biri bajarilmaydi",
+        "Faqat pul o'tkazmasi",
+        "Faqat bitta SELECT so'rovi",
+        "Faqat jadval nomi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Indeks (index) ma'lumotlar bazasida nima uchun ishlatiladi?",
+      "variantlar": [
+        "Qidiruv tezligini oshirish uchun",
+        "Ma'lumotlarni o'chirish uchun",
+        "Ma'lumotlarni shifrlash uchun",
+        "Jadval yaratish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "JOIN operatori SQL'da nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ikki yoki undan ortiq jadvaldan ma'lumotlarni birlashtirib olish uchun",
+        "Jadvalni o'chirish uchun",
+        "Yangi ustun qo'shish uchun",
+        "Ma'lumotlar bazasini yaratish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ma'lumotlar bazasi zaxira nusxasi (backup) nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Ma'lumotlar yo'qolganda ularni tiklash imkonini beradi",
+        "Faqat tezlikni oshirish uchun",
+        "Faqat dizayn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "ACID xususiyatlari (Atomicity, Consistency, Isolation, Durability) nima uchun muhim?",
+      "variantlar": [
+        "Tranzaksiyalarning ishonchli va izchil bajarilishini kafolatlash uchun",
+        "Faqat dizayn uchun",
+        "Faqat tezlikni oshirish uchun",
+        "Ahamiyati yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ma'lumotlar bazasi sxemasi (schema) nima?",
+      "variantlar": [
+        "Ma'lumotlar bazasining tuzilishi va tashkil etilishini belgilovchi reja",
+        "Faqat bitta jadval",
+        "Faqat foydalanuvchi nomi",
+        "Faqat parol"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "WHERE bandi SQL so'rovida nima uchun ishlatiladi?",
+      "variantlar": [
+        "Natijalarni muayyan shart bo'yicha filtrlash uchun",
+        "Jadval yaratish uchun",
+        "Ma'lumotlarni o'chirish uchun",
+        "Bazani zaxiralash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ma'lumotlar bazasida takrorlanish (redundancy) nima uchun muammo hisoblanadi?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Xotira sarfini oshiradi va ma'lumotlar nomuvofiqligiga olib kelishi mumkin",
+        "Faqat tezlikni oshiradi",
+        "Faqat dizaynni yaxshilaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Cloud (bulutli) ma'lumotlar bazalarining afzalligi nimada?",
+      "variantlar": [
+        "Faqat qimmatligi",
+        "Moslashuvchanlik, kengaytirish imkoniyati va masofadan kirish qulayligi",
+        "Faqat sekinligi",
+        "Faqat murakkabligi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ma'lumotlar bazasidagi \"view\" (ko'rinish) nima?",
+      "variantlar": [
+        "Bir yoki bir nechta jadval asosida yaratilgan virtual jadval",
+        "Faqat rasm",
+        "Faqat parol",
+        "Faqat foydalanuvchi nomi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ma'lumotlar bazasi xavfsizligida foydalanuvchi ruxsatlarini (permissions) cheklash nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Faqat vakolatli foydalanuvchilar muayyan ma'lumotlarga kirishini ta'minlash uchun",
+        "Faqat tezlikni oshirish uchun",
+        "Faqat dizayn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Katta hajmdagi ma'lumotlarni saqlashda ma'lumotlar ombori (data warehouse) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat kunlik operatsion ishlar uchun",
+        "Tahlil va hisobot uchun katta hajmdagi tarixiy ma'lumotlarni markazlashtirib saqlash uchun",
+        "Faqat rasm saqlash uchun",
+        "Faqat video saqlash uchun"
+      ],
+      "togri": 1
+    }
+  ]
+}

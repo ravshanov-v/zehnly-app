@@ -1,0 +1,305 @@
+{
+  "label": "Frontend sinovi",
+  "savollar": [
+    {
+      "savol": "Frontend dasturlash nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Server tomonidagi mantiq bilan",
+        "Foydalanuvchi ko'radigan va o'zaro aloqada bo'ladigan interfeys bilan",
+        "Ma'lumotlar bazasi bilan",
+        "Tarmoq xavfsizligi bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "HTML nima uchun ishlatiladi?",
+      "variantlar": [
+        "Veb-sahifaning tuzilishi va tarkibini belgilash uchun",
+        "Serverni sozlash uchun",
+        "Ma'lumotlar bazasini boshqarish uchun",
+        "Dasturni kompilyatsiya qilish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "CSS nima uchun ishlatiladi?",
+      "variantlar": [
+        "Sahifa mantig'ini yozish uchun",
+        "Sahifaning tashqi ko'rinishi va uslubini belgilash uchun",
+        "Ma'lumotlarni saqlash uchun",
+        "Server so'rovlarini boshqarish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "JavaScript frontendda qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat statik matn ko'rsatadi",
+        "Sahifaga interaktivlik va dinamik xatti-harakat qo'shadi",
+        "Faqat ranglarni belgilaydi",
+        "Faqat shriftlarni o'rnatadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "DOM (Document Object Model) nima?",
+      "variantlar": [
+        "Dasturlash tili",
+        "HTML hujjatining daraxtsimon strukturaviy tasviri, JavaScript orqali boshqariladi",
+        "Ma'lumotlar bazasi turi",
+        "Server nomi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Responsive dizayn nimani anglatadi?",
+      "variantlar": [
+        "Sahifaning tez yuklanishini",
+        "Sahifaning turli ekran o'lchamlariga moslashishini",
+        "Sahifaning faqat kompyuterda ishlashini",
+        "Sahifaning rangli bo'lishini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "React nima?",
+      "variantlar": [
+        "Ma'lumotlar bazasi tizimi",
+        "Foydalanuvchi interfeyslarini qurish uchun JavaScript kutubxonasi",
+        "Server dasturlash tili",
+        "Operatsion tizim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "CSS Flexbox nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumotlarni shifrlash uchun",
+        "Elementlarni moslashuvchan tarzda joylashtirish uchun",
+        "Rasmlarni siqish uchun",
+        "Server bilan bog'lanish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "API nima?",
+      "variantlar": [
+        "Dasturiy ta'minotlar orasidagi aloqa vositasi (interfeys)",
+        "Ma'lumotlar bazasi turi",
+        "Dizayn dasturi",
+        "Tarmoq kabeli"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Brauzerning \"console\" (konsol) qismi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat musiqa ijro etish uchun",
+        "Dasturchi uchun xatolar va natijalarni ko'rsatish uchun",
+        "Faqat rasm ko'rsatish uchun",
+        "Faqat internetga ulanish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Semantik HTML teglarga qaysi biri misol bo'ladi?",
+      "variantlar": [
+        "<div>",
+        "<span>",
+        "<header>",
+        "<b>"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "CSS'da \"class\" va \"id\" selektorlari orasidagi asosiy farq nima?",
+      "variantlar": [
+        "Farqi yo'q",
+        "id sahifada faqat bitta marta, class esa bir necha marta ishlatilishi mumkin",
+        "class faqat rang uchun, id faqat matn uchun",
+        "id faqat JavaScript uchun ishlatiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "JavaScript'da o'zgaruvchi e'lon qilish uchun qaysi kalit so'zlar ishlatiladi?",
+      "variantlar": [
+        "var, let, const",
+        "int, float, char",
+        "def, func",
+        "class, object"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Frontend frameworklariga qaysi biri kirmaydi?",
+      "variantlar": [
+        "React",
+        "Vue",
+        "Angular",
+        "Django"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "Sass yoki LESS nima?",
+      "variantlar": [
+        "JavaScript kutubxonasi",
+        "CSS'ni kengaytiruvchi preprosessor tillar",
+        "Ma'lumotlar bazasi",
+        "Server dasturi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Veb-saytning yuklanish tezligi nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Foydalanuvchi tajribasi va qidiruv tizimlaridagi o'rniga ta'sir qiladi",
+        "Faqat dizayn uchun",
+        "Faqat dasturchi uchun qulaylik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Git nima uchun ishlatiladi?",
+      "variantlar": [
+        "Kodning versiyalarini boshqarish uchun",
+        "Faqat rasm tahrirlash uchun",
+        "Faqat matn yozish uchun",
+        "Faqat internet tezligini oshirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Web brauzerlar HTML, CSS va JavaScript'ni qanday qayta ishlaydi?",
+      "variantlar": [
+        "Ularni o'qib, render qilib, foydalanuvchiga ko'rinadigan sahifaga aylantiradi",
+        "Faqat saqlab qo'yadi",
+        "Faqat serverga qaytaradi",
+        "Ularni umuman ishlamaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Media query CSS'da nima uchun ishlatiladi?",
+      "variantlar": [
+        "Video fayllarni ijro etish uchun",
+        "Ekran o'lchami yoki qurilma turiga qarab stillarni o'zgartirish uchun",
+        "Musiqa qo'shish uchun",
+        "Ma'lumotlar bazasiga ulanish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "AJAX texnologiyasi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Sahifani to'liq qayta yuklamasdan serverdan ma'lumot olish uchun",
+        "Faqat rasm chizish uchun",
+        "Faqat shrift o'zgartirish uchun",
+        "Faqat animatsiya yaratish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Cookie (kuki) nima?",
+      "variantlar": [
+        "Brauzer tomonidan saqlanadigan kichik ma'lumot fayli",
+        "Dasturlash tili",
+        "Server turi",
+        "Rasm formati"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Veb-sayt qulayligi (accessibility) nimani anglatadi?",
+      "variantlar": [
+        "Faqat chiroyli dizayn",
+        "Saytdan nogironligi bo'lgan foydalanuvchilar ham foydalana olishini ta'minlash",
+        "Faqat tezkorlik",
+        "Faqat xavfsizlik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bootstrap nima?",
+      "variantlar": [
+        "Ma'lumotlar bazasi tizimi",
+        "Tayyor CSS/JS komponentlariga ega frontend freymvork",
+        "Server dasturi",
+        "Operatsion tizim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "SPA (Single Page Application) nima?",
+      "variantlar": [
+        "Bitta sahifada ishlaydigan, qayta yuklanmasdan kontentni yangilaydigan veb-ilova",
+        "Faqat bitta rasmdan iborat sayt",
+        "Faqat bitta foydalanuvchi uchun sayt",
+        "Bir martalik ishlaydigan dastur"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Veb-brauzerning \"inspect element\" funksiyasi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Sahifaning HTML/CSS kodini ko'rish va tekshirish uchun",
+        "Faqat parolni ko'rish uchun",
+        "Faqat sahifani chop etish uchun",
+        "Faqat rasm yuklash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "TypeScript nima?",
+      "variantlar": [
+        "JavaScript'ning statik turlash qo'shilgan kengaytmasi",
+        "Alohida dasturlash tili, JavaScript bilan bog'liq emas",
+        "CSS'ning bir turi",
+        "Ma'lumotlar bazasi tili"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Veb-sahifada \"viewport\" meta tegi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Sahifaning mobil qurilmalarda to'g'ri ko'rsatilishini sozlash uchun",
+        "Faqat rangni o'zgartirish uchun",
+        "Faqat sarlavha qo'shish uchun",
+        "Faqat matn hajmini o'zgartirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "JSON formati nima uchun keng qo'llaniladi?",
+      "variantlar": [
+        "Rasm formatini saqlash uchun",
+        "Ma'lumotlarni yengil va o'qish oson formatda almashish uchun",
+        "Faqat video formatlash uchun",
+        "Faqat musiqa fayllari uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "CSS Grid nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ikki o'lchamli (qator va ustun) tartibda elementlarni joylashtirish uchun",
+        "Faqat rang tanlash uchun",
+        "Faqat matn stilini o'zgartirish uchun",
+        "Faqat animatsiya yaratish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Veb-dasturlashda \"cross-browser compatibility\" nimani anglatadi?",
+      "variantlar": [
+        "Saytning faqat bitta brauzerda ishlashi",
+        "Saytning turli brauzerlarda bir xil to'g'ri ishlashini ta'minlash",
+        "Saytning faqat mobil qurilmada ishlashi",
+        "Saytning internetsiz ishlashi"
+      ],
+      "togri": 1
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "label": "Robototexnika sinovi",
+  "savollar": [
+    {
+      "savol": "Robototexnika (robotics) nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat kompyuter dasturlari yaratish bilan",
+        "Robotlarni loyihalash, qurish va boshqarish bilan",
+        "Faqat veb-sayt yaratish bilan",
+        "Faqat ma'lumotlar bazasi bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robot nima?",
+      "variantlar": [
+        "Faqat o'yinchoq",
+        "Muayyan vazifalarni avtomatik yoki yarim avtomatik bajaruvchi mexanik-elektron qurilma",
+        "Faqat kompyuter dasturi",
+        "Faqat mobil ilova"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sensor (datchik) robotda qanday vazifani bajaradi?",
+      "variantlar": [
+        "Robotga energiya beradi",
+        "Atrof-muhitdan ma'lumot (yorug'lik, harorat, masofa va h.k.) to'playdi",
+        "Faqat robotni harakatlantiradi",
+        "Faqat robotni bezaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aktuator (actuator) robotda nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumot to'plash uchun",
+        "Robotning harakat qilishi (motor, servo va h.k. orqali) uchun",
+        "Faqat energiya saqlash uchun",
+        "Faqat dizayn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mikrokontroller (masalan Arduino) robototexnikada qanday rol o'ynaydi?",
+      "variantlar": [
+        "Robotning \"miyasi\" sifatida sensorlardan ma'lumot olib, aktuatorlarni boshqaradi",
+        "Faqat robotni bezaydi",
+        "Faqat energiya beradi",
+        "Faqat og'irlik qo'shadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Arduino nima?",
+      "variantlar": [
+        "Dasturlash tili",
+        "Ochiq manbali mikrokontroller platformasi, elektronika loyihalari uchun",
+        "Ma'lumotlar bazasi",
+        "Operatsion tizim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Raspberry Pi nima?",
+      "variantlar": [
+        "Kichik hajmli, arzon narxli to'liq kompyuter platasi",
+        "Faqat oziq-ovqat mahsuloti",
+        "Dasturlash tili",
+        "Sensor turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Servomotor nima uchun ishlatiladi?",
+      "variantlar": [
+        "Aniq burchakka aylanish yoki harakatni boshqarish uchun",
+        "Faqat energiya saqlash uchun",
+        "Faqat ma'lumot to'plash uchun",
+        "Faqat rangni o'zgartirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sanoat robotlari (industrial robots) qayerda ko'proq qo'llaniladi?",
+      "variantlar": [
+        "Faqat uyda",
+        "Ishlab chiqarish liniyalarida, masalan avtomobil zavodlarida",
+        "Faqat maktablarda",
+        "Faqat kasalxonalarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Avtonom robot (autonomous robot) nima?",
+      "variantlar": [
+        "Faqat inson tomonidan to'liq boshqariladigan robot",
+        "Inson aralashuvisiz mustaqil qaror qabul qilib harakat qiluvchi robot",
+        "Faqat statik, harakatsiz robot",
+        "Faqat o'yinchoq robot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robototexnikada sun'iy intellekt qanday qo'llaniladi?",
+      "variantlar": [
+        "Umuman qo'llanilmaydi",
+        "Robotga muhitni tushunish, qaror qabul qilish va o'rganish qobiliyatini berish uchun",
+        "Faqat robotni bezash uchun",
+        "Faqat robotni og'irlashtirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tibbiyotda robotlar qanday ishlatiladi?",
+      "variantlar": [
+        "Umuman ishlatilmaydi",
+        "Aniq jarrohlik operatsiyalari va bemorlarga g'amxo'rlik ko'rsatishda",
+        "Faqat o'yin uchun",
+        "Faqat reklama uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dron (dron/kvadrokopter) qanday robot turi hisoblanadi?",
+      "variantlar": [
+        "Yer usti robot",
+        "Uchuvchi, insonsiz boshqariladigan yoki avtonom havo robot",
+        "Suv osti roboti",
+        "Statik robot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robototexnikada dasturlash tillaridan qaysilari ko'proq ishlatiladi?",
+      "variantlar": [
+        "C++, Python",
+        "HTML, CSS",
+        "SQL, PHP",
+        "Faqat Excel formulalar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Robot qo'li (robotic arm) sanoatda nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat dizayn uchun",
+        "Yig'ish, payvandlash, ko'tarish kabi takrorlanuvchi vazifalarni bajarish uchun",
+        "Faqat rasm chizish uchun",
+        "Faqat musiqa yaratish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robototexnikada \"feedback loop\" (fikr-mulohaza tsikli) nima?",
+      "variantlar": [
+        "Robotning sensor ma'lumotlarini ishlatib, o'z harakatlarini sozlash jarayoni",
+        "Faqat energiya manbai",
+        "Faqat dizayn elementi",
+        "Faqat rang tanlash usuli"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bipedal (ikki oyoqli) robotlar qanday xususiyatga ega?",
+      "variantlar": [
+        "Ular hech qachon harakatlana olmaydi",
+        "Inson kabi ikki oyoqda yurishga qodir robotlar",
+        "Faqat suzish uchun mo'ljallangan",
+        "Faqat uchish uchun mo'ljallangan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robototexnika ta'limda (masalan maktablarda) nima uchun o'rgatiladi?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Muhandislik, dasturlash va muammoni hal qilish ko'nikmalarini rivojlantirish uchun",
+        "Faqat o'yin o'ynash uchun",
+        "Faqat vaqt o'tkazish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robototexnikada xavfsizlik nima uchun muhim masala?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Robotlar inson bilan yonma-yon ishlaganda shikastlanishning oldini olish uchun",
+        "Faqat dizayn uchun",
+        "Faqat narx uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kelajakda robototexnika qaysi sohalarga ta'sir qilishi kutilmoqda?",
+      "variantlar": [
+        "Faqat sanoat",
+        "Sog'liqni saqlash, transport, qishloq xo'jaligi va boshqa ko'plab sohalar",
+        "Faqat o'yin sanoati",
+        "Hech qaysi sohaga ta'sir qilmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robot dasturlashda \"loop\" (tsikl) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Muayyan amalni takrorlash uchun",
+        "Faqat robotni to'xtatish uchun",
+        "Faqat energiya tejash uchun",
+        "Faqat rasm chizish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qishloq xo'jaligida robotlar (agricultural robots) qanday vazifalarni bajaradi?",
+      "variantlar": [
+        "Hech qanday vazifa bajarmaydi",
+        "Ekinlarni ekish, sug'orish va hosilni yig'ishtirish kabi ishlarni avtomatlashtirish",
+        "Faqat rasm chizish",
+        "Faqat musiqa ijro etish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robot va inson o'rtasidagi hamkorlik (human-robot collaboration) nima uchun rivojlanmoqda?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Ishlab chiqarish va boshqa sohalarda samaradorlik hamda xavfsizlikni oshirish uchun",
+        "Faqat qiziqarli bo'lgani uchun",
+        "Faqat moda bo'lgani uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robototexnikada \"battery life\" (batareya umri) nima uchun muhim omil?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Robotning qancha vaqt davomida energiya manbaisiz ishlashini belgilaydi",
+        "Faqat dizayn uchun",
+        "Faqat rang uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "3D printerlar robototexnika loyihalarida qanday ishlatiladi?",
+      "variantlar": [
+        "Umuman ishlatilmaydi",
+        "Robot qismlari va korpuslarini yaratish uchun",
+        "Faqat rasm chop etish uchun",
+        "Faqat hujjat chop etish uchun"
+      ],
+      "togri": 1
+    }
+  ]
+}

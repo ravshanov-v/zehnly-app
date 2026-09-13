@@ -1,0 +1,305 @@
+{
+  "label": "Backend sinovi",
+  "savollar": [
+    {
+      "savol": "Backend dasturlash nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat sahifaning tashqi ko'rinishi bilan",
+        "Server, ma'lumotlar bazasi va ilova mantig'i bilan",
+        "Faqat rasm dizayni bilan",
+        "Faqat shrift tanlash bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Server nima?",
+      "variantlar": [
+        "Foydalanuvchi qurilmasi",
+        "So'rovlarga javob beruvchi va xizmat ko'rsatuvchi kompyuter yoki dastur",
+        "Faqat rasm saqlovchi qurilma",
+        "Faqat printer turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "HTTP protokoli nima uchun ishlatiladi?",
+      "variantlar": [
+        "Veb-brauzer va server o'rtasida ma'lumot almashish uchun",
+        "Faqat elektron pochta yuborish uchun",
+        "Faqat fayl siqish uchun",
+        "Faqat video ijro etish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "REST API nima?",
+      "variantlar": [
+        "Ma'lumotlar bazasi turi",
+        "Veb-xizmatlarni qurish uchun arxitektura uslubi",
+        "Dasturlash tili",
+        "Server nomi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "HTTP so'rov metodlaridan GET nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumot yuborish uchun",
+        "Ma'lumotni olish (o'qish) uchun",
+        "Ma'lumotni o'chirish uchun",
+        "Ma'lumotni yangilash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "HTTP POST metodi odatda nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat ma'lumot o'qish uchun",
+        "Yangi ma'lumot yuborish/yaratish uchun",
+        "Faqat sahifani yopish uchun",
+        "Faqat parolni ko'rsatish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ma'lumotlar bazasi (database) nima?",
+      "variantlar": [
+        "Tashkillashtirilgan holda saqlanadigan ma'lumotlar to'plami",
+        "Faqat rasm fayli",
+        "Dasturlash tili",
+        "Veb-brauzer turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "SQL nima uchun ishlatiladi?",
+      "variantlar": [
+        "Rasm tahrirlash uchun",
+        "Relatsion ma'lumotlar bazasi bilan ishlash uchun",
+        "Veb-sahifa dizayni uchun",
+        "Video montaj uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "NoSQL ma'lumotlar bazalari SQL'dan nimasi bilan farq qiladi?",
+      "variantlar": [
+        "Farqi yo'q",
+        "Ma'lumotlarni jadval shaklida emas, boshqa (masalan hujjat, kalit-qiymat) formatda saqlaydi",
+        "Faqat rasm saqlaydi",
+        "Faqat matn saqlaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Autentifikatsiya (authentication) nima?",
+      "variantlar": [
+        "Foydalanuvchi kimligini tasdiqlash jarayoni",
+        "Ma'lumotlarni shifrlash",
+        "Ma'lumotlar bazasini yaratish",
+        "Server tezligini oshirish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Avtorizatsiya (authorization) autentifikatsiyadan nimasi bilan farq qiladi?",
+      "variantlar": [
+        "Farqi yo'q",
+        "Avtorizatsiya foydalanuvchining qaysi resurslarga ruxsati borligini belgilaydi",
+        "Avtorizatsiya faqat parolni tekshiradi",
+        "Avtorizatsiya faqat ismni so'raydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Node.js nima?",
+      "variantlar": [
+        "Brauzer nomi",
+        "JavaScript'ni server tomonida ishga tushirish imkonini beruvchi muhit",
+        "Ma'lumotlar bazasi",
+        "Dizayn dasturi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Python backend dasturlashda qaysi freymvorklar bilan mashhur?",
+      "variantlar": [
+        "React, Vue",
+        "Django, Flask",
+        "Bootstrap, Tailwind",
+        "Photoshop, Figma"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Server xotirasida ma'lumotni vaqtincha saqlash usuli qanday ataladi?",
+      "variantlar": [
+        "Keshlash (caching)",
+        "Kompilyatsiya",
+        "Render qilish",
+        "Formatlash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Load balancing (yuklamani taqsimlash) nima uchun ishlatiladi?",
+      "variantlar": [
+        "So'rovlarni bir nechta serverga taqsimlab, tizim yukini kamaytirish uchun",
+        "Faqat rasmlarni siqish uchun",
+        "Faqat parolni shifrlash uchun",
+        "Faqat sahifa dizaynini o'zgartirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Middleware nima?",
+      "variantlar": [
+        "So'rov va javob o'rtasida qo'shimcha ishlov beruvchi dastur qismi",
+        "Ma'lumotlar bazasi turi",
+        "Frontend dizayn kutubxonasi",
+        "Server nomi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "ORM (Object-Relational Mapping) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumotlar bazasi jadvallari bilan dasturlash tili obyektlari orasida ko'prik yaratish uchun",
+        "Faqat rasm formatlash uchun",
+        "Faqat CSS yozish uchun",
+        "Faqat video siqish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mikroservis arxitekturasi nima?",
+      "variantlar": [
+        "Ilovani kichik, mustaqil xizmatlarga bo'lib qurish yondashuvi",
+        "Faqat bitta katta dastur yozish",
+        "Faqat frontend dizayn usuli",
+        "Faqat ma'lumotlar bazasi turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "JWT (JSON Web Token) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Foydalanuvchi ma'lumotlarini xavfsiz uzatish va autentifikatsiya uchun",
+        "Faqat rasm formatlash uchun",
+        "Faqat matnni tarjima qilish uchun",
+        "Faqat CSS animatsiyasi uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "API endpoint nima?",
+      "variantlar": [
+        "API'ning ma'lum bir funksiyasiga murojaat qilinadigan aniq URL manzili",
+        "Serverning jismoniy joylashuvi",
+        "Ma'lumotlar bazasi jadvali nomi",
+        "Dasturlash tili versiyasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "HTTP status kodi 404 nimani bildiradi?",
+      "variantlar": [
+        "Muvaffaqiyatli so'rov",
+        "Sahifa yoki resurs topilmadi",
+        "Server ichki xatosi",
+        "Ruxsat berilmagan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "HTTP status kodi 500 nimani bildiradi?",
+      "variantlar": [
+        "Muvaffaqiyatli so'rov",
+        "Sahifa topilmadi",
+        "Server ichki xatosi",
+        "Ma'lumot yangilandi"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Ma'lumotlar bazasida \"indeks\" (index) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumotlarni tezroq qidirish uchun",
+        "Ma'lumotlarni o'chirish uchun",
+        "Ma'lumotlarni shifrlash uchun",
+        "Serverni qayta ishga tushirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Backup (zaxira nusxa) nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Ma'lumotlar yo'qolgan taqdirda ularni tiklash imkonini beradi",
+        "Faqat dizayn uchun",
+        "Faqat tezlikni oshirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Docker nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ilovalarni konteynerlarga o'rab, izchil muhitda ishga tushirish uchun",
+        "Faqat rasm tahrirlash uchun",
+        "Faqat matn yozish uchun",
+        "Faqat internet tezligini oshirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "CI/CD nimani anglatadi?",
+      "variantlar": [
+        "Uzluksiz integratsiya va uzluksiz yetkazib berish (Continuous Integration/Continuous Delivery)",
+        "Kompyuter tizimi nomi",
+        "Ma'lumotlar bazasi turi",
+        "Dasturlash tili"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ma'lumotlar bazasidagi \"tranzaksiya\" (transaction) nima?",
+      "variantlar": [
+        "Bir yoki bir nechta amallarning bo'linmas guruh sifatida bajarilishi",
+        "Faqat pul o'tkazmasi",
+        "Faqat rasm yuklash",
+        "Faqat parolni o'zgartirish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "WebSocket texnologiyasi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Server va mijoz orasida real vaqtda ikki tomonlama aloqa o'rnatish uchun",
+        "Faqat rasm formatlash uchun",
+        "Faqat fayl siqish uchun",
+        "Faqat shrift o'rnatish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Server xavfsizligida SQL in'ektsiyasi (SQL injection) nima?",
+      "variantlar": [
+        "Ma'lumotlar bazasini tezlashtirish usuli",
+        "Zararli SQL kodni kiritish orqali ma'lumotlar bazasiga ruxsatsiz kirish hujumi",
+        "Ma'lumotlar bazasini zaxiralash usuli",
+        "Dizayn uslubi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Environment variables (muhit o'zgaruvchilari) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Maxfiy kalitlar va sozlamalarni kodga yozmasdan alohida saqlash uchun",
+        "Faqat rasm formatlash uchun",
+        "Faqat matn tarjima qilish uchun",
+        "Faqat CSS animatsiyasi uchun"
+      ],
+      "togri": 0
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "label": "UI/UX Dizayn sinovi",
+  "savollar": [
+    {
+      "savol": "UI (User Interface) nima?",
+      "variantlar": [
+        "Foydalanuvchi bilan dastur o'rtasidagi vizual o'zaro aloqa qatlami",
+        "Faqat server kodi",
+        "Faqat ma'lumotlar bazasi",
+        "Faqat tarmoq sozlamalari"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "UX (User Experience) nima?",
+      "variantlar": [
+        "Faqat rang tanlash",
+        "Foydalanuvchining mahsulot bilan ishlashdan olgan umumiy tajribasi",
+        "Faqat shrift tanlash",
+        "Faqat server tezligi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "UI va UX o'rtasidagi asosiy farq nima?",
+      "variantlar": [
+        "Farqi yo'q, bir xil narsa",
+        "UI vizual ko'rinishga, UX esa umumiy foydalanuvchi tajribasi va qulaylikka e'tibor beradi",
+        "UI faqat matn, UX faqat rasm",
+        "UI faqat mobil uchun, UX faqat kompyuter uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Wireframe nima?",
+      "variantlar": [
+        "Ilovaning tayyor, to'liq dizayni",
+        "Ilova yoki sahifaning oddiy, dastlabki tuzilish sxemasi",
+        "Dasturlash tili",
+        "Ma'lumotlar bazasi turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Prototip (prototype) dizaynda nima uchun yaratiladi?",
+      "variantlar": [
+        "Yakuniy mahsulotni sotish uchun",
+        "G'oyani sinab ko'rish va foydalanuvchi bilan test qilish uchun interaktiv namuna",
+        "Faqat rasm sifatida saqlash uchun",
+        "Faqat hujjatlashtirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Foydalanuvchi tadqiqoti (user research) nima uchun kerak?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Foydalanuvchilarning ehtiyoji va muammolarini tushunish uchun",
+        "Faqat vaqtni behuda sarflash uchun",
+        "Faqat dizaynerni band qilish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Persona (foydalanuvchi persona) nima?",
+      "variantlar": [
+        "Haqiqiy foydalanuvchi",
+        "Maqsadli auditoriyani ifodalovchi xayoliy, tipik foydalanuvchi obrazi",
+        "Dizaynerning o'zi",
+        "Dasturlash tili nomi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rang nazariyasi (color theory) dizaynda nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Ranglar hissiyot va idrokga ta'sir qilishi, to'g'ri tanlangan ranglar tajribani yaxshilashi mumkin",
+        "Faqat chiroy uchun",
+        "Faqat moda uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tipografiya (typography) dizaynda nimani anglatadi?",
+      "variantlar": [
+        "Faqat rasm joylashtirish",
+        "Shrift va matn joylashuvini tanlash san'ati",
+        "Faqat rang tanlash",
+        "Faqat animatsiya yaratish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Foydalanuvchi oqimi (user flow) nima?",
+      "variantlar": [
+        "Foydalanuvchining maqsadga erishish uchun bosib o'tadigan qadamlari ketma-ketligi",
+        "Faqat dizayn rangi",
+        "Faqat serverga ulanish jarayoni",
+        "Faqat kod yozish jarayoni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Usability testing (foydalanish qulayligini sinash) nima uchun o'tkaziladi?",
+      "variantlar": [
+        "Haqiqiy foydalanuvchilar mahsulot bilan qanchalik oson ishlashini aniqlash uchun",
+        "Faqat dizaynni chiroyli qilish uchun",
+        "Faqat kodni tekshirish uchun",
+        "Faqat serverni tekshirish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Accessibility (qulaylik) dizaynda nimani anglatadi?",
+      "variantlar": [
+        "Faqat tezkorlik",
+        "Nogironligi bo'lgan foydalanuvchilar ham mahsulotdan foydalana olishini ta'minlash",
+        "Faqat chiroyli rang",
+        "Faqat kichik hajm"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Figma va Adobe XD nima uchun ishlatiladi?",
+      "variantlar": [
+        "Dasturlash uchun",
+        "UI/UX dizayn va prototiplash uchun",
+        "Ma'lumotlar bazasini boshqarish uchun",
+        "Server sozlash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dizaynda \"oq bo'shliq\" (whitespace) nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q, behuda joy",
+        "Elementlar orasida nafas oldirish, tartib va o'qilishni yaxshilash uchun",
+        "Faqat sahifani bo'shatib qo'yish uchun",
+        "Faqat printer siyohini tejash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Konsistentlik (consistency) UI dizaynida nimani anglatadi?",
+      "variantlar": [
+        "Har bir sahifada boshqacha dizayn ishlatish",
+        "Butun mahsulot bo'ylab bir xil dizayn elementlari va uslubdan foydalanish",
+        "Faqat bitta rangdan foydalanish",
+        "Faqat bitta shriftdan foydalanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mikroetkazish (microinteraction) nima?",
+      "variantlar": [
+        "Katta hajmli animatsiya",
+        "Foydalanuvchi harakatiga javob beruvchi kichik, nozik animatsiya yoki fikr-mulohaza",
+        "Faqat server javobi",
+        "Faqat ma'lumotlar bazasi so'rovi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "A/B testing dizaynda qanday qo'llaniladi?",
+      "variantlar": [
+        "Ikki xil dizayn variantini solishtirib, qaysi biri yaxshiroq ishlashini aniqlash uchun",
+        "Faqat rang tanlash uchun",
+        "Faqat shrift tanlash uchun",
+        "Faqat matn yozish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Foydalanuvchi interfeysida \"call to action\" (CTA) nima?",
+      "variantlar": [
+        "Faqat sarlavha matni",
+        "Foydalanuvchini muayyan harakatga (masalan 'Sotib olish') undaydigan tugma yoki matn",
+        "Faqat orqa fon rangi",
+        "Faqat rasm formati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil-birinchi (mobile-first) dizayn yondashuvi nima?",
+      "variantlar": [
+        "Faqat kompyuter uchun dizayn qilish",
+        "Avval mobil qurilmalar uchun dizayn qilib, keyin kattaroq ekranlarga moslashtirish",
+        "Faqat planshet uchun dizayn qilish",
+        "Dizaynni umuman rejalashtirmaslik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dizayn tizimi (design system) nima?",
+      "variantlar": [
+        "Bitta sahifa dizayni",
+        "Qayta ishlatiladigan komponentlar, qoidalar va uslublar to'plami",
+        "Faqat rang palitrasi",
+        "Faqat shrift to'plami"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Foydalanuvchi fikr-mulohazasi (user feedback) dizaynni takomillashtirishda qanday rol o'ynaydi?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Haqiqiy muammolar va yaxshilash imkoniyatlarini aniqlashga yordam beradi",
+        "Faqat vaqtni behuda sarflaydi",
+        "Faqat loyihani kechiktiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kontrast (contrast) dizaynda nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Muhim elementlarni ajratib ko'rsatish va o'qilishni yaxshilash uchun",
+        "Faqat chiroy uchun",
+        "Faqat rang sonini oshirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikonka (icon) dizaynda qanday vazifa bajaradi?",
+      "variantlar": [
+        "Faqat bezak sifatida",
+        "Tushunchani vizual, tezkor va tildan mustaqil tarzda ifodalash",
+        "Faqat sahifani og'irlashtirish",
+        "Faqat rang qo'shish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dizaynda \"empathy\" (hamdardlik) nima uchun muhim tushuncha?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Foydalanuvchining his-tuyg'ulari va ehtiyojlarini tushunib, shunga mos yechim yaratish uchun",
+        "Faqat sotuvni oshirish uchun",
+        "Faqat vaqtni tejash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Grid tizimi (grid system) dizaynda nima uchun ishlatiladi?",
+      "variantlar": [
+        "Elementlarni tartibli va muvozanatli joylashtirish uchun",
+        "Faqat rang tanlash uchun",
+        "Faqat matn yozish uchun",
+        "Faqat animatsiya yaratish uchun"
+      ],
+      "togri": 0
+    }
+  ]
+}

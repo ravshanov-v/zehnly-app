@@ -1,0 +1,255 @@
+{
+  "label": "Data Science sinovi",
+  "savollar": [
+    {
+      "savol": "Data Science (ma'lumotlar fani) nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat rasm dizayni bilan",
+        "Ma'lumotlarni yig'ish, tahlil qilish va ulardan foydali xulosalar chiqarish bilan",
+        "Faqat veb-sayt yaratish bilan",
+        "Faqat tarmoq xavfsizligi bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Data Scientist qaysi ko'nikmalarga ega bo'lishi kerak?",
+      "variantlar": [
+        "Faqat dizayn ko'nikmalari",
+        "Statistika, dasturlash va sohaviy bilim",
+        "Faqat musiqa bilimi",
+        "Faqat til bilimi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Python dasturlash tili Data Science'da nima uchun keng qo'llaniladi?",
+      "variantlar": [
+        "Faqat oson o'rganilgani uchun",
+        "Ma'lumotlar tahlili uchun boy kutubxonalar (pandas, numpy va h.k.)ga ega bo'lgani uchun",
+        "Faqat tez ishlagani uchun",
+        "Faqat bepul bo'lgani uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Pandas kutubxonasi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Rasm tahrirlash uchun",
+        "Ma'lumotlarni jadval (DataFrame) shaklida qayta ishlash uchun",
+        "Video montaj uchun",
+        "Server yaratish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ma'lumotlarni tozalash (data cleaning) nima uchun zarur?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Noto'g'ri, takroriy yoki yetishmayotgan ma'lumotlarni tuzatish uchun, tahlil sifatini oshiradi",
+        "Faqat ma'lumotlarni ko'paytirish uchun",
+        "Faqat vaqtni behuda sarflash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Data vizualizatsiya (ma'lumotlarni vizuallashtirish) nima uchun muhim?",
+      "variantlar": [
+        "Faqat chiroyli ko'rinish uchun",
+        "Ma'lumotlardagi naqsh va tendentsiyalarni tushunarli tarzda taqdim etish uchun",
+        "Ahamiyati yo'q",
+        "Faqat vaqt yo'qotish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mashinali o'rganish (Machine Learning) Data Science bilan qanday bog'liq?",
+      "variantlar": [
+        "Umuman bog'liq emas",
+        "Data Science'ning muhim qismi bo'lib, ma'lumotlardan o'rganib bashorat qilish imkonini beradi",
+        "Faqat dizayn uchun ishlatiladi",
+        "Faqat o'yin yaratish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Statistika Data Science uchun nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Ma'lumotlarni to'g'ri talqin qilish va xulosalar chiqarish uchun asos beradi",
+        "Faqat rasmiy hujjatlar uchun",
+        "Faqat dizayn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'rtacha qiymat (mean) va mediana (median) o'rtasidagi farq nima?",
+      "variantlar": [
+        "Farqi yo'q",
+        "O'rtacha barcha qiymatlarning yig'indisini soniga bo'lish, mediana esa tartiblangan qiymatlarning o'rtasidagisi",
+        "Mediana faqat manfiy sonlar uchun",
+        "O'rtacha faqat matn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Big Data (katta ma'lumotlar) nimani anglatadi?",
+      "variantlar": [
+        "Faqat kichik hajmdagi ma'lumotlar",
+        "An'anaviy usullar bilan qayta ishlash qiyin bo'lgan juda katta hajmdagi ma'lumotlar",
+        "Faqat rasm fayllari",
+        "Faqat matn fayllari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "SQL Data Science'da nima uchun ishlatiladi?",
+      "variantlar": [
+        "Rasm tahrirlash uchun",
+        "Ma'lumotlar bazasidan ma'lumotlarni so'rov orqali olish uchun",
+        "Video montaj uchun",
+        "Dizayn yaratish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Korrelyatsiya (correlation) statistikada nimani bildiradi?",
+      "variantlar": [
+        "Ikki o'zgaruvchi o'rtasidagi bog'liqlik darajasi",
+        "Ma'lumotlarni tartiblash usuli",
+        "Ma'lumotlarni o'chirish usuli",
+        "Faqat grafik turi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Korrelyatsiya sabab-oqibat degani emas\" (correlation is not causation) qoidasi nimani anglatadi?",
+      "variantlar": [
+        "Ikki narsa bog'liq bo'lsa, albatta biri ikkinchisiga sabab bo'ladi",
+        "Ikki narsa orasida bog'liqlik bo'lishi, biri ikkinchisiga sabab bo'lishini kafolatlamaydi",
+        "Statistikada korrelyatsiya tushunchasi umuman yo'q",
+        "Faqat tibbiyotda qo'llaniladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Outlier (chetlanuvchi qiymat) nima?",
+      "variantlar": [
+        "Ma'lumotlar to'plamidagi o'rtacha qiymat",
+        "Qolgan ma'lumotlardan sezilarli darajada farq qiluvchi qiymat",
+        "Eng kichik qiymat har doim",
+        "Eng katta qiymat har doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "A/B testing nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ikki xil variantni solishtirib, qaysi biri yaxshiroq natija berishini aniqlash uchun",
+        "Faqat dizayn tanlash uchun",
+        "Faqat parolni tekshirish uchun",
+        "Faqat rasm hajmini o'lchash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Data Science loyihasida birinchi qadam odatda nima bo'ladi?",
+      "variantlar": [
+        "Modelni joylashtirish",
+        "Muammoni aniqlash va ma'lumotlarni yig'ish",
+        "Natijalarni taqdim etish",
+        "Kodni optimallashtirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jupyter Notebook nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat matn yozish uchun",
+        "Kod, matn va vizualizatsiyalarni interaktiv tarzda birlashtirish uchun",
+        "Faqat rasm tahrirlash uchun",
+        "Faqat video ijro etish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ma'lumotlar to'plamini o'qitish (train) va sinov (test) qismlariga bo'lish nima uchun kerak?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Modelning yangi ma'lumotlarda qanday ishlashini baholash uchun",
+        "Faqat vaqtni ko'paytirish uchun",
+        "Faqat xotira tejash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Excel Data Science'da qanday rol o'ynaydi?",
+      "variantlar": [
+        "Umuman ishlatilmaydi",
+        "Oddiy ma'lumotlarni tez tahlil qilish va vizuallashtirish uchun boshlang'ich vosita sifatida",
+        "Faqat dasturlash tili sifatida",
+        "Faqat server sifatida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dashboard (boshqaruv paneli) nima uchun yaratiladi?",
+      "variantlar": [
+        "Muhim ko'rsatkichlarni vizual tarzda bir joyda ko'rsatish uchun",
+        "Faqat rasm saqlash uchun",
+        "Faqat kod yozish uchun",
+        "Faqat server sozlash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ma'lumotlar maxfiyligi (data privacy) Data Science'da nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Foydalanuvchilarning shaxsiy ma'lumotlarini himoya qilish va qonuniy talablarga rioya qilish uchun",
+        "Faqat tezlikni oshirish uchun",
+        "Faqat dizayn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vaqt qatorlari (time series) ma'lumotlari nima?",
+      "variantlar": [
+        "Vaqt bo'yicha tartiblangan ketma-ket ma'lumotlar",
+        "Faqat bir martalik o'lchovlar",
+        "Faqat matn ma'lumotlari",
+        "Faqat rasm ma'lumotlari"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Klasterlash (clustering) nima?",
+      "variantlar": [
+        "Ma'lumotlarni oldindan belgilangan sinflarga bo'lish",
+        "O'xshash ma'lumotlarni guruhlarga ajratuvchi nazoratsiz o'rganish usuli",
+        "Ma'lumotlarni o'chirish usuli",
+        "Faqat grafik chizish usuli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Data Science natijalarini boshqalarga tushunarli qilib taqdim etish nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Qaror qabul qiluvchilar texnik bo'lmasligi mumkin, shuning uchun natijalar aniq va tushunarli bo'lishi kerak",
+        "Faqat vaqtni oshirish uchun",
+        "Faqat kodni murakkablashtirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Regressiya tahlili (regression analysis) nima uchun ishlatiladi?",
+      "variantlar": [
+        "O'zgaruvchilar orasidagi bog'liqlikni modellashtirish va bashorat qilish uchun",
+        "Faqat rasm formatlash uchun",
+        "Faqat ma'lumotlarni saqlash uchun",
+        "Faqat matnni tarjima qilish uchun"
+      ],
+      "togri": 0
+    }
+  ]
+}

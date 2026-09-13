@@ -1,0 +1,255 @@
+{
+  "label": "AI/ML sinovi",
+  "savollar": [
+    {
+      "savol": "Sun'iy intellekt (AI) nima?",
+      "variantlar": [
+        "Faqat robotlar",
+        "Insonga xos vazifalarni bajarishga qodir kompyuter tizimlari",
+        "Faqat kompyuter o'yinlari",
+        "Faqat internet tarmog'i"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mashinali o'rganish (Machine Learning) nima?",
+      "variantlar": [
+        "Kompyuterlarni qo'lda dasturlash",
+        "Tizimlarning ma'lumotlardan o'rganib, aniq dasturlashsiz yaxshilanish qobiliyati",
+        "Faqat robotlarni yig'ish",
+        "Faqat internetga ulanish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nazoratli o'rganish (supervised learning) nima?",
+      "variantlar": [
+        "Belgilangan (label qo'yilgan) ma'lumotlar asosida modelni o'qitish",
+        "Hech qanday ma'lumotsiz o'rganish",
+        "Faqat tasodifiy natija chiqarish",
+        "Faqat robotlarni boshqarish usuli"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Nazoratsiz o'rganish (unsupervised learning) nima?",
+      "variantlar": [
+        "Belgilanmagan ma'lumotlardagi yashirin naqshlarni topish",
+        "Faqat inson tomonidan to'liq nazorat qilinadigan o'rganish",
+        "Faqat matematik hisob-kitob",
+        "Faqat robot dasturlash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Neyron tarmoq (neural network) nimaga o'xshab modellashtirilgan?",
+      "variantlar": [
+        "Kompyuter protsessoriga",
+        "Inson miyasidagi neyronlar ishlashiga",
+        "Internet tarmog'iga",
+        "Elektr sxemasiga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Deep Learning (chuqur o'rganish) nima?",
+      "variantlar": [
+        "Ko'p qatlamli neyron tarmoqlar yordamida murakkab naqshlarni o'rganish",
+        "Faqat oddiy statistik usul",
+        "Faqat ma'lumotlar bazasi turi",
+        "Faqat dizayn usuli"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Chatbot (suhbat roboti) qanday texnologiyaga asoslanadi?",
+      "variantlar": [
+        "Faqat oldindan yozilgan javoblarga",
+        "Ko'pincha tabiiy tilni qayta ishlash (NLP) va mashinali o'rganishga",
+        "Faqat tasodifiy javob berishga",
+        "Faqat inson tomonidan yozilgan javoblarga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tabiiy tilni qayta ishlash (NLP) nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Kompyuterlarning inson tilini tushunishi va qayta ishlashi bilan",
+        "Faqat rasm tanish bilan",
+        "Faqat ovoz balandligini o'lchash bilan",
+        "Faqat matematik hisoblash bilan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kompyuter ko'rish (computer vision) nima?",
+      "variantlar": [
+        "Kompyuterlarning rasm va videolarni tushunish qobiliyati",
+        "Faqat matn tahlili",
+        "Faqat ovozli yordamchi",
+        "Faqat internet qidiruvi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Trening ma'lumotlari (training data) nima uchun kerak?",
+      "variantlar": [
+        "Modelni sinash uchun",
+        "Modelni o'rgatish, undan naqshlarni o'zlashtirishi uchun",
+        "Faqat vizualizatsiya uchun",
+        "Faqat hisobot yozish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Overfitting (haddan tashqari moslashish) nima?",
+      "variantlar": [
+        "Model yangi ma'lumotlarda yaxshi ishlashi",
+        "Model trening ma'lumotlariga juda moslashib, yangi ma'lumotlarda yomon ishlashi",
+        "Model umuman ishlamasligi",
+        "Model juda tez ishlashi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Algoritm nima?",
+      "variantlar": [
+        "Muayyan masalani hal qilish uchun ketma-ket amallar tartibi",
+        "Faqat dasturlash tili",
+        "Faqat kompyuter qismi",
+        "Faqat ma'lumotlar bazasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Reinforcement Learning (mustahkamlab o'rganish) qanday ishlaydi?",
+      "variantlar": [
+        "Agent muhit bilan o'zaro ta'sirlashib, mukofot va jazo orqali o'rganadi",
+        "Faqat belgilangan ma'lumotlar orqali o'rganadi",
+        "Faqat tasodifiy tanlov qiladi",
+        "Faqat inson tomonidan to'g'ridan-to'g'ri dasturlanadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "AI etikasi (AI ethics) nima uchun muhim mavzu?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "AI tizimlarining adolatli, shaffof va zararsiz ishlatilishini ta'minlash uchun",
+        "Faqat marketing uchun",
+        "Faqat texnik cheklovlar uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Katta til modellari (Large Language Models, LLM) nima uchun mashhur bo'lib bormoqda?",
+      "variantlar": [
+        "Faqat o'yin yaratish uchun",
+        "Inson tiliga o'xshash matn yaratish va tushunish qobiliyati tufayli",
+        "Faqat rasm chizish uchun",
+        "Faqat musiqa yaratish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Generativ sun'iy intellekt (Generative AI) nima?",
+      "variantlar": [
+        "Faqat mavjud ma'lumotlarni tahlil qiluvchi AI",
+        "Yangi matn, rasm yoki boshqa kontent yaratishga qodir AI",
+        "Faqat robotlarni boshqaruvchi AI",
+        "Faqat ma'lumotlar bazasini boshqaruvchi AI"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "AI'da \"bias\" (noto'g'ri moyillik) muammosi nimadan kelib chiqadi?",
+      "variantlar": [
+        "Faqat kompyuter xatosi",
+        "Trening ma'lumotlaridagi nomutanosiblik yoki noto'g'ri vakillik",
+        "Faqat internet tezligi",
+        "Faqat dasturchi charchashi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "TensorFlow va PyTorch nima?",
+      "variantlar": [
+        "Rasm tahrirlash dasturlari",
+        "Mashinali o'rganish modellarini qurish uchun mashhur kutubxonalar",
+        "Ma'lumotlar bazasi tizimlari",
+        "Operatsion tizimlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy intellekt qaysi sohalarda qo'llaniladi?",
+      "variantlar": [
+        "Faqat o'yin sanoatida",
+        "Tibbiyot, moliya, transport va boshqa ko'plab sohalarda",
+        "Faqat harbiy sohada",
+        "Faqat qishloq xo'jaligida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Turing testi\" nima uchun taklif qilingan?",
+      "variantlar": [
+        "Kompyuterning tezligini o'lchash uchun",
+        "Mashinaning inson kabi fikrlashini aniqlash uchun mezon sifatida",
+        "Internet tezligini tekshirish uchun",
+        "Dasturlash tilini tanlash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ma'lumotlar sifati (data quality) AI modeliga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Sifatsiz ma'lumotlar noto'g'ri yoki yomon natijalarga olib kelishi mumkin",
+        "Faqat vaqtni oshiradi",
+        "Faqat xotira sarfini kamaytiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Robototexnikada AI qanday rol o'ynaydi?",
+      "variantlar": [
+        "Hech qanday rol o'ynamaydi",
+        "Robotlarga muhitni tushunish va qaror qabul qilish qobiliyatini beradi",
+        "Faqat robotlarni og'irroq qiladi",
+        "Faqat robotlarni rangli qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "AI tizimlarining shaffofligi (transparency) nimani anglatadi?",
+      "variantlar": [
+        "Tizim qanday qaror qabul qilganini tushunish imkoniyati",
+        "Tizimning tezligi",
+        "Tizimning narxi",
+        "Tizimning rangi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kelajakda AI mehnat bozoriga qanday ta'sir qilishi kutilmoqda?",
+      "variantlar": [
+        "Hech qanday ta'sir qilmaydi",
+        "Ba'zi kasblarni avtomatlashtirish bilan birga yangi kasblar ham yaratishi mumkin",
+        "Faqat barcha ishlarni yo'q qiladi",
+        "Faqat ish haqini oshiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy intellektni o'rganishni boshlash uchun qaysi fanlarni bilish foydali?",
+      "variantlar": [
+        "Faqat tarix",
+        "Matematika (statistika, chiziqli algebra) va dasturlash",
+        "Faqat adabiyot",
+        "Faqat geografiya"
+      ],
+      "togri": 1
+    }
+  ]
+}

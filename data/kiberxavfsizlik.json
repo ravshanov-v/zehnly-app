@@ -1,0 +1,255 @@
+{
+  "label": "Kiberxavfsizlik sinovi",
+  "savollar": [
+    {
+      "savol": "Kiberxavfsizlik nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat kompyuter dizayni bilan",
+        "Kompyuter tizimlari, tarmoqlar va ma'lumotlarni raqamli hujumlardan himoya qilish bilan",
+        "Faqat internet tezligini oshirish bilan",
+        "Faqat dasturiy ta'minot yaratish bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Parol xavfsizligi uchun eng yaxshi amaliyot qaysi?",
+      "variantlar": [
+        "Barcha saytlarda bir xil oddiy parol ishlatish",
+        "Har bir sayt uchun murakkab va noyob parol ishlatish",
+        "Parolni hech qayerga yozib qo'ymaslik va faqat yodda saqlash",
+        "Parolni umuman o'zgartirmaslik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ikki bosqichli autentifikatsiya (2FA) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat qulaylik uchun",
+        "Hisobga kirish xavfsizligini oshirish uchun qo'shimcha tasdiqlash bosqichi qo'shish",
+        "Faqat internetni tezlashtirish uchun",
+        "Faqat parolni unutmaslik uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Fishing (fishing hujumi) nima?",
+      "variantlar": [
+        "Baliq ovlash usuli",
+        "Foydalanuvchini aldab, shaxsiy ma'lumotlarini o'g'irlashga qaratilgan firibgarlik usuli",
+        "Ma'lumotlarni zaxiralash usuli",
+        "Internet tezligini oshirish usuli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Virus (kompyuter virusi) nima?",
+      "variantlar": [
+        "Kompyuterni tezlashtiruvchi dastur",
+        "O'zini boshqa fayllarga biriktirib, tizimga zarar yetkazuvchi zararli dastur",
+        "Ma'lumotlar bazasi turi",
+        "Xavfsizlik dasturi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Malware nimani anglatadi?",
+      "variantlar": [
+        "Foydali dastur",
+        "Zararli dastur ta'minoti (malicious software)ning umumiy nomi",
+        "Ma'lumotlar bazasi tizimi",
+        "Xavfsiz veb-sayt"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ransomware (to'lov talab qiluvchi dastur) qanday ishlaydi?",
+      "variantlar": [
+        "Kompyuterni tezlashtiradi",
+        "Foydalanuvchi fayllarini shifrlab, ochish uchun to'lov talab qiladi",
+        "Faqat reklama ko'rsatadi",
+        "Faqat internetni sekinlashtiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Firewall (tarmoq ekrani) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Kompyuterni tezlashtirish uchun",
+        "Tarmoq trafigini nazorat qilib, ruxsatsiz kirishlarni bloklash uchun",
+        "Faqat internetga ulanish uchun",
+        "Faqat fayl saqlash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "VPN (Virtual Private Network) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Internet tezligini oshirish uchun",
+        "Internet trafigini shifrlab, maxfiylik va xavfsizlikni ta'minlash uchun",
+        "Faqat rasm yuklash uchun",
+        "Faqat video ko'rish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Shifrlash (encryption) nima?",
+      "variantlar": [
+        "Ma'lumotni o'chirish",
+        "Ma'lumotni faqat kalitga ega shaxs o'qiy oladigan shaklga o'zgartirish",
+        "Ma'lumotni ko'paytirish",
+        "Ma'lumotni siqish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ijtimoiy muhandislik (social engineering) hujumi nima?",
+      "variantlar": [
+        "Texnik zaifliklardan foydalanish",
+        "Odamlarni aldash orqali maxfiy ma'lumotlarni olish usuli",
+        "Faqat kompyuter viruslaridan foydalanish",
+        "Faqat parolni taxmin qilish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "DDoS hujumi nima?",
+      "variantlar": [
+        "Ma'lumotlarni shifrlash usuli",
+        "Serverni juda ko'p so'rov bilan to'ldirib, ishdan chiqarishga qaratilgan hujum",
+        "Xavfsizlik dasturi turi",
+        "Parolni tiklash usuli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zero-day zaiflik (zero-day vulnerability) nima?",
+      "variantlar": [
+        "Hali tuzatilmagan, ishlab chiqaruvchiga noma'lum yoki yangi topilgan xavfsizlik zaifligi",
+        "Eng eski, yaxshi tuzatilgan zaiflik",
+        "Faqat dizayn xatosi",
+        "Faqat internet tezligi muammosi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Antivirus dasturi nima uchun ishlatiladi?",
+      "variantlar": [
+        "Kompyuterni tezlashtirish uchun",
+        "Zararli dasturlarni aniqlash va yo'q qilish uchun",
+        "Faqat internetga ulanish uchun",
+        "Faqat fayllarni siqish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xavfsiz veb-sayt manzili qanday belgi bilan boshlanadi?",
+      "variantlar": [
+        "http://",
+        "https://",
+        "ftp://",
+        "www://"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dasturiy ta'minotni doimiy yangilab turish nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Ma'lum bo'lgan xavfsizlik zaifliklarini yopish uchun",
+        "Faqat dizaynni o'zgartirish uchun",
+        "Faqat reklama ko'rsatish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ochiq Wi-Fi tarmoqlaridan foydalanishda nimaga e'tibor berish kerak?",
+      "variantlar": [
+        "Hech narsaga, xavfsiz",
+        "Maxfiy ma'lumotlar (parol, bank kartasi) kiritishdan saqlanish kerak, chunki xavfsizlik past bo'lishi mumkin",
+        "Faqat tezlikka e'tibor berish kerak",
+        "Faqat vaqtga e'tibor berish kerak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ma'lumotlar bazasidagi maxfiy ma'lumotlarni himoya qilishning bir usuli qaysi?",
+      "variantlar": [
+        "Ularni ochiq holda saqlash",
+        "Shifrlash va kirishni cheklash",
+        "Ularni umuman saqlamaslik",
+        "Ularni internetda ochiq joylashtirish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kiberxavfsizlikda \"penetratsiya testi\" (penetration testing) nima?",
+      "variantlar": [
+        "Tizimga ruxsatli hujum uyushtirib, zaifliklarni topish jarayoni",
+        "Faqat internet tezligini tekshirish",
+        "Faqat dizaynni tekshirish",
+        "Faqat parolni o'zgartirish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Etik xakerlik (ethical hacking) nima?",
+      "variantlar": [
+        "Ruxsatsiz tizimlarga zararli maqsadda kirish",
+        "Tizim egasining ruxsati bilan xavfsizlik zaifliklarini topish uchun kirish",
+        "Faqat kompyuter viruslarini yaratish",
+        "Faqat parollarni o'g'irlash"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kiberxavfsizlikda \"insayder tahdid\" (insider threat) nimani anglatadi?",
+      "variantlar": [
+        "Faqat tashqi hakerlardan keladigan xavf",
+        "Tashkilot ichidagi xodim yoki shaxs tomonidan keladigan xavfsizlik xavfi",
+        "Faqat tabiiy ofatlar",
+        "Faqat texnik nosozliklar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bulutli xizmatlarda (cloud) ma'lumotlar xavfsizligi kim tomonidan ta'minlanishi kerak?",
+      "variantlar": [
+        "Faqat xizmat ko'rsatuvchi",
+        "Ham xizmat ko'rsatuvchi, ham foydalanuvchi (ulushgan javobgarlik modeli)",
+        "Faqat foydalanuvchi",
+        "Hech kim javobgar emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kiberxavfsizlikda \"log\" fayllari nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Tizimda sodir bo'lgan voqealarni kuzatish va shubhali faoliyatni aniqlash uchun",
+        "Faqat xotira sarflash uchun",
+        "Faqat dizayn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bolalar va o'smirlar internet xavfsizligiga rioya qilishlari uchun nima muhim?",
+      "variantlar": [
+        "Shaxsiy ma'lumotlarni notanish shaxslarga bermaslik va shubhali havolalarni bosmaslik",
+        "Barcha havolalarni bosaverish",
+        "Barcha odamlarga shaxsiy ma'lumot berish",
+        "Hech qanday ehtiyot chorasi kerak emas"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kiberxavfsizlik siyosati (security policy) tashkilotda nima uchun kerak?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Xodimlar va tizimlar uchun xavfsizlik qoidalarini belgilash va rioya etishni ta'minlash uchun",
+        "Faqat hujjat to'ldirish uchun",
+        "Faqat rasmiylik uchun"
+      ],
+      "togri": 1
+    }
+  ]
+}

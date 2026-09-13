@@ -1,0 +1,255 @@
+{
+  "label": "Tarmoqlar sinovi",
+  "savollar": [
+    {
+      "savol": "Kompyuter tarmog'i (computer network) nima?",
+      "variantlar": [
+        "Bitta kompyuter",
+        "Ma'lumot almashish uchun bir-biriga ulangan qurilmalar tizimi",
+        "Faqat internet brauzeri",
+        "Faqat dasturiy ta'minot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Internet nima?",
+      "variantlar": [
+        "Bitta kompaniyaga tegishli tarmoq",
+        "Butun dunyo bo'ylab bir-biriga ulangan kompyuter tarmoqlarining global tizimi",
+        "Faqat elektron pochta xizmati",
+        "Faqat ijtimoiy tarmoq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "IP manzil (IP address) nima?",
+      "variantlar": [
+        "Qurilmaning tarmoqdagi noyob raqamli manzili",
+        "Veb-saytning nomi",
+        "Foydalanuvchi paroli",
+        "Dasturiy ta'minot versiyasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "DNS (Domain Name System) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Domen nomlarini IP manzillarga aylantirish uchun",
+        "Ma'lumotlarni shifrlash uchun",
+        "Faqat email yuborish uchun",
+        "Faqat fayl saqlash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Router (marshrutizator) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumotlarni turli tarmoqlar orasida yo'naltirish uchun",
+        "Faqat rasm chop etish uchun",
+        "Faqat video ijro etish uchun",
+        "Faqat parolni saqlash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "LAN (Local Area Network) nima?",
+      "variantlar": [
+        "Global internet tarmog'i",
+        "Cheklangan hududda (masalan, ofis yoki uy) ishlaydigan lokal tarmoq",
+        "Faqat mobil tarmoq",
+        "Faqat sun'iy yo'ldosh tarmog'i"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "WAN (Wide Area Network) LAN'dan nimasi bilan farq qiladi?",
+      "variantlar": [
+        "Farqi yo'q",
+        "WAN kattaroq geografik hududni (masalan shahar yoki mamlakatlar orasini) qamrab oladi",
+        "WAN faqat bitta xonada ishlaydi",
+        "LAN internetga ulanmaydi, WAN esa ulanadi har doim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Wi-Fi nima?",
+      "variantlar": [
+        "Simli internet ulanishi",
+        "Simsiz tarmoqqa ulanish texnologiyasi",
+        "Faqat mobil aloqa turi",
+        "Faqat kabel turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bandwidth (o'tkazish qobiliyati) nimani anglatadi?",
+      "variantlar": [
+        "Ma'lum vaqt ichida tarmoq orqali uzatilishi mumkin bo'lgan ma'lumot hajmi",
+        "Kompyuterning xotira hajmi",
+        "Ekran o'lchami",
+        "Protsessor tezligi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ping (ping so'rovi) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Tarmoq orqali qurilmaga ulanish mavjudligi va javob vaqtini tekshirish uchun",
+        "Fayl yuklab olish uchun",
+        "Video ijro etish uchun",
+        "Musiqa tinglash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "OSI modeli nechta qatlamdan iborat?",
+      "variantlar": [
+        "5 ta",
+        "7 ta",
+        "9 ta",
+        "3 ta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "TCP/IP nima?",
+      "variantlar": [
+        "Internetda ma'lumot uzatish uchun asosiy protokollar to'plami",
+        "Veb-sayt dizayni uslubi",
+        "Ma'lumotlar bazasi turi",
+        "Dasturlash tili"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "TCP va UDP protokollari o'rtasidagi asosiy farq nima?",
+      "variantlar": [
+        "Farqi yo'q",
+        "TCP ishonchli, ulanishga asoslangan; UDP tezroq, lekin kafolatlanmagan yetkazishga ega",
+        "UDP faqat video uchun, TCP faqat matn uchun",
+        "TCP faqat mobil qurilmalar uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Switch (kommutator) qanday vazifani bajaradi?",
+      "variantlar": [
+        "Lokal tarmoqdagi qurilmalarni bir-biriga ulash va ma'lumotni to'g'ri qurilmaga yo'naltirish",
+        "Faqat internetga ulanish",
+        "Faqat rasm chop etish",
+        "Faqat video saqlash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Server va klient (client) o'rtasidagi munosabat qanday?",
+      "variantlar": [
+        "Ular bir xil narsa",
+        "Klient xizmat so'raydi, server esa xizmatni taqdim etadi",
+        "Server hech qachon javob bermaydi",
+        "Klient faqat rasm ko'rsatadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Port (tarmoq porti) nima?",
+      "variantlar": [
+        "Kompyuterdagi jismoniy kirish joyi",
+        "Qurilmadagi ma'lum bir xizmat yoki dasturga tegishli mantiqiy manzil raqami",
+        "Faqat parol turi",
+        "Faqat fayl formati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bluetooth qanday texnologiya?",
+      "variantlar": [
+        "Uzoq masofali simsiz internet ulanishi",
+        "Qisqa masofali simsiz ma'lumot almashish texnologiyasi",
+        "Faqat kabel turi",
+        "Faqat sun'iy yo'ldosh aloqasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Modem nima uchun ishlatiladi?",
+      "variantlar": [
+        "Raqamli signalni tarmoq orqali uzatish uchun signalni o'zgartiradigan qurilma",
+        "Faqat rasm chop etish uchun",
+        "Faqat video montaj uchun",
+        "Faqat fayl siqish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Bulutli hisoblash (cloud computing) nima?",
+      "variantlar": [
+        "Faqat lokal kompyuterda ishlash",
+        "Internet orqali masofaviy serverlarda hisoblash resurslari va xizmatlardan foydalanish",
+        "Faqat rasm saqlash usuli",
+        "Faqat elektron pochta xizmati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "5G nima?",
+      "variantlar": [
+        "Beshinchi avlod mobil tarmoq texnologiyasi",
+        "Beshta Wi-Fi tarmog'i",
+        "Kompyuter protsessori turi",
+        "Ma'lumotlar bazasi versiyasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tarmoq topologiyasi (network topology) nima?",
+      "variantlar": [
+        "Tarmoqdagi qurilmalarning jismoniy yoki mantiqiy joylashuv sxemasi",
+        "Faqat internet tezligi",
+        "Faqat parol turi",
+        "Faqat dasturiy ta'minot"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "MAC manzil (MAC address) nima?",
+      "variantlar": [
+        "Tarmoq kartasining noyob jismoniy identifikatori",
+        "Foydalanuvchi paroli",
+        "Veb-sayt nomi",
+        "Dasturiy ta'minot versiyasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Proksi-server (proxy server) qanday vazifa bajaradi?",
+      "variantlar": [
+        "Klient va server orasida vositachi bo'lib, so'rovlarni qayta yo'naltiradi",
+        "Faqat rasm saqlaydi",
+        "Faqat video ijro etadi",
+        "Faqat fayl siqadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tarmoq xavfsizligi (network security) nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Tarmoqqa ruxsatsiz kirish va ma'lumotlar o'g'irlanishining oldini olish uchun",
+        "Faqat tezlikni oshirish uchun",
+        "Faqat dizayn uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sun'iy yo'ldosh internet aloqasi qanday ishlaydi?",
+      "variantlar": [
+        "Yer usti kabellari orqali",
+        "Orbitadagi sun'iy yo'ldoshlar orqali signal uzatish orqali",
+        "Faqat Bluetooth orqali",
+        "Faqat optik tola orqali"
+      ],
+      "togri": 1
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "label": "Mobil dasturlash sinovi",
+  "savollar": [
+    {
+      "savol": "Mobil dasturlash nima bilan shug'ullanadi?",
+      "variantlar": [
+        "Faqat kompyuter dasturlari yaratish bilan",
+        "Smartfon va planshetlar uchun ilovalar yaratish bilan",
+        "Faqat veb-saytlar yaratish bilan",
+        "Faqat o'yin konsollari uchun dastur yozish bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Android operatsion tizimi uchun asosiy dasturlash tillari qaysilar?",
+      "variantlar": [
+        "Swift, Objective-C",
+        "Kotlin, Java",
+        "Python, Ruby",
+        "PHP, Perl"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "iOS operatsion tizimi uchun asosiy dasturlash tili qaysi?",
+      "variantlar": [
+        "Kotlin",
+        "Java",
+        "Swift",
+        "C#"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Native (mahalliy) mobil ilova nima?",
+      "variantlar": [
+        "Faqat bitta platforma (masalan faqat Android yoki faqat iOS) uchun maxsus yozilgan ilova",
+        "Har qanday qurilmada ishlaydigan universal ilova",
+        "Faqat brauzerda ochiladigan sayt",
+        "Faqat matn ko'rinishidagi ilova"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kross-platforma (cross-platform) mobil dasturlash nimani anglatadi?",
+      "variantlar": [
+        "Faqat bitta operatsion tizim uchun kod yozish",
+        "Bitta kod bazasidan bir nechta platformalar (Android va iOS) uchun ilova yaratish",
+        "Faqat kompyuter uchun dastur yozish",
+        "Faqat o'yin yaratish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Flutter nima?",
+      "variantlar": [
+        "Ma'lumotlar bazasi tizimi",
+        "Google tomonidan yaratilgan kross-platforma mobil ilova freymvorki (Dart tilida)",
+        "Server dasturi",
+        "Rasm tahrirlash dasturi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "React Native nima?",
+      "variantlar": [
+        "Faqat veb-sahifalar uchun kutubxona",
+        "JavaScript yordamida mobil ilovalar yaratish uchun freymvork",
+        "Ma'lumotlar bazasi turi",
+        "Operatsion tizim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil ilovaning UI/UX dizayni nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Foydalanuvchi tajribasi va ilovadan qulay foydalanishni ta'minlash uchun",
+        "Faqat kodni qisqartirish uchun",
+        "Faqat internetni tejash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil ilovalarni test qilish (testing) nima uchun zarur?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Xatolarni aniqlash va ilova sifatini ta'minlash uchun",
+        "Faqat vaqtni behuda sarflash uchun",
+        "Faqat dizaynni chiroyli qilish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Play Market va App Store nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat rasm yuklash uchun",
+        "Mobil ilovalarni tarqatish va yuklab olish uchun rasmiy do'konlar",
+        "Faqat musiqa tinglash uchun",
+        "Faqat internet sozlamalari uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Push xabarnoma (push notification) nima?",
+      "variantlar": [
+        "Ilova tomonidan foydalanuvchi qurilmasiga yuboriladigan xabar",
+        "Faqat SMS xabar turi",
+        "Faqat email xabari",
+        "Faqat ovozli xabar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mobil ilova ishlab chiqishda API integratsiyasi nima uchun kerak?",
+      "variantlar": [
+        "Ilovani serverdagi ma'lumotlar bilan bog'lash uchun",
+        "Faqat dizaynni yaxshilash uchun",
+        "Faqat batareya tejash uchun",
+        "Faqat xotira tejash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "SDK (Software Development Kit) nima?",
+      "variantlar": [
+        "Muayyan platforma uchun dastur yaratishga yordam beruvchi vositalar to'plami",
+        "Faqat dizayn dasturi",
+        "Faqat operatsion tizim",
+        "Faqat brauzer"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mobil qurilmalarda ekran o'lchamlari turlicha bo'lgani uchun dasturchi nimaga e'tibor berishi kerak?",
+      "variantlar": [
+        "Hech narsaga",
+        "Moslashuvchan (responsive/adaptive) dizaynga",
+        "Faqat bitta o'lchamga",
+        "Faqat rang tanlashga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Offline rejimda ishlaydigan mobil ilova nimani anglatadi?",
+      "variantlar": [
+        "Internetsiz umuman ishlamaydigan ilova",
+        "Internet aloqasi bo'lmaganda ham asosiy funksiyalarni bajara oladigan ilova",
+        "Faqat Wi-Fi orqali ishlaydigan ilova",
+        "Faqat kompyuterda ishlaydigan ilova"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil ilova xavfsizligida ma'lumotlarni shifrlash nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Foydalanuvchi ma'lumotlarini ruxsatsiz kirishdan himoya qilish uchun",
+        "Faqat ilovani tezlashtirish uchun",
+        "Faqat dizaynni chiroyli qilish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Batareya sarfini optimallashtirish nima uchun mobil dasturlashda muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Foydalanuvchi qurilmasining batareyasini tejash va qulaylikni oshirish uchun",
+        "Faqat dizayn uchun",
+        "Faqat kod hajmini kamaytirish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Wireframe (qorabodom sxema) mobil ilova dizaynida nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ilovaning dastlabki tuzilishi va joylashuvini rejalashtirish uchun",
+        "Faqat kodni yozish uchun",
+        "Faqat ma'lumotlar bazasini yaratish uchun",
+        "Faqat serverni sozlash uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mobil ilovada \"onboarding\" (kirish jarayoni) nima?",
+      "variantlar": [
+        "Ilovadan chiqish jarayoni",
+        "Yangi foydalanuvchini ilova bilan tanishtirish jarayoni",
+        "Ilovani o'chirish jarayoni",
+        "Serverga ulanish jarayoni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "App Store va Play Market'ga ilova joylashtirish (publish) jarayoni nima uchun tekshiruvdan o'tadi?",
+      "variantlar": [
+        "Sifat va xavfsizlik standartlariga javob berishini ta'minlash uchun",
+        "Faqat pul olish uchun",
+        "Faqat reklama uchun",
+        "Ahamiyati yo'q, tekshiruv bo'lmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mobil ilovalarda \"local storage\" (lokal saqlash) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ma'lumotlarni faqat serverga yuborish uchun",
+        "Ma'lumotlarni qurilmaning o'zida saqlash uchun",
+        "Faqat rasm yuklash uchun",
+        "Faqat internetga ulanish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gesture (imo-ishora) navigatsiyasi mobil ilovalarda nimani anglatadi?",
+      "variantlar": [
+        "Faqat ovoz orqali boshqarish",
+        "Ekranni barmoq harakatlari (surish, siqish va h.k.) orqali boshqarish",
+        "Faqat klaviatura orqali boshqarish",
+        "Faqat sichqoncha orqali boshqarish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil ilova versiyalarini yangilab turish (update) nima uchun muhim?",
+      "variantlar": [
+        "Ahamiyati yo'q",
+        "Xatolarni tuzatish, xavfsizlikni oshirish va yangi funksiyalar qo'shish uchun",
+        "Faqat hajmni oshirish uchun",
+        "Faqat reklama qo'shish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil ilova ishlab chiqishda \"MVP\" (Minimum Viable Product) nimani anglatadi?",
+      "variantlar": [
+        "Eng murakkab va to'liq funksional ilova versiyasi",
+        "Asosiy funksiyalarga ega, tezda chiqarilishi mumkin bo'lgan minimal ilova versiyasi",
+        "Faqat dizayn maketi",
+        "Faqat marketing rejasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil qurilmalarda GPS xizmatidan qaysi turdagi ilovalar ko'proq foydalanadi?",
+      "variantlar": [
+        "Kalkulyator ilovalari",
+        "Xarita va navigatsiya ilovalari",
+        "Matn muharrirlari",
+        "Soat ilovalari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Mobil ilovalarda monetizatsiya (daromad topish) usullaridan biri qaysi?",
+      "variantlar": [
+        "Reklama ko'rsatish yoki ichki xaridlar",
+        "Faqat bepul tarqatish, hech qanday daromad yo'q",
+        "Faqat davlat subsidiyasi",
+        "Faqat sponsorlik"
+      ],
+      "togri": 0
+    }
+  ]
+}
