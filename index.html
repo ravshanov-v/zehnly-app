@@ -358,7 +358,11 @@ const mavzuFayllari = {
   uiux: 'data/uiux.json',
   tarmoqlar: 'data/tarmoqlar.json',
   malumotlar_bazasi: 'data/malumotlar_bazasi.json',
-  robototexnika: 'data/robototexnika.json'
+  robototexnika: 'data/robototexnika.json',
+  rus_umumiy: 'data/rus_umumiy.json',
+  rus_cefr_a1_a2: 'data/rus_cefr_a1_a2.json',
+  rus_cefr_b1_b2: 'data/rus_cefr_b1_b2.json',
+  rus_cefr_c1_c2: 'data/rus_cefr_c1_c2.json'
 };
 
 function getMavzuFromUrl() {
@@ -543,7 +547,7 @@ function selectAnswer(choice, btnEl) {
 }
 
 function getTierText(pct) {
-  const isCefr = activeMavzu.startsWith('cefr');
+  const isCefr = activeMavzu.startsWith('cefr') || activeMavzu.startsWith('rus_cefr');
   if (isCefr) {
     if (pct >= 0.85) return { tier: "Taxminan B1 darajasiga yaqinsiz", sub: "(taxminiy natija — rasmiy sertifikat emas)" };
     if (pct >= 0.6) return { tier: "Taxminan A2 darajasidasiz", sub: "(taxminiy natija — rasmiy sertifikat emas)" };
