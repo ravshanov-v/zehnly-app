@@ -1,0 +1,155 @@
+{
+  "label": "Kimyo sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Mendeleyev davriy sistemasida elementlar qanday tartibda joylashgan?",
+      "variantlar": ["Atom massasi bo'yicha tasodifiy", "Atom raqami (proton soni) ortib borish tartibida", "Alifbo tartibida", "Kashf etilgan yiliga qarab"],
+      "togri": 1
+    },
+    {
+      "savol": "Natriy (Na) davriy sistemaning qaysi guruhiga kiradi?",
+      "variantlar": ["I guruh (ishqoriy metallar)", "VII guruh (galogenlar)", "VIII guruh (inert gazlar)", "IV guruh"],
+      "togri": 0
+    },
+    {
+      "savol": "Kislotalar suvli eritmada qanday ion hosil qiladi?",
+      "variantlar": ["OH⁻ ioni", "H⁺ ioni", "Na⁺ ioni", "Cl⁻ ioni"],
+      "togri": 1
+    },
+    {
+      "savol": "Asoslar suvli eritmada qanday ion hosil qiladi?",
+      "variantlar": ["H⁺ ioni", "OH⁻ ioni", "SO₄²⁻ ioni", "NO₃⁻ ioni"],
+      "togri": 1
+    },
+    {
+      "savol": "pH shkalasida 7 qiymat nimani bildiradi?",
+      "variantlar": ["Kuchli kislotali muhit", "Neytral muhit", "Kuchli ishqoriy muhit", "Hech narsani bildirmaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "H₂SO₄ formulasi qaysi moddaga tegishli?",
+      "variantlar": ["Xlorid kislota", "Sulfat kislota", "Nitrat kislota", "Karbonat kislota"],
+      "togri": 1
+    },
+    {
+      "savol": "NaOH qanday modda hisoblanadi?",
+      "variantlar": ["Kislota", "Asos (ishqor)", "Tuz", "Oksid"],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy reaksiya tezligiga qaysi omil ta'sir qilmaydi?",
+      "variantlar": ["Harorat", "Kontsentratsiya", "Katalizator", "Idishning rangi"],
+      "togri": 3
+    },
+    {
+      "savol": "Avogadro soni taxminan nechaga teng?",
+      "variantlar": ["6.02 × 10²³", "3.14 × 10²³", "1.6 × 10⁻¹⁹", "9.8 × 10²³"],
+      "togri": 0
+    },
+    {
+      "savol": "1 mol gazning normal sharoitdagi hajmi nechaga teng?",
+      "variantlar": ["11.2 litr", "22.4 litr", "44.8 litr", "1 litr"],
+      "togri": 1
+    },
+    {
+      "savol": "Oksidlanish-qaytarilish reaksiyasida elektronlar qanday harakat qiladi?",
+      "variantlar": ["Elektronlar bir moddadan ikkinchisiga o'tadi", "Elektronlar yo'qoladi", "Elektronlar hosil bo'ladi lekin harakatlanmaydi", "Hech qanday elektron almashinuvi bo'lmaydi"],
+      "togri": 0
+    },
+    {
+      "savol": "Metallarning umumiy xossalaridan biri qaysi?",
+      "variantlar": ["Elektr o'tkazmaslik", "Yaltiroqlik va elektr o'tkazuvchanlik", "Gaz holatida bo'lish", "Suvda erimaslik har doim"],
+      "togri": 1
+    },
+    {
+      "savol": "Organik kimyo nimani o'rganadi?",
+      "variantlar": ["Faqat mineral moddalarni", "Uglerod birikmalarini (organik moddalarni)", "Faqat metallarni", "Faqat gazlarni"],
+      "togri": 1
+    },
+    {
+      "savol": "Alkanlar umumiy formulasi qanday?",
+      "variantlar": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnHn"],
+      "togri": 1
+    },
+    {
+      "savol": "Metan (CH4) qaysi uglevodorodlar sinfiga kiradi?",
+      "variantlar": ["Alkenlar", "Alkanlar", "Alkinlar", "Arenlar"],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy bog'lanish turlaridan biri kovalent bog' nima?",
+      "variantlar": ["Ionlar orasidagi elektrostatik tortishish", "Atomlar orasida elektron juftlarining umumiylashishi", "Metall atomlari orasidagi bog'lanish", "Molekulalar orasidagi zaif tortishish"],
+      "togri": 1
+    },
+    {
+      "savol": "Ion bog' qanday hosil bo'ladi?",
+      "variantlar": ["Elektronlar umumiylashishi orqali", "Bir atomdan ikkinchisiga elektron to'liq o'tishi orqali", "Faqat metallar orasida", "Faqat gazlar orasida"],
+      "togri": 1
+    },
+    {
+      "savol": "Vodorod peroksidning formulasi qaysi?",
+      "variantlar": ["H₂O", "H₂O₂", "HO₂", "H₃O"],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy elementning valentligi nimani bildiradi?",
+      "variantlar": ["Uning atom massasini", "Uning boshqa atomlar bilan hosil qila oladigan bog'lar sonini", "Uning rangi", "Uning zichligini"],
+      "togri": 1
+    },
+    {
+      "savol": "Elektroliz jarayonida nima sodir bo'ladi?",
+      "variantlar": ["Kimyoviy energiya issiqlikka aylanadi", "Elektr toki ta'sirida modda parchalanadi", "Modda yonadi", "Hech narsa sodir bo'lmaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Davriy sistemada guruh raqami elementning nimasini ko'rsatadi (asosiy guruhlar uchun)?",
+      "variantlar": ["Neytronlar sonini", "Tashqi qavatdagi elektronlar sonini (asosan)", "Izotoplar sonini", "Atom massasini"],
+      "togri": 1
+    },
+    {
+      "savol": "Katalizator kimyoviy reaksiyada qanday rol o'ynaydi?",
+      "variantlar": ["Reaksiya tezligini o'zi sarflanmasdan oshiradi", "Reaksiyani to'xtatadi", "Yangi mahsulot hosil qiladi", "Hech qanday ta'sir ko'rsatmaydi"],
+      "togri": 0
+    },
+    {
+      "savol": "Tuzlar qanday hosil bo'ladi (umumiy holatda)?",
+      "variantlar": ["Faqat metalldan", "Kislota va asos reaksiyasidan (neytrallanish)", "Faqat suvdan", "Faqat gazdan"],
+      "togri": 1
+    },
+    {
+      "savol": "Karbonat angidrid (CO₂) qaysi turdagi oksid hisoblanadi?",
+      "variantlar": ["Asosli oksid", "Kislotali oksid", "Amfoter oksid", "Neytral oksid"],
+      "togri": 1
+    },
+    {
+      "savol": "Izotoplar nima?",
+      "variantlar": ["Bir xil proton, lekin har xil neytron soniga ega bo'lgan bir elementning turlari", "Har xil elementlarning aralashmasi", "Faqat radioaktiv elementlar", "Molekulaning bir turi"],
+      "togri": 0
+    },
+    {
+      "savol": "Polimerizatsiya reaksiyasi natijasida nima hosil bo'ladi?",
+      "variantlar": ["Kichik molekulalar", "Ko'p sonli kichik molekulalar (monomerlar)dan katta molekula (polimer)", "Faqat gazlar", "Faqat tuzlar"],
+      "togri": 1
+    },
+    {
+      "savol": "Ammiak (NH₃) qanday xususiyatga ega gaz?",
+      "variantlar": ["Rangsiz, o'tkir hidli, suvda yaxshi eriydigan gaz", "Rangli, hidsiz gaz", "Faqat qattiq holatda uchraydi", "Metall hisoblanadi"],
+      "togri": 0
+    },
+    {
+      "savol": "Moddaning miqdori (mol) formulasi qanday ifodalanadi?",
+      "variantlar": ["n = m/M (massa/molyar massa)", "n = m × M", "n = M/m", "n = m + M"],
+      "togri": 0
+    },
+    {
+      "savol": "Ekzotermik reaksiya nima?",
+      "variantlar": ["Issiqlik yutiladigan reaksiya", "Issiqlik ajralib chiqadigan reaksiya", "Hech qanday energiya almashinuvisiz reaksiya", "Faqat yorug'lik chiqaradigan reaksiya"],
+      "togri": 1
+    },
+    {
+      "savol": "Endotermik reaksiya nima?",
+      "variantlar": ["Issiqlik ajralib chiqadigan reaksiya", "Issiqlik yutiladigan reaksiya", "Faqat gaz chiqaradigan reaksiya", "Faqat cho'kma hosil qiladigan reaksiya"],
+      "togri": 1
+    }
+  ]
+}

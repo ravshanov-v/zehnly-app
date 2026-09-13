@@ -1,0 +1,135 @@
+{
+  "label": "Ona tili sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Morfema tushunchasi tilshunoslikda nimani anglatadi?",
+      "variantlar": ["Butun gap", "Tilning eng kichik ma'noli birligi (o'zak yoki qo'shimcha)", "Faqat tovush", "Faqat matn"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitobxonlik\" so'zining tarkibiy tuzilishini to'g'ri ko'rsating.",
+      "variantlar": ["kitob + xon + lik (o'zak + so'z yasovchi + so'z yasovchi qo'shimchalar)", "Faqat bitta o'zakdan iborat", "kitob + xonlik (o'zak + kelishik qo'shimchasi)", "Bo'linmaydigan so'z"],
+      "togri": 0
+    },
+    {
+      "savol": "Quyidagi gapda qaysi so'z ega hisoblanadi: \"Bahodir kitob o'qidi\"?",
+      "variantlar": ["Bahodir", "kitob", "o'qidi", "Hech biri"],
+      "togri": 0
+    },
+    {
+      "savol": "\"Kecha kutubxonaga bordim\" gapida \"kecha\" so'zi qanday gap bo'lagi?",
+      "variantlar": ["Ega", "Payt holi", "Aniqlovchi", "To'ldiruvchi"],
+      "togri": 1
+    },
+    {
+      "savol": "Ergashgan qo'shma gapda ergash gap qanday vazifani bajaradi?",
+      "variantlar": ["Bosh gapdan mustaqil, aloqasiz turadi", "Bosh gapga ma'no jihatdan bog'liq bo'lib, uni to'ldiradi yoki izohlaydi", "Faqat bosh gapni takrorlaydi", "Hech qanday vazifa bajarmaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitob o'qigan bola bilimli bo'ladi\" gapida \"o'qigan\" so'zi qaysi so'z turkumi/shakliga oid?",
+      "variantlar": ["Fe'l (aniqlik mayli)", "Sifatdosh", "Ravishdosh", "Harakat nomi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitobni o'qib, xulosa chiqardim\" gapida \"o'qib\" so'zi qanday shakl?",
+      "variantlar": ["Sifatdosh", "Ravishdosh", "Harakat nomi", "Fe'lning shart mayli"],
+      "togri": 1
+    },
+    {
+      "savol": "Quyidagi so'zlardan qaysi biri sinonim (ma'nodosh) juftlikka misol bo'ladi?",
+      "variantlar": ["katta - kichik", "shod - xursand", "issiq - sovuq", "baland - past"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Ko'zi to'rt bo'ldi\" iborasi qanday ma'noni anglatadi?",
+      "variantlar": ["Ko'zi og'rigan", "Sabrsizlik bilan intiq kutgan", "Ko'zi kattalashgan", "Ko'ra olmay qolgan"],
+      "togri": 1
+    },
+    {
+      "savol": "Quyidagi gapda tinish belgisini to'g'ri qo'yish kerak bo'lgan joyni aniqlang: \"U kitob daftar va qalam sotib oldi\"",
+      "variantlar": ["\"U, kitob, daftar va qalam sotib oldi.\"", "\"U kitob, daftar va qalam sotib oldi.\"", "\"U kitob daftar, va qalam sotib oldi.\"", "Tinish belgisi kerak emas"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kim kelsa, o'sha gapirsin\" gapi qaysi turdagi qo'shma gapga misol?",
+      "variantlar": ["Bog'langan qo'shma gap", "Ergashgan qo'shma gap (shart ergash gapli)", "Sodda gap", "Ajratilgan bo'lakli gap"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitob\" so'zining ko'plik shakli qanday hosil qilinadi?",
+      "variantlar": ["kitob + ning", "kitob + lar", "kitob + ni", "kitob + ga"],
+      "togri": 1
+    },
+    {
+      "savol": "Fe'lning nisbat kategoriyasida \"majhul nisbat\" nimani bildiradi?",
+      "variantlar": ["Ish bajaruvchisi aniq ko'rsatilgan harakat", "Ish bajaruvchisi noma'lum yoki ta'kidlanmagan harakat (masalan: kitob o'qildi)", "Ikki kishi birgalikda bajargan harakat", "O'zi o'ziga qaratilgan harakat"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kelishi bilanoq xabar bering\" gapida \"kelishi bilanoq\" qanday ma'no ifodalaydi?",
+      "variantlar": ["Sabab", "Payt (zudlik bilan)", "Maqsad", "Shart"],
+      "togri": 1
+    },
+    {
+      "savol": "Quyidagilardan qaysi biri frazeologik birlik (turg'un ibora)ga misol?",
+      "variantlar": ["Katta uy", "Boshini qotirmoq", "Yashil daraxt", "Uzun yo'l"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitobni o'qidim\" va \"Kitob o'qildi\" gaplari orasidagi grammatik farq nimada?",
+      "variantlar": ["Farqi yo'q", "Birinchisi aniq nisbat, ikkinchisi majhul nisbatda", "Ikkalasi ham majhul nisbatda", "Ikkalasi ham aniq nisbatda"],
+      "togri": 1
+    },
+    {
+      "savol": "Undalma gapda qanday vazifani bajaradi?",
+      "variantlar": ["Gap bo'lagi hisoblanadi", "Nutq kimga qaratilganini bildiradi, gap bo'lagi hisoblanmaydi", "Faqat ega vazifasini bajaradi", "Faqat kesim vazifasini bajaradi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Bugun, ertaga emas, albatta kelaman\" gapida \"albatta\" so'zi qanday vazifa bajaradi?",
+      "variantlar": ["Ega", "Kirish so'z (modal so'z)", "Kesim", "To'ldiruvchi"],
+      "togri": 1
+    },
+    {
+      "savol": "Nutq uslublaridan qaysi biri rasmiy hujjatlarda ishlatiladi?",
+      "variantlar": ["Badiiy uslub", "Rasmiy-ish uslubi", "So'zlashuv uslubi", "Publitsistik uslub"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitob o'qish - foydali mashg'ulot\" gapida tire (chiziqcha) nima uchun qo'yilgan?",
+      "variantlar": ["Ega va kesim orasida bog'lovchi so'z (bu, ya'ni) tushirilgani uchun", "Sanab o'tish uchun", "Ko'chirma gap uchun", "Sabab yoki natija uchun"],
+      "togri": 0
+    },
+    {
+      "savol": "\"Kitobxon\" so'zidagi \"-xon\" qo'shimchasi qanday ma'no beradi?",
+      "variantlar": ["Kichraytirish ma'nosi", "Kasb-hunar yoki muntazam shug'ullanuvchi shaxs ma'nosi", "Ko'plik ma'nosi", "Payt ma'nosi"],
+      "togri": 1
+    },
+    {
+      "savol": "Uyushiq bo'laklar orasida odatda qanday tinish belgisi qo'yiladi?",
+      "variantlar": ["Nuqta", "Vergul", "Ikki nuqta", "Undov belgisi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kelsa kelar, kelmasa ketar\" kabi maqol tuzilishida qanday gap turi ishlatilgan?",
+      "variantlar": ["Sodda gap", "Bog'langan qo'shma gap", "Ergashgan qo'shma gap (shart ergash gap bilan)", "Undov gap"],
+      "togri": 2
+    },
+    {
+      "savol": "So'z birikmasida \"boshqaruv\" bog'lanish turi qanday amalga oshadi?",
+      "variantlar": ["Bosh so'z ergash so'zni ma'lum kelishik yoki ko'makchi shaklda talab qilishi orqali", "Faqat ohang orqali", "Faqat tartib orqali, hech qanday qo'shimchasiz", "Faqat bog'lovchi orqali"],
+      "togri": 0
+    },
+    {
+      "savol": "\"Kitob o'qiyotgan bola\" birikmasida \"o'qiyotgan\" qanday bog'lanish turi bilan \"bola\" so'ziga bog'langan?",
+      "variantlar": ["Boshqaruv", "Bitishuv", "Moslashuv", "Aralash usul"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitob o'qidim, chunki bilim olmoqchi edim\" gapida \"chunki\" bog'lovchisi qanday ma'no ifodalaydi?",
+      "variantlar": ["Payt", "Sabab", "Maqsad", "Qarama-qarshilik"],
+      "togri": 1
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "label": "Tarix sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Amir Temur davlati poytaxti qaysi shahar edi?",
+      "variantlar": ["Buxoro", "Samarqand", "Xiva", "Toshkent"],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur qachon tug'ilgan?",
+      "variantlar": ["1336-yil", "1370-yil", "1405-yil", "1300-yil"],
+      "togri": 0
+    },
+    {
+      "savol": "Mirzo Ulug'bek qaysi soha bilan mashhur bo'lgan?",
+      "variantlar": ["Faqat harbiy yurishlar", "Astronomiya va matematika", "Faqat savdo", "Faqat dehqonchilik"],
+      "togri": 1
+    },
+    {
+      "savol": "Ulug'bek observatoriyasi qayerda qurilgan?",
+      "variantlar": ["Buxoroda", "Samarqandda", "Xivada", "Qo'qonda"],
+      "togri": 1
+    },
+    {
+      "savol": "Sohibqiron unvoni kimga tegishli?",
+      "variantlar": ["Ulug'bekka", "Amir Temurga", "Boburga", "Ahmad Yassaviyga"],
+      "togri": 1
+    },
+    {
+      "savol": "Buyuk Ipak yo'li nimani anglatadi?",
+      "variantlar": ["Faqat harbiy yo'l", "Sharq va G'arb o'rtasidagi savdo-madaniy aloqalar yo'li", "Faqat diniy yo'l", "Faqat suv yo'li"],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur o'z davlatini boshqarishda qaysi tuzukdan foydalangan?",
+      "variantlar": ["Yasoq", "Temur tuzuklari", "Qonuni asosiy", "Shariat kodeksi"],
+      "togri": 1
+    },
+    {
+      "savol": "Zahiriddin Muhammad Bobur qaysi davlatga asos solgan?",
+      "variantlar": ["Temuriylar davlati", "Boburiylar (Mo'g'ullar) imperiyasi Hindistonda", "Xorazm davlati", "Qo'qon xonligi"],
+      "togri": 1
+    },
+    {
+      "savol": "XVI-XIX asrlarda O'rta Osiyoda qaysi uchta xonlik mavjud edi?",
+      "variantlar": ["Buxoro, Xiva, Qo'qon xonliklari", "Faqat Buxoro xonligi", "Rossiya, Xitoy, Eron", "Faqat Qo'qon xonligi"],
+      "togri": 0
+    },
+    {
+      "savol": "Rossiya imperiyasi Turkistonni qachon bosib olgan (asosiy bosqinlar)?",
+      "variantlar": ["XVIII asrda", "XIX asr ikkinchi yarmida", "XX asr boshida", "XVII asrda"],
+      "togri": 1
+    },
+    {
+      "savol": "Jadidchilik harakati qaysi davrda paydo bo'lgan?",
+      "variantlar": ["XV asrda", "XX asr boshida", "XVIII asrda", "XVII asrda"],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston qachon mustaqillikni qo'lga kiritdi?",
+      "variantlar": ["1989-yil", "1991-yil 31-avgust", "1995-yil", "2000-yil"],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Respublikasining birinchi Prezidenti kim edi?",
+      "variantlar": ["Shavkat Mirziyoyev", "Islom Karimov", "Abdulla Oripov", "Sharof Rashidov"],
+      "togri": 1
+    },
+    {
+      "savol": "Sohibqiron Amir Temur qaysi davlatlarga yurishlar uyushtirgan?",
+      "variantlar": ["Faqat Yevropaga", "Eron, Hindiston, Oltin O'rda va boshqa hududlarga", "Faqat Xitoyga", "Faqat Arabistonga"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Boburnoma\" asari qaysi janrga mansub tarixiy asar?",
+      "variantlar": ["Diniy risola", "Memuar (xotira-tarixiy) asar", "Fantastik roman", "She'riy to'plam"],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushi yillarida O'zbekiston qanday rol o'ynagan?",
+      "variantlar": ["Hech qanday rol o'ynamagan", "Front uchun mudofaa mahsulotlari ishlab chiqargan va ko'chirilgan aholi hamda korxonalarni qabul qilgan", "Faqat neytral bo'lgan", "Urushda qatnashmagan"],
+      "togri": 1
+    },
+    {
+      "savol": "Sovet davrida O'zbekistonda paxta yakkahokimligi siyosati nimani anglatadi?",
+      "variantlar": ["Turli qishloq xo'jaligi ekinlarini rivojlantirish", "Asosan paxta yetishtirishga urg'u berilishi, boshqa ekinlar zarariga", "Faqat sanoatni rivojlantirish", "Faqat chorvachilikni rivojlantirish"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Paxta ishi\" (O'zbek ishi) deb nomlangan voqea nimaga oid edi?",
+      "variantlar": ["Sport musobaqasiga", "Sovet davrida paxta yetishtirish ko'rsatkichlarini soxtalashtirish bilan bog'liq siyosiy jarayonga", "Ilmiy kashfiyotga", "Madaniy festivalga"],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonning davlat ramzlariga (bayroq, gerb, madhiya) qaysi yilda qonuniy asos solingan?",
+      "variantlar": ["1991-yil", "1991-1992-yillarda", "2000-yil", "1985-yil"],
+      "togri": 1
+    },
+    {
+      "savol": "Alisher Navoiy qaysi davlat arbobi sifatida ham tanilgan (Husayn Boyqaro saltanatida)?",
+      "variantlar": ["Harbiy qo'mondon", "Vazir (davlat arbobi)", "Elchi faqat", "Savdogar"],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur o'limidan keyin uning imperiyasi qanday holatga tushdi?",
+      "variantlar": ["Butun holicha saqlanib qoldi", "Vorislar o'rtasida bo'linib, bir necha davlatlarga ajraldi", "Darhol yo'q bo'lib ketdi", "Boshqa davlat tomonidan bosib olindi"],
+      "togri": 1
+    },
+    {
+      "savol": "Xorazm davlati qaysi hududda joylashgan edi?",
+      "variantlar": ["Farg'ona vodiysida", "Amudaryo quyi oqimi hududida", "Zarafshon vodiysida", "Ustyurt platosida"],
+      "togri": 1
+    },
+    {
+      "savol": "Muhammad Xorazmshoh davlatiga qachon mo'g'ullar hujum qilgan?",
+      "variantlar": ["XIII asr boshida", "XV asrda", "XI asrda", "XVIII asrda"],
+      "togri": 0
+    },
+    {
+      "savol": "Chingizxon boshchiligidagi mo'g'ullar bosqini natijasida O'rta Osiyoga qanday ta'sir ko'rsatildi?",
+      "variantlar": ["Hech qanday ta'sir bo'lmagan", "Ko'plab shaharlar vayron qilindi, madaniyat va iqtisodiyotga katta zarar yetkazildi", "Faqat foydali o'zgarishlar bo'ldi", "Iqtisodiyot yanada rivojlandi"],
+      "togri": 1
+    },
+    {
+      "savol": "Sohibqiron davrida ilm-fan va me'morchilik qanday rivojlangan?",
+      "variantlar": ["Butunlay tanazzulga uchragan", "Samarqand va boshqa shaharlarda buyuk me'moriy obidalar qurilgan, ilm-fan rag'batlantirilgan", "Hech qanday rivojlanish bo'lmagan", "Faqat harbiy soha rivojlangan"],
+      "togri": 1
+    },
+    {
+      "savol": "Qo'qon xonligi qaysi hududda joylashgan edi?",
+      "variantlar": ["Xorazm vohasida", "Farg'ona vodiysida", "Zarafshon vodiysida", "Ustyurt platosida"],
+      "togri": 1
+    },
+    {
+      "savol": "Turkiston general-gubernatorligi qachon tashkil etilgan?",
+      "variantlar": ["1867-yil", "1917-yil", "1991-yil", "1800-yil"],
+      "togri": 0
+    },
+    {
+      "savol": "1917-yilgi voqealar (Rossiyadagi inqilob) O'rta Osiyoga qanday ta'sir ko'rsatdi?",
+      "variantlar": ["Hech qanday ta'sir ko'rsatmadi", "Mintaqada siyosiy tuzum o'zgarishiga va Sovet hokimiyati o'rnatilishiga olib keldi", "Mintaqa mustaqil bo'lib qoldi", "Mintaqa boshqa davlatga qo'shildi"],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda Konstitutsiya qachon qabul qilingan?",
+      "variantlar": ["1991-yil 8-dekabr", "1992-yil 8-dekabr", "1995-yil", "2000-yil"],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur haykali va yodgorlik majmualari qaysi shaharlarda joylashgan?",
+      "variantlar": ["Faqat xorijda", "Toshkent, Samarqand, Shahrisabz va boshqa shaharlarda", "Faqat Buxoroda", "Hech qayerda yo'q"],
+      "togri": 1
+    }
+  ]
+}

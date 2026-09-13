@@ -1,0 +1,145 @@
+{
+  "label": "Biologiya sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "DNK molekulasining tuzilishi qanday shaklga ega?",
+      "variantlar": ["Bir zanjirli spiral", "Ikki zanjirli spiral (qo'sh spiral)", "Uch zanjirli spiral", "To'g'ri chiziqli tuzilma"],
+      "togri": 1
+    },
+    {
+      "savol": "Mitoz bo'linish natijasida hosil bo'lgan hujayralar ona hujayraga nisbatan qanday xromosoma to'plamiga ega?",
+      "variantlar": ["Ikki barobar ko'p", "Bir xil (ona hujayraga o'xshash)", "Yarim miqdorda", "To'rt barobar ko'p"],
+      "togri": 1
+    },
+    {
+      "savol": "Meyoz bo'linish natijasida hosil bo'lgan jinsiy hujayralar xromosoma to'plami qanday bo'ladi?",
+      "variantlar": ["Diploid (2n)", "Gaploid (n) — yarim miqdorda", "Tetraploid (4n)", "O'zgarmaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Fotosintez jarayonining umumiy tenglamasida qatnashuvchi asosiy moddalar qaysilar?",
+      "variantlar": ["Kislorod va azot", "Karbonat angidrid, suv va yorug'lik energiyasi", "Faqat suv", "Faqat kislorod"],
+      "togri": 1
+    },
+    {
+      "savol": "Genetikada gomozigota organizm nima?",
+      "variantlar": ["Bir juft gen bo'yicha bir xil allellarga ega organizm", "Har xil allellarga ega organizm", "Genlarsiz organizm", "Faqat resessiv genli organizm"],
+      "togri": 0
+    },
+    {
+      "savol": "Geterozigota organizm nima?",
+      "variantlar": ["Bir juft gen bo'yicha bir xil allellarga ega", "Bir juft gen bo'yicha har xil (dominant va resessiv) allellarga ega", "Genlarsiz organizm", "Faqat dominant genli organizm"],
+      "togri": 1
+    },
+    {
+      "savol": "Mendelning birinchi qonuni (yagona shakllanish qonuni) nimani ifodalaydi?",
+      "variantlar": ["F1 avlodda barcha organizmlar bir xil fenotipga ega bo'ladi", "F1 avlodda turli fenotiplar paydo bo'ladi", "Genlar aralashib ketadi", "Hech qanday qonuniyat yo'q"],
+      "togri": 0
+    },
+    {
+      "savol": "Hujayrada energiya ishlab chiqaruvchi organoid qaysi?",
+      "variantlar": ["Yadro", "Mitoxondriya", "Ribosoma", "Golji apparati"],
+      "togri": 1
+    },
+    {
+      "savol": "Oqsil sintezi hujayraning qaysi organoidida sodir bo'ladi?",
+      "variantlar": ["Mitoxondriyada", "Ribosomada", "Lizosomada", "Vakuolada"],
+      "togri": 1
+    },
+    {
+      "savol": "Ekosistemada energiya oqimi qanday yo'nalishda boradi?",
+      "variantlar": ["Produtsentlardan konsumentlarga va redutsentlarga", "Faqat redutsentlardan produtsentlarga", "Ikki tomonlama teng ravishda", "Energiya oqimi bo'lmaydi"],
+      "togri": 0
+    },
+    {
+      "savol": "Tabiiy tanlanish nazariyasini kim yaratgan?",
+      "variantlar": ["Grigor Mendel", "Charlz Darvin", "Lui Paster", "Robert Guk"],
+      "togri": 1
+    },
+    {
+      "savol": "Mutatsiya nima?",
+      "variantlar": ["Organizmning oddiy o'sishi", "Genetik materialdagi to'satdan yuzaga keladigan o'zgarish", "Faqat tashqi ko'rinish o'zgarishi", "Faqat ovqatlanish o'zgarishi"],
+      "togri": 1
+    },
+    {
+      "savol": "Gomeostaz nima?",
+      "variantlar": ["Organizm ichki muhitining doimiyligini saqlash qobiliyati", "Organizmning tashqi o'zgarishi", "Faqat harorat o'zgarishi", "Organizmning o'lishi"],
+      "togri": 0
+    },
+    {
+      "savol": "Fermentlar (enzimlar) qanday vazifani bajaradi?",
+      "variantlar": ["Kimyoviy reaksiyalarni tezlashtiruvchi biologik katalizatorlar", "Faqat energiya saqlaydi", "Faqat harakatni ta'minlaydi", "Faqat rang beradi"],
+      "togri": 0
+    },
+    {
+      "savol": "Gormonlar organizmda qanday vazifani bajaradi?",
+      "variantlar": ["Faqat tashqi ko'rinishni belgilaydi", "Organizmning turli funksiyalarini kimyoviy yo'l bilan boshqaradi va muvofiqlashtiradi", "Faqat energiya beradi", "Hech qanday vazifasi yo'q"],
+      "togri": 1
+    },
+    {
+      "savol": "Immunitet tizimi organizmni nimadan himoya qiladi?",
+      "variantlar": ["Faqat sovuqdan", "Kasallik qo'zg'atuvchi mikroorganizmlar va begona moddalardan", "Faqat quyosh nuridan", "Faqat ovqatdan"],
+      "togri": 1
+    },
+    {
+      "savol": "Evolyutsiya jarayonida moslashish (adaptatsiya) nima?",
+      "variantlar": ["Organizmning atrof-muhitga moslashish natijasida hosil bo'ladigan xususiyatlari", "Faqat tashqi ko'rinish o'zgarishi", "Faqat kasallanish", "Organizmning yo'q bo'lib ketishi"],
+      "togri": 0
+    },
+    {
+      "savol": "Trofik zanjir (oziq zanjiri)da energiya har bosqichda qanday o'zgaradi?",
+      "variantlar": ["Ko'payadi", "Kamayadi (taxminan 10% saqlanadi)", "O'zgarmaydi", "Butunlay yo'qoladi"],
+      "togri": 1
+    },
+    {
+      "savol": "RNK va DNK orasidagi asosiy farqlardan biri nima?",
+      "variantlar": ["RNK ikki zanjirli, DNK bir zanjirli", "RNK bir zanjirli, DNK ikki zanjirli, va RNKda uratsil, DNKda timin bo'ladi", "Ular butunlay bir xil", "RNK faqat hayvonlarda, DNK faqat o'simliklarda bo'ladi"],
+      "togri": 1
+    },
+    {
+      "savol": "Fotosintez va nafas olish jarayonlari orasidagi bog'liqlik qanday?",
+      "variantlar": ["Bir-biriga umuman bog'liq emas", "Fotosintez kislorod va organik moddalar ishlab chiqaradi, nafas olish ularni sarflaydi", "Ikkalasi ham bir xil jarayon", "Faqat hayvonlarda ikkalasi ham sodir bo'ladi"],
+      "togri": 1
+    },
+    {
+      "savol": "Biologik xilma-xillikning uch asosiy darajasi qaysilar?",
+      "variantlar": ["Genetik, tur va ekotizim xilma-xilligi", "Faqat genetik xilma-xillik", "Faqat tur xilma-xilligi", "Faqat rang xilma-xilligi"],
+      "togri": 0
+    },
+    {
+      "savol": "Xromosoma nima?",
+      "variantlar": ["Hujayra membranasi", "DNK va oqsillardan tashkil topgan, irsiy ma'lumotni tashuvchi struktura", "Hujayra devori", "Energiya manbai"],
+      "togri": 1
+    },
+    {
+      "savol": "Dominant va resessiv allel tushunchalari orasidagi farq nima?",
+      "variantlar": ["Dominant allel geterozigota holatda o'z ta'sirini namoyon qiladi, resessiv esa faqat gomozigota holatda", "Farqi yo'q", "Resessiv allel har doim kuchliroq", "Dominant allel faqat gomozigota holatda namoyon bo'ladi"],
+      "togri": 0
+    },
+    {
+      "savol": "Sitoplazma hujayrada qanday vazifani bajaradi?",
+      "variantlar": ["Faqat DNKni saqlaydi", "Organoidlar joylashgan, moddalar almashinuvi sodir bo'ladigan muhit", "Faqat energiya ishlab chiqaradi", "Faqat hujayra devorini hosil qiladi"],
+      "togri": 1
+    },
+    {
+      "savol": "Populyatsiya genetikasida gen fondi (genofond) nima?",
+      "variantlar": ["Bitta organizmning genlari", "Muayyan populyatsiyadagi barcha organizmlarning genlari to'plami", "Faqat dominant genlar to'plami", "Faqat mutatsiyaga uchragan genlar"],
+      "togri": 1
+    },
+    {
+      "savol": "Simbioz munosabatlarga qaysi biri to'g'ri misol bo'ladi?",
+      "variantlar": ["Yirtqich va o'ljasi", "Lishaynikdagi zamburug' va suvo't", "Ikki raqobatchi tur", "Parazit va xo'jayin"],
+      "togri": 1
+    },
+    {
+      "savol": "Biotexnologiya sohasida gen muhandisligi nima uchun ishlatiladi?",
+      "variantlar": ["Faqat tabiiy jarayonlarni kuzatish uchun", "Organizmlarning genetik materialini maqsadli o'zgartirish uchun", "Faqat rang o'zgartirish uchun", "Faqat hajmni o'zgartirish uchun"],
+      "togri": 1
+    },
+    {
+      "savol": "Antibiotiklarga chidamlilik qanday evolyutsion jarayon natijasida yuzaga keladi?",
+      "variantlar": ["Tabiiy tanlanish orqali chidamli bakteriyalarning ustunlik qilishi", "Faqat tasodifiy hodisa", "Faqat inson aralashuvi natijasida", "Hech qanday jarayon yo'q"],
+      "togri": 0
+    }
+  ]
+}

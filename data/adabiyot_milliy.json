@@ -1,0 +1,135 @@
+{
+  "label": "Adabiyot sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Alisher Navoiyning \"Xamsa\"siga kirmaydigan doston qaysi?",
+      "variantlar": ["\"Hayrat ul-abror\"", "\"Farhod va Shirin\"", "\"Boburnoma\"", "\"Saddi Iskandariy\""],
+      "togri": 2
+    },
+    {
+      "savol": "\"Lison ut-tayr\" asari qaysi mavzuga bag'ishlangan?",
+      "variantlar": ["Tasavvufiy-falsafiy g'oyalarga, qushlar tili orqali ifodalangan", "Faqat harbiy voqealarga", "Faqat tarixiy sanalarga", "Faqat tabiat tasviriga"],
+      "togri": 0
+    },
+    {
+      "savol": "Navoiyning \"Muhokamat ul-lug'atayn\" asarida qaysi ikki til qiyoslanadi?",
+      "variantlar": ["Arab va fors tillari", "Turkiy va forsiy tillar", "Rus va o'zbek tillari", "Ingliz va fransuz tillari"],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulla Qodiriyning \"Mehrobdan chayon\" romani qaysi davr voqealarini tasvirlaydi?",
+      "variantlar": ["Zamonaviy davr", "Qo'qon xonligi davri", "Sovet davri", "Amir Temur davri"],
+      "togri": 1
+    },
+    {
+      "savol": "Cho'lponning ijodiy merosida qaysi janrlar mavjud?",
+      "variantlar": ["Faqat she'riyat", "She'riyat, nasr (\"Kecha va kunduz\") va dramaturgiya", "Faqat drama", "Faqat tarjima"],
+      "togri": 1
+    },
+    {
+      "savol": "Fitratning dramaturgiyadagi asarlaridan biri qaysi?",
+      "variantlar": ["\"Abulfayzxon\"", "\"O'tkan kunlar\"", "\"Qutlug' qon\"", "\"Alpomish\""],
+      "togri": 0
+    },
+    {
+      "savol": "Oybekning \"Navoiy\" romani qaysi janrga mansub?",
+      "variantlar": ["Tarixiy-biografik roman", "Fantastik roman", "Detektiv roman", "Sarguzasht qissasi"],
+      "togri": 0
+    },
+    {
+      "savol": "Abdulla Qahhorning ijodiy uslubiga xos xususiyat qaysi?",
+      "variantlar": ["Faqat uzun romanlar yozish", "Ixcham, chuqur psixologik tahlilli hikoyalar yaratish", "Faqat she'r yozish", "Faqat tarjima qilish"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Sarob\" romani qaysi ijtimoiy illatni tanqid qiladi?",
+      "variantlar": ["Faqat qishloq turmushini", "Ziyolilar orasidagi ikkiyuzlamachilik va shaxsiyatparastlikni", "Faqat harbiy intizomsizlikni", "Faqat savdo-sotiqdagi firibgarlikni"],
+      "togri": 1
+    },
+    {
+      "savol": "Pirimqul Qodirovning \"Yulduzli tunlar\" va \"Avlodlar dovoni\" romanlari qaysi tarixiy shaxsga bag'ishlangan?",
+      "variantlar": ["Alisher Navoiyga", "Zahiriddin Muhammad Boburga", "Amir Temurga", "Ulug'bekka"],
+      "togri": 1
+    },
+    {
+      "savol": "O'tkir Hoshimovning \"Dunyoning ishlari\" romani qanday mavzuni yoritadi?",
+      "variantlar": ["Faqat harbiy voqealar", "Zamonaviy inson taqdiri va oilaviy munosabatlar", "Faqat tarixiy voqealar", "Faqat ilmiy mavzular"],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiyotshunoslikda \"tip\" (tipik obraz) tushunchasi nimani anglatadi?",
+      "variantlar": ["Faqat noyob, takrorlanmas shaxs", "Muayyan davr yoki muhitga xos umumlashgan xususiyatlarni mujassam etgan obraz", "Faqat muallifning o'zi", "Faqat sarlavha"],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy asarda \"konflikt\" (ziddiyat) qanday vazifani bajaradi?",
+      "variantlar": ["Hech qanday vazifa bajarmaydi", "Syujetni harakatga keltiradi, voqealar rivojiga turtki beradi", "Faqat sarlavhani belgilaydi", "Faqat asar hajmini belgilaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Realizm adabiy yo'nalishining asosiy tamoyili nima?",
+      "variantlar": ["Xayoliy voqealarni tasvirlash", "Voqelikni haqqoniy tasvirlash", "Faqat ramziy tasvir", "Faqat mavhum g'oyalar"],
+      "togri": 1
+    },
+    {
+      "savol": "Jadidchilik harakati adabiyotda qanday g'oyalarni targ'ib qilgan?",
+      "variantlar": ["Eski tuzumni saqlash", "Ma'rifat, taraqqiyot va milliy uyg'onish", "Faqat diniy an'analarni kuchaytirish", "Faqat harbiy kuchni oshirish"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Sotsialistik realizm\" nima edi?",
+      "variantlar": ["Erkin ijod uslubi", "Sovet davrida rasmiy mafkura talablariga mos badiiy metod", "Faqat diniy adabiyot", "Faqat xalq og'zaki ijodi"],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy o'zbek adabiyotida Erkin A'zam qaysi janrda ijod qiladi?",
+      "variantlar": ["Faqat she'riyat", "Nasr (qissa, hikoya)", "Faqat drama", "Faqat tarjima"],
+      "togri": 1
+    },
+    {
+      "savol": "Xurshid Do'stmuhammad ijodida qaysi mavzular ustunlik qiladi?",
+      "variantlar": ["Faqat tarixiy mavzular", "Zamonaviy inson ruhiy olami va ijtimoiy muammolar", "Faqat harbiy mavzular", "Faqat ilmiy-fantastik mavzular"],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy tanqidning vazifasi nima?",
+      "variantlar": ["Faqat asar yozish", "Badiiy asarlarni tahlil qilish va baholash", "Faqat kitob sotish", "Faqat lug'at tuzish"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Xronotop\" adabiyotshunoslik atamasi nimani ifodalaydi?",
+      "variantlar": ["Faqat sarlavhani", "Asardagi vaqt va makonning o'zaro bog'liqligini", "Faqat muallif haqidagi ma'lumotni", "Faqat qofiya turini"],
+      "togri": 1
+    },
+    {
+      "savol": "Said Ahmadning \"Ufq\" romani qaysi davr voqealarini aks ettiradi?",
+      "variantlar": ["XV asr", "XX asr O'zbekiston hayoti", "Qadimgi davr", "Kelajak haqida"],
+      "togri": 1
+    },
+    {
+      "savol": "Turdi shoirning ijodida qaysi mavzu ustunlik qiladi?",
+      "variantlar": ["Faqat ertaklar", "Ijtimoiy-tanqidiy va satirik mavzular", "Faqat diniy risolalar", "Faqat memuarlar"],
+      "togri": 1
+    },
+    {
+      "savol": "Ogahiy va Munis Xorazmiy qaysi adabiy muhitning vakillari edi?",
+      "variantlar": ["Farg'ona adabiy muhiti", "Xorazm adabiy muhiti", "Buxoro adabiy muhiti", "Samarqand adabiy muhiti"],
+      "togri": 1
+    },
+    {
+      "savol": "Muqimiy ijodida qaysi janr ustunlik qiladi?",
+      "variantlar": ["Faqat qasida", "Ijtimoiy-maishiy mavzudagi she'rlar va satira", "Faqat marsiya", "Faqat doston"],
+      "togri": 1
+    },
+    {
+      "savol": "Furqatning adabiy merosida qanday yangi janr namoyon bo'ladi?",
+      "variantlar": ["Faqat g'azal", "Sayohatnoma va publitsistik asarlar", "Faqat ruboiy", "Faqat qasida"],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy o'zbek she'riyatida Abdulla Oripov va Erkin Vohidov qanday o'rin tutadi?",
+      "variantlar": ["Ular faqat tarjimon bo'lgan", "XX asr o'zbek she'riyatining yirik namoyandalari hisoblanadi", "Ular faqat nasrda ijod qilgan", "Ular faqat dramaturg bo'lgan"],
+      "togri": 1
+    }
+  ]
+}

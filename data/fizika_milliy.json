@@ -1,0 +1,155 @@
+{
+  "label": "Fizika sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Tekis tezlanuvchan harakatda boshlang'ich tezlik 0, tezlanish 2 m/s² bo'lsa, 5 sekunddan keyingi tezlik nechaga teng?",
+      "variantlar": ["5 m/s", "10 m/s", "20 m/s", "2.5 m/s"],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 2 kg bo'lgan jism 10 m/s tezlikda harakatlanmoqda. Uning kinetik energiyasi nechaga teng?",
+      "variantlar": ["20 J", "100 J", "200 J", "10 J"],
+      "togri": 1
+    },
+    {
+      "savol": "Nyutonning ikkinchi qonuniga ko'ra F = ma. Agar m=5 kg, a=2 m/s² bo'lsa, F nechaga teng?",
+      "variantlar": ["7 N", "10 N", "2.5 N", "20 N"],
+      "togri": 1
+    },
+    {
+      "savol": "Erkin tushish tezlanishi taxminan nechaga teng?",
+      "variantlar": ["8.8 m/s²", "9.8 m/s²", "10.8 m/s²", "11.8 m/s²"],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr qarshiligi 10 Ω, kuchlanish 20 V bo'lsa, tok kuchi nechaga teng (Om qonuni)?",
+      "variantlar": ["0.5 A", "2 A", "200 A", "30 A"],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkita 5 Ω qarshilik ketma-ket ulansa, umumiy qarshilik nechaga teng?",
+      "variantlar": ["2.5 Ω", "5 Ω", "10 Ω", "25 Ω"],
+      "togri": 2
+    },
+    {
+      "savol": "Ikkita 4 Ω qarshilik parallel ulansa, umumiy qarshilik nechaga teng?",
+      "variantlar": ["8 Ω", "4 Ω", "2 Ω", "1 Ω"],
+      "togri": 2
+    },
+    {
+      "savol": "Yorug'likning vakuumdagi tezligi taxminan nechaga teng?",
+      "variantlar": ["300 000 km/s", "150 000 km/s", "3 000 km/s", "3 000 000 km/s"],
+      "togri": 0
+    },
+    {
+      "savol": "Mexanik ish formulasi qanday ifodalanadi?",
+      "variantlar": ["A = F·s", "A = m·a", "A = m·v", "A = F/s"],
+      "togri": 0
+    },
+    {
+      "savol": "Bosim formulasi qanday ifodalanadi?",
+      "variantlar": ["P = F/S", "P = F·S", "P = m·g", "P = F+S"],
+      "togri": 0
+    },
+    {
+      "savol": "Suvning qaynash harorati normal atmosfera bosimida nechaga teng?",
+      "variantlar": ["90°C", "100°C", "110°C", "0°C"],
+      "togri": 1
+    },
+    {
+      "savol": "Energiyaning saqlanish qonuniga ko'ra, yopiq tizimda energiya nima bo'ladi?",
+      "variantlar": ["Yo'qoladi", "Saqlanadi (bir turdan ikkinchi turga o'tadi)", "Ko'payadi", "Kamayadi"],
+      "togri": 1
+    },
+    {
+      "savol": "Amper qonuniga ko'ra elektr o'tkazgichdagi kuch nimaga bog'liq?",
+      "variantlar": ["Faqat kuchlanishga", "Tok kuchi, o'tkazgich uzunligi va magnit maydon induksiyasiga", "Faqat haroratga", "Faqat massaga"],
+      "togri": 1
+    },
+    {
+      "savol": "Impuls (harakat miqdori) formulasi qanday?",
+      "variantlar": ["p = mv", "p = ma", "p = mgh", "p = Fs"],
+      "togri": 0
+    },
+    {
+      "savol": "Mexanik tebranishlarning davri T va chastotasi ν orasidagi bog'lanish qanday?",
+      "variantlar": ["T = ν", "T = 1/ν", "T = ν²", "T = 2ν"],
+      "togri": 1
+    },
+    {
+      "savol": "Optikada linzaning fokus masofasi f va predmet masofasi d, tasvir masofasi f' orasidagi bog'lanish (yupqa linza formulasi) qanday?",
+      "variantlar": ["1/f = 1/d + 1/f'", "f = d + f'", "f = d·f'", "1/f = d - f'"],
+      "togri": 0
+    },
+    {
+      "savol": "Gaz qonunlaridan Boyl-Mariott qonuni nimani ifodalaydi?",
+      "variantlar": ["Doimiy haroratda bosim va hajm ko'paytmasi doimiy", "Doimiy bosimda hajm va harorat nisbati doimiy", "Doimiy hajmda bosim va harorat nisbati doimiy", "Hech qanday qonuniyat yo'q"],
+      "togri": 0
+    },
+    {
+      "savol": "Molekulyar-kinetik nazariyaga ko'ra moddaning harorati nimaga bog'liq?",
+      "variantlar": ["Molekulalarning o'rtacha kinetik energiyasiga", "Molekulalar soniga", "Faqat bosimga", "Faqat hajmga"],
+      "togri": 0
+    },
+    {
+      "savol": "Elektromagnit induksiya hodisasini kim kashf etgan?",
+      "variantlar": ["Isaak Nyuton", "Maykl Faradey", "Albert Eynshteyn", "Nikola Tesla"],
+      "togri": 1
+    },
+    {
+      "savol": "Yadro reaktsiyalarida massa defekti nimani anglatadi?",
+      "variantlar": ["Yadro massasining reaksiyadan oldingi va keyingi qismlar yig'indisidan farqi, energiyaga aylanadi", "Yadroning umuman yo'qolishi", "Faqat elektronlar yo'qolishi", "Hech qanday ma'noga ega emas"],
+      "togri": 0
+    },
+    {
+      "savol": "Om qonuniga ko'ra kuchlanish, tok kuchi va qarshilik orasidagi bog'lanish qanday?",
+      "variantlar": ["U = I·R", "U = I/R", "U = I+R", "U = I-R"],
+      "togri": 0
+    },
+    {
+      "savol": "Mexanik energiya (to'liq energiya) qanday ikkita energiya yig'indisidan iborat?",
+      "variantlar": ["Issiqlik va yorug'lik", "Kinetik va potensial energiya", "Elektr va magnit energiya", "Kimyoviy va yadro energiyasi"],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 4 kg bo'lgan jism 20 m balandlikka ko'tarilgan bo'lsa, uning potensial energiyasi nechaga teng (g=10 m/s² deb olib)?",
+      "variantlar": ["80 J", "800 J", "8 J", "40 J"],
+      "togri": 1
+    },
+    {
+      "savol": "Nurning sindirish qonuniga ko'ra, nur zich muhitga o'tganda qanday xatti-harakat qiladi?",
+      "variantlar": ["Normaldan uzoqlashadi", "Normalga yaqinlashadi", "Yo'nalishini o'zgartirmaydi", "To'liq qaytadi"],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr quvvati formulasi qanday ifodalanadi?",
+      "variantlar": ["P = UI", "P = U/I", "P = U+I", "P = U-I"],
+      "togri": 0
+    },
+    {
+      "savol": "Termodinamikaning birinchi qonuni nimani ifodalaydi?",
+      "variantlar": ["Energiya hech qachon o'zgarmaydi", "Sistemaga berilgan issiqlik uning ichki energiyasini oshirish va ish bajarishga sarflanadi", "Issiqlik faqat sovuq jismdan issiq jismga o'tadi", "Hech qanday qonuniyat yo'q"],
+      "togri": 1
+    },
+    {
+      "savol": "Tovush to'lqinlarining tezligi havoda taxminan nechaga teng?",
+      "variantlar": ["34 m/s", "340 m/s", "3400 m/s", "3.4 m/s"],
+      "togri": 1
+    },
+    {
+      "savol": "Elektr yukining SI tizimidagi o'lchov birligi qaysi?",
+      "variantlar": ["Amper", "Kulon", "Volt", "Om"],
+      "togri": 1
+    },
+    {
+      "savol": "Mexanik ishning SI tizimidagi o'lchov birligi qaysi?",
+      "variantlar": ["Vatt", "Joul", "Nyuton", "Paskal"],
+      "togri": 1
+    },
+    {
+      "savol": "Radioaktivlik hodisasini kim kashf etgan?",
+      "variantlar": ["Anri Bekkerel", "Isaak Nyuton", "Galileo Galiley", "Jeyms Maksvell"],
+      "togri": 0
+    }
+  ]
+}

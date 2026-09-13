@@ -1,0 +1,180 @@
+{
+  "label": "Matematika sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "2x² - 5x + 2 = 0 tenglamaning ildizlari yig'indisi nechaga teng?",
+      "variantlar": ["2", "2.5", "-2.5", "5"],
+      "togri": 1
+    },
+    {
+      "savol": "log₂8 + log₃9 ifodaning qiymati nechaga teng?",
+      "variantlar": ["5", "6", "7", "11"],
+      "togri": 0
+    },
+    {
+      "savol": "f(x) = x² - 4x + 3 funksiyaning minimal qiymati nechaga teng?",
+      "variantlar": ["-1", "0", "1", "-3"],
+      "togri": 0
+    },
+    {
+      "savol": "Arifmetik progressiyaning birinchi hadi 3, ayirmasi 4 bo'lsa, 10-hadi nechaga teng?",
+      "variantlar": ["36", "39", "40", "43"],
+      "togri": 1
+    },
+    {
+      "savol": "Geometrik progressiyada b₁=2, q=3 bo'lsa, b₄ nechaga teng?",
+      "variantlar": ["18", "54", "36", "27"],
+      "togri": 1
+    },
+    {
+      "savol": "sin30° + cos60° ifodaning qiymati nechaga teng?",
+      "variantlar": ["0.5", "1", "1.5", "0"],
+      "togri": 1
+    },
+    {
+      "savol": "x² - 9 < 0 tengsizlikning yechimi qaysi oraliq?",
+      "variantlar": ["(-3; 3)", "(-∞; -3) ∪ (3; +∞)", "(3; +∞)", "(-∞; 3)"],
+      "togri": 0
+    },
+    {
+      "savol": "Uchburchakning ikki tomoni 5 va 12 ga teng, ular orasidagi burchak 90° bo'lsa, uchinchi tomon nechaga teng?",
+      "variantlar": ["13", "17", "60", "7"],
+      "togri": 0
+    },
+    {
+      "savol": "Aylananing radiusi 6 bo'lsa, uning yuzi nechaga teng (π orqali)?",
+      "variantlar": ["12π", "36π", "6π", "18π"],
+      "togri": 1
+    },
+    {
+      "savol": "5 ta elementdan 3 tasini tanlash mumkin bo'lgan usullar soni (C(5,3)) nechaga teng?",
+      "variantlar": ["10", "15", "20", "60"],
+      "togri": 0
+    },
+    {
+      "savol": "f(x) = 3x² + 2x - 1 funksiyaning x=1 nuqtadagi hosilasi nechaga teng?",
+      "variantlar": ["6", "8", "5", "4"],
+      "togri": 1
+    },
+    {
+      "savol": "∫(2x)dx integral nechaga teng (C - ixtiyoriy o'zgarmas)?",
+      "variantlar": ["x² + C", "2x² + C", "x²/2 + C", "2 + C"],
+      "togri": 0
+    },
+    {
+      "savol": "To'g'ri burchakli uchburchakda katetlar 6 va 8 bo'lsa, gipotenuza nechaga teng?",
+      "variantlar": ["10", "14", "48", "12"],
+      "togri": 0
+    },
+    {
+      "savol": "3 ta tanga tashlanganda barcha uchida gerb tushish ehtimoli nechaga teng?",
+      "variantlar": ["1/2", "1/4", "1/8", "1/6"],
+      "togri": 2
+    },
+    {
+      "savol": "Kub hajmi 27 bo'lsa, uning qirrasi nechaga teng?",
+      "variantlar": ["3", "9", "27", "6"],
+      "togri": 0
+    },
+    {
+      "savol": "|2x - 4| = 6 tenglamaning yechimlari yig'indisi nechaga teng?",
+      "variantlar": ["4", "8", "-2", "6"],
+      "togri": 0
+    },
+    {
+      "savol": "Funksiya y = 2^x ning grafigi qaysi nuqtadan o'tadi?",
+      "variantlar": ["(0; 0)", "(0; 1)", "(1; 0)", "(0; 2)"],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkita to'plam A={1,2,3,4} va B={3,4,5,6}. A∩B nechta elementdan iborat?",
+      "variantlar": ["2", "4", "6", "8"],
+      "togri": 0
+    },
+    {
+      "savol": "Kvadrat tenglama x² - 6x + 9 = 0 nechta ildizga ega?",
+      "variantlar": ["0", "1 (karrali)", "2 xar xil", "cheksiz"],
+      "togri": 1
+    },
+    {
+      "savol": "Funksiyaning aniqlanish sohasi y = √(x-2) uchun qanday?",
+      "variantlar": ["x ≥ 2", "x ≤ 2", "x > 2", "barcha haqiqiy sonlar"],
+      "togri": 0
+    },
+    {
+      "savol": "Parallelogrammning yuzi asosi 8, balandligi 5 bo'lsa, nechaga teng?",
+      "variantlar": ["13", "40", "20", "26"],
+      "togri": 1
+    },
+    {
+      "savol": "5! (5 faktorial) ning qiymati nechaga teng?",
+      "variantlar": ["20", "60", "120", "25"],
+      "togri": 2
+    },
+    {
+      "savol": "Chiziqli tenglamalar sistemasi 2x+y=5, x-y=1 ning yechimi qanday?",
+      "variantlar": ["x=2, y=1", "x=1, y=3", "x=3, y=-1", "x=2, y=3"],
+      "togri": 0
+    },
+    {
+      "savol": "tg45° ning qiymati nechaga teng?",
+      "variantlar": ["0", "1", "√3", "√2"],
+      "togri": 1
+    },
+    {
+      "savol": "Modul ichidagi ifoda: agar a<0 bo'lsa, |a| nechaga teng?",
+      "variantlar": ["a", "-a", "0", "a²"],
+      "togri": 1
+    },
+    {
+      "savol": "y = x³ funksiyaning hosilasi nechaga teng?",
+      "variantlar": ["x²", "3x²", "3x", "x³/3"],
+      "togri": 1
+    },
+    {
+      "savol": "10 ta odam orasidan 2 kishilik komissiya tanlashning usullari soni (tartib muhim emas)?",
+      "variantlar": ["20", "45", "90", "100"],
+      "togri": 1
+    },
+    {
+      "savol": "Uchburchakning burchaklari yig'indisi necha darajaga teng?",
+      "variantlar": ["90°", "180°", "270°", "360°"],
+      "togri": 1
+    },
+    {
+      "savol": "log₅125 ning qiymati nechaga teng?",
+      "variantlar": ["2", "3", "5", "25"],
+      "togri": 1
+    },
+    {
+      "savol": "y=x²-2x-3 parabolaning uchi (vertex) qaysi nuqtada joylashgan?",
+      "variantlar": ["(1; -4)", "(-1; 0)", "(1; 4)", "(0; -3)"],
+      "togri": 0
+    },
+    {
+      "savol": "Bir vaqtda ikkita zar tashlanganda ikkalasida ham 6 tushish ehtimoli nechaga teng?",
+      "variantlar": ["1/6", "1/12", "1/36", "1/3"],
+      "togri": 2
+    },
+    {
+      "savol": "Silindrning radiusi 3, balandligi 5 bo'lsa, hajmi nechaga teng (π orqali)?",
+      "variantlar": ["15π", "45π", "30π", "9π"],
+      "togri": 1
+    },
+    {
+      "savol": "Funksiya y=1/x uchun x=0 nuqtada nima bo'ladi?",
+      "variantlar": ["Funksiya 0 ga teng", "Funksiya aniqlanmagan", "Funksiya 1 ga teng", "Funksiya cheksizlikka teng"],
+      "togri": 1
+    },
+    {
+      "savol": "2 va 3 ehtimolli mustaqil hodisalar ko'paytmasi qoidasiga ko'ra, P(A)=0.5, P(B)=0.4 bo'lsa, P(A va B) nechaga teng?",
+      "variantlar": ["0.9", "0.2", "0.1", "0.45"],
+      "togri": 1
+    },
+    {
+      "savol": "Kvadrat ichiga chizilgan aylananing radiusi kvadrat tomonining yarmiga teng bo'lsa, kvadrat tomoni 10 bo'lganda radius nechaga teng?",
+      "variantlar": ["5", "10", "20", "2.5"],
+      "togri": 0
+    }
+  ]
+}
