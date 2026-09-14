@@ -379,8 +379,10 @@ function getMavzuFromUrl() {
 }
 
 const activeMavzu = getMavzuFromUrl();
+const isMilliy = activeMavzu.endsWith('_milliy');
 
 const BATCH_SIZE = 20;
+let effectiveBatchSize = BATCH_SIZE;
 let questions = [];
 let mavzuLabel = '';
 let pool = [];
@@ -406,6 +408,9 @@ async function init() {
     return;
   }
 
+  // Milliy sertifikat sinovida barcha savollar bir martalik tarzda, to'liq beriladi
+  effectiveBatchSize = isMilliy ? questions.length : BATCH_SIZE;
+
   document.getElementById('loadingText').style.display = 'none';
   document.getElementById('quizScreen').style.display = 'flex';
   document.getElementById('synapseTrail').style.display = 'flex';
@@ -421,7 +426,7 @@ function nextBatch() {
   if (pool.length === 0) pool = shuffle(questions);
 
   let batch = [];
-  while (batch.length < BATCH_SIZE) {
+  while (batch.length < effectiveBatchSize) {
     if (poolPos >= pool.length) {
       pool = shuffle(questions);
       poolPos = 0;
@@ -560,6 +565,15 @@ function getTierText(pct) {
     if (pct >= 0.6) return { tier: "Taxminan A2 darajasidasiz", sub: "(taxminiy natija — rasmiy sertifikat emas)" };
     if (pct >= 0.35) return { tier: "Taxminan A1 darajasidasiz", sub: "(taxminiy natija — rasmiy sertifikat emas)" };
     return { tier: "Boshlang'ich (Pre-A1) daraja", sub: "(taxminiy natija — rasmiy sertifikat emas)" };
+  }
+  if (isMilliy) {
+    if (pct >= 0.70) return { tier: "Taxminiy daraja: A+", sub: "(taxminiy natija — rasmiy Milliy sertifikat emas)" };
+    if (pct >= 0.65) return { tier: "Taxminiy daraja: A", sub: "(taxminiy natija — rasmiy Milliy sertifikat emas)" };
+    if (pct >= 0.60) return { tier: "Taxminiy daraja: B+", sub: "(taxminiy natija — rasmiy Milliy sertifikat emas)" };
+    if (pct >= 0.55) return { tier: "Taxminiy daraja: B", sub: "(taxminiy natija — rasmiy Milliy sertifikat emas)" };
+    if (pct >= 0.50) return { tier: "Taxminiy daraja: C+", sub: "(taxminiy natija — rasmiy Milliy sertifikat emas)" };
+    if (pct >= 0.46) return { tier: "Taxminiy daraja: C", sub: "(taxminiy natija — rasmiy Milliy sertifikat emas)" };
+    return { tier: "Belgilangan chegaradan past", sub: "(taxminiy natija — rasmiy Milliy sertifikat emas)" };
   }
   if (pct >= 0.85) return { tier: "Zehn ustasi", sub: "Deyarli hammasini bildingiz." };
   if (pct >= 0.6) return { tier: "Yaxshi natija", sub: "Bilimingiz yaxshi darajada." };
