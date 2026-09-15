@@ -1,0 +1,130 @@
+{
+  "label": "Biologiya sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Geterozigota (Aa) ota-onalar chatishtirilganda (Aa × Aa) F1 avlodda fenotip bo'yicha qanday nisbat kuzatiladi (A dominant bo'lsa)?",
+      "variantlar": ["1:1", "1:2:1", "3:1", "9:3:3:1"],
+      "togri": 2
+    },
+    {
+      "savol": "Dihibrid chatishtirishda (AaBb × AaBb, ikkala gen mustaqil merosxo'rlik qilganda) F1 avlodda fenotip bo'yicha qanday nisbat kuzatiladi?",
+      "variantlar": ["3:1", "1:2:1", "9:3:3:1", "1:1:1:1"],
+      "togri": 2
+    },
+    {
+      "savol": "X-xromosoma bilan bog'liq resessiv kasallik tashuvchisi bo'lgan sog'lom ayol (XᴬXᵃ) sog'lom erkak (XᴬY) bilan turmush qursa, o'g'il bolalarining necha foizi kasal bo'lishi kutiladi?",
+      "variantlar": ["0%", "25%", "50%", "100%"],
+      "togri": 2
+    },
+    {
+      "savol": "Ekologik piramidada energiya bir trofik sathdan keyingisiga o'tganda taxminan necha foizi saqlanadi?",
+      "variantlar": ["1%", "10%", "50%", "90%"],
+      "togri": 1
+    },
+    {
+      "savol": "DNK molekulasida timin nukleotidi qaysi nukleotid bilan komplementar (juft) bog'lanadi?",
+      "variantlar": ["Sitozin", "Guanin", "Adenin", "Uratsil"],
+      "togri": 2
+    },
+    {
+      "savol": "Agar DNK zanjiridagi nukleotidlarning 30% i guanin bo'lsa, sitozin necha foiz bo'ladi (Chargaff qoidasiga ko'ra)?",
+      "variantlar": ["20%", "30%", "40%", "70%"],
+      "togri": 1
+    },
+    {
+      "savol": "Transkripsiya jarayonida DNK andozasi asosida qaysi molekula sintezlanadi?",
+      "variantlar": ["DNK", "mRNK", "Oqsil", "Lipid"],
+      "togri": 1
+    },
+    {
+      "savol": "Translyatsiya jarayoni hujayraning qaysi organoidida sodir bo'ladi?",
+      "variantlar": ["Yadroda", "Ribosomada", "Golji apparatida", "Mitoxondriyada"],
+      "togri": 1
+    },
+    {
+      "savol": "Mitoz bo'linishning qaysi bosqichida xromosomalar hujayra ekvatorida joylashadi?",
+      "variantlar": ["Profaza", "Metafaza", "Anafaza", "Telofaza"],
+      "togri": 1
+    },
+    {
+      "savol": "Meyoz I va meyoz II bo'linishlari orasidagi asosiy farq nima?",
+      "variantlar": ["Meyoz I da gomolog xromosomalar, meyoz II da esa sister xromatidalar ajraladi", "Ikkalasida ham bir xil jarayon sodir bo'ladi", "Meyoz II da xromosomalar soni ikki barobar ortadi", "Meyoz I faqat hayvonlarda, meyoz II faqat o'simliklarda sodir bo'ladi"],
+      "togri": 0
+    },
+    {
+      "savol": "Fotosintezning yorug'lik fazasi qayerda sodir bo'ladi?",
+      "variantlar": ["Xloroplastning stromasida", "Xloroplastning tilakoid membranasida", "Sitoplazmada", "Mitoxondriyada"],
+      "togri": 1
+    },
+    {
+      "savol": "Kalvin sikli (fotosintezning qorong'ilik fazasi) natijasida bevosita qanday modda hosil bo'ladi?",
+      "variantlar": ["Kislorod", "Glyukoza sintezi uchun oraliq mahsulot (G3F)", "Suv", "ATP faqat"],
+      "togri": 1
+    },
+    {
+      "savol": "Aerob nafas olishning glikoliz bosqichi hujayraning qaysi qismida sodir bo'ladi?",
+      "variantlar": ["Mitoxondriya matriksida", "Sitoplazmada", "Yadroda", "Mitoxondriyaning ichki membranasida"],
+      "togri": 1
+    },
+    {
+      "savol": "Krebs sikli (limon kislota sikli) mitoxondriyaning qaysi qismida sodir bo'ladi?",
+      "variantlar": ["Tashqi membranada", "Ichki membranada", "Matriksda", "Sitoplazmada"],
+      "togri": 2
+    },
+    {
+      "savol": "Mutatsiyalarning qaysi turi xromosoma tuzilishining o'zgarishi bilan bog'liq?",
+      "variantlar": ["Gen mutatsiyasi", "Xromosoma mutatsiyasi", "Genom mutatsiyasi", "Sitoplazmatik mutatsiya"],
+      "togri": 1
+    },
+    {
+      "savol": "Poliploidiya (genom mutatsiyasining bir turi) nimani anglatadi?",
+      "variantlar": ["Bitta xromosomaning yo'qolishi", "Butun xromosoma to'plamining karrali ko'payishi", "Gen ichidagi nukleotid o'zgarishi", "Xromosoma qismining ko'chishi"],
+      "togri": 1
+    },
+    {
+      "savol": "Tabiiy tanlanish ta'sirida populyatsiyada qanday o'zgarish yuz beradi?",
+      "variantlar": ["Barcha individlar bir xil bo'lib qoladi", "Muhitga yaxshiroq moslashgan genotiplar chastotasi avloddan-avlodga ortib boradi", "Genofond o'zgarishsiz qoladi", "Mutatsiyalar to'xtaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Simpatrik va allopatrik turlanish o'rtasidagi asosiy farq nima?",
+      "variantlar": ["Simpatrik turlanish geografik izolyatsiyasiz, allopatrik esa geografik izolyatsiya orqali sodir bo'ladi", "Ular bir xil jarayon", "Allopatrik turlanish faqat o'simliklarda sodir bo'ladi", "Simpatrik turlanish faqat suv muhitida sodir bo'ladi"],
+      "togri": 0
+    },
+    {
+      "savol": "Gomeostazni ta'minlashda asosiy rol o'ynovchi ikkita tizim qaysilar?",
+      "variantlar": ["Ovqat hazm qilish va tayanch-harakat tizimlari", "Asab va endokrin (gormonal) tizimlar", "Teri va sezgi organlari", "Faqat qon aylanish tizimi"],
+      "togri": 1
+    },
+    {
+      "savol": "Insulin gormoni qaysi bezda ishlab chiqariladi va qanday vazifani bajaradi?",
+      "variantlar": ["Qalqonsimon bezda, moddalar almashinuvini tezlashtiradi", "Me'da osti bezida, qondagi glyukoza miqdorini pasaytiradi", "Buyrak usti bezida, stressga javob beradi", "Gipofizda, o'sishni boshqaradi"],
+      "togri": 1
+    },
+    {
+      "savol": "Immunitetning gumoral va hujayraviy turlari orasidagi farq nima?",
+      "variantlar": ["Gumoral immunitet antitelolar orqali, hujayraviy immunitet esa maxsus limfotsitlar orqali amalga oshadi", "Ular bir xil mexanizm", "Gumoral immunitet faqat teri orqali ishlaydi", "Hujayraviy immunitet faqat bakteriyalarga qarshi ishlaydi"],
+      "togri": 0
+    },
+    {
+      "savol": "Populyatsiya genetikasida Hardi-Vaynberg qonuni qanday sharoitda populyatsiyada allel chastotalari o'zgarmasligini bildiradi?",
+      "variantlar": ["Mutatsiya, migratsiya va tanlanish bo'lmagan, katta va tasodifiy chatishuvchi populyatsiyada", "Har qanday populyatsiyada doimo", "Faqat kichik populyatsiyalarda", "Faqat sun'iy tanlanish sharoitida"],
+      "togri": 0
+    },
+    {
+      "savol": "Bakteriyalarda antibiotiklarga chidamlilik genlari ko'pincha qaysi struktura orqali boshqa bakteriyalarga o'tkaziladi?",
+      "variantlar": ["Xromosoma orqali", "Plazmida orqali", "Ribosoma orqali", "Mitoxondriya orqali"],
+      "togri": 1
+    },
+    {
+      "savol": "Fermentlarning faolligiga harorat qanday ta'sir qiladi?",
+      "variantlar": ["Harorat qanchalik yuqori bo'lsa, faollik shunchalik cheksiz ortadi", "Ma'lum optimal haroratgacha faollik ortadi, undan keyin denaturatsiya tufayli kamayadi", "Harorat fermentlarga umuman ta'sir qilmaydi", "Faqat past haroratda faol bo'ladi, yuqorida ishlamaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Ekosistemada \"limitlovchi omil\" tushunchasi nimani anglatadi?",
+      "variantlar": ["Organizmning rivojlanishini eng ko'p cheklovchi omil", "Eng ko'p miqdorda mavjud bo'lgan omil", "Faqat harorat omili", "Ekosistemadagi barcha omillar yig'indisi"],
+      "togri": 0
+    }
+  ]
+}

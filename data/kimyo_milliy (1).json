@@ -1,0 +1,125 @@
+{
+  "label": "Kimyo sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Molyar massasi 44 g/mol bo'lgan gazning 22 g massasi necha molga teng?",
+      "variantlar": ["0,25 mol", "0,5 mol", "1 mol", "2 mol"],
+      "togri": 1
+    },
+    {
+      "savol": "Normal sharoitda 2,5 mol gazning egallagan hajmini (litr) toping.",
+      "variantlar": ["44,8", "50,4", "56", "22,4"],
+      "togri": 2
+    },
+    {
+      "savol": "20 g 25% li eritmaga 80 g suv qo'shildi. Hosil bo'lgan eritmaning foiz konsentratsiyasini toping.",
+      "variantlar": ["20%", "10%", "5%", "25%"],
+      "togri": 2
+    },
+    {
+      "savol": "Organik birikma tarkibida (massa bo'yicha) 40% uglerod, 6,7% vodorod, 53,3% kislorod bo'lsa, uning eng sodda (empirik) formulasini toping.",
+      "variantlar": ["CH₂O", "C₂H₄O₂", "CH₃O", "C₂H₆O"],
+      "togri": 0
+    },
+    {
+      "savol": "2H₂ + O₂ → 2H₂O reaksiyasida 8 g vodorod to'liq reaksiyaga kirishsa, necha gramm suv hosil bo'ladi?",
+      "variantlar": ["36 g", "144 g", "18 g", "72 g"],
+      "togri": 3
+    },
+    {
+      "savol": "Vodorod ionlari kontsentratsiyasi [H⁺]=10⁻³ mol/l bo'lgan eritmaning pH qiymatini toping.",
+      "variantlar": ["1", "2", "3", "4"],
+      "togri": 2
+    },
+    {
+      "savol": "2 litr eritmada 0,5 mol modda erigan bo'lsa, eritmaning molyar konsentratsiyasini (mol/l) toping.",
+      "variantlar": ["0,1", "0,25", "1", "2"],
+      "togri": 1
+    },
+    {
+      "savol": "Nazariy chiqim 50 g bo'lgan reaksiyada amaliy chiqim 42,5 g bo'lsa, reaksiya unumini (%) toping.",
+      "variantlar": ["75%", "80%", "85%", "90%"],
+      "togri": 2
+    },
+    {
+      "savol": "CO₂ gazining vodorodga nisbatan zichligini toping.",
+      "variantlar": ["11", "22", "44", "2"],
+      "togri": 1
+    },
+    {
+      "savol": "Davriy sistemada elementning davri (period) nimani ko'rsatadi?",
+      "variantlar": ["Tashqi elektron qavatlar sonini", "Valentlikni", "Atom massasini", "Izotoplar sonini"],
+      "togri": 0
+    },
+    {
+      "savol": "Quyidagi qatorlardan qaysi birida barcha moddalar kuchli elektrolit hisoblanadi?",
+      "variantlar": ["CH₃COOH, NH₄OH, H₂O", "NaCl, HCl, KOH", "H₂CO₃, H₂S, HF", "C₂H₅OH, C₆H₁₂O₆, glitserin"],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy muvozanat konstantasi Kc quyidagi reaksiya uchun N₂ + 3H₂ ⇌ 2NH₃ qanday ifodalanadi?",
+      "variantlar": ["Kc = [NH₃]²/([N₂][H₂]³)", "Kc = [N₂][H₂]³/[NH₃]²", "Kc = [NH₃]/([N₂][H₂])", "Kc = [N₂][H₂]/[NH₃]"],
+      "togri": 0
+    },
+    {
+      "savol": "Le Shatelye printsipiga ko'ra, ekzotermik reaksiyada haroratni oshirish muvozanatni qaysi tomonga siljitadi?",
+      "variantlar": ["To'g'ri reaksiya tomonga", "Teskari reaksiya tomonga", "Muvozanat o'zgarmaydi", "Reaksiya to'xtaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Etanolni konsentrlangan sulfat kislota ishtirokida 170°C dan yuqori haroratda qizdirilganda qaysi mahsulot hosil bo'ladi (asosiy)?",
+      "variantlar": ["Dietil efir", "Etilen", "Sirka kislota", "Atsetaldegid"],
+      "togri": 1
+    },
+    {
+      "savol": "Alkinlarning umumiy formulasi qanday?",
+      "variantlar": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙHₙ"],
+      "togri": 2
+    },
+    {
+      "savol": "Fenolning kislotali xossasi spirtlarnikidan nima uchun kuchliroq?",
+      "variantlar": ["Fenolda OH guruhi benzol halqasiga bevosita bog'langani va manfiy zaryad halqa bo'ylab taqsimlanishi tufayli", "Fenol og'irroq molekula bo'lgani uchun", "Fenolda kislorod yo'q", "Farqi yo'q, ikkalasi bir xil kuchli kislota"],
+      "togri": 0
+    },
+    {
+      "savol": "Oksidlanish-qaytarilish reaksiyasida KMnO₄ (kislotali muhitda) ta'sirida Mn qaysi oksidlanish darajasiga o'tadi?",
+      "variantlar": ["+7 dan +2 ga", "+7 dan +4 ga", "+7 dan +6 ga", "+2 dan +7 ga"],
+      "togri": 0
+    },
+    {
+      "savol": "Temir (III) xlorid eritmasiga ishqor qo'shilganda qanday rangli cho'kma hosil bo'ladi?",
+      "variantlar": ["Oq", "Ko'k", "Qo'ng'ir (jigarrang)", "Yashil"],
+      "togri": 2
+    },
+    {
+      "savol": "Galvanik elementda (masalan Zn-Cu) qaysi elektrod anod hisoblanadi?",
+      "variantlar": ["Faollik qatorida keyinroq turgan metall (Cu)", "Faollik qatorida oldinroq turgan metall (Zn)", "Ikkalasi ham anod bo'ladi", "Hech biri anod bo'lmaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Benzolning nitrolanish reaksiyasida qaysi reagent ishtirok etadi?",
+      "variantlar": ["Suyultirilgan HNO₃ yolg'iz", "Konsentrlangan HNO₃ va H₂SO₄ aralashmasi", "NaNO₃ eritmasi", "NH₃ gazi"],
+      "togri": 1
+    },
+    {
+      "savol": "Aminokislotalarda amfoter xossa nimadan kelib chiqadi?",
+      "variantlar": ["Faqat -COOH guruhi borligidan", "Bir vaqtning o'zida -NH₂ (asosli) va -COOH (kislotali) guruhlari borligidan", "Faqat -NH₂ guruhi borligidan", "Uglevodorod radikali borligidan"],
+      "togri": 1
+    },
+    {
+      "savol": "Ammiakning suvli eritmasi (NH₄OH) qanday muhit hosil qiladi?",
+      "variantlar": ["Kuchsiz ishqoriy", "Kuchli kislotali", "Neytral", "Kuchli ishqoriy"],
+      "togri": 0
+    },
+    {
+      "savol": "Ozon (O₃) va kislorod (O₂) orasidagi bog'lanish qanday turdagi hodisa?",
+      "variantlar": ["Izotopiya", "Allotropiya", "Izomeriya", "Polimerizatsiya"],
+      "togri": 1
+    },
+    {
+      "savol": "Sovunlanish (saponifikatsiya) reaksiyasi natijasida qanday moddalar hosil bo'ladi?",
+      "variantlar": ["Spirt va kislota", "Glitserin va yog' kislotalari tuzlari (sovun)", "Faqat suv", "Faqat gaz"],
+      "togri": 1
+    }
+  ]
+}

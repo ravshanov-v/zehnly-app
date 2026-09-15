@@ -1,0 +1,130 @@
+{
+  "label": "Fizika sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Avtomobilning boshlang'ich tezligi 15 m/s, tezlanishi -3 m/s². U qancha (m) masofa bosib o'tib to'xtaydi?",
+      "variantlar": ["30", "37,5", "25", "45"],
+      "togri": 1
+    },
+    {
+      "savol": "Silliq gorizontal sirtda turgan 3 kg massali jismga 15 N va 39 N kuchlar qarama-qarshi yo'nalishda ta'sir qilmoqda. Jismning tezlanishini (m/s²) toping.",
+      "variantlar": ["18", "8", "13", "5"],
+      "togri": 1
+    },
+    {
+      "savol": "72 km/soat tezlik bilan 2000 m balandlikda uchayotgan samolyotning potensial energiyasi kinetik energiyasidan necha marta katta?",
+      "variantlar": ["50", "100", "20", "200"],
+      "togri": 1
+    },
+    {
+      "savol": "Tormoz bergan avtomobil asfaltda 10 m iz qoldirib to'xtagan. Agar ishqalanish koeffitsiyenti 0,5 bo'lsa, avtomobilning dastlabki tezligini (m/s) toping.",
+      "variantlar": ["8", "10", "12", "15"],
+      "togri": 1
+    },
+    {
+      "savol": "Kimyoviy tok manbaining EYuKi 12 V, ichki qarshiligi 0,5 Ω ga teng. Manba zanjirga 4 A tok berayotgan bo'lsa, uning qutblaridagi kuchlanishni (V) toping.",
+      "variantlar": ["10", "11", "12", "13"],
+      "togri": 0
+    },
+    {
+      "savol": "Qarshiligi 0 °C da 5 Ω bo'lgan simning harorati 150 °C ga ko'tarilganda qarshiligi qanchaga (Ω) ortadi? (α = 0,004 K⁻¹)",
+      "variantlar": ["2", "2,5", "3", "3,5"],
+      "togri": 2
+    },
+    {
+      "savol": "Massasi 3 kg bo'lgan jism 15 m balandlikka ko'tarilgan bo'lsa, uning potensial energiyasini (J) toping (g=10 m/s²).",
+      "variantlar": ["350", "400", "450", "500"],
+      "togri": 2
+    },
+    {
+      "savol": "Suv sirtidagi to'lqinning 1- va 3-do'ngliklari orasidagi masofa 30 cm, tarqalish tezligi 0,15 m/s. To'lqinning tebranish davrini (s) toping.",
+      "variantlar": ["0,5", "2", "1,5", "1"],
+      "togri": 3
+    },
+    {
+      "savol": "Linzaning fokus masofasi 25 cm bo'lsa, uning optik kuchini (dptr) toping.",
+      "variantlar": ["2", "3", "4", "5"],
+      "togri": 2
+    },
+    {
+      "savol": "Harakatdagi zarraning massasi tinch holatdagi massasidan 2 marta katta bo'lsa, uning tezligini yorug'lik tezligi c orqali toping.",
+      "variantlar": ["0,5c", "0,8c", "(√3/2)c", "0,9c"],
+      "togri": 2
+    },
+    {
+      "savol": "Nyutonning ikkinchi qonuniga ko'ra F=ma. Agar m=4 kg, a=3,5 m/s² bo'lsa, F ni (N) toping.",
+      "variantlar": ["12", "14", "16", "10"],
+      "togri": 1
+    },
+    {
+      "savol": "Massasi 4 kg, tezligi 6 m/s bo'lgan jismning kinetik energiyasini (J) toping.",
+      "variantlar": ["48", "72", "24", "96"],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkita 6 Ω qarshilik ketma-ket ulansa, umumiy qarshilik nechaga (Ω) teng bo'ladi?",
+      "variantlar": ["3", "6", "12", "36"],
+      "togri": 2
+    },
+    {
+      "savol": "Ikkita 8 Ω qarshilik parallel ulansa, umumiy qarshilik nechaga (Ω) teng bo'ladi?",
+      "variantlar": ["16", "8", "4", "2"],
+      "togri": 2
+    },
+    {
+      "savol": "1 mol ideal gaz doimiy bosimda 300 K dan 450 K gacha qizdirilsa, hajmi necha marta ortadi?",
+      "variantlar": ["1,2", "1,5", "2", "1,33"],
+      "togri": 1
+    },
+    {
+      "savol": "Chastotasi 50 Hz, to'lqin uzunligi 4 m bo'lgan to'lqinning tarqalish tezligini (m/s) toping.",
+      "variantlar": ["100", "150", "200", "250"],
+      "togri": 2
+    },
+    {
+      "savol": "Erkin tushish tezlanishi Yer sirtida g. Massasi va radiusi Yernikidan 2 marta katta bo'lgan sayyorada erkin tushish tezlanishi qanday bo'ladi?",
+      "variantlar": ["g/2", "g", "2g", "4g"],
+      "togri": 1
+    },
+    {
+      "savol": "Kondensatorning sig'imi 4 mkF, kuchlanishi 100 V bo'lsa, uning energiyasini (mJ) toping.",
+      "variantlar": ["10", "20", "30", "40"],
+      "togri": 1
+    },
+    {
+      "savol": "Vodorod atomida elektron 3-kvant holatdan 1-kvant holatga o'tganda energiyasi qanday o'zgaradi?",
+      "variantlar": ["Kamayadi, foton yutiladi", "Ortadi, foton yutiladi", "Kamayadi, foton nurlanadi", "O'zgarmaydi"],
+      "togri": 2
+    },
+    {
+      "savol": "Elektromagnit to'lqinlar vakuumda qanday tezlik bilan tarqaladi?",
+      "variantlar": ["150 000 km/s", "300 000 km/s", "3000 km/s", "30 000 km/s"],
+      "togri": 1
+    },
+    {
+      "savol": "Bir xil massali ikki jismdan biri 2v, ikkinchisi v tezlik bilan harakatlansa, ularning kinetik energiyalari nisbati (E₁/E₂) nechaga teng?",
+      "variantlar": ["2", "4", "1/2", "8"],
+      "togri": 1
+    },
+    {
+      "savol": "Amper qonuniga ko'ra o'tkazgichga ta'sir etuvchi kuch qaysi kattaliklarga bog'liq?",
+      "variantlar": ["Faqat kuchlanishga", "Tok kuchi, o'tkazgich uzunligi va magnit maydon induksiyasiga", "Faqat haroratga", "Faqat qarshilikka"],
+      "togri": 1
+    },
+    {
+      "savol": "Muzning erish issiqligi 3,3·10⁵ J/kg. 2 kg muzni to'liq eritish uchun qancha issiqlik (kJ) kerak?",
+      "variantlar": ["330", "660", "165", "990"],
+      "togri": 1
+    },
+    {
+      "savol": "Om qonuniga ko'ra, qarshiligi 20 Ω bo'lgan o'tkazgichdan 3 A tok o'tsa, undagi kuchlanish (V) nechaga teng?",
+      "variantlar": ["40", "60", "80", "100"],
+      "togri": 1
+    },
+    {
+      "savol": "Mexanik energiyaning saqlanish qonuniga ko'ra, ishqalanishsiz tizimda to'liq mexanik energiya qanday bo'ladi?",
+      "variantlar": ["Doimo ortadi", "Doimo kamayadi", "O'zgarmas qoladi", "Nolga teng bo'ladi"],
+      "togri": 2
+    }
+  ]
+}

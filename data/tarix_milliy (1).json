@@ -1,0 +1,125 @@
+{
+  "label": "Tarix sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Amir Temur 1370-yilda hokimiyat tepasiga kelganida qaysi shaharni poytaxt sifatida tanladi va nima uchun bu strategik jihatdan muhim edi?",
+      "variantlar": ["Buxoro — diniy markaz bo'lgani uchun", "Samarqand — Buyuk Ipak yo'lining markazida joylashgani va iqtisodiy salohiyati tufayli", "Xiva — Xorazm savdosi uchun", "Termiz — Amudaryo bo'yida joylashgani uchun"],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temurning Oltin O'rdaga qarshi yurishlari (То'xtamishxonga qarshi) natijasida qanday strategik oqibat yuzaga keldi?",
+      "variantlar": ["Oltin O'rda kuchayib, Movarounnahrni bosib oldi", "Oltin O'rdaning harbiy-iqtisodiy qudrati zaiflashib, uning tarqalishiga zamin yaratildi", "Ikkala davlat birlashib yagona imperiya tuzdi", "Hech qanday natija bo'lmadi"],
+      "togri": 1
+    },
+    {
+      "savol": "Mirzo Ulug'bek observatoriyasida qaysi asosiy ilmiy ish amalga oshirilgan edi?",
+      "variantlar": ["Dunyo xaritasini tuzish", "1018 ta yulduzning aniq koordinatalarini o'z ichiga olgan yulduzlar katalogini (Ziji Ko'ragoniy) yaratish", "Kompas ixtiro qilish", "Teleskopni kashf etish"],
+      "togri": 1
+    },
+    {
+      "savol": "Zahiriddin Muhammad Bobur Hindistonda Boburiylar davlatiga qachon va qaysi jangdan keyin asos solgan?",
+      "variantlar": ["1526-yilda Panipat jangidan keyin", "1510-yilda Marv jangidan keyin", "1494-yilda Farg'onada taxtga o'tirgach", "1483-yilda tug'ilgan yilida"],
+      "togri": 0
+    },
+    {
+      "savol": "XVI-XIX asrlarda Buxoro, Xiva va Qo'qon xonliklari o'rtasidagi doimiy nizolar mintaqaga qanday salbiy ta'sir ko'rsatdi?",
+      "variantlar": ["Mintaqa iqtisodiy va harbiy jihatdan mustahkamlandi", "Siyosiy parchalanish va zaiflashuvga olib kelib, keyinchalik Rossiya bosqiniga qarshilik ko'rsatish qobiliyatini pasaytirdi", "Hech qanday ta'sir bo'lmadi", "Uchala xonlik birlashib kuchli davlat tuzdi"],
+      "togri": 1
+    },
+    {
+      "savol": "Rossiya imperiyasi tomonidan Toshkentning bosib olinishi qaysi yilga to'g'ri keladi?",
+      "variantlar": ["1853-yil", "1865-yil", "1876-yil", "1881-yil"],
+      "togri": 1
+    },
+    {
+      "savol": "Turkiston general-gubernatorligi tashkil etilgach (1867-yil), mintaqada qanday iqtisodiy siyosat yuritildi?",
+      "variantlar": ["Sanoatni har tomonlama rivojlantirish siyosati", "Mintaqani asosan xomashyo (ayniqsa paxta) yetkazib beruvchi mustamlaka sifatida ishlatish siyosati", "To'liq iqtisodiy mustaqillik berish", "Faqat qishloq xo'jaligini taqiqlash"],
+      "togri": 1
+    },
+    {
+      "savol": "Jadidchilik harakati vakillari (Behbudiy, Fitrat, Cho'lpon va boshqalar) asosan qanday g'oyalarni ilgari surgan?",
+      "variantlar": ["An'anaviy tuzumni to'liq saqlab qolish", "Yangi usul maktablari, ma'rifat va millatning taraqqiyot yo'lidagi uyg'onishi", "Faqat diniy islohotlar", "Rossiya bilan to'liq integratsiya"],
+      "togri": 1
+    },
+    {
+      "savol": "1917-yil Rossiyadagi inqilobdan keyin Turkistonda qanday siyosiy jarayon kechdi?",
+      "variantlar": ["Mintaqa darhol mustaqillikka erishdi", "Sovet hokimiyati o'rnatilib, mahalliy davlatchilik shakllari (Qo'qon muxtoriyati kabi) bostirildi", "Mintaqa Angliyaga qo'shildi", "Hech qanday o'zgarish bo'lmadi"],
+      "togri": 1
+    },
+    {
+      "savol": "1924-yilgi milliy-hududiy chegaralanish natijasida Markaziy Osiyoda qanday o'zgarish yuz berdi?",
+      "variantlar": ["Yagona Turkiston davlati tuzildi", "Hozirgi respublikalar (O'zbekiston, Qozog'iston, Tojikiston va boshqalar) chegaralari asosan shakllantirildi", "Barcha xonliklar tiklandi", "Mintaqa Xitoyga qo'shildi"],
+      "togri": 1
+    },
+    {
+      "savol": "Sovet davrida O'zbekistonda \"paxta yakkahokimligi\" siyosati qanday oqibatlarga olib keldi?",
+      "variantlar": ["Aholi turmush darajasi keskin yaxshilandi", "Monokultura iqtisodiyoti, ekologik muammolar (Orol dengizi inqirozi) va boshqa qishloq xo'jaligi tarmoqlarining orqada qolishi", "Faqat ijobiy natijalar bo'ldi", "Sanoat jadal rivojlandi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Paxta ishi\" (1980-yillar) deb nomlangan siyosiy jarayon nimaga qaratilgan edi?",
+      "variantlar": ["Yangi paxta navlarini yaratishga", "Paxta yetishtirish ko'rsatkichlarini soxtalashtirish bilan bog'liq korruptsiyani fosh etish bahonasida mintaqa rahbariyatiga qarshi siyosiy tazyiq o'tkazishga", "Xalqaro paxta savdosini kengaytirishga", "Paxta ekspoertini oshirishga"],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Respublikasi mustaqilligi qachon va qanday tarzda e'lon qilindi?",
+      "variantlar": ["1990-yil 20-iyunda, referendum orqali", "1991-yil 31-avgustda, Oliy Kengash tomonidan qonun qabul qilinishi orqali", "1992-yil 8-dekabrda, Konstitutsiya qabul qilinishi orqali", "1989-yilda, xalq qo'zg'oloni orqali"],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston Konstitutsiyasi qachon qabul qilingan va bu qanday ahamiyatga ega edi?",
+      "variantlar": ["1991-yil, mustaqillikni e'lon qildi", "1992-yil 8-dekabr, davlatning huquqiy-siyosiy asoslarini mustahkamladi", "1995-yil, iqtisodiy islohotlarni boshladi", "2000-yil, yangi bayroqni tasdiqladi"],
+      "togri": 1
+    },
+    {
+      "savol": "1991-2000-yillarda O'zbekistonda amalga oshirilgan iqtisodiy islohotlarning asosiy yo'nalishi nima edi?",
+      "variantlar": ["Rejali iqtisodiyotni saqlab qolish", "Bosqichma-bosqich bozor iqtisodiyotiga o'tish va milliy valyuta (so'm)ni joriy etish", "Iqtisodiyotni to'liq davlat nazoratiga o'tkazish", "Xorijiy investitsiyalarni taqiqlash"],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur davlatining boshqaruv tizimida \"devon\" tushunchasi nimani anglatgan?",
+      "variantlar": ["Harbiy qo'shin", "Davlat boshqaruvining ma'muriy-moliyaviy idorasi", "Diniy muassasa", "Savdo bozori"],
+      "togri": 1
+    },
+    {
+      "savol": "Chingizxon boshchiligidagi mo'g'ullar Xorazmshohlar davlatiga qarshi bosqinni qanday bahona bilan boshlagan edi?",
+      "variantlar": ["Diniy sabablar bilan", "Otrordagi savdo karvonining talon-taroj qilinishi (Otror voqeasi) bahonasi bilan", "Yer masalasi bo'yicha nizo bilan", "Hech qanday sababsiz"],
+      "togri": 1
+    },
+    {
+      "savol": "Sohibqiron davrida rivojlangan me'morchilik uslubi qaysi belgilar bilan xarakterlanadi?",
+      "variantlar": ["Faqat yog'och qurilish", "Ulkan gumbazlar, ko'k-sirli kошинlar va murakkab geometrik naqshlar bilan bezatilgan monumental inshootlar", "Faqat mudofaa devorlari", "Faqat kichik uy-joylar"],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkinchi jahon urushi davrida O'zbekistonga qanday strategik vazifa yuklatilgan edi?",
+      "variantlar": ["Faqat neytral pozitsiyani saqlash", "Front uchun harbiy va oziq-ovqat mahsulotlari ishlab chiqarish hamda front hududlaridan ko'chirilgan aholi va korxonalarni joylashtirish", "Urushdan butunlay chetda qolish", "Faqat diplomatik vazifalarni bajarish"],
+      "togri": 1
+    },
+    {
+      "savol": "Sovet davrida O'zbekistonda sanoatlashtirish siyosati qaysi sohalarga asosan yo'naltirilgan edi?",
+      "variantlar": ["Yengil sanoat va yuqori texnologiyalarga", "Paxta tozalash, ma'dan qazib olish va harbiy-sanoat majmuasiga bog'liq tarmoqlarga", "Faqat qurilish sohasiga", "Faqat turizm sohasiga"],
+      "togri": 1
+    },
+    {
+      "savol": "1930-yillardagi Sovet davridagi repressiyalar O'zbekiston ziyolilariga qanday ta'sir ko'rsatdi?",
+      "variantlar": ["Hech qanday ta'sir bo'lmadi", "Ko'plab jadid ziyolilari (Fitrat, Cho'lpon, Qodiriy va boshqalar) qatag'on qilindi", "Ziyolilar yanada erkin ijod qildi", "Faqat harbiylar jabr ko'rdi"],
+      "togri": 1
+    },
+    {
+      "savol": "Amir Temur \"Temur tuzuklari\"da davlat boshqaruvi bo'yicha qanday muhim tamoyilni ta'kidlagan?",
+      "variantlar": ["Faqat harbiy kuchga tayanish", "Adolat, saltanatni mustahkamlashda kengash (maslahat) va turli millat vakillariga nisbatan bag'rikenglik", "Faqat bitta millat manfaatini ko'zlash", "Hech qanday qonun-qoidasiz boshqarish"],
+      "togri": 1
+    },
+    {
+      "savol": "Ipak yo'li savdo-karvon yo'llari qaysi qit'alarni bog'lagan va bu nima uchun muhim edi?",
+      "variantlar": ["Faqat Osiyo ichida, mahalliy ahamiyatga ega edi", "Osiyo va Yevropani bog'lab, mollar bilan birga fan, din va madaniy g'oyalarning ham tarqalishiga xizmat qilgan", "Faqat Afrika bilan Yevropani bog'lagan", "Hech qanday ahamiyati bo'lmagan"],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonning tashqi siyosatida 2016-yildan keyin qanday yangi yo'nalish kuzatildi?",
+      "variantlar": ["To'liq izolyatsiyalanish siyosati", "Qo'shni davlatlar bilan hamkorlikni faollashtirish va mintaqaviy integratsiyani kengaytirish siyosati", "Barcha xalqaro tashkilotlardan chiqish", "Faqat bitta davlat bilan hamkorlik qilish"],
+      "togri": 1
+    }
+  ]
+}

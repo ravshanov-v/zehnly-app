@@ -1,0 +1,125 @@
+{
+  "label": "Adabiyot sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Alisher Navoiyning \"Xamsa\"si tarkibidagi dostonlarning to'g'ri ketma-ketligini aniqlang.",
+      "variantlar": ["Farhod va Shirin, Hayrat ul-abror, Layli va Majnun, Sab'ai sayyor, Saddi Iskandariy", "Hayrat ul-abror, Farhod va Shirin, Layli va Majnun, Sab'ai sayyor, Saddi Iskandariy", "Saddi Iskandariy, Sab'ai sayyor, Layli va Majnun, Farhod va Shirin, Hayrat ul-abror", "Layli va Majnun, Farhod va Shirin, Hayrat ul-abror, Saddi Iskandariy, Sab'ai sayyor"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Farhod va Shirin\" dostonida Farhod obrazi qanday umumlashgan g'oyani ifodalaydi?",
+      "variantlar": ["Faqat shaxsiy baxtsizlikni", "Sevgi, mehnatsevarlik va insoniy kamolot uchun kurashning yuksak ideallarini", "Faqat harbiy jasoratni", "Faqat boylikka intilishni"],
+      "togri": 1
+    },
+    {
+      "savol": "Navoiyning \"Hayrat ul-abror\" dostoni janr jihatidan qaysi turga mansub va asosiy mavzusi nima?",
+      "variantlar": ["Ishqiy-sarguzasht dostoni, faqat sevgi haqida", "Axloqiy-didaktik (ta'limiy) doston, adolat va insoniy fazilatlar haqida", "Tarixiy-qahramonlik dostoni, urushlar haqida", "Diniy-afsonaviy doston, faqat payg'ambarlar haqida"],
+      "togri": 1
+    },
+    {
+      "savol": "Boburning \"Boburnoma\" asarida qo'llanilgan bayon uslubining o'ziga xosligi nimada?",
+      "variantlar": ["Faqat she'riy shaklda yozilgan", "Aniq, xolis va real voqealarni sodda tilda tasvirlaydigan memuar-tarixiy uslub", "Faqat afsonaviy voqealar tasvirlangan", "Faqat diniy-falsafiy mushohadalardan iborat"],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulla Qodiriyning \"O'tkan kunlar\" romanida Otabek va Kumush obrazlari orqali muallif qanday ijtimoiy muammoni ochib beradi?",
+      "variantlar": ["Faqat shaxsiy sevgi tarixini", "Feodal jamiyatdagi ko'p xotinlilik, johillik va ijtimoiy adolatsizlik illatlarini", "Faqat harbiy mavzuni", "Faqat tabiat go'zalligini"],
+      "togri": 1
+    },
+    {
+      "savol": "Cho'lponning \"Kecha va kunduz\" romani qaysi davr voqeligini va qanday uslubda tasvirlaydi?",
+      "variantlar": ["XV asr, romantik uslubda", "XX asr boshi, ijtimoiy-psixologik realizm uslubida", "Kelajak, fantastik uslubda", "Qadimgi davr, afsonaviy uslubda"],
+      "togri": 1
+    },
+    {
+      "savol": "Oybekning \"Navoiy\" romanida tarixiy shaxs obrazini yaratishda muallif qanday badiiy vosita(lar)dan foydalangan?",
+      "variantlar": ["Faqat quruq tarixiy faktlarni sanab o'tgan", "Tarixiy haqiqat bilan badiiy tasavvurni uyg'unlashtirib, Navoiyning ichki dunyosini psixologik chuqurlikda ochib bergan", "Faqat rasmiy hujjatlarga asoslangan", "Faqat zamonaviy voqealar bilan solishtirgan"],
+      "togri": 1
+    },
+    {
+      "savol": "Abdulla Qahhorning hikoyanavislik mahorati qanday xususiyatlar bilan ajralib turadi?",
+      "variantlar": ["Uzun tavsiflar va sekin syujet rivoji bilan", "Ixchamlik, kutilmagan yechim (final) va chuqur psixologik tahlil bilan", "Faqat kulgili voqealar bilan", "Faqat tarixiy mavzular bilan"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Sarob\" romanida Saidiy obrazi qanday ijtimoiy tipni ifodalaydi?",
+      "variantlar": ["Halol va sodda mehnatkash", "Shaxsiy manfaat yo'lida qadriyatlardan voz kechuvchi ikkiyuzlamachi ziyoli", "Millatparvar jangchi", "Ilmga fidoyi olim"],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiyotshunoslikda \"kompozitsiya\" tushunchasi asarning qaysi jihatini o'z ichiga oladi?",
+      "variantlar": ["Faqat muallif tarjimai holini", "Asar qismlarining o'zaro joylashuvi, syujet elementlarining (ekspozitsiya, tugun, kulminatsiya, yechim) tartibini", "Faqat sarlavha tanlashni", "Faqat nashriyot ma'lumotlarini"],
+      "togri": 1
+    },
+    {
+      "savol": "Ekspozitsiya, tugun (kollizio), kulminatsiya va yechim — bu qatorlar asar syujetining qaysi jihatini tavsiflaydi?",
+      "variantlar": ["Faqat qahramonlar ro'yxatini", "Voqealar rivojlanishining bosqichma-bosqich tuzilishini", "Faqat vaqt va makon tasvirini", "Faqat muallif uslubini"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Lirik chekinish\" badiiy vositasi nima uchun ishlatiladi?",
+      "variantlar": ["Syujetni tezlashtirish uchun", "Muallifning asosiy voqeadan vaqtincha chetlanib, shaxsiy fikr-mulohazalarini bildirishi uchun", "Qahramonlarni ko'paytirish uchun", "Asarni qisqartirish uchun"],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy o'zbek adabiyotida psixologik realizm yo'nalishi qaysi xususiyat bilan xarakterlanadi?",
+      "variantlar": ["Faqat tashqi voqealarni bayon qilish", "Qahramonning ichki dunyosi, kechinmalari va ruhiy holatini chuqur tahlil qilish", "Faqat afsonaviy unsurlardan foydalanish", "Faqat statistik ma'lumotlarga tayanish"],
+      "togri": 1
+    },
+    {
+      "savol": "Ogahiy va Munis Xorazmiy ijodida Xorazm adabiy muhitining qanday o'ziga xos xususiyati aks etadi?",
+      "variantlar": ["Faqat harbiy mavzular ustunligi", "Tarixnavislik an'analarining kuchliligi va mumtoz she'riyat bilan uyg'unligi", "Faqat xalq og'zaki ijodi bilan cheklanishi", "Faqat diniy mavzular ustunligi"],
+      "togri": 1
+    },
+    {
+      "savol": "Jadid adabiyotida (Behbudiy, Fitrat) dramaturgiya janrining rivojlanishi qanday ijtimoiy vazifani bajargan?",
+      "variantlar": ["Faqat ko'ngil ochish vazifasini", "Sahna orqali xalqni ma'rifatga, ijtimoiy uyg'onishga va milliy o'zlikni anglashga chorlash vazifasini", "Faqat tarixiy voqealarni saqlash vazifasini", "Faqat til o'rgatish vazifasini"],
+      "togri": 1
+    },
+    {
+      "savol": "Erkin Vohidov va Abdulla Oripov ijodida \"Ruhlar isyoni\" va \"Jannatga yo'l\" kabi asarlar qaysi umumiy mavzuni yoritadi?",
+      "variantlar": ["Faqat tabiat manzaralarini", "Milliy tarix, ma'naviyat va vatanparvarlik mavzularini falsafiy chuqurlik bilan", "Faqat kundalik turmush tasvirini", "Faqat bolalar tarbiyasini"],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy asarda \"ramziy obraz\" (simvolik obraz) qanday vazifani bajaradi?",
+      "variantlar": ["Faqat tashqi ko'rinishni tasvirlaydi", "Aniq tushunchadan tashqari chuqurroq, ko'chma ma'noni ifodalab, asarning falsafiy mazmunini boyitadi", "Faqat syujetni qisqartiradi", "Hech qanday vazifa bajarmaydi"],
+      "togri": 1
+    },
+    {
+      "savol": "Pirimqul Qodirovning \"Yulduzli tunlar\" romanida tarixiy shaxs (Bobur)ning ichki ziddiyatlari qanday ochib berilgan?",
+      "variantlar": ["Faqat harbiy yutuqlari orqali", "Vatan sog'inchi, hokimiyat uchun kurash va shaxsiy fojialar orqali psixologik jihatdan", "Faqat diniy e'tiqodi orqali", "Faqat oilaviy munosabatlari orqali"],
+      "togri": 1
+    },
+    {
+      "savol": "O'tkir Hoshimov ijodida oilaviy-maishiy mavzular qanday badiiy ahamiyat kasb etadi?",
+      "variantlar": ["Faqat kundalik voqealarni qayd etadi", "Oddiy hayot lavhalari orqali umuminsoniy axloqiy-falsafiy masalalarni yoritadi", "Faqat hazil-mutoyiba uchun xizmat qiladi", "Hech qanday ahamiyatga ega emas"],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy o'zbek nasrida (Erkin A'zam, Xurshid Do'stmuhammad) qaysi umumiy tendensiya kuzatiladi?",
+      "variantlar": ["Faqat tarixiy mavzularga qaytish", "Zamonaviy inson ruhiy olami, ijtimoiy o'zgarishlar va milliy o'zlikni anglash masalalariga chuqur e'tibor", "Faqat xalq og'zaki ijodiga taqlid qilish", "Faqat xorijiy adabiyotni tarjima qilish"],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiyotshunoslikda \"badiiy vaqt va makon\" (xronotop) tahlili nima uchun muhim?",
+      "variantlar": ["Faqat sarlavhani tushunish uchun", "Asar voqealarining qanday vaqt-makon nisbatida rivojlanishini va bu orqali g'oyaviy mazmunni chuqurroq anglash uchun", "Faqat muallif hayotini o'rganish uchun", "Faqat nashr sanasini aniqlash uchun"],
+      "togri": 1
+    },
+    {
+      "savol": "Mumtoz adabiyotdagi \"nazira\" an'anasi ijodiy jarayonga qanday hissa qo'shgan?",
+      "variantlar": ["Faqat asl asarni nusxalashga xizmat qilgan", "Shoirlarni bir xil mavzu va vaznda o'z mahoratini namoyish etishga undab, badiiy raqobat va ijodiy rivojlanishga turtki bergan", "Hech qanday ijobiy ta'sir ko'rsatmagan", "Faqat diniy maqsadlarda ishlatilgan"],
+      "togri": 1
+    },
+    {
+      "savol": "Zamonaviy o'zbek she'riyatida erkin she'r (vers libre) shaklining paydo bo'lishi nima bilan bog'liq?",
+      "variantlar": ["An'anaviy aruz vaznini butunlay yo'q qilish maqsadi bilan", "Mualliflarning fikr va hissiyotni erkinroq, qat'iy vazn-qofiya qoidalaridan xoli tarzda ifodalash istagi bilan", "Faqat xorijiy adabiyotga taqlid qilish uchun", "Hech qanday sabab bilan bog'liq emas"],
+      "togri": 1
+    },
+    {
+      "savol": "Adabiy tanqidda asarni \"kontekstual tahlil qilish\" nimani anglatadi?",
+      "variantlar": ["Asarni faqat o'zi holicha, boshqa hech narsaga bog'lamasdan baholash", "Asarni yaratilgan davr, ijtimoiy-tarixiy sharoit va muallif dunyoqarashi kontekstida tahlil qilish", "Faqat asar hajmini o'lchash", "Faqat imlo xatolarini topish"],
+      "togri": 1
+    }
+  ]
+}

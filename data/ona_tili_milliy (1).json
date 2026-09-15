@@ -1,0 +1,130 @@
+{
+  "label": "Ona tili sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "\"Kitobxonlik madaniyati yuksak bo'lgan jamiyat taraqqiy etadi\" gapida qaysi so'z ergash gapning kesimi vazifasini bajaradi?",
+      "variantlar": ["madaniyati", "yuksak", "taraqqiy etadi", "jamiyat"],
+      "togri": 2
+    },
+    {
+      "savol": "\"Kim ko'p mehnat qilsa, shu ko'p yutuqqa erishadi\" gapi qanday turdagi ergashgan qo'shma gapga misol bo'ladi?",
+      "variantlar": ["Ega ergash gapli qo'shma gap", "Shart ergash gapli qo'shma gap", "Payt ergash gapli qo'shma gap", "Sabab ergash gapli qo'shma gap"],
+      "togri": 0
+    },
+    {
+      "savol": "\"Yomg'ir yog'gani sababli, sayohatni bekor qildik\" gapida ajratilgan bo'lak qanday ma'no ifodalaydi?",
+      "variantlar": ["Payt", "Sabab", "Maqsad", "Shart"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitob — bilim manbai\" gapida tire nima uchun qo'yilgan?",
+      "variantlar": ["Sanab o'tish uchun", "Ega va kesim orasida bog'lovchi (bu) tushirilgani va ikkalasi ham bosh kelishikda ot bilan ifodalangani uchun", "Ko'chirma gap uchun", "Undalmani ajratish uchun"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Ishlagan tishlaydi\" maqolida \"ishlagan\" so'zi qanday grammatik shaklda va vazifada kelgan?",
+      "variantlar": ["Sifatdosh, otlashgan holda ega vazifasida", "Fe'lning aniqlik mayli, kesim vazifasida", "Ravishdosh, hol vazifasida", "Harakat nomi, to'ldiruvchi vazifasida"],
+      "togri": 0
+    },
+    {
+      "savol": "\"Bu masalani hal qilish uchun ancha vaqt sarfladik\" gapida \"hal qilish uchun\" birikmasi qanday ma'no ifodalaydi?",
+      "variantlar": ["Sabab", "Maqsad", "Payt", "Shart"],
+      "togri": 1
+    },
+    {
+      "savol": "So'z birikmasida \"bitishuv\" bog'lanish turiga qaysi misol to'g'ri keladi?",
+      "variantlar": ["Kitobni o'qidim (boshqaruv)", "Toshkent shahri (bitishuv)", "Mening kitobim (moslashuv)", "Kitob uchun (ko'makchili birikma)"],
+      "togri": 1
+    },
+    {
+      "savol": "\"U kelgan bo'lsa, albatta menga xabar qiladi\" gapidagi \"albatta\" so'zi qanday sintaktik vazifaga ega?",
+      "variantlar": ["Ega", "Kirish so'z, gap bo'lagi hisoblanmaydi", "Kesim", "Payt holi"],
+      "togri": 1
+    },
+    {
+      "savol": "Quyidagi gaplardan qaysi birida uyushiq kesimlar mavjud?",
+      "variantlar": ["U kitob o'qidi va daftar yozdi", "Kitob va daftar stolda yotibdi", "Bahodir hamda uning do'sti keldi", "Katta va kichik bolalar o'ynadi"],
+      "togri": 0
+    },
+    {
+      "savol": "\"Kitob o'qigan, ammo tushunmagan\" gap qismida \"ammo\" bog'lovchisi qanday ma'no ifodalaydi?",
+      "variantlar": ["Sabab-natija", "Zidlov (qarama-qarshilik)", "Payt", "Shart"],
+      "togri": 1
+    },
+    {
+      "savol": "Fe'lning nisbat kategoriyasida \"o'zlik nisbat\" qanday ma'noni ifodalaydi?",
+      "variantlar": ["Harakat boshqaga qaratilgan", "Harakat bajaruvchining o'ziga qaytishi (masalan: yuvinmoq)", "Ikki kishi birgalikda bajargan harakat", "Ish bajaruvchisi noma'lum harakat"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Birgalik nisbat\"dagi fe'lga qaysi misol to'g'ri keladi?",
+      "variantlar": ["Yuvindi", "Ko'rishdi", "O'qildi", "Kiyintirdi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Orttirma nisbat\"dagi fe'l qanday ma'noni ifodalaydi?",
+      "variantlar": ["Harakatni boshqa birovga bajartirish (masalan: yozdirmoq)", "Harakatning o'ziga qaytishi", "Ikki kishi birgalikda harakat qilishi", "Ish bajaruvchisi noma'lumligi"],
+      "togri": 0
+    },
+    {
+      "savol": "\"Kelajakda albatta yutuqlarga erishasiz\" gapida fe'l qaysi zamon va maylda qo'llangan?",
+      "variantlar": ["O'tgan zamon, aniqlik mayli", "Kelasi zamon, aniqlik mayli", "Hozirgi zamon, shart mayli", "Kelasi zamon, buyruq-istak mayli"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Bugun kelmasang, ertaga albatta kel\" gapida qo'llanilgan \"kelmasang\" so'zi fe'lning qaysi mayliga oid?",
+      "variantlar": ["Aniqlik mayli", "Shart mayli", "Buyruq-istak mayli", "Maqsad mayli"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Kitobxon\", \"maktabgacha\", \"ishchan\" so'zlarida qanday umumiy so'z yasalish usuli qo'llanilgan?",
+      "variantlar": ["Qo'shma so'z yasalishi", "Affiksatsiya (qo'shimchalar orqali so'z yasalishi)", "So'z qisqartirilishi", "Konversiya"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Temir yo'l\", \"bosh vaqt\" kabi so'z birikmalari va \"temiryo'l\" kabi qo'shma so'zlar orasidagi farqni qanday aniqlash mumkin?",
+      "variantlar": ["Farqi yo'q, ikkalasi bir xil yoziladi", "Qo'shma so'zlar yagona urg'u va yaxlit ma'noga ega bo'lib, birikmadan farqli o'laroq alohida yangi tushunchani ifodalaydi", "Faqat talaffuzda farq bor, yozuvda yo'q", "Qo'shma so'zlar faqat ot turkumida bo'ladi"],
+      "togri": 1
+    },
+    {
+      "savol": "Matn lingvistikasida \"kogeziya\" va \"kogerentlik\" tushunchalari orasidagi farq nima?",
+      "variantlar": ["Ular bir xil tushuncha", "Kogeziya matn qismlarining grammatik-leksik bog'lanishi, kogerentlik esa mazmuniy-mantiqiy yaxlitlikni bildiradi", "Kogeziya faqat she'rda, kogerentlik faqat nasrda uchraydi", "Ikkalasi ham faqat tinish belgilariga oid"],
+      "togri": 1
+    },
+    {
+      "savol": "Rasmiy-ish uslubida qo'llaniladigan nutq qanday xususiyatlarga ega bo'lishi kerak?",
+      "variantlar": ["Hissiy va obrazli bo'lishi", "Aniq, izchil, standart shakllarga rioya qilingan bo'lishi", "Erkin so'zlashuv uslubida bo'lishi", "Faqat qisqa gaplardan iborat bo'lishi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Ko'zi to'rt bo'lmoq\" va \"boshi osmonga yetmoq\" kabi iboralar tilshunoslikda qanday nomlanadi?",
+      "variantlar": ["Erkin so'z birikmalari", "Frazeologik birliklar (turg'un iboralar)", "Qo'shma so'zlar", "Sintaktik konstruksiyalar"],
+      "togri": 1
+    },
+    {
+      "savol": "Nutq odobi (muomala odobi) doirasida murojaat shakllarini tanlashda nimalarga e'tibor berish kerak?",
+      "variantlar": ["Faqat o'z xohishiga qarab", "Suhbatdoshning yoshi, ijtimoiy mavqei va vaziyatga mos ravishda", "Har doim bir xil shaklda", "Hech qanday qoidaga rioya qilmasdan"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Bu kitobni albatta o'qishing kerak, chunki u sening dunyoqarashingni kengaytiradi\" gapida nechta grammatik asos (ega-kesim juftligi) mavjud?",
+      "variantlar": ["Bitta", "Ikkita", "Uchta", "To'rtta"],
+      "togri": 1
+    },
+    {
+      "savol": "So'z ma'nosining ko'chishida \"metonimiya\" va \"metafora\" orasidagi farq nima?",
+      "variantlar": ["Ular bir xil hodisa", "Metafora o'xshashlik asosida, metonimiya esa yaqinlik/bog'liqlik asosida ma'no ko'chishi", "Metonimiya faqat she'rda uchraydi", "Metafora faqat ot turkumida bo'ladi"],
+      "togri": 1
+    },
+    {
+      "savol": "\"Davlat tili haqida\"gi qonun O'zbekistonda qachon qabul qilingan va uning asosiy mazmuni nima edi?",
+      "variantlar": ["1991-yilda, mustaqillikni e'lon qilish uchun", "1989-yilda, o'zbek tiliga davlat tili maqomini berish uchun", "2000-yilda, lotin alifbosiga to'liq o'tish uchun", "1995-yilda, imlo qoidalarini o'zgartirish uchun"],
+      "togri": 1
+    },
+    {
+      "savol": "Punktuatsiyada qo'shtirnoq ichidagi ko'chirma gapdan keyin muallif so'zi kelsa, qanday tinish belgilaridan foydalaniladi?",
+      "variantlar": ["Faqat vergul", "Ko'chirma gapdan keyin tire va kichik harf bilan muallif gapi (yoki vaziyatga qarab boshqa qoida)", "Hech qanday belgi kerak emas", "Faqat nuqta"],
+      "togri": 1
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "label": "Matematika sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Arifmetik progressiyada a₁=5, ayirmasi d=3 bo'lsa, a₁₅ ni toping.",
+      "variantlar": ["47", "44", "50", "42"],
+      "togri": 0
+    },
+    {
+      "savol": "Geometrik progressiyada b₁=3, maxraji q=2 bo'lsa, birinchi 5 ta hadining yig'indisini toping.",
+      "variantlar": ["96", "93", "90", "45"],
+      "togri": 1
+    },
+    {
+      "savol": "log₂x + log₂(x-2) = 3 tenglamaning ildizini toping.",
+      "variantlar": ["-2", "2", "4", "6"],
+      "togri": 2
+    },
+    {
+      "savol": "sin2α/(1+cos2α) ifodasini soddalashtiring.",
+      "variantlar": ["ctgα", "2tgα", "tgα", "sinα"],
+      "togri": 2
+    },
+    {
+      "savol": "f(x) = x³ - 3x² + 2 funksiyaning x=2 nuqtadagi hosilasi qiymatini toping.",
+      "variantlar": ["6", "0", "-6", "2"],
+      "togri": 1
+    },
+    {
+      "savol": "∫₀² (3x² - 4x + 1) dx integralni hisoblang.",
+      "variantlar": ["6", "4", "10", "2"],
+      "togri": 3
+    },
+    {
+      "savol": "3x² - 7x + 2 = 0 tenglamaning ildizlari x₁ va x₂ bo'lsa, x₁² + x₂² ni toping.",
+      "variantlar": ["49/9", "5", "37/9", "37/3"],
+      "togri": 2
+    },
+    {
+      "savol": "8 ta elementdan 3 tasini tanlashning usullari sonini toping (tartib muhim emas).",
+      "variantlar": ["336", "56", "24", "168"],
+      "togri": 1
+    },
+    {
+      "savol": "Ikkita zar bir vaqtda tashlanganda, tushgan sonlar yig'indisi 7 ga teng bo'lish ehtimolini toping.",
+      "variantlar": ["1/12", "1/36", "1/6", "5/36"],
+      "togri": 2
+    },
+    {
+      "savol": "Tomonlari 7, 8, 9 bo'lgan uchburchakning yuzini toping.",
+      "variantlar": ["12√5", "24", "6√5", "10√5"],
+      "togri": 0
+    },
+    {
+      "savol": "(x-2)(x+3)/(x-1) ≥ 0 tengsizlikning yechimini toping.",
+      "variantlar": ["(-3; 1) ∪ (2; +∞)", "[-3; 1) ∪ [2; +∞)", "[-3; 1] ∪ [2; +∞)", "(-∞; -3] ∪ [1; 2]"],
+      "togri": 1
+    },
+    {
+      "savol": "2^(2x) - 5·2^x + 4 = 0 tenglamaning ildizlari yig'indisini toping.",
+      "variantlar": ["4", "0", "6", "2"],
+      "togri": 3
+    },
+    {
+      "savol": "f(x)=2x+1 va g(x)=x²-3 bo'lsa, f(g(2)) ni toping.",
+      "variantlar": ["5", "7", "1", "3"],
+      "togri": 3
+    },
+    {
+      "savol": "Radiusi 3, balandligi 4 bo'lgan konusning hajmini toping (π orqali).",
+      "variantlar": ["36π", "48π", "12π", "9π"],
+      "togri": 2
+    },
+    {
+      "savol": "Radiusi 5 bo'lgan sharning yuza sohasini toping (π orqali).",
+      "variantlar": ["50π", "25π", "200π", "100π"],
+      "togri": 3
+    },
+    {
+      "savol": "a̅=(3;4) va b̅=(-1;2) vektorlar berilgan. |a̅+b̅| ni toping.",
+      "variantlar": ["8", "2√13", "10", "2√10"],
+      "togri": 3
+    },
+    {
+      "savol": "A={1,2,3,4,5,6} va B={4,5,6,7,8} to'plamlarining simmetrik ayirmasi nechta elementdan iborat?",
+      "variantlar": ["3", "8", "2", "5"],
+      "togri": 3
+    },
+    {
+      "savol": "(1;2) va (4;6) nuqtalar orasidagi masofani toping.",
+      "variantlar": ["4", "6", "7", "5"],
+      "togri": 3
+    },
+    {
+      "savol": "aₙ = 2n+1 ketma-ketligining birinchi 10 ta hadi yig'indisini toping.",
+      "variantlar": ["110", "100", "130", "120"],
+      "togri": 3
+    },
+    {
+      "savol": "log₃27 + log₂(1/8) ifodaning qiymatini toping.",
+      "variantlar": ["6", "-6", "3", "0"],
+      "togri": 3
+    },
+    {
+      "savol": "To'g'ri burchakli parallelepipedning o'lchamlari 3, 4, 12 bo'lsa, uning diagonalini toping.",
+      "variantlar": ["19", "13", "15", "17"],
+      "togri": 1
+    },
+    {
+      "savol": "Asoslari 6 va 10, balandligi 5 bo'lgan trapetsiyaning yuzini toping.",
+      "variantlar": ["30", "48", "40", "35"],
+      "togri": 2
+    },
+    {
+      "savol": "y = √(x-3)/(x-5) funksiyaning aniqlanish sohasini toping.",
+      "variantlar": ["x ≥ 3", "x ≥ 3, x ≠ 5", "x > 3", "barcha haqiqiy sonlar"],
+      "togri": 1
+    },
+    {
+      "savol": "(x+2)⁴ ifodani yoyganda x² oldidagi koeffitsientni toping.",
+      "variantlar": ["32", "16", "8", "24"],
+      "togri": 3
+    },
+    {
+      "savol": "x² + y² - 6x + 8y = 0 aylana tenglamasining radiusini toping.",
+      "variantlar": ["3", "4", "5", "6"],
+      "togri": 2
+    }
+  ]
+}
