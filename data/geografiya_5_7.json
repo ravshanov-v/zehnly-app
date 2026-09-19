@@ -1,0 +1,355 @@
+{
+  "label": "Geografiya sinovi (5-7 sinf)",
+  "savollar": [
+    {
+      "savol": "Geografiya fani nimani o'rganadi?",
+      "variantlar": [
+        "Faqat o'simliklarni",
+        "Yer yuzasi, tabiat va aholi joylashishini",
+        "Faqat yulduzlarni",
+        "Faqat tarixiy voqealarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer qanday shaklga ega?",
+      "variantlar": [
+        "Aniq doira shaklida",
+        "Deyarli sharsimon (geoid)",
+        "Kub shaklida",
+        "Tekis, yassi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yerdagi eng katta materik qaysi?",
+      "variantlar": [
+        "Afrika",
+        "Yevrosiyo",
+        "Avstraliya",
+        "Antarktida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yerdagi eng kichik materik qaysi?",
+      "variantlar": [
+        "Avstraliya",
+        "Yevropa",
+        "Janubiy Amerika",
+        "Antarktida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Nechta okean mavjud?",
+      "variantlar": [
+        "Ikkita",
+        "To'rtta",
+        "Oltita",
+        "Sakkizta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Eng katta va eng chuqur okean qaysi?",
+      "variantlar": [
+        "Atlantika okeani",
+        "Hind okeani",
+        "Tinch okean",
+        "Shimoliy Muz okeani"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Ekvator nima?",
+      "variantlar": [
+        "Yerni Shimoliy va Janubiy yarim sharlarga bo'luvchi shartli chiziq",
+        "Yer o'qi",
+        "Eng baland tog' tizmasi",
+        "Materiklar chegarasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Grinvich (boshlang'ich) meridiani nima uchun xizmat qiladi?",
+      "variantlar": [
+        "Iqlimni belgilash uchun",
+        "Sharqiy va G'arbiy yarim sharlarni ajratish uchun",
+        "Tog' balandligini o'lchash uchun",
+        "Daryolarni sanash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xarita nima?",
+      "variantlar": [
+        "Yerning kichraytirilgan sharsimon modeli",
+        "Yer yuzasining shartli belgilar bilan tekislikka tushirilgan tasviri",
+        "Ob-havo bashorati",
+        "Tuproq turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Globus nima?",
+      "variantlar": [
+        "Yerning kichraytirilgan sharsimon modeli",
+        "Tekis xarita turi",
+        "Kompas turi",
+        "Iqlim zonasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Masshtab nima?",
+      "variantlar": [
+        "Xaritadagi rangning ma'nosi",
+        "Xaritadagi masofaning haqiqiy masofaga nisbati",
+        "Tog' balandligi birligi",
+        "Meridianlar soni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kompas nima uchun ishlatiladi?",
+      "variantlar": [
+        "Haroratni o'lchash uchun",
+        "Tomonlarni (shimol, janub, sharq, g'arb) aniqlash uchun",
+        "Masofani o'lchash uchun",
+        "Balandlikni o'lchash uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ob-havo va iqlim o'rtasidagi farq nimada?",
+      "variantlar": [
+        "Ular bir xil tushuncha",
+        "Ob-havo qisqa muddatli holat, iqlim esa ko'p yillik o'rtacha holat",
+        "Iqlim faqat qishda bo'ladi",
+        "Ob-havo faqat yozda bo'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tog' bilan tekislikning asosiy farqi nimada?",
+      "variantlar": [
+        "Rangida",
+        "Nisbiy balandligida",
+        "Hajmida",
+        "Yoshida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Daryo nima?",
+      "variantlar": [
+        "Quruqlikdagi harakatsiz suv havzasi",
+        "Ma'lum o'zanda oqadigan tabiiy suv oqimi",
+        "Yer osti bo'shlig'i",
+        "Muzlik turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ko'l qanday suv havzasi?",
+      "variantlar": [
+        "Doimo dengizga ulangan suv oqimi",
+        "Quruqlik ichida joylashgan, ko'pincha harakatsiz suv havzasi",
+        "Faqat sun'iy yaratiladigan suv havzasi",
+        "Muz parchasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dengiz bilan okean o'rtasidagi farq nima?",
+      "variantlar": [
+        "Farqi yo'q, bir xil",
+        "Dengiz kattaroq, okean kichikroq",
+        "Dengiz odatda kichikroq va quruqlik bilan qisman chegaralangan",
+        "Dengizda suv chuchuk bo'ladi"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "O'zbekiston qaysi materikda joylashgan?",
+      "variantlar": [
+        "Afrika",
+        "Yevrosiyo (Osiyo qismida)",
+        "Shimoliy Amerika",
+        "Avstraliya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston qaysi mintaqada joylashgan?",
+      "variantlar": [
+        "Janubiy Amerika",
+        "Markaziy Osiyo",
+        "G'arbiy Yevropa",
+        "Sharqiy Afrika"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonning poytaxti qaysi shahar?",
+      "variantlar": [
+        "Samarqand",
+        "Buxoro",
+        "Toshkent",
+        "Andijon"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "O'zbekistonning eng uzun daryosi qaysi?",
+      "variantlar": [
+        "Sirdaryo",
+        "Amudaryo",
+        "Zarafshon",
+        "Chirchiq"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda nechta viloyat mavjud (Qoraqalpog'iston Respublikasi va Toshkent shahridan tashqari)?",
+      "variantlar": [
+        "8 ta",
+        "10 ta",
+        "12 ta",
+        "15 ta"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Orol dengizi nima uchun kichrayib bormoqda?",
+      "variantlar": [
+        "Yer qimirlashi tufayli",
+        "Amudaryo va Sirdaryo suvlarining ko'plab sug'orishga sarflanishi tufayli",
+        "Vulqon otilishi tufayli",
+        "Iqlim faqat sovib borgani uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sahroda o'simlik va hayvonot dunyosi qanday xususiyatga ega bo'ladi?",
+      "variantlar": [
+        "Juda boy va xilma-xil bo'ladi",
+        "Kam va suv tanqisligiga chidamli turlardan iborat bo'ladi",
+        "Faqat dengiz jonzotlaridan iborat bo'ladi",
+        "Umuman mavjud bo'lmaydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qutb doiralari nima bilan bog'liq hodisa?",
+      "variantlar": [
+        "Zilzilalar bilan",
+        "Qutbiy kun va qutbiy tun hodisalari bilan",
+        "Vulqonlar bilan",
+        "Dengiz oqimlari bilan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tabiiy resurslarga nima kiradi?",
+      "variantlar": [
+        "Faqat oltin va kumush",
+        "Inson foydalanadigan suv, o'rmon, foydali qazilmalar kabi tabiat boyliklari",
+        "Faqat qurilgan binolar",
+        "Faqat mashinalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qutb hududlarida iqlim qanday bo'ladi?",
+      "variantlar": [
+        "Juda issiq",
+        "Juda sovuq",
+        "Doimo yomg'irli, iliq",
+        "Cho'l iqlimi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekvator atrofida iqlim odatda qanday bo'ladi?",
+      "variantlar": [
+        "Sovuq va quruq",
+        "Issiq va nam",
+        "Muzli",
+        "Faqat qorli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer o'z o'qi atrofida bir marta aylanishi necha soatga teng?",
+      "variantlar": [
+        "12 soat",
+        "24 soat",
+        "48 soat",
+        "365 kun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer Quyosh atrofida to'liq bir marta aylanib chiqishi qancha vaqt oladi?",
+      "variantlar": [
+        "1 oy",
+        "6 oy",
+        "1 yil (taxminan 365 kun)",
+        "10 yil"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Fasllarning almashinishiga asosan nima sabab bo'ladi?",
+      "variantlar": [
+        "Yerning Quyosh atrofida aylanishi va uning o'qi og'ma bo'lgani",
+        "Oyning shakli o'zgargani",
+        "Dengiz oqimlari",
+        "Vulqonlar otilishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tuproq nima uchun muhim tabiiy boylik hisoblanadi?",
+      "variantlar": [
+        "Faqat qurilish uchun kerak bo'lgani uchun",
+        "O'simliklar o'sishi va qishloq xo'jaligi uchun asos bo'lgani uchun",
+        "Faqat rangi go'zal bo'lgani uchun",
+        "U hech qanday ahamiyatga ega emas"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng baland tog' tizmasi qaysi?",
+      "variantlar": [
+        "Ural tog'lari",
+        "Gimalay tog'lari",
+        "Alp tog'lari",
+        "Qofqoz tog'lari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng baland cho'qqi qanday nomlanadi?",
+      "variantlar": [
+        "Elbrus",
+        "Kilimanjaro",
+        "Everest (Jomolungma)",
+        "Mont-Blan"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Dunyodagi eng uzun daryo qaysi hisoblanadi?",
+      "variantlar": [
+        "Amazonka",
+        "Nil",
+        "Volga",
+        "Dunay"
+      ],
+      "togri": 1
+    }
+  ]
+}
