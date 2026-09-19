@@ -1,0 +1,505 @@
+{
+  "label": "Geografiya sinovi (Milliy sertifikat)",
+  "savollar": [
+    {
+      "savol": "Dunyodagi eng katta okean qaysi va uning taxminiy maydoni qanday?",
+      "variantlar": [
+        "Atlantika okeani, taxminan 106 mln km²",
+        "Tinch okean, taxminan 178 mln km²",
+        "Hind okeani, taxminan 74 mln km²",
+        "Shimoliy Muz okeani, taxminan 14 mln km²"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer yuzasidagi eng past nuqta (quruqlikda) qaysi?",
+      "variantlar": [
+        "Kaspiy dengizi sohili",
+        "O'lik dengiz sohili",
+        "Amazonka havzasi",
+        "Sahroi Kabir markazi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng chuqur okean chuqurligi (Marian botig'i) taxminan qancha?",
+      "variantlar": [
+        "Taxminan 5 km",
+        "Taxminan 8 km",
+        "Taxminan 11 km",
+        "Taxminan 15 km"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Dunyoda eng ko'p davlat bilan chegaradosh mamlakatlardan biri sifatida qaysi davlat ko'rsatiladi?",
+      "variantlar": [
+        "Yaponiya",
+        "Xitoy",
+        "Yangi Zelandiya",
+        "Islandiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jahonda eng ko'p aholiga ega bo'lgan shahar aglomeratsiyalaridan biri qaysi?",
+      "variantlar": [
+        "Tokio",
+        "Reykyavik",
+        "Kanberra",
+        "Vellington"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ekvatorial iqlim mintaqasida yog'inlar odatda qanday taqsimlanadi?",
+      "variantlar": [
+        "Yil davomida deyarli teng va ko'p miqdorda yog'adi",
+        "Faqat qishda yog'adi",
+        "Umuman yog'in bo'lmaydi",
+        "Faqat kuzda yog'adi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kontinental iqlim uchun qanday xususiyat xos?",
+      "variantlar": [
+        "Yoz va qish o'rtasidagi harorat farqi katta bo'ladi",
+        "Yil davomida harorat deyarli o'zgarmaydi",
+        "Faqat yomg'irli bo'ladi",
+        "Faqat dengiz yaqinida uchraydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jahon okeani suvining o'rtacha sho'rligi taxminan necha promilleni tashkil qiladi?",
+      "variantlar": [
+        "Taxminan 15 ‰",
+        "Taxminan 35 ‰",
+        "Taxminan 55 ‰",
+        "Taxminan 75 ‰"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Golfstrim oqimi qanday oqim turi?",
+      "variantlar": [
+        "Sovuq dengiz oqimi",
+        "Issiq dengiz oqimi",
+        "Yer osti suvi oqimi",
+        "Shamol turi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aral dengizining qurishi asosan qaysi davrdan boshlab kuchaygan?",
+      "variantlar": [
+        "XIX asr boshlarida",
+        "XX asrning ikkinchi yarmidan boshlab (asosan sug'orish maydonlari kengaygani sababli)",
+        "XXI asr boshida birinchi marta",
+        "Qadimgi davrlarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyoda neft zaxiralari bo'yicha yetakchi mintaqalardan biri qaysi?",
+      "variantlar": [
+        "Skandinaviya",
+        "Fors ko'rfazi mintaqasi (Yaqin Sharq)",
+        "Antarktida",
+        "Avstraliya markazi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda tabiiy gaz qazib chiqarishning yirik markazlaridan biri qaysi hudud?",
+      "variantlar": [
+        "Farg'ona vodiysi",
+        "Buxoro-Xiva neft-gaz provinsiyasi",
+        "Toshkent vohasi",
+        "Zarafshon vodiysi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jahon bo'yicha eng katta oltin qazib chiqaruvchi konlardan biri O'zbekistonning qaysi hududida joylashgan?",
+      "variantlar": [
+        "Muruntov (Navoiy viloyati)",
+        "Farg'ona vodiysi",
+        "Surxondaryo tog'lari",
+        "Xorazm vohasi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Valyuta kursi tebranishlari mamlakat tashqi savdosiga qanday ta'sir ko'rsatishi mumkin?",
+      "variantlar": [
+        "Hech qanday ta'siri yo'q",
+        "Eksport va import narxlarining nisbiy o'zgarishiga ta'sir qiladi",
+        "Faqat ichki turizmga ta'sir qiladi",
+        "Faqat qishloq xo'jaligiga ta'sir qiladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jahon savdo tashkiloti (JST/WTO) asosiy vazifasi nima?",
+      "variantlar": [
+        "Xalqaro savdo qoidalarini belgilash va nizolarni hal qilishga ko'maklashish",
+        "Faqat sport musobaqalarini tashkil qilish",
+        "Faqat ekologik loyihalarni moliyalashtirish",
+        "Faqat harbiy hamkorlikni muvofiqlashtirish"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Ipak yo'li\" tarixiy savdo yo'li qaysi hududlarni bog'lagan?",
+      "variantlar": [
+        "Faqat Yevropa ichidagi shaharlarni",
+        "Xitoy, Markaziy Osiyo va Yevropa/O'rta Yer dengizi mintaqasini",
+        "Faqat Afrika ichini",
+        "Faqat Amerika qit'asini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Demografik portlash tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Aholi sonining keskin va tez o'sishi",
+        "Aholi sonining keskin kamayishi",
+        "Aholi yoshi tarkibining o'zgarmasligi",
+        "Shahar aholisining qishloqqa ko'chishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Eskirgan aholi\" (qariya aholi) tarkibi ko'proq qaysi davlatlar uchun xos?",
+      "variantlar": [
+        "Afrikaning kambag'al davlatlari",
+        "Yaponiya kabi rivojlangan, tug'ilish darajasi past davlatlar",
+        "Janubiy Osiyoning aholisi zich davlatlari",
+        "Yangi mustaqil bo'lgan davlatlar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xalqaro vaqt mintaqalari tizimi nimaga asoslangan?",
+      "variantlar": [
+        "Yerning kunlik aylanishi va Grinvich meridianiga nisbatan joylashuvga",
+        "Faqat davlat chegaralariga",
+        "Faqat iqlim turlariga",
+        "Faqat dengiz sathiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston bilan bir nechta vaqt mintaqasi farqiga ega bo'lgan davlatga misol qaysi?",
+      "variantlar": [
+        "Qozog'iston (deyarli bir xil vaqt mintaqasida)",
+        "Yaponiya",
+        "Tojikiston (deyarli bir xil vaqt mintaqasida)",
+        "Qirg'iziston (deyarli bir xil vaqt mintaqasida)"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xalqaro sana chizig'i (International Date Line) taxminan qaysi meridian bo'ylab o'tadi?",
+      "variantlar": [
+        "0° (Grinvich meridiani)",
+        "Taxminan 180° meridian",
+        "45° sharqiy meridian",
+        "90° g'arbiy meridian"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Antarktida qit'asi qanday maqomga ega?",
+      "variantlar": [
+        "Bitta davlatga tegishli hudud",
+        "Xalqaro shartnoma asosida ilmiy tadqiqotlar uchun ajratilgan, hech bir davlatga rasman tegishli bo'lmagan hudud",
+        "Ikkita davlat o'rtasida bo'lingan",
+        "Doimiy aholi yashaydigan mustaqil davlat"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jahon okeanidagi asosiy transport yo'llaridan biri bo'lgan Suvaysh kanali qaysi ikki suv havzasini bog'laydi?",
+      "variantlar": [
+        "O'rta yer dengizi va Qizil dengizni",
+        "Tinch va Atlantika okeanlarini",
+        "Kaspiy va Qora dengizni",
+        "Boltiq va Shimoliy dengizni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Panama kanali qaysi ikki okeanni bog'laydi?",
+      "variantlar": [
+        "Hind va Tinch okeanlarini",
+        "Tinch va Atlantika okeanlarini",
+        "Atlantika va Hind okeanlarini",
+        "Shimoliy Muz va Tinch okeanlarini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyo bo'yicha eng yirik valyuta-moliyaviy markazlardan biri qaysi shahar hisoblanadi?",
+      "variantlar": [
+        "Nyu-York",
+        "Ulan-Bator",
+        "Bishkek",
+        "Dushanbe"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Klimat (iqlim) o'zgarishi bo'yicha Parij kelishuvi asosan nimaga qaratilgan?",
+      "variantlar": [
+        "Global haroratning ko'tarilishini cheklash bo'yicha davlatlar majburiyatlarini belgilashga",
+        "Faqat savdo tariflarini kamaytirishga",
+        "Faqat harbiy qurollanishni cheklashga",
+        "Faqat migratsiyani tartibga solishga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jahon bo'yicha eng katta chuchuk suv zaxirasiga ega ko'llardan biri (hajm jihatidan) qaysi?",
+      "variantlar": [
+        "Baykal ko'li",
+        "Viktoriya ko'li",
+        "Onteario ko'li",
+        "Ladoga ko'li"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Quruqlik ichidagi davlat\" (landlocked country) atamasi nimani anglatadi?",
+      "variantlar": [
+        "Dengiz yoki okeanga bevosita chiqish imkoniga ega bo'lmagan davlat",
+        "Faqat orollardan iborat davlat",
+        "Faqat tog'li davlat",
+        "Faqat cho'l davlati"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston va Lixtenshteyn kabi davlatlar qaysi noyob geografik xususiyatga ko'ra o'xshash?",
+      "variantlar": [
+        "Ikkalasi ham orol davlati",
+        "Ikkalasi ham \"ikki marta dengizga chiqish imkoniga ega bo'lmagan\" (double landlocked) davlatlar",
+        "Ikkalasi ham ekvatorda joylashgan",
+        "Ikkalasi ham qutb doirasida joylashgan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jahon aholisi soni taxminan qachon 8 milliardga yetgan (rasman e'lon qilingan sana bo'yicha)?",
+      "variantlar": [
+        "2010-yilda",
+        "2015-yilda",
+        "2022-yilning noyabrida",
+        "2030-yilda"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Iqtisodiy hamkorlik tashkiloti (ECO) tarkibiga qaysi mintaqa davlatlari kiradi?",
+      "variantlar": [
+        "Faqat Yevropa davlatlari",
+        "Markaziy va Janubiy-G'arbiy Osiyo davlatlari (jumladan O'zbekiston, Eron, Turkiya va boshqalar)",
+        "Faqat Lotin Amerikasi davlatlari",
+        "Faqat Afrika davlatlari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng katta orol qaysi hisoblanadi?",
+      "variantlar": [
+        "Madagaskar",
+        "Grenlandiya",
+        "Borneo",
+        "Yangi Gvineya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng uzun tog' tizmasi (quruqlikdagi) qaysi hisoblanadi?",
+      "variantlar": [
+        "Gimalay tog'lari",
+        "Anda tog'lari",
+        "Ural tog'lari",
+        "Alp tog'lari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng katta arxipelag (orollar guruhi)ga ega davlat qaysi?",
+      "variantlar": [
+        "Yaponiya",
+        "Indoneziya",
+        "Filippin",
+        "Yangi Zelandiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng kichik mustaqil davlat (hudud jihatidan) qaysi?",
+      "variantlar": [
+        "Monako",
+        "Vatikan",
+        "San-Marino",
+        "Lixtenshteyn"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Hudud jihatidan eng uzun sohilga (qirg'oq chizig'iga) ega davlat qaysi hisoblanadi?",
+      "variantlar": [
+        "Rossiya",
+        "Kanada",
+        "Avstraliya",
+        "Indoneziya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng baland sharshara (Anxel sharsharasi) qaysi davlatda joylashgan?",
+      "variantlar": [
+        "Braziliya",
+        "Venesuela",
+        "Kolumbiya",
+        "Peru"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv sarfi (oqim hajmi) jihatidan dunyodagi eng katta daryo qaysi hisoblanadi?",
+      "variantlar": [
+        "Nil",
+        "Amazonka",
+        "Mississipi",
+        "Yangtszi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng katta tropik yomg'ir o'rmoni qayerda joylashgan?",
+      "variantlar": [
+        "Kongo havzasida",
+        "Amazonka havzasida",
+        "Yangi Gvineyada",
+        "Madagaskarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Maydoni jihatidan dunyodagi eng katta chuchuk suv ko'li qaysi hisoblanadi?",
+      "variantlar": [
+        "Baykal ko'li",
+        "Superior ko'li",
+        "Viktoriya ko'li",
+        "Tanganyika ko'li"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Bosfor bo'g'ozi qaysi ikki dengizni bog'laydi?",
+      "variantlar": [
+        "Qora dengiz va Marmara dengizini",
+        "O'rta yer dengizi va Qizil dengizni",
+        "Boltiq va Shimoliy dengizni",
+        "Kaspiy va Qora dengizni"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Malakka bo'g'ozi jahon savdosida nima uchun strategik ahamiyatga ega?",
+      "variantlar": [
+        "Chunki u orqali dunyoning eng katta neft va tovar tashish yo'llaridan biri o'tadi",
+        "Chunki u faqat baliqchilik uchun muhim",
+        "Chunki u faqat harbiy mashqlar uchun ishlatiladi",
+        "Chunki u turizm markazi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Hurmuz bo'g'ozi qaysi mintaqada joylashgan va nima uchun muhim?",
+      "variantlar": [
+        "Janubi-Sharqiy Osiyoda, turizm uchun muhim",
+        "Fors ko'rfazida, dunyo neft tashish yo'llarining muhim nuqtasi sifatida",
+        "Shimoliy Yevropada, baliqchilik uchun muhim",
+        "Lotin Amerikasida, qishloq xo'jaligi uchun muhim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Burj Xalifa binosi qaysi shaharda joylashgan?",
+      "variantlar": [
+        "Abu-Dabi",
+        "Dubay",
+        "Doha",
+        "Riyod"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Birlashgan Millatlar Tashkilotiga (BMT) a'zo davlatlar soni taxminan nechta?",
+      "variantlar": [
+        "Taxminan 150 ta",
+        "Taxminan 193 ta",
+        "Taxminan 220 ta",
+        "Taxminan 100 ta"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jahonda eng ko'p oltin zaxirasiga ega davlatlardan biri sifatida qaysi mamlakat ko'rsatiladi?",
+      "variantlar": [
+        "AQSH",
+        "Islandiya",
+        "Nepal",
+        "Portugaliya"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dunyoda eng ko'p paxta tolasi eksport qiluvchi davlatlardan biri sifatida qaysi mamlakat tan olinadi?",
+      "variantlar": [
+        "Yaponiya",
+        "AQSH",
+        "Islandiya",
+        "Finlyandiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yevroosiyo qit'asida joylashgan, ammo Yevropa davlati sifatida ham tan olingan transkontinental davlatga misol qaysi?",
+      "variantlar": [
+        "Yaponiya",
+        "Turkiya",
+        "Tailand",
+        "Vetnam"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng issiq joy sifatida qayd etilgan hudud odatda qaysi mamlakatda joylashgan?",
+      "variantlar": [
+        "Liviyada yoki AQShning Death Valley hududida",
+        "Islandiyada",
+        "Kanadada",
+        "Yangi Zelandiyada"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dunyodagi eng sovuq joy sifatida qayd etilgan hudud qaysi materikda joylashgan?",
+      "variantlar": [
+        "Afrikada",
+        "Antarktidada",
+        "Avstraliyada",
+        "Janubiy Amerikada"
+      ],
+      "togri": 1
+    }
+  ]
+}

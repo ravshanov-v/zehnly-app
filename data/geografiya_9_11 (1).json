@@ -1,0 +1,505 @@
+{
+  "label": "Geografiya sinovi (9-11 sinf)",
+  "savollar": [
+    {
+      "savol": "Jahon xo'jaligi tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat bitta davlat iqtisodiyoti",
+        "Barcha davlatlar xo'jaligining o'zaro bog'liq yagona tizimi",
+        "Faqat qishloq xo'jaligi",
+        "Faqat sanoat tarmog'i"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Globallashuv jarayoni geografiyaga qanday ta'sir ko'rsatadi?",
+      "variantlar": [
+        "Davlatlar o'rtasidagi iqtisodiy, madaniy aloqalarni kuchaytiradi",
+        "Davlatlarni butunlay bir-biridan ajratib qo'yadi",
+        "Faqat harbiy sohaga ta'sir qiladi",
+        "Hech qanday ta'siri yo'q"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yalpi ichki mahsulot (YaIM) nimani ko'rsatadi?",
+      "variantlar": [
+        "Davlat aholisining yoshini",
+        "Muayyan davr ichida mamlakatda yaratilgan barcha mahsulot va xizmatlar qiymatini",
+        "Davlatning hududiy kattaligini",
+        "Davlatdagi tog'lar sonini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Rivojlangan va rivojlanayotgan davlatlar farqlanishida asosan qaysi ko'rsatkichlar hisobga olinadi?",
+      "variantlar": [
+        "Faqat hudud kattaligi",
+        "YaIM, sanoatlashuv darajasi, hayot sifati kabi iqtisodiy-ijtimoiy ko'rsatkichlar",
+        "Faqat iqlim sharoiti",
+        "Faqat aholi soni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yevropa Ittifoqi (YI) qanday tashkilot?",
+      "variantlar": [
+        "Faqat harbiy blok",
+        "Yevropa davlatlarining iqtisodiy va siyosiy integratsiyalashuvi",
+        "Faqat sport tashkiloti",
+        "Faqat madaniy tashkilot"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "OPEC tashkiloti nimani muvofiqlashtiradi?",
+      "variantlar": [
+        "Neft eksport qiluvchi davlatlar o'rtasidagi neft siyosatini",
+        "Ta'lim tizimini",
+        "Sport musobaqalarini",
+        "Iqlim o'zgarishini"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sanoatning qaysi tarmog'i \"og'ir sanoat\" deb ataladi?",
+      "variantlar": [
+        "To'qimachilik va oziq-ovqat sanoati",
+        "Metallurgiya, mashinasozlik, energetika kabi tarmoqlar",
+        "Kiyim-kechak tikish",
+        "Qog'oz ishlab chiqarish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Yengil sanoat\" tarmog'iga qaysilar kiradi?",
+      "variantlar": [
+        "Metallurgiya va mashinasozlik",
+        "To'qimachilik, tikuvchilik, poyabzal ishlab chiqarish",
+        "Neft qazib chiqarish",
+        "Energetika"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qayta tiklanadigan energiya manbalariga nimalar kiradi?",
+      "variantlar": [
+        "Ko'mir va neft",
+        "Quyosh, shamol va gidroenergiya",
+        "Tabiiy gaz",
+        "Uran"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Demografik o'tish (demographic transition) nimani anglatadi?",
+      "variantlar": [
+        "Aholining bir mamlakatdan boshqasiga ko'chishi",
+        "Jamiyat rivojlanishi bilan tug'ilish va o'lim darajasining bosqichma-bosqich o'zgarishi",
+        "Faqat shaharlashish jarayoni",
+        "Faqat urbanizatsiya darajasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston iqtisodiyotida qaysi tarmoq eksportda muhim o'rin tutadi?",
+      "variantlar": [
+        "Faqat baliqchilik",
+        "Tabiiy gaz, oltin, paxta tolasi va boshqa qishloq xo'jaligi mahsulotlari",
+        "Faqat turizm",
+        "Faqat IT xizmatlari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Orol dengizi muammosi qanday oqibatlarga olib keldi?",
+      "variantlar": [
+        "Hech qanday oqibati bo'lmadi",
+        "Mintaqada iqlim o'zgarishi, tuproq sho'rlanishi va ekologik inqirozga olib keldi",
+        "Faqat baliq ovi ko'paydi",
+        "Faqat turizm rivojlandi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik muammolarni bartaraf etishda xalqaro hamkorlik nima uchun muhim?",
+      "variantlar": [
+        "Ekologik muammolar faqat bitta davlat chegarasida qolmasligi mumkinligi uchun",
+        "Xalqaro hamkorlik shart emas",
+        "Faqat boy davlatlarga foydali bo'lgani uchun",
+        "Ekologiya siyosat bilan bog'liq emas"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Iqtisodiy rayonlashtirish nima uchun amalga oshiriladi?",
+      "variantlar": [
+        "Faqat ma'muriy chegaralarni belgilash uchun",
+        "Hududlarning xo'jalik ixtisoslashuvi va rivojlanishini samarali boshqarish uchun",
+        "Faqat sport musobaqalari uchun",
+        "Faqat turizm reklamasi uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tranzit davlat deganda nima tushuniladi?",
+      "variantlar": [
+        "Faqat dengiz bo'yida joylashgan davlat",
+        "Hududi orqali boshqa davlatlar yuklari yoki resurslari tashiladigan davlat",
+        "Faqat orol davlati",
+        "Faqat qutb davlati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xalqaro savdoda \"eksport\" atamasi nimani anglatadi?",
+      "variantlar": [
+        "Mahsulotni chet eldan olib kirish",
+        "Mahsulotni chet elga sotish/chiqarish",
+        "Mahsulotni yo'q qilish",
+        "Mahsulotni saqlab qo'yish"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Import\" atamasi nimani bildiradi?",
+      "variantlar": [
+        "Mahsulotni chet eldan olib kirish",
+        "Mahsulotni chet elga sotish",
+        "Mahsulot ishlab chiqarishni to'xtatish",
+        "Soliq to'lash"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Aholi zichligi ko'rsatkichi nimani anglatadi?",
+      "variantlar": [
+        "Bir davlatdagi shaharlar soni",
+        "Ma'lum hudud maydoniga to'g'ri keladigan o'rtacha aholi soni",
+        "Aholining o'rtacha yoshi",
+        "Aholining o'rtacha daromadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Qaysi mintaqa dunyoda eng yuqori aholi zichligiga ega hisoblanadi?",
+      "variantlar": [
+        "Antarktida",
+        "Janubi-Sharqiy va Janubiy Osiyo",
+        "Sahroi Kabir markazi",
+        "Grenlandiya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sanoat markazlarining joylashishiga eng ko'p ta'sir qiluvchi omillardan biri qaysi?",
+      "variantlar": [
+        "Faqat iqlim go'zalligi",
+        "Xomashyo manbalari, energiya va transport infratuzilmasiga yaqinlik",
+        "Faqat aholi ta'limi darajasi",
+        "Faqat davlat bayrog'i rangi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Agro sanoat majmuasi nimani o'z ichiga oladi?",
+      "variantlar": [
+        "Faqat qishloq xo'jaligini",
+        "Qishloq xo'jaligi, uni qayta ishlash sanoati va yetkazib berish tizimini",
+        "Faqat transport sohasini",
+        "Faqat bank tizimini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Turizm sohasi mamlakat iqtisodiyotiga qanday hissa qo'shadi?",
+      "variantlar": [
+        "Hech qanday hissa qo'shmaydi",
+        "Valyuta tushumi va ish o'rinlari yaratish orqali hissa qo'shadi",
+        "Faqat ekologiyani yomonlashtiradi",
+        "Faqat davlat qarzini oshiradi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda qaysi shahar tarixiy-madaniy turizm markazi sifatida mashhur?",
+      "variantlar": [
+        "Nukus",
+        "Samarqand",
+        "Termiz",
+        "Jizzax"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv resurslaridan oqilona foydalanish nima uchun muhim?",
+      "variantlar": [
+        "Suv cheksiz resurs bo'lgani uchun ahamiyati yo'q",
+        "Suv tanqisligi ko'plab mintaqalarda dolzarb muammo bo'lgani uchun",
+        "Faqat baliqchilik uchun kerak",
+        "Faqat energetika uchun kerak"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chiqindilarni qayta ishlash (retsikling) nima uchun ahamiyatli?",
+      "variantlar": [
+        "Tabiiy resurslardan tejamli foydalanish va ifloslanishni kamaytirish uchun",
+        "Faqat qo'shimcha xarajat sifatida",
+        "Hech qanday ahamiyati yo'q",
+        "Faqat rasmiylik uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "BMTning barqaror rivojlanish maqsadlari (SDG) nimaga qaratilgan?",
+      "variantlar": [
+        "Faqat harbiy maqsadlarga",
+        "Kambag'allikni qisqartirish, ekologiyani asrash va teng rivojlanishga",
+        "Faqat sport rivojiga",
+        "Faqat kino sanoatiga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Iqlim o'zgarishi natijasida muzliklarning erishi nimaga olib kelishi mumkin?",
+      "variantlar": [
+        "Okean sathining ko'tarilishiga",
+        "Okean sathining pasayishiga",
+        "Hech qanday o'zgarishga olib kelmaydi",
+        "Faqat quruqlik kengayishiga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Geosiyosat (geopolitika) nimani o'rganadi?",
+      "variantlar": [
+        "Faqat tog' jinslarini",
+        "Geografik omillarning davlatlar siyosati va xalqaro munosabatlarga ta'sirini",
+        "Faqat o'simliklar dunyosini",
+        "Faqat iqlim turlarini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Markaziy Osiyo mintaqasi uchun suv resurslari taqsimoti nima uchun muhim geosiyosiy masala hisoblanadi?",
+      "variantlar": [
+        "Chunki mintaqa davlatlari umumiy daryolardan foydalanadi va manfaatlar mos kelmasligi mumkin",
+        "Chunki mintaqada suv umuman yo'q",
+        "Chunki bu faqat iqlim masalasi, siyosatga aloqasi yo'q",
+        "Chunki barcha davlatlar dengizga chiqish imkoniga ega"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sanoatlashuv jarayoni odatda qanday hududiy o'zgarishga olib keladi?",
+      "variantlar": [
+        "Qishloq aholisi ko'payadi, shaharlar kichrayadi",
+        "Shaharlar kengayadi va aholi shaharlarga ko'chib o'tadi (urbanizatsiya kuchayadi)",
+        "Hech qanday o'zgarish bo'lmaydi",
+        "Faqat qishloq xo'jaligi rivojlanadi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Iqtisodiyot tarmoqlari an'anaviy ravishda necha sektorga bo'linadi (birlamchi, ikkilamchi, uchlamchi)?",
+      "variantlar": [
+        "Ikkita",
+        "Uchta",
+        "Beshta",
+        "Yettita"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Birlamchi sektor\" iqtisodiyotga qaysi tarmoqlar kiradi?",
+      "variantlar": [
+        "Bank va sug'urta xizmatlari",
+        "Qishloq xo'jaligi, baliqchilik, konchilik kabi xomashyo ishlab chiqarish tarmoqlari",
+        "Faqat IT xizmatlari",
+        "Faqat ta'lim sohasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "\"Uchlamchi sektor\" (xizmat ko'rsatish sektori) ga nimalar kiradi?",
+      "variantlar": [
+        "Faqat konchilik",
+        "Savdo, bank, ta'lim, sog'liqni saqlash, turizm kabi xizmat sohalari",
+        "Faqat metallurgiya",
+        "Faqat dehqonchilik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Jon boshiga to'g'ri keladigan YaIM (YaIM per capita) nimani ko'rsatadi?",
+      "variantlar": [
+        "Davlatning umumiy hududi",
+        "Umumiy YaIMning aholi soniga nisbatan taqsimlangan ko'rsatkichi",
+        "Davlatdagi tog'lar sonini",
+        "Davlatning harbiy kuchini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "ASEAN tashkiloti qaysi mintaqa davlatlarini birlashtiradi?",
+      "variantlar": [
+        "G'arbiy Yevropa",
+        "Janubi-Sharqiy Osiyo",
+        "Lotin Amerikasi",
+        "Shimoliy Afrika"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Oziq-ovqat xavfsizligi (food security) tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat oziq-ovqat mahsulotlarining chiroyli qadoqlanishi",
+        "Aholining barqaror ravishda yetarli va sifatli oziq-ovqat bilan ta'minlanishi",
+        "Faqat eksport hajmining oshishi",
+        "Faqat oziq-ovqat narxining pasayishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv tanqisligi (water scarcity) muammosi ko'proq qaysi mintaqalarda kuzatiladi?",
+      "variantlar": [
+        "Ekvatorial yomg'irli o'rmonlarda",
+        "Quruq iqlimli va aholi zich mintaqalarda (masalan Yaqin Sharq, Markaziy Osiyo)",
+        "Qutb hududlarida",
+        "Okean orollarida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Energiya xavfsizligi (energy security) nimani nazarda tutadi?",
+      "variantlar": [
+        "Faqat elektr narxining arzonligini",
+        "Davlatning barqaror va ishonchli energiya manbalari bilan ta'minlanishini",
+        "Faqat elektr stansiyalari sonini",
+        "Faqat neft eksportini"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonning tranzit transport imkoniyatlarini kengaytirish uchun qaysi yo'nalish muhim hisoblanadi?",
+      "variantlar": [
+        "Faqat ichki shahar transporti",
+        "Xalqaro temir yo'l va avtomobil yo'llari orqali qo'shni davlatlar va dengiz portlariga chiqish",
+        "Faqat velosiped yo'llari",
+        "Faqat piyodalar yo'lagi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Pul o'tkazmalari (remittance) iqtisodiy geografiyada nimani anglatadi?",
+      "variantlar": [
+        "Davlat byudjetidan ajratiladigan mablag'",
+        "Chet elda ishlayotgan fuqarolarning vataniga jo'natgan pul mablag'lari",
+        "Bank foizlari",
+        "Soliq to'lovlari"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aholining tez qarishi (aging population) qaysi iqtisodiy muammoni keltirib chiqarishi mumkin?",
+      "variantlar": [
+        "Ish kuchi taqchilligi va pensiya tizimiga yuk ortishi",
+        "Faqat ta'lim sifatining oshishi",
+        "Faqat sog'liqni saqlash xarajatlarining kamayishi",
+        "Hech qanday muammo tug'dirmaydi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Shahar issiqlik oroli (urban heat island) hodisasi nima?",
+      "variantlar": [
+        "Shaharlarda atrof qishloq hududlarga nisbatan harorat yuqoriroq bo'lishi",
+        "Faqat dengiz bo'yidagi issiqlik",
+        "Faqat qishda kuzatiladigan hodisa",
+        "Faqat tog'larda kuzatiladigan hodisa"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Cho'llanish (desertifikatsiya) jarayoni asosan nima sabab bo'ladi?",
+      "variantlar": [
+        "Ortiqcha yog'ingarchilik",
+        "Iqlim o'zgarishi va tuproqning noto'g'ri foydalanish natijasida degradatsiyaga uchrashi",
+        "Faqat vulqon otilishi",
+        "Faqat zilzilalar"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tuproq degradatsiyasi (yer resurslarining yomonlashuvi) nimalarga olib kelishi mumkin?",
+      "variantlar": [
+        "Hosildorlikning oshishiga",
+        "Hosildorlikning pasayishi va oziq-ovqat ishlab chiqarishning qiyinlashishiga",
+        "Hech qanday oqibatga olib kelmaydi",
+        "Faqat suv sifatining yaxshilanishiga"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ekologik migrant (atrof-muhit sabab bo'lgan ko'chish) tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Faqat ish qidirib ko'chgan odam",
+        "Tabiiy ofat yoki ekologik inqiroz sababli o'z hududini tark etishga majbur bo'lgan kishi",
+        "Faqat sayyoh",
+        "Faqat talaba"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Barqaror rivojlanish (sustainable development) tushunchasi asosan nimani ko'zda tutadi?",
+      "variantlar": [
+        "Faqat bugungi ehtiyojlarni qondirishni, kelajakni hisobga olmasdan",
+        "Kelajak avlodlar ehtiyojiga putur yetkazmasdan hozirgi ehtiyojlarni qondirish",
+        "Faqat sanoatni to'xtatishni",
+        "Faqat tabiiy resurslardan foydalanishni taqiqlashni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Iqtisodiy rivojlanishda \"klaster\" (industrial cluster) tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Bir-biriga bog'liq korxonalarning ma'lum hududda to'planishi",
+        "Faqat bitta zavod",
+        "Faqat qishloq xo'jaligi maydoni",
+        "Faqat bank filiali"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Raqamli iqtisodiyot (digital economy) rivojlanishi hududlar geografiyasiga qanday ta'sir qilmoqda?",
+      "variantlar": [
+        "Hech qanday ta'sir ko'rsatmayapti",
+        "Masofadan ishlash imkoniyatlarini kengaytirib, ba'zi ishlarni geografik joydan mustaqillashtirmoqda",
+        "Faqat qishloq xo'jaligiga ta'sir qilmoqda",
+        "Faqat harbiy sohaga ta'sir qilmoqda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda so'nggi yillarda qaysi soha eksportni diversifikatsiya qilish maqsadida faol rivojlantirilmoqda?",
+      "variantlar": [
+        "Faqat paxta xomashyosi eksporti",
+        "To'qimachilik tayyor mahsulotlari, elektrotexnika va boshqa qayta ishlangan mahsulotlar eksporti",
+        "Faqat xom neft eksporti",
+        "Faqat ko'mir eksporti"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Iqtisodiy geografiyada \"qo'shilgan qiymat\" (value added) tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Xomashyoni qayta ishlash jarayonida unga qo'shilgan qo'shimcha qiymat",
+        "Faqat davlat solig'i miqdorini",
+        "Faqat mahsulot og'irligini",
+        "Faqat transport xarajatini"
+      ],
+      "togri": 0
+    }
+  ]
+}

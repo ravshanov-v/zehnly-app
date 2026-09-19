@@ -1,0 +1,505 @@
+{
+  "label": "Geografiya sinovi (7-9 sinf)",
+  "savollar": [
+    {
+      "savol": "Litosfera nima?",
+      "variantlar": [
+        "Yerning gaz qobig'i",
+        "Yerning tosh (qattiq) qobig'i",
+        "Yerning suv qobig'i",
+        "Yerning tirik organizmlar qobig'i"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Atmosfera nima?",
+      "variantlar": [
+        "Yerning tosh qobig'i",
+        "Yerni o'rab turgan havo qobig'i",
+        "Yer osti suvlari",
+        "Yer yadrosi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Gidrosfera tushunchasi nimani anglatadi?",
+      "variantlar": [
+        "Yerdagi barcha suvlar majmuasi (okean, dengiz, daryo, ko'l va boshqalar)",
+        "Yerning ichki qismi",
+        "Faqat yer osti boyliklari",
+        "Faqat muzliklar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Litosfera plitalari harakati natijasida ko'pincha nima yuzaga keladi?",
+      "variantlar": [
+        "Yomg'ir",
+        "Zilzila va vulqon otilishi",
+        "Shamol",
+        "Qor yog'ishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Vulqon nima?",
+      "variantlar": [
+        "Yer yuzasidagi chuqur ko'l",
+        "Yer ichidan magma, gaz va kul otilib chiqadigan tog' shakli",
+        "Muzlik turi",
+        "Cho'l hodisasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Musson iqlimi qanday xususiyatga ega?",
+      "variantlar": [
+        "Yil davomida bir xil yog'in bo'ladi",
+        "Fasllarga qarab shamol yo'nalishi o'zgarib, yozda ko'p yog'in, qishda kam yog'in kuzatiladi",
+        "Doimo qurg'oqchil bo'ladi",
+        "Faqat qutb hududlarida uchraydi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng katta cho'l qaysi?",
+      "variantlar": [
+        "Qorako'l cho'li",
+        "Sahroi Kabir (Sahara)",
+        "Gobi cho'li",
+        "Qizilqum cho'li"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Pomir tog' tizimi qayerda joylashgan?",
+      "variantlar": [
+        "Afrikada",
+        "Markaziy Osiyoda",
+        "Janubiy Amerikada",
+        "Avstraliyada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tyan-Shan tog' tizimi qaysi davlatlar hududida joylashgan?",
+      "variantlar": [
+        "Faqat Rossiyada",
+        "O'zbekiston, Qirg'iziston, Qozog'iston va Xitoy hududlarida",
+        "Faqat Hindistonda",
+        "Faqat Yaponiyada"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Amazonka daryosi qaysi materikda joylashgan?",
+      "variantlar": [
+        "Afrika",
+        "Janubiy Amerika",
+        "Yevropa",
+        "Osiyo"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Nil daryosi asosan qaysi materikda oqadi?",
+      "variantlar": [
+        "Afrika",
+        "Osiyo",
+        "Avstraliya",
+        "Shimoliy Amerika"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dunyoning aholi soni bo'yicha eng ko'p davlati qaysi (2020-yillar ma'lumotiga ko'ra)?",
+      "variantlar": [
+        "AQSH",
+        "Hindiston",
+        "Braziliya",
+        "Indoneziya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng katta davlat (hudud jihatidan) qaysi?",
+      "variantlar": [
+        "Xitoy",
+        "Kanada",
+        "Rossiya",
+        "AQSH"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "O'zbekistonda eng ko'p aholi yashaydigan viloyat (Toshkent shahridan tashqari) qaysi?",
+      "variantlar": [
+        "Sirdaryo viloyati",
+        "Farg'ona viloyati",
+        "Navoiy viloyati",
+        "Xorazm viloyati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chirchiq daryosi qaysi yirik daryoning irmog'i hisoblanadi?",
+      "variantlar": [
+        "Amudaryo",
+        "Sirdaryo",
+        "Zarafshon",
+        "Qashqadaryo"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda qanday iqlim turi ustunlik qiladi?",
+      "variantlar": [
+        "Ekvatorial iqlim",
+        "Keskin kontinental (quruq subtropik) iqlim",
+        "Musson iqlimi",
+        "Qutbiy iqlim"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Foydali qazilmalardan neft va tabiiy gaz qanday resurs turiga kiradi?",
+      "variantlar": [
+        "Qayta tiklanadigan resurs",
+        "Qayta tiklanmaydigan (tugaydigan) resurs",
+        "Cheksiz resurs",
+        "Iqlim resursi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston qanday tabiiy boyliklari bilan mashhur?",
+      "variantlar": [
+        "Faqat baliqchilik",
+        "Tabiiy gaz, oltin, paxta va boshqa foydali qazilmalar",
+        "Faqat neft",
+        "Faqat ko'mir"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ozon qatlami nima uchun muhim?",
+      "variantlar": [
+        "Yerni Quyoshning zararli ultrabinafsha nurlaridan himoya qiladi",
+        "Yerni sovutadi",
+        "Yomg'ir hosil qiladi",
+        "Shamolni to'xtatadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Issiqxona effekti nima bilan bog'liq?",
+      "variantlar": [
+        "Atmosferada karbonat angidrid kabi gazlar ko'payib, Yer haroratining ko'tarilishi bilan",
+        "Faqat qish faslining kelishi bilan",
+        "Faqat vulqon otilishi bilan",
+        "Faqat qor yog'ishi bilan"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Dunyoda eng ko'p aholi yashaydigan qit'a qaysi?",
+      "variantlar": [
+        "Afrika",
+        "Osiyo",
+        "Yevropa",
+        "Avstraliya"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Urbanizatsiya nima?",
+      "variantlar": [
+        "Qishloq joylarning kengayishi",
+        "Shahar aholisi ulushining o'sishi va shaharlar rivojlanishi jarayoni",
+        "Sanoatning yo'qolishi",
+        "Aholi sonining kamayishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Iqtisodiy geografiya nimani o'rganadi?",
+      "variantlar": [
+        "Faqat tog' jinslarini",
+        "Xo'jalik tarmoqlarining hududiy joylashuvi va rivojlanishini",
+        "Faqat yulduzlar harakatini",
+        "Faqat tarixiy urushlarni"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Sug'orma dehqonchilik qanday hududlarda ko'proq rivojlangan?",
+      "variantlar": [
+        "Yomg'ir ko'p yog'adigan hududlarda",
+        "Quruq va yog'in kam tushadigan, sun'iy sug'orish talab qilinadigan hududlarda",
+        "Faqat qutb hududlarida",
+        "Faqat tog' cho'qqilarida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekistonda paxtachilik qaysi sabab bilan keng rivojlangan?",
+      "variantlar": [
+        "Iqlim sovuq bo'lgani uchun",
+        "Issiq iqlim va sug'orish tizimlari mavjudligi tufayli",
+        "Tog'li relyef tufayli",
+        "Dengiz yaqinligi tufayli"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Aholi migratsiyasi deganda nima tushuniladi?",
+      "variantlar": [
+        "Aholining bir hududdan boshqasiga ko'chib o'tishi",
+        "Aholi sonining o'sishi",
+        "Aholi yoshining oshishi",
+        "Tug'ilish darajasining kamayishi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Zarafshon daryosi qayerdan boshlanadi?",
+      "variantlar": [
+        "Tyan-Shan tog'laridan",
+        "Zarafshon tog' tizmasidagi muzliklardan",
+        "Ural tog'laridan",
+        "Kavkaz tog'laridan"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dunyodagi eng chuqur ko'l qaysi?",
+      "variantlar": [
+        "Viktoriya ko'li",
+        "Baykal ko'li",
+        "Kaspiy dengizi",
+        "Aral dengizi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Kaspiy dengizi aslida qanday suv havzasi hisoblanadi?",
+      "variantlar": [
+        "Haqiqiy okean",
+        "Dunyodagi eng katta ko'l (yopiq suv havzasi)",
+        "Daryo",
+        "Muzlik"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer osti boyliklarini qidirish va o'rganish bilan qaysi fan shug'ullanadi?",
+      "variantlar": [
+        "Biologiya",
+        "Geologiya",
+        "Astronomiya",
+        "Kimyo"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Passat shamollari qayerda ustunlik qiladi?",
+      "variantlar": [
+        "Qutb hududlarida",
+        "Tropik kengliklarda",
+        "Faqat tog'larda",
+        "Faqat okean tubida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Dengiz sathidan balandlik qanday o'lchov birligida ifodalanadi?",
+      "variantlar": [
+        "Kilometr kvadratda",
+        "Metr yoki fut",
+        "Foizda",
+        "Litrda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Materik qit'asi bilan qit'a (dunyo qismi) tushunchasi orasidagi farq nimada?",
+      "variantlar": [
+        "Bir xil tushuncha, farqi yo'q",
+        "Materik geografik, qit'a esa tarixiy-madaniy jihatdan ajratiladi (masalan Yevropa va Osiyo bitta materikda ikkita qit'a)",
+        "Qit'a materikdan kattaroq bo'ladi",
+        "Materik faqat suv ostida bo'ladi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Chuchuk suv zaxiralarining aksariyati qayerda saqlanadi?",
+      "variantlar": [
+        "Okeanlarda",
+        "Muzliklar va muz qoplamlarida",
+        "Atmosferada",
+        "Dengiz tubida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Geografik joylashuv jihatidan O'zbekiston qanday davlat hisoblanadi?",
+      "variantlar": [
+        "Dengizga chiqish imkoniga ega davlat",
+        "Ikki marta dengizga chiqish imkoniga ega bo'lmagan (double landlocked) davlatlardan biri",
+        "Orol davlati",
+        "Yarim orol davlati"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Litosfera plitalarining bir-biriga yaqinlashib to'qnashishi natijasida odatda nima hosil bo'ladi?",
+      "variantlar": [
+        "Tekislik",
+        "Tog' tizmalari",
+        "Ko'l",
+        "Sahroi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Alfred Vegener qaysi nazariyaning muallifi hisoblanadi?",
+      "variantlar": [
+        "Issiqxona effekti nazariyasi",
+        "Materiklar siljishi (kontinental drift) nazariyasi",
+        "Demografik o'tish nazariyasi",
+        "Iqlim zonalari nazariyasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Zilzila kuchini o'lchash uchun qaysi shkaladan foydalaniladi?",
+      "variantlar": [
+        "Selsiy shkalasi",
+        "Rixter shkalasi",
+        "Boft shkalasi",
+        "Farengeyt shkalasi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Tayga tabiiy zonasi qanday hududlarda keng tarqalgan?",
+      "variantlar": [
+        "Ekvator atrofida",
+        "Shimoliy mo''tadil kengliklarda, ninabargli o'rmonlar zonasida",
+        "Faqat cho'llarda",
+        "Faqat orollarda"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Suv aylanishi (gidrologik sikl) jarayoniga nimalar kiradi?",
+      "variantlar": [
+        "Faqat yomg'ir yog'ishi",
+        "Bug'lanish, kondensatsiya va yog'in ko'rinishida suvning tabiatda aylanib yurishi",
+        "Faqat daryolarning oqishi",
+        "Faqat muzliklarning erishi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Muzliklar asosan qayerda ko'proq to'plangan?",
+      "variantlar": [
+        "Ekvator mintaqasida",
+        "Antarktida va Grenlandiyada",
+        "Sahroi Kabirda",
+        "Amazonka havzasida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Xarita proyeksiyasi (kartografik proyeksiya) nima uchun kerak?",
+      "variantlar": [
+        "Sharsimon Yer yuzasini tekislikka tasvirlash uchun",
+        "Faqat rang tanlash uchun",
+        "Faqat masshtabni o'zgartirish uchun",
+        "Faqat davlat chegaralarini chizish uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "GIS (Geografik Axborot Tizimlari) nima uchun ishlatiladi?",
+      "variantlar": [
+        "Faqat rasm chizish uchun",
+        "Geografik ma'lumotlarni yig'ish, saqlash va tahlil qilish uchun",
+        "Faqat matn yozish uchun",
+        "Faqat video ko'rish uchun"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Ozon qatlamidagi \"teshik\" (kamayish) ko'proq qaysi hudud ustida qayd etilgan?",
+      "variantlar": [
+        "Ekvator ustida",
+        "Antarktida ustida",
+        "Yevropa ustida",
+        "Markaziy Osiyo ustida"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "O'zbekiston qaysi davlatlar bilan chegaradosh emas?",
+      "variantlar": [
+        "Qozog'iston",
+        "Tojikiston",
+        "Xitoy",
+        "Turkmaniston"
+      ],
+      "togri": 2
+    },
+    {
+      "savol": "Buxoro va Xiva shaharlari tarixiy jihatdan qanday yo'l bilan mashhur bo'lgan?",
+      "variantlar": [
+        "Buyuk Ipak yo'li orqali savdo markazlari sifatida",
+        "Faqat harbiy istehkom sifatida",
+        "Faqat zamonaviy sanoat markazi sifatida",
+        "Faqat dengiz porti sifatida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Iqlim o'zgarishining ko'zga ko'rinadigan belgilaridan biri nima?",
+      "variantlar": [
+        "Muzliklarning barqaror qolishi",
+        "O'rtacha global haroratning asta-sekin ko'tarilishi",
+        "Dengiz sathining pasayishi",
+        "Yog'inlarning butunlay to'xtashi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Passat va musson shamollari o'rtasidagi asosiy farq nimada?",
+      "variantlar": [
+        "Passat doimiy yo'nalishda, musson esa fasllarga qarab yo'nalishini o'zgartiradi",
+        "Ular bir xil shamol turi",
+        "Musson faqat qishda esadi",
+        "Passat faqat qutblarda esadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Namangan, Andijon va Farg'ona shaharlari qaysi vodiyda joylashgan?",
+      "variantlar": [
+        "Zarafshon vodiysi",
+        "Farg'ona vodiysi",
+        "Surxon vodiysi",
+        "Chirchiq vodiysi"
+      ],
+      "togri": 1
+    },
+    {
+      "savol": "Yer qobig'ining harakatchan chegaralari (litosfera plitalari chegaralari) qanday nomlanadi?",
+      "variantlar": [
+        "Seysmik va vulqon zonalari",
+        "Iqlim zonalari",
+        "Vaqt mintaqalari",
+        "Tabiiy zonalar"
+      ],
+      "togri": 0
+    }
+  ]
+}
