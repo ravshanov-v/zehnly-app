@@ -1,0 +1,285 @@
+{
+  "label": "Matematika sinovi (Milliy sertifikat, 2-variant)",
+  "savollar": [
+    {
+      "savol": "a, b, c raqamlar uchun (abc̄) + (bc̄) + c = 832 bo'lsa, a+b+c ning eng katta qiymatini toping.",
+      "variantlar": ["13", "17", "18", "21"],
+      "togri": 1
+    },
+    {
+      "savol": "(((1-2⁻¹)⁻¹-3⁻¹)⁻¹-4⁻¹)⁻¹ ni hisoblang.",
+      "variantlar": ["2 4/7", "2 5/6", "2 6/7", "3"],
+      "togri": 2
+    },
+    {
+      "savol": "Tekshiruvchilar bir oyda ishlab chiqarilgan mahsulotlarning 0,8% ni yaroqsiz deb topdilar. Agar ular 64 ta mahsulotni yaroqsiz deb topgan bo'lishsa, jami nechta mahsulot ishlab chiqarilgan?",
+      "variantlar": ["800", "8000", "6400", "25600"],
+      "togri": 1
+    },
+    {
+      "savol": "1:300 000 masshtabli xaritada A va B qishloqlar orasidagi masofa 6 cm ga teng. 90 km/soat tezlikda yuruvchi avtomobil A dan B ga borib, qaytib kela oladi. Bunga qancha vaqt ketadi?",
+      "variantlar": ["20 daqiqa", "24 daqiqa", "36 daqiqa", "54 daqiqa"],
+      "togri": 1
+    },
+    {
+      "savol": "Hisoblang: (12¹⁰ - 4⁹·3¹⁰) / (8⁶·9⁵ - 6⁴·18³·16³)",
+      "variantlar": ["3", "-3", "1/3", "-1/3"],
+      "togri": 1
+    },
+    {
+      "savol": "a va b ratsional sonlar. Agar 1/(3+√7) + 1/(4+√7) = a+b√7 bo'lsa, a+b ni toping.",
+      "variantlar": ["2,(5)", "1,(3)", "2,(7)", "1,(5)"],
+      "togri": 1
+    },
+    {
+      "savol": "Hisoblang: √(2⁶-2⁵+2²) + √(2¹⁰-2⁹+2⁶) + ... + √(2³⁸-2³⁷+2³⁴)",
+      "variantlar": ["2¹⁹-2", "2¹⁹-2²", "2¹⁹", "2¹⁹-2³"],
+      "togri": 0
+    },
+    {
+      "savol": "x+y=10; z=7 bo'lsa, x²-z²+2xy+y² ifodaning qiymatini toping.",
+      "variantlar": ["34", "51", "54", "49"],
+      "togri": 1
+    },
+    {
+      "savol": "Birinchi va ikkinchi hadlari yig'indisi 12 ga, beshinchi va yettinchi hadlari yig'indisi 39 ga teng bo'lgan arifmetik progressiyaning uchinchi va to'rtinchi hadlari yig'indisini toping.",
+      "variantlar": ["15", "18", "24", "27"],
+      "togri": 2
+    },
+    {
+      "savol": "Geometrik progressiyada b₅₀=10 va q=2/5 bo'lsa, (b₁+b₃+...+b₉₉) : (1/b₂+1/b₄+...+1/b₁₀₀) ning qiymatini toping.",
+      "variantlar": ["4", "25", "40", "100"],
+      "togri": 2
+    },
+    {
+      "savol": "log₂a + log₄a + log₈a + log₁₆a = 625 bo'lsa, logₐ2 + log_(a²)2 + log_(a³)2 + log_(a⁴)2 ning qiymatini toping.",
+      "variantlar": ["1/12", "1/144", "1/300", "1/625"],
+      "togri": 1
+    },
+    {
+      "savol": "Hisoblang: sin10°·sin20°·sin30°·...·sin80°·sin90°",
+      "variantlar": ["3/128", "√3/256", "3/256", "1/128"],
+      "togri": 2
+    },
+    {
+      "savol": "cos²x + cos²(x+y) - 2cosx cosy cos(x+y) ifodani soddalashtiring.",
+      "variantlar": ["cos²x", "sin²x", "cos²y", "sin²y"],
+      "togri": 3
+    },
+    {
+      "savol": "1/x+2/y+3/z=0 va 1/x-6/y-5/z=0 bo'lsa, x/y+y/z+z/x ni toping.",
+      "variantlar": ["-3", "-1", "1", "3"],
+      "togri": 1
+    },
+    {
+      "savol": "|x+1|/(x+1) + |x-2|/(x-2) + |x+5|/(x+5) + |x-6|/(x-6) = 2 tenglamaning natural yechimlari yig'indisini toping.",
+      "variantlar": ["11", "12", "15", "18"],
+      "togri": 1
+    },
+    {
+      "savol": "√(log_x∛(7x) · log₇x) = -1/2 tenglamaning ildizlari ko'paytmasini (yagona bo'lsa, o'zini) toping.",
+      "variantlar": ["√7/7", "1/7", "√7/49", "1/49"],
+      "togri": 2
+    },
+    {
+      "savol": "(x²-4)/x + (x³-8)/x² ≥ 0 tengsizlikni yeching.",
+      "variantlar": ["(-∞;0)∪[2;∞)", "(0;∞)", "(0;2]", "[2;∞)"],
+      "togri": 3
+    },
+    {
+      "savol": "√(x²-1) < 3/√(x²-1) tengsizlikni yeching.",
+      "variantlar": ["(-2;-1)∪(-1;1)∪(1;2)", "(-2;2)", "(-2;-1)∪(1;2)", "(-∞;-1)∪(1;∞)"],
+      "togri": 2
+    },
+    {
+      "savol": "7^(x+5) > 3^(x²-x-30) tengsizlik nechta butun ildizga ega?",
+      "variantlar": ["7 ta", "8 ta", "12 ta", "13 ta"],
+      "togri": 2
+    },
+    {
+      "savol": "Grafigi berilgan funksiyaning tenglamasini tuzing (grafik: (0;7) dan (2;3) gacha tushadi, (2;3) dan (5;3) gacha to'g'ri, (5;3) dan (7;7) gacha ko'tariladi).",
+      "variantlar": ["y = |x-2|+|x-5|", "y = |x-5|-|x-2|", "y = |x-1|+|x-4|", "y = |x|+|x-3|"],
+      "togri": 0
+    },
+    {
+      "savol": "Agar f(x)=(x+2)/(x+1) va g(x)=(x+1)/(1-2x) bo'lsa, f(g(g⁻¹(3))) + g(f(f⁻¹(1))) ning qiymatini toping.",
+      "variantlar": ["4", "3,25", "-0,75", "0,4"],
+      "togri": 2
+    },
+    {
+      "savol": "f(x)=2x³-4x²+5x+1 bo'lsa, f''(f'(2)) ning qiymatini toping.",
+      "variantlar": ["13", "148", "16", "137"],
+      "togri": 1
+    },
+    {
+      "savol": "∫(5x-12)/(x²-5x+6) dx integralni toping.",
+      "variantlar": [
+        "ln|x-2| + 3ln|x-3| + C",
+        "3ln|x-2| + 2ln|x-3| + C",
+        "2ln|x-2| + ln|x-3| + C",
+        "2ln|x-2| + 3ln|x-3| + C"
+      ],
+      "togri": 3
+    },
+    {
+      "savol": "AB kesmada C va D nuqtalar shunday olinganki, bunda AD=CB=(3/4)AB tengliklar o'rinli. AC:CD ni toping.",
+      "variantlar": ["1:1", "2:1", "1:2", "1:3"],
+      "togri": 2
+    },
+    {
+      "savol": "ABC to'g'ri burchakli uchburchakning AC katetida D nuqta olinib, AB gipotenuzaga DE balandlik tushirildi. Agar DE=4, BC=6 va AE+AD=14 bo'lsa, BE+CD ning qiymatini toping.",
+      "variantlar": ["10,5", "7", "8", "9"],
+      "togri": 1
+    },
+    {
+      "savol": "To'g'ri burchakli trapetsiyaning o'tkir burchagi 60° ga, katta yon tomoni esa 6 ga teng. Trapetsiya diagonallari o'rtalari orasidagi masofani toping.",
+      "variantlar": ["3", "2", "3√3/2", "3/2"],
+      "togri": 3
+    },
+    {
+      "savol": "O — katta aylananing markazi. Rasmdagi kichik aylananing radiusi R=12 bo'lsa (bu aylana katta aylanaga va markazi O nuqtadan o'tuvchi ikkinchi teng aylanaga urinadi), qolgan uchinchi kichik aylananing radiusi x ni toping.",
+      "variantlar": ["6", "8", "9", "10"],
+      "togri": 1
+    },
+    {
+      "savol": "ABC uchburchakka ichki chizilgan aylana AB tomonga D nuqtada urinadi. Agar AD=5, BD=6 va ∠ACB=120° bo'lsa, uchburchakning yuzini toping.",
+      "variantlar": ["12√3", "15", "8√3", "10√3"],
+      "togri": 3
+    },
+    {
+      "savol": "y=2x+1 to'g'ri chiziqning x²+y²-2x+2y+1=0 aylanaga eng yaqin nuqtasi absissasini toping.",
+      "variantlar": ["-0,4", "-0,5", "-0,6", "-0,8"],
+      "togri": 2
+    },
+    {
+      "savol": "Kubning qirrasi uzunligi 6 ga teng. E nuqta D₁C₁ qirraning o'rtasi. AE kesma uzunligini toping.",
+      "variantlar": ["5√3", "9", "√82", "3√10"],
+      "togri": 1
+    },
+    {
+      "savol": "1 dan 10 gacha natural sonlar ichidan ko'paytmasi 4 ga bo'linadigan qilib necha xil usul bilan 3 ta har xil son tanlash mumkin?",
+      "variantlar": ["80", "70", "90", "60"],
+      "togri": 0
+    },
+    {
+      "savol": "A={1;{2;3;4};5;{6}} to'plami uchun qaysi biri to'g'ri?",
+      "variantlar": ["n(A) = 5", "{1;2} ⊂ A", "{3;4} ⊂ A", "{5;{6}} ⊂ A"],
+      "togri": 3
+    },
+    {
+      "savol": "Asosining tomoni 12 ga va balandligi 8 ga teng bo'lgan muntazam to'rtburchakli piramidaga shar ichki chizilgan (π=3 deb oling). Shar hajmini toping.",
+      "variantlar": ["24", "60", "72", "96", "108", "144"],
+      "togri": 4
+    },
+    {
+      "savol": "Yuqoridagi shartda (asos tomoni 12, balandligi 8, π=3): Sharga eng katta hajmli muntazam to'rtburchakli prizma ichki chizilgan. Prizmaning hajmi V bo'lsa, V/√3 ni toping.",
+      "variantlar": ["24", "60", "72", "96", "108", "144"],
+      "togri": 0
+    },
+    {
+      "savol": "Yuqoridagi shartda (asos tomoni 12, balandligi 8, π=3): Sharga ichki chizilgan eng katta hajmli prizmaning to'la sirti yuzini toping.",
+      "variantlar": ["24", "60", "72", "96", "108", "144"],
+      "togri": 2
+    },
+    {
+      "savol": "(x+1)⁴ + (x+3)⁴ + (x+5)⁴ = 203 tenglamaning eng kichik ildizini toping.",
+      "variantlar": ["-3-√3", "-3+√3", "-3", "-6"],
+      "togri": 0
+    },
+    {
+      "savol": "(x+1)⁴ + (x+3)⁴ + (x+5)⁴ = 203 tenglamaning haqiqiy ildizlari ko'paytmasini toping.",
+      "variantlar": ["-6", "9", "3", "6"],
+      "togri": 3
+    },
+    {
+      "savol": "(4sin2x-6cosx-4sinx+3)/(7tg²x-9)=0 tenglama yechimi x₀ bo'lsa, sinx₀ ning qabul qilishi mumkin bo'lgan eng katta qiymatini toping.",
+      "variantlar": ["1/2", "3/4", "√3/2", "1"],
+      "togri": 2
+    },
+    {
+      "savol": "(4sin2x-6cosx-4sinx+3)/(7tg²x-9)=0 tenglama [0;2π] oraliqda nechta yechimga ega?",
+      "variantlar": ["1 ta", "2 ta", "3 ta", "4 ta"],
+      "togri": 1
+    },
+    {
+      "savol": "f(x) = { x²-6x+5, x≥1 da; 3x-3, x<1 da } bo'lsin. f(f(4)) ning qiymatini toping.",
+      "variantlar": ["-3", "-12", "12", "5"],
+      "togri": 1
+    },
+    {
+      "savol": "f(x) = { x²-6x+5, x≥1 da; 3x-3, x<1 da } bo'lsin. f(f(a))=-12 tenglikni nechta a soni qanoatlantiradi?",
+      "variantlar": ["1 ta", "2 ta", "3 ta", "4 ta"],
+      "togri": 2
+    },
+    {
+      "savol": "Agar y=f(x) funksiya uchun (x-1)(x-2)⁷ = x·f(x) + c tenglik bajarilsa (c=const), f'(1) ni toping.",
+      "variantlar": ["126", "127", "128", "1"],
+      "togri": 1
+    },
+    {
+      "savol": "Agar y=f(x) funksiya uchun (x-1)(x-2)⁷ = x·f(x) + c tenglik bajarilsa (c=const), c/f'(2) ning qiymatini toping.",
+      "variantlar": ["2", "4", "8", "16"],
+      "togri": 1
+    },
+    {
+      "savol": "Chizmada y=ax²+bx+c parabola grafigi berilgan (parabola x=0 va x=4 nuqtalarda o'qni kesib o'tadi). Bo'yalgan soha yuzi 32 ga teng. a+b+c ning qiymatini toping.",
+      "variantlar": ["-3", "3", "9", "-9"],
+      "togri": 3
+    },
+    {
+      "savol": "Yuqoridagi parabolaga x₀=0 nuqtadan o'tkazilgan urinma y=kx+b bo'lsa, k+b ni toping.",
+      "variantlar": ["12", "-9", "0", "-12"],
+      "togri": 3
+    },
+    {
+      "savol": "ABC uchburchakning AD medianasi davomida D nuqtadan keyin shunday E nuqta olinganki, bunda AD=DE. Agar AB=5 va AC=6 bo'lsa, ABEC to'rtburchak perimetrini toping.",
+      "variantlar": ["11", "16", "20", "22"],
+      "togri": 3
+    },
+    {
+      "savol": "Yuqoridagi shartda (AB=5, AC=6, AD=DE): AE²+BC² ni toping.",
+      "variantlar": ["61", "100", "122", "144"],
+      "togri": 2
+    },
+    {
+      "savol": "ABCD parallelogramm, A o'tkir burchagi uchidan CD tomonga AE balandlik tushirildi. K nuqta BC tomon o'rtasi. Agar BC=8, CD=4 va ∠BCD=40° bo'lsa, ∠BKE burchakni toping.",
+      "variantlar": ["40°", "50°", "60°", "70°"],
+      "togri": 2
+    },
+    {
+      "savol": "Yuqoridagi shartda (BC=8, CD=4, ∠BCD=40°): ∠KEC burchakni toping.",
+      "variantlar": ["10°", "20°", "30°", "40°"],
+      "togri": 1
+    },
+    {
+      "savol": "ABC to'g'ri chiziq kichik aylanaga urinma (A va C mos ravishda kichik va katta aylanalarning umumiy urinma bilan urinish nuqtalari, D — aylanalarning urinish nuqtasi). AD=4, DE=6 bo'lsin. ∠DCE : ∠EAC nisbatni toping.",
+      "variantlar": ["1:2", "2:1", "1:1", "1:3"],
+      "togri": 2
+    },
+    {
+      "savol": "Yuqoridagi shartda (AD=4, DE=6): EC ning uzunligini toping.",
+      "variantlar": ["√15", "2√10", "3√15", "2√15"],
+      "togri": 3
+    },
+    {
+      "savol": "Berilgan shakl (AC=12, CD=4, BC=5, ED=2, BC⊥AD, ED⊥AD, uchburchak ABD) AD to'g'ri chiziq atrofida 360° ga aylantirib jism hosil qilindi. Hosil bo'lgan jismning yon sirti yuzini toping.",
+      "variantlar": ["65π", "35π", "100π", "152π"],
+      "togri": 2
+    },
+    {
+      "savol": "Yuqoridagi shartda hosil bo'lgan jismning hajmini toping.",
+      "variantlar": ["100π", "52π", "200π", "152π"],
+      "togri": 3
+    },
+    {
+      "savol": "y=ax²+bx+c kvadrat funksiyadan olingan A(-1;-3), B(0;0), C(x;y), D(3;-3) nuqtalar uchun ABCD to'rtburchak eng katta yuzaga ega (AC va BD diagonal). C nuqtaning koordinatalari ko'paytmasini toping.",
+      "variantlar": ["3/2", "3/4", "2", "9/8"],
+      "togri": 3
+    },
+    {
+      "savol": "Yuqoridagi shartda S_ABCD ni toping.",
+      "variantlar": ["6", "25/4", "75/4", "75/8"],
+      "togri": 3
+    }
+  ]
+}
