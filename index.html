@@ -400,7 +400,11 @@ let results = [];
 
 async function init() {
   try {
-    const res = await fetch(mavzuFayllari[activeMavzu]);
+    // DIQQAT: fayl nomiga tasodifiy parametr (?v=...) qo'shilgan va
+    // { cache: 'no-store' } berilgan — shu orqali brauzer/GitHub Pages/CDN
+    // eski JSON faylni keshdan qaytarib bermaydi, har doim eng yangisi olinadi.
+    const cacheBustUrl = mavzuFayllari[activeMavzu] + '?v=' + Date.now();
+    const res = await fetch(cacheBustUrl, { cache: 'no-store' });
     if (!res.ok) throw new Error('Fayl topilmadi: ' + res.status);
     const data = await res.json();
     questions = data.savollar;
