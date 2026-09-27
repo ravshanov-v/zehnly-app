@@ -1,35 +1,35 @@
 {
-  "label": "Fizika sinovi (Milliy sertifikat)",
+  "label": "Fizika sinovi (Milliy sertifikat, eng qiyin daraja)",
   "savollar": [
     {
       "savol": "Jism gorizontga 37° burchak ostida 25 m/s tezlik bilan otilgan (sin37°=0,6; cos37°=0,8; g=10 m/s^2). Jismning gorizontal uchish masofasini (uzoqlikni) toping.",
       "variantlar": [
-        "60 m",
-        "30 m",
         "45 m",
-        "75 m"
+        "30 m",
+        "75 m",
+        "60 m"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Jism gorizontga 37° burchak ostida 25 m/s tezlik bilan otilgan (sin37°=0,6; cos37°=0,8; g=10 m/s^2). Jismning maksimal ko'tarilish balandligini toping.",
       "variantlar": [
         "11,25 m",
         "22,5 m",
-        "7,5 m",
-        "15 m"
+        "15 m",
+        "7,5 m"
       ],
       "togri": 0
     },
     {
       "savol": "Jism gorizontga 37° burchak ostida 25 m/s tezlik bilan otilgan (sin37°=0,6; cos37°=0,8; g=10 m/s^2). Jismning havoda bo'lish (uchish) vaqtini toping.",
       "variantlar": [
+        "4,5 s",
         "3 s",
-        "1,5 s",
         "6 s",
-        "4,5 s"
+        "1,5 s"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Tezligi 6 m/s bo'lgan 2 kg massali jism tinch turgan 4 kg massali jismga to'liq elastik markaziy urilgan. To'qnashuvdan keyin birinchi (2 kg) jismning tezligini toping.",
@@ -45,8 +45,8 @@
       "savol": "Tezligi 6 m/s bo'lgan 2 kg massali jism tinch turgan 4 kg massali jismga to'liq elastik markaziy urilgan. To'qnashuvdan keyin ikkinchi (4 kg) jismning tezligini toping.",
       "variantlar": [
         "4 m/s",
-        "6 m/s",
         "2 m/s",
+        "6 m/s",
         "3 m/s"
       ],
       "togri": 0
@@ -54,80 +54,80 @@
     {
       "savol": "Ipsiz massasi va ishqalanishi hisobga olinmaydigan blokka osilgan ikkita yuk (m1=3 kg, m2=5 kg, g=10 m/s^2) tizimining tezlanishini toping.",
       "variantlar": [
-        "2,5 m/s^2",
-        "1,25 m/s^2",
+        "10 m/s^2",
         "5 m/s^2",
-        "10 m/s^2"
+        "1,25 m/s^2",
+        "2,5 m/s^2"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Ipsiz massasi va ishqalanishi hisobga olinmaydigan blokka osilgan ikkita yuk (m1=3 kg, m2=5 kg, g=10 m/s^2) tizimida ip tarangligini toping.",
       "variantlar": [
-        "37,5 N",
         "30 N",
         "50 N",
-        "25 N"
+        "25 N",
+        "37,5 N"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Qiyaligi 30° bo'lgan tekislikda ishqalanish koeffitsiyenti 0,2 bo'lgan jism pastga sirg'anmoqda (g=10 m/s^2, cos30°=0,866). Jismning tezlanishini toping.",
       "variantlar": [
-        "3,27 m/s^2",
-        "5 m/s^2",
         "1,5 m/s^2",
-        "6,5 m/s^2"
+        "3,27 m/s^2",
+        "6,5 m/s^2",
+        "5 m/s^2"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Zanjirda R1=2 Ohm ketma-ket ulangan, unga R2=3 Ohm va R3=6 Ohm parallel ulangan qism qo'shilgan (manba kuchlanishi 12 V). Zanjirdagi umumiy tok kuchini toping.",
       "variantlar": [
-        "3 A",
-        "6 A",
         "1,5 A",
-        "2 A"
+        "2 A",
+        "6 A",
+        "3 A"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Zanjirda R1=2 Ohm ketma-ket ulangan, unga R2=3 Ohm va R3=6 Ohm parallel ulangan qism qo'shilgan (manba kuchlanishi 12 V). R2 (3 Ohm) orqali o'tayotgan tok kuchini toping.",
       "variantlar": [
-        "2 A",
         "1 A",
         "3 A",
-        "4 A"
+        "4 A",
+        "2 A"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "C1=2 mikroFarad va C2=3 mikroFarad kondensatorlar ketma-ket ulangan. Tizimning umumiy sig'imini toping.",
       "variantlar": [
-        "1,2 mikroFarad",
-        "5 mikroFarad",
         "0,83 mikroFarad",
-        "6 mikroFarad"
+        "6 mikroFarad",
+        "5 mikroFarad",
+        "1,2 mikroFarad"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Sig'imi 10 mikroFarad bo'lgan kondensator 100 V kuchlanishgacha zaryadlangan. Undagi energiyani toping.",
       "variantlar": [
-        "50 mJ",
-        "100 mJ",
         "25 mJ",
-        "500 mJ"
+        "100 mJ",
+        "500 mJ",
+        "50 mJ"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Magnit induksiyasi 0,5 Tl bo'lgan maydonda uzunligi 0,4 m bo'lgan o'tkazgich 10 m/s tezlik bilan magnit chiziqlariga perpendikulyar harakatlanmoqda. Hosil bo'lgan EYUKni toping.",
       "variantlar": [
         "2 V",
-        "1 V",
+        "20 V",
         "4 V",
-        "20 V"
+        "1 V"
       ],
       "togri": 0
     },
@@ -136,27 +136,27 @@
       "variantlar": [
         "8 km/s",
         "4 km/s",
-        "11,2 km/s",
-        "16 km/s"
+        "16 km/s",
+        "11,2 km/s"
       ],
       "togri": 0
     },
     {
       "savol": "Yer sirti yaqinida (erkin tushish tezlanishi 10 m/s^2, Yer radiusi 6400 km) aylanayotgan sun'iy yo'ldoshning tezligi 8 km/s ga teng. Yo'ldoshning aylanish davrini toping (T=2*pi*R/v, pi=3,14).",
       "variantlar": [
-        "~84 daqiqa",
         "~42 daqiqa",
         "~168 daqiqa",
+        "~84 daqiqa",
         "24 soat"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Karno sikli bo'yicha ishlaydigan mashinaning isitkich harorati 800 K, sovutkich harorati 300 K. Mashinaning nazariy FIKni toping (eta=1-Tsovutkich/Tisitkich).",
       "variantlar": [
         "62,5%",
-        "37,5%",
         "75%",
+        "37,5%",
         "50%"
       ],
       "togri": 0
@@ -164,142 +164,142 @@
     {
       "savol": "200 g suvga (20°C) 50 g massali 100°C li metall parcha tashlanganda, tizim 25°C haroratda muvozanatga keladi (suvning solishtirma issiqlik sig'imi 4200 J/(kg*K)). Metallning solishtirma issiqlik sig'imini toping.",
       "variantlar": [
+        "2240 J/(kg*K)",
         "1120 J/(kg*K)",
         "560 J/(kg*K)",
-        "2240 J/(kg*K)",
         "840 J/(kg*K)"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Fokus masofalari 10 sm (yig'uvchi) va -20 sm (sochuvchi) bo'lgan ikkita linza bir-biriga zich joylashtirilgan. Tizimning natijaviy fokus masofasini toping (1/f=1/f1+1/f2).",
       "variantlar": [
-        "20 sm",
-        "10 sm",
         "-20 sm",
-        "30 sm"
+        "30 sm",
+        "20 sm",
+        "10 sm"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Difraktsion panjara doimiysi 2 mikrometr bo'lgan panjaraga to'lqin uzunligi 500 nanometr bo'lgan yorug'lik tushmoqda. Birinchi tartibli maksimum uchun sinish burchagining sinusini toping (sin(teta)=lambda/d).",
       "variantlar": [
+        "0,4",
         "0,25",
         "0,5",
-        "0,1",
-        "0,4"
+        "0,1"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Tovush chastotasi 1000 Hz bo'lgan manba tinch turgan kuzatuvchiga 20 m/s tezlik bilan yaqinlashmoqda (tovush tezligi 340 m/s). Kuzatuvchi eshitadigan chastotani toping (f'=f0*v/(v-vm)).",
       "variantlar": [
-        "1062,5 Hz",
-        "937,5 Hz",
         "1000 Hz",
-        "1125 Hz"
+        "937,5 Hz",
+        "1125 Hz",
+        "1062,5 Hz"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Richagning uzun qo'li 3 m, qisqa qo'li 1 m. Qisqa qo'lga 300 N kuch qo'yilganda, muvozanat uchun uzun qo'lga qanday kuch qo'yish kerak?",
       "variantlar": [
+        "33,3 N",
         "100 N",
-        "900 N",
         "300 N",
-        "33,3 N"
+        "900 N"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Bir chiziqda joylashgan 2 kg (x=0 nuqtada) va 6 kg (x=4 m nuqtada) massalarning umumiy massa markazi qayerda joylashgan?",
       "variantlar": [
-        "x=3 m",
         "x=2 m",
-        "x=4 m",
-        "x=1,5 m"
+        "x=3 m",
+        "x=1,5 m",
+        "x=4 m"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Massasi 2 kg, radiusi 0,5 m bo'lgan yassi disk o'z o'qi atrofida 10 rad/s burchak tezlik bilan aylanmoqda (disk uchun J=1/2*m*r^2). Diskning aylanma kinetik energiyasini toping.",
       "variantlar": [
         "12,5 J",
         "25 J",
-        "6,25 J",
-        "50 J"
+        "50 J",
+        "6,25 J"
       ],
       "togri": 0
     },
     {
       "savol": "Avtomobil radiusi 100 m bo'lgan egri yo'lda 20 m/s tezlik bilan harakatlanmoqda (g=10 m/s^2). Yo'lning qiyalik (bank) burchagini toping (tan(teta)=v^2/(r*g)).",
       "variantlar": [
-        "~21,8°",
-        "~45°",
         "~11°",
-        "~30°"
+        "~21,8°",
+        "~30°",
+        "~45°"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Gaz izobarik jarayonda 300 K dan 600 K gacha qizdirilganda hajmi 2 barobar ortadi. Keyin izoxorik jarayonda harorat 900 K gacha oshirilsa, bosim boshlang'ich bosimga nisbatan necha barobar ortadi?",
       "variantlar": [
-        "1,5 barobar",
         "2 barobar",
-        "3 barobar",
-        "1 barobar"
+        "1,5 barobar",
+        "1 barobar",
+        "3 barobar"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Yarim yemirilish davri 5000 yil bo'lgan radioaktiv elementning boshlang'ich massasi 100 g. Necha yildan so'ng massa 12,5 g ga tushadi?",
       "variantlar": [
-        "15000 yil",
-        "10000 yil",
         "20000 yil",
-        "7500 yil"
+        "7500 yil",
+        "15000 yil",
+        "10000 yil"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Metall yuzasiga tushayotgan fotoelektronlarning to'xtatuvchi kuchlanishi 2 V bo'lsa, ularning maksimal kinetik energiyasini Joulda toping (elektron zaryadi 1,6*10^-19 Kl).",
       "variantlar": [
-        "3,2*10^-19 J",
-        "1,6*10^-19 J",
         "6,4*10^-19 J",
-        "0,8*10^-19 J"
+        "0,8*10^-19 J",
+        "3,2*10^-19 J",
+        "1,6*10^-19 J"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "EYUKi 12 V, ichki qarshiligi 1 Ohm bo'lgan manbaga 5 Ohm tashqi qarshilik ulangan. Zanjirdagi tok kuchini toping.",
       "variantlar": [
-        "2 A",
         "12 A",
-        "2,4 A",
-        "10 A"
+        "2 A",
+        "10 A",
+        "2,4 A"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "EYUKi 12 V, ichki qarshiligi 1 Ohm bo'lgan manbaga 5 Ohm tashqi qarshilik ulangan. Tashqi qarshilikdagi kuchlanish tushishini toping.",
       "variantlar": [
-        "10 V",
-        "12 V",
+        "8 V",
         "2 V",
-        "8 V"
+        "12 V",
+        "10 V"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Ideal transformatorning birlamchi o'ramida kuchlanish 220 V, tok 2 A. Ikkilamchi o'ramda kuchlanish 22 V bo'lsa, ikkilamchi tok kuchini toping (quvvat saqlanadi).",
       "variantlar": [
-        "20 A",
+        "44 A",
         "2 A",
-        "200 A",
-        "44 A"
+        "20 A",
+        "200 A"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Parallel ulangan 2 Ohm va 4 Ohm rezistorlarda (kuchlanish har ikkalasida bir xil) ajraladigan issiqlik miqdorlari nisbatini toping (kichik qarshilikdagi issiqlik : katta qarshilikdagi issiqlik).",
@@ -314,42 +314,42 @@
     {
       "savol": "Induktivligi 0,1 Gn, sig'imi 10 mikroFarad bo'lgan elektromagnit tebranish konturining davrini toping (T=2*pi*kv.ildiz(LC), pi=3,14).",
       "variantlar": [
-        "6,28 ms",
         "3,14 ms",
-        "12,56 ms",
-        "0,628 ms"
+        "0,628 ms",
+        "6,28 ms",
+        "12,56 ms"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Induktivligi 0,1 Gn, sig'imi 10 mikroFarad bo'lgan elektromagnit tebranish konturining rezonans chastotasini toping.",
       "variantlar": [
-        "~159 Hz",
-        "~318 Hz",
         "~79,5 Hz",
-        "~1592 Hz"
+        "~318 Hz",
+        "~1592 Hz",
+        "~159 Hz"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Ikkala uchi mahkamlangan, uzunligi 1 m bo'lgan torda to'lqin tezligi 200 m/s. Torning asosiy (birinchi) tebranish chastotasini toping (f1=v/(2L)).",
       "variantlar": [
-        "100 Hz",
-        "200 Hz",
         "50 Hz",
-        "400 Hz"
+        "100 Hz",
+        "400 Hz",
+        "200 Hz"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Ikkala uchi mahkamlangan, uzunligi 1 m bo'lgan torda to'lqin tezligi 200 m/s (asosiy chastota 100 Hz). Torning uchinchi garmonika chastotasini toping.",
       "variantlar": [
-        "300 Hz",
         "100 Hz",
+        "300 Hz",
         "200 Hz",
         "900 Hz"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Kesim yuzasi 4 sm^2 bo'lgan quvurda suyuqlik 2 m/s tezlik bilan oqmoqda. Quvur kesimi 1 sm^2 gacha torayganda suyuqlik tezligini toping (uzluksizlik tenglamasi S1*v1=S2*v2).",
@@ -364,92 +364,92 @@
     {
       "savol": "Hajmi 2 litr (0,002 m^3) bo'lgan jism to'liq suvga botirilgan (suv zichligi 1000 kg/m^3, g=10 m/s^2). Jismga ta'sir etuvchi Arximed kuchini toping.",
       "variantlar": [
-        "20 N",
         "2 N",
+        "0,2 N",
         "200 N",
-        "0,2 N"
+        "20 N"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Massasi 1,6 kg, hajmi 2 litr bo'lgan jism suvda suzib turibdi (suv zichligi 1000 kg/m^3). Jismning necha foiz qismi suv sathidan tashqarida qoladi?",
       "variantlar": [
-        "20%",
         "80%",
+        "20%",
         "50%",
         "60%"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Magnit maydon induksiyasi 0,4 Tl bo'lgan maydonga perpendikulyar joylashgan, uzunligi 0,5 m bo'lgan o'tkazgichdan 5 A tok o'tmoqda. O'tkazgichga ta'sir etuvchi Amper kuchini toping.",
       "variantlar": [
-        "1 N",
-        "2 N",
         "0,5 N",
+        "2 N",
+        "1 N",
         "10 N"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Zaryadi 2*10^-6 Kl bo'lgan zarracha 0,5 Tl maydonga perpendikulyar 3*10^5 m/s tezlik bilan kirib kelmoqda. Zarrachaga ta'sir etuvchi Lorens kuchini toping.",
       "variantlar": [
-        "0,3 N",
+        "3 N",
         "0,15 N",
-        "0,6 N",
-        "3 N"
+        "0,3 N",
+        "0,6 N"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Massasi 8 g bo'lgan kislorod gazining (molyar massasi 32 g/mol) mol sonini toping.",
       "variantlar": [
+        "4 mol",
         "0,25 mol",
         "0,5 mol",
-        "4 mol",
         "2,5 mol"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "2 mol ideal gaz 300 K haroratda 10 litr (0,01 m^3) hajmda joylashgan (universal gaz doimiysi 8,31 J/(mol*K)). Gazning bosimini toping (P=nRT/V).",
       "variantlar": [
-        "~4,99*10^5 Pa",
-        "~2,5*10^5 Pa",
+        "~2,5*10^6 Pa",
         "~1*10^6 Pa",
-        "~2,5*10^6 Pa"
+        "~4,99*10^5 Pa",
+        "~2,5*10^5 Pa"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Avtomobil dvigatelining FIKi 25%. Yoqilg'idan 2*10^6 J issiqlik energiyasi olingan. Dvigatel bajargan foydali ishni toping.",
       "variantlar": [
-        "5*10^5 J",
-        "2,5*10^5 J",
         "1*10^6 J",
-        "2*10^6 J"
+        "2,5*10^5 J",
+        "2*10^6 J",
+        "5*10^5 J"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Sindirish ko'rsatkichi 1,5 bo'lgan shishadan havoga o'tayotgan yorug'lik uchun to'liq ichki qaytish (chegaraviy) burchagini toping (sin(teta_kr)=1/n).",
       "variantlar": [
         "~41,8°",
-        "~30°",
+        "~48,2°",
         "~60°",
-        "~48,2°"
+        "~30°"
       ],
       "togri": 0
     },
     {
       "savol": "1 atom massa birligi (a.m.b.) massa defekti taxminan 931 MeV energiyaga ekvivalent. Yadro reaksiyasida massa defekti 0,01 a.m.b. bo'lsa, qancha energiya ajralib chiqadi?",
       "variantlar": [
-        "9,31 MeV",
         "93,1 MeV",
-        "0,931 MeV",
-        "931 MeV"
+        "931 MeV",
+        "9,31 MeV",
+        "0,931 MeV"
       ],
-      "togri": 0
+      "togri": 2
     }
   ]
 }
