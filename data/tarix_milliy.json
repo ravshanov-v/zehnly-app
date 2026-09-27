@@ -1,155 +1,155 @@
 {
-  "label": "Tarix sinovi (Milliy sertifikat)",
+  "label": "Tarix sinovi (Milliy sertifikat, eng qiyin daraja)",
   "savollar": [
     {
       "savol": "Amir Temurning Toxtamishga qarshi Kunduzcha (Konduрcha) jangi bilan Terek daryosi bo'yidagi hal qiluvchi jangi orasida necha yil farq bor?",
       "variantlar": [
-        "4 yil",
+        "2 yil",
         "6 yil",
-        "8 yil",
-        "2 yil"
+        "4 yil",
+        "8 yil"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Ankara jangi (1402) bilan Nikopol jangi (1396, Boyazid I Yevropa salib yurishchilarini tor-mor etgan jang) orasida necha yil farq bor?",
       "variantlar": [
-        "6 yil",
         "4 yil",
         "8 yil",
-        "10 yil"
+        "10 yil",
+        "6 yil"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Amir Temur 1336-yilda tug'ilgan bo'lsa, u Ankara jangida g'alaba qozonganda (1402-yil) taxminan necha yoshda edi?",
       "variantlar": [
-        "66 yosh",
         "60 yosh",
-        "70 yosh",
-        "56 yosh"
+        "66 yosh",
+        "56 yosh",
+        "70 yosh"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Qo'qon xonligi 1709-yilda tashkil topib, 1876-yilda tugatilgan. Xonlik jami taxminan necha yil mavjud bo'lgan?",
       "variantlar": [
-        "167 yil",
-        "157 yil",
+        "200 yil",
         "177 yil",
-        "200 yil"
+        "167 yil",
+        "157 yil"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Buxoro amirligi 1868-yilda Rossiyaga qaram bo'lib qolgan, Buxoro Xalq Sovet Respublikasi esa 1920-yilda e'lon qilingan. Bu ikki voqea orasida necha yil bor?",
       "variantlar": [
+        "62 yil",
         "52 yil",
         "42 yil",
-        "62 yil",
         "48 yil"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Rossiya qo'shinlari Toshkentni 1865-yilda egallagan, Turkiston general-gubernatorligi esa 1867-yilda tashkil etilgan. Bu ikki voqea orasida necha yil bor?",
       "variantlar": [
-        "2 yil",
-        "1 yil",
         "3 yil",
-        "5 yil"
+        "5 yil",
+        "2 yil",
+        "1 yil"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "O'zbekiston SSR 1924-yilda tashkil topgan, uning birinchi Konstitutsiyasi esa 1927-yilda qabul qilingan. Orada necha yil bor?",
       "variantlar": [
-        "3 yil",
         "2 yil",
+        "7 yil",
         "5 yil",
-        "7 yil"
+        "3 yil"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Mustaqillik 1991-yil 31-avgustda e'lon qilingan, Konstitutsiya esa 1992-yil 8-dekabrda qabul qilingan. Bu ikki sana orasida taxminan necha oy o'tgan?",
       "variantlar": [
+        "24 oy",
         "15 oy",
-        "12 oy",
         "18 oy",
-        "24 oy"
+        "12 oy"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Mirzo Ulug'bek o'z o'g'li Abdullatif fitnasi natijasida qaysi yilda fojiali halok bo'lgan?",
       "variantlar": [
-        "1449-yil",
         "1447-yil",
         "1450-yil",
+        "1449-yil",
         "1428-yil"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Alisher Navoiy qaysi yilda tug'ilgan?",
       "variantlar": [
-        "1441-yil",
         "1450-yil",
+        "1465-yil",
         "1430-yil",
-        "1465-yil"
+        "1441-yil"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Alisher Navoiy qaysi yilda vafot etgan?",
       "variantlar": [
+        "1490-yil",
         "1501-yil",
         "1500-yil",
-        "1506-yil",
-        "1490-yil"
+        "1506-yil"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Zahiriddin Muhammad Bobur 1483-yilda tug'ilib, 1494-yilda otasi vafotidan so'ng Farg'ona taxtiga o'tirgan. U taxtga o'tirgan paytda necha yoshda edi?",
       "variantlar": [
-        "11 yosh",
+        "9 yosh",
         "14 yosh",
         "17 yosh",
-        "9 yosh"
+        "11 yosh"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Shayboniyxon 1510-yilda qaysi hukmdor tomonidan Marv yaqinida mag'lubiyatga uchratilib halok bo'lgan?",
       "variantlar": [
-        "Safaviy hukmdori Shoh Ismoil",
-        "Boburiy hukmdor Bobur",
+        "Oltin O'rda xoni Ulug' Muhammad",
         "Usmoniy sultoni Salim I",
-        "Oltin O'rda xoni Ulug' Muhammad"
+        "Safaviy hukmdori Shoh Ismoil",
+        "Boburiy hukmdor Bobur"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Amir Olimxon — Buxoro amirligining oxirgi amiri — taxtdan qaysi yilning qaysi oyida ag'darilgan?",
       "variantlar": [
-        "1920-yil sentyabr",
         "1917-yil oktyabr",
-        "1924-yil fevral",
-        "1918-yil mart"
+        "1918-yil mart",
+        "1920-yil sentyabr",
+        "1924-yil fevral"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Turkiston (Qo'qon) Muxtoriyati hukumatining birinchi bosh vaziri kim bo'lgan?",
       "variantlar": [
-        "Muhammadjon Tinishboyev",
         "Mustafo Cho'qay",
+        "Islom Sulton Shoahmedov",
         "Ubaydulla Xo'jayev",
-        "Islom Sulton Shoahmedov"
+        "Muhammadjon Tinishboyev"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Turkiston Muxtoriyati e'lon qilinishida katta tashabbus ko'rsatgan, Namangandan yetishib chiqqan qozi va jadid namoyandasi kim bo'lgan?",
@@ -165,48 +165,48 @@
       "savol": "\"Munozara\" asari muallifi, jadidchilik mafkurachisi kim edi?",
       "variantlar": [
         "Abdurauf Fitrat",
+        "Abdulla Qodiriy",
         "Mahmudxo'ja Behbudiy",
-        "Cho'lpon",
-        "Abdulla Qodiriy"
+        "Cho'lpon"
       ],
       "togri": 0
     },
     {
       "savol": "Shoir Cho'lpon (Abdulhamid Sulaymon o'g'li) qaysi yillarda yashagan?",
       "variantlar": [
+        "1885-1935",
         "1897-1938",
         "1890-1930",
-        "1900-1940",
-        "1885-1935"
+        "1900-1940"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Fitrat qaysi yilda qatag'on qurboni bo'lib, otib tashlangan?",
       "variantlar": [
+        "1934-yil",
         "1938-yil",
-        "1937-yil",
         "1940-yil",
-        "1934-yil"
+        "1937-yil"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "\"Yosh buxoroliklar\" partiyasining moliyaviy jihatdan asosiy homiysi va so'l qanot yetakchisi kim bo'lgan?",
       "variantlar": [
-        "Fayzulla Xo'jayev",
+        "Faizulla Ho'jayev o'rniga Munzim",
         "Abdurauf Fitrat",
         "Usmon Yusupov",
-        "Faizulla Ho'jayev o'rniga Munzim"
+        "Fayzulla Xo'jayev"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "1937-1950-yillarda O'zbekiston Kompartiyasi Markaziy Qo'mitasining birinchi kotibi lavozimida kim ishlagan?",
       "variantlar": [
         "Usmon Yusupov",
-        "Sharof Rashidov",
         "Fayzulla Xo'jayev",
+        "Sharof Rashidov",
         "Islom Karimov"
       ],
       "togri": 0
@@ -214,60 +214,60 @@
     {
       "savol": "Sharof Rashidov O'zbekiston Kompartiyasi rahbari sifatida 1959-1983-yillarda, ya'ni taxminan necha yil boshchilik qilgan?",
       "variantlar": [
-        "24 yil",
         "14 yil",
-        "34 yil",
-        "20 yil"
+        "24 yil",
+        "20 yil",
+        "34 yil"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "\"Paxta ishi\" (Oʻzbekistonda paxta yetishtirish borasidagi soxta hisobotlar va qatag'on kampaniyasi) asosan qaysi yillarga to'g'ri keladi?",
       "variantlar": [
-        "1980-yillar boshi",
+        "1960-yillar",
         "1970-yillar oxiri",
         "1990-yillar boshi",
-        "1960-yillar"
+        "1980-yillar boshi"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Shavkat Mirziyoyev O'zbekiston Respublikasi Prezidenti etib birinchi marta qachon saylangan?",
       "variantlar": [
-        "2016-yil dekabr",
-        "2017-yil mart",
         "2014-yil sentyabr",
-        "2019-yil dekabr"
+        "2016-yil dekabr",
+        "2019-yil dekabr",
+        "2017-yil mart"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "\"Harakatlar strategiyasi\" (2017-2021-yillarga mo'ljallangan) qaysi yilda qabul qilingan?",
       "variantlar": [
+        "2019-yil",
         "2017-yil",
         "2016-yil",
-        "2019-yil",
         "2021-yil"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Amir Temur Dehlini qaysi yilda zabt etib, shaharni talon-taroj qilgan?",
       "variantlar": [
-        "1398-yil",
+        "1370-yil",
         "1391-yil",
         "1402-yil",
-        "1370-yil"
+        "1398-yil"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Chingizxon vafotidan so'ng Movarounnahr va unga tutash hududlar uning qaysi o'g'liga meros bo'lib qolgan?",
       "variantlar": [
         "Chig'atoy",
         "Jo'chi",
-        "O'qtoy",
-        "Tuluy"
+        "Tuluy",
+        "O'qtoy"
       ],
       "togri": 0
     },
@@ -284,39 +284,39 @@
     {
       "savol": "Amir Temur davrida qo'g'irchoq xon sifatida uning nomidan rasman hukmronlik yuritgan Chingiziy xonlardan biri kim edi?",
       "variantlar": [
-        "Suyurg'atmishxon",
-        "Shayboniyxon",
         "Boyazidxon",
-        "Uvaysxon"
+        "Shayboniyxon",
+        "Uvaysxon",
+        "Suyurg'atmishxon"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Mahmud Koshg'ariyning \"Devonu lug'otit turk\" asari qaysi asrda yozilgan?",
       "variantlar": [
-        "XI asr",
         "IX asr",
+        "XI asr",
         "XIII asr",
         "XV asr"
       ],
-      "togri": 0
+      "togri": 1
     },
     {
       "savol": "Yusuf Xos Hojibning \"Qutadg'u bilig\" asari qaysi asrda yaratilgan?",
       "variantlar": [
-        "XI asr",
+        "XIV asr",
         "X asr",
         "XII asr",
-        "XIV asr"
+        "XI asr"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Ahmad Yassaviy tasavvufda qaysi tariqatga asos solgan?",
       "variantlar": [
         "Yassaviya tariqati",
-        "Naqshbandiya tariqati",
         "Qodiriya tariqati",
+        "Naqshbandiya tariqati",
         "Kubraviya tariqati"
       ],
       "togri": 0
@@ -324,49 +324,49 @@
     {
       "savol": "\"Boburnoma\" asari qaysi tilda (o'sha davrdagi nomlanishi bilan) yozilgan?",
       "variantlar": [
-        "Chig'atoy tilida",
+        "Usmoncha tilida",
         "Forscha tilida",
-        "Arabcha tilida",
-        "Usmoncha tilida"
+        "Chig'atoy tilida",
+        "Arabcha tilida"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Registon maydonidagi uchta madrasadan qaysi biri boshqalariga nisbatan avvalroq (XV asr boshida) qurilgan?",
       "variantlar": [
-        "Ulug'bek madrasasi",
         "Sherdor madrasasi",
-        "Tillakori madrasasi",
-        "Barchasi bir vaqtda qurilgan"
+        "Barchasi bir vaqtda qurilgan",
+        "Ulug'bek madrasasi",
+        "Tillakori madrasasi"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Bibixonim jome' masjidi taxminan qaysi yillarda qurilgan?",
       "variantlar": [
-        "1399-1404-yillar",
         "1370-1380-yillar",
         "1420-1428-yillar",
+        "1399-1404-yillar",
         "1405-1410-yillar"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Mirzo Ulug'bek rasadxonasining vayronalari arxeolog Vasiliy Vyatkin tomonidan qaysi yilda qayta topilgan?",
       "variantlar": [
-        "1908-yil",
         "1920-yil",
-        "1898-yil",
-        "1930-yil"
+        "1930-yil",
+        "1908-yil",
+        "1898-yil"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "1868-yilgi Rossiya-Buxoro shartnomasiga ko'ra qaysi yirik shahar Buxoro amirligidan ajratilib, Rossiya imperiyasiga qo'shib olingan?",
       "variantlar": [
         "Samarqand",
-        "Qarshi",
         "Chorjo'y",
+        "Qarshi",
         "Termiz"
       ],
       "togri": 0
@@ -374,12 +374,12 @@
     {
       "savol": "Turkiston o'lkasida paxtachilikni yagona ustuvor ekin (monokultura) sifatida rivojlantirish siyosati Rossiya imperiyasi davrida asosan qaysi davrda kuchaygan?",
       "variantlar": [
-        "XIX asrning 80-90-yillarida",
-        "XIX asrning boshida",
         "XX asrning 20-yillarida",
-        "XVIII asrning oxirida"
+        "XIX asrning boshida",
+        "XVIII asrning oxirida",
+        "XIX asrning 80-90-yillarida"
       ],
-      "togri": 0
+      "togri": 3
     },
     {
       "savol": "Xiva xonligining so'nggi mustaqil hukmdori, \"Feruz\" taxallusi bilan ijod qilgan xon kim bo'lgan?",
@@ -395,9 +395,9 @@
       "savol": "Muhammad Rahimxon II (Feruz) Xiva xonligida qaysi yillarda hukmronlik qilgan?",
       "variantlar": [
         "1864-1910-yillar",
-        "1800-1840-yillar",
         "1910-1920-yillar",
-        "1850-1864-yillar"
+        "1850-1864-yillar",
+        "1800-1840-yillar"
       ],
       "togri": 0
     },
@@ -405,8 +405,8 @@
       "savol": "Qarshi qo'zg'oloni yoki O'rta Osiyoda Rossiyaga qarshi eng yirik qurolli qarshilik harakati sifatida tanilgan \"bosmachilik\" harakati asosan qaysi hududda kuchli bo'lgan?",
       "variantlar": [
         "Farg'ona vodiysi",
-        "Xorazm vohasi",
         "Ustyurt platosi",
+        "Xorazm vohasi",
         "Zarafshon vohasi"
       ],
       "togri": 0
@@ -414,40 +414,40 @@
     {
       "savol": "1917-yil fevral inqilobidan so'ng Turkistonda tuzilgan Muvaqqat hukumat organi qanday nomlangan?",
       "variantlar": [
-        "Turkiston qo'mitasi",
-        "Turkiston Sho'rosi",
+        "Turkiston Xalq Kengashi",
         "Turkiston Ijroiya Qo'mitasi",
-        "Turkiston Xalq Kengashi"
+        "Turkiston qo'mitasi",
+        "Turkiston Sho'rosi"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Amir Temur o'z farzandlaridan qaysi birining (to'ng'ich o'g'li) vafoti unga eng katta ma'naviy zarba bergan, deb tarixiy manbalarda qayd etiladi?",
       "variantlar": [
-        "Jahongir Mirzo",
-        "Umarshayx Mirzo",
+        "Shohrux Mirzo",
         "Mironshoh Mirzo",
-        "Shohrux Mirzo"
+        "Jahongir Mirzo",
+        "Umarshayx Mirzo"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Amir Temur davlatining hukmronlik markazi Movarounnahrdan tashqari yana qaysi yirik mintaqani ham o'z ichiga olgan?",
       "variantlar": [
-        "Xuroson",
-        "Sibir",
         "Hindiston yarim oroli to'liq",
-        "Xitoy"
+        "Xitoy",
+        "Xuroson",
+        "Sibir"
       ],
-      "togri": 0
+      "togri": 2
     },
     {
       "savol": "Sharofiddin Ali Yazdiyning Amir Temur davri voqealariga bag'ishlangan mashhur tarixiy asari qanday nomlanadi?",
       "variantlar": [
         "\"Zafarnoma\"",
-        "\"Boburnoma\"",
         "\"Tarixi Rashidiy\"",
-        "\"Shajarai turk\""
+        "\"Shajarai turk\"",
+        "\"Boburnoma\""
       ],
       "togri": 0
     }
