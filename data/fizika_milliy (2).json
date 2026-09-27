@@ -1,0 +1,455 @@
+{
+  "label": "Fizika sinovi (Milliy sertifikat, qiyin daraja)",
+  "savollar": [
+    {
+      "savol": "Balandligi 80 m bo'lgan minoradan tosh erkin tushirildi (g=10 m/s^2). Tosh necha soniyada yerga tushadi?",
+      "variantlar": [
+        "4 s",
+        "8 s",
+        "2 s",
+        "16 s"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jism tepaga 20 m/s boshlang'ich tezlik bilan otilgan (g=10 m/s^2). Jism qanday maksimal balandlikka ko'tariladi?",
+      "variantlar": [
+        "20 m",
+        "10 m",
+        "40 m",
+        "200 m"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jism 5 m/s boshlang'ich tezlik bilan 2 m/s^2 tezlanish bilan 6 soniya harakatlandi. Bosib o'tgan masofani toping.",
+      "variantlar": [
+        "66 m",
+        "30 m",
+        "42 m",
+        "72 m"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 4 kg bo'lgan jismga 3 m/s^2 tezlanish berish uchun qanday kuch qo'llash kerak?",
+      "variantlar": [
+        "12 N",
+        "7 N",
+        "1,33 N",
+        "84 N"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 10 kg jism gorizontal yuzada harakatlanmoqda, ishqalanish koeffitsiyenti 0,2 (g=10 m/s^2). Ishqalanish kuchini toping.",
+      "variantlar": [
+        "20 N",
+        "2 N",
+        "200 N",
+        "0,2 N"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 5 kg jism qiyaligi 30° bo'lgan tekislikda turibdi (g=10 m/s^2). Jismning tekislik bo'ylab siljishga intiluvchi kuch tashkil etuvchisini toping.",
+      "variantlar": [
+        "25 N",
+        "50 N",
+        "43,3 N",
+        "12,5 N"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "50 N kuch jismni harakat yo'nalishi bo'yicha 4 m siljitdi. Bajarilgan ishni toping.",
+      "variantlar": [
+        "200 J",
+        "100 J",
+        "12,5 J",
+        "250 J"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 2 kg, tezligi 10 m/s bo'lgan jismning kinetik energiyasini toping.",
+      "variantlar": [
+        "100 J",
+        "200 J",
+        "20 J",
+        "50 J"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 3 kg jism yer sathidan 5 m balandlikda joylashgan (g=10 m/s^2). Uning potensial energiyasini toping.",
+      "variantlar": [
+        "150 J",
+        "15 J",
+        "300 J",
+        "1,5 J"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "20 m balandlikdan erkin tushayotgan jismning yerga tegish paytidagi tezligini energiya saqlanish qonuni asosida toping (g=10 m/s^2).",
+      "variantlar": [
+        "20 m/s",
+        "10 m/s",
+        "40 m/s",
+        "200 m/s"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Tezligi 6 m/s bo'lgan 2 kg massali jism qo'zg'almas 4 kg massali jismga to'liq noelastik urilib, birga harakatlanadi. Umumiy tezlikni toping.",
+      "variantlar": [
+        "2 m/s",
+        "1 m/s",
+        "3 m/s",
+        "4 m/s"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Radiusi 3 m aylana bo'ylab 6 m/s tezlik bilan harakatlanayotgan jismning markazga intilma tezlanishini toping.",
+      "variantlar": [
+        "12 m/s^2",
+        "2 m/s^2",
+        "36 m/s^2",
+        "18 m/s^2"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Uzunligi 1 m bo'lgan matematik mayatnikning tebranish davrini toping (g=10 m/s^2, pi=3,14).",
+      "variantlar": [
+        "2 s",
+        "1 s",
+        "4 s",
+        "0,5 s"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 0,5 kg yuk qattiqligi 50 N/m bo'lgan prujinaga osilgan. Tebranish davrini toping (pi=3,14).",
+      "variantlar": [
+        "0,63 s",
+        "0,2 s",
+        "1,26 s",
+        "6,3 s"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Boyl-Mariott qonuniga ko'ra, bosimi 2 atm, hajmi 6 L bo'lgan gaz bosimi 3 atm gacha oshirildi. Yangi hajmini toping.",
+      "variantlar": [
+        "4 L",
+        "9 L",
+        "2 L",
+        "12 L"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Doimiy bosimda gazning hajmi 300 K da 2 L bo'lgan. Harorat 600 K gacha oshirilganda hajm qanday bo'ladi (Gey-Lyussak qonuni)?",
+      "variantlar": [
+        "4 L",
+        "1 L",
+        "8 L",
+        "0,5 L"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Doimiy hajmda 300 K haroratda gaz bosimi 1 atm. Harorat 450 K gacha oshirilganda bosim qanday bo'ladi (Sharl qonuni)?",
+      "variantlar": [
+        "1,5 atm",
+        "0,67 atm",
+        "2 atm",
+        "3 atm"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "2 kg suvni 20 K ga isitish uchun zarur issiqlik miqdorini toping (c(suv)=4200 J/(kg*K)).",
+      "variantlar": [
+        "168000 J",
+        "84000 J",
+        "336000 J",
+        "16800 J"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "0,5 kg muzni to'liq eritish uchun kerak bo'lgan issiqlik miqdorini toping (muzning solishtirma erish issiqligi 3,3*10^5 J/kg).",
+      "variantlar": [
+        "165000 J",
+        "82500 J",
+        "330000 J",
+        "33000 J"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Gazga 500 J issiqlik berilganda, gaz kengayib 200 J ish bajardi. Gazning ichki energiyasi qanday o'zgardi (termodinamikaning I qonuni)?",
+      "variantlar": [
+        "300 J ga ortdi",
+        "700 J ga ortdi",
+        "300 J ga kamaydi",
+        "100 J ga ortdi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Issiqlik mashinasi isitkichdan 1000 J issiqlik oladi va sovutkichga 600 J issiqlik beradi. Mashinaning FIKni toping.",
+      "variantlar": [
+        "40%",
+        "60%",
+        "20%",
+        "66,7%"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Karno sikli bo'yicha ishlaydigan issiqlik mashinasining isitkich harorati 600 K, sovutkich harorati 300 K. Nazariy FIKni toping.",
+      "variantlar": [
+        "50%",
+        "25%",
+        "75%",
+        "2%"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchlanishi 12 V, qarshiligi 4 Ohm bo'lgan zanjirdagi tok kuchini toping.",
+      "variantlar": [
+        "3 A",
+        "0,33 A",
+        "48 A",
+        "16 A"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "2 Ohm va 3 Ohm qarshiliklar ketma-ket ulangan. Umumiy qarshilikni toping.",
+      "variantlar": [
+        "5 Ohm",
+        "1,2 Ohm",
+        "6 Ohm",
+        "0,83 Ohm"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "6 Ohm va 3 Ohm qarshiliklar parallel ulangan. Umumiy qarshilikni toping.",
+      "variantlar": [
+        "2 Ohm",
+        "9 Ohm",
+        "4,5 Ohm",
+        "18 Ohm"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kuchlanishi 220 V, tok kuchi 2 A bo'lgan elektr asbobining quvvatini toping.",
+      "variantlar": [
+        "440 W",
+        "110 W",
+        "880 W",
+        "222 W"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Quvvati 100 W bo'lgan lampa 1 soat davomida ishlaganda sarflagan energiyasini kVt*soatda toping.",
+      "variantlar": [
+        "0,1 kVt*soat",
+        "1 kVt*soat",
+        "10 kVt*soat",
+        "0,36 kVt*soat"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ikki zaryad (har biri 2*10^-6 Kl) orasidagi masofa 0,3 m. Ular orasidagi Kulon kuchini toping (k=9*10^9 N*m^2/Kl^2).",
+      "variantlar": [
+        "0,4 N",
+        "0,2 N",
+        "0,8 N",
+        "4 N"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sig'imi 2 mikrofarad bo'lgan kondensator 100 V kuchlanishgacha zaryadlangan. Kondensatordagi zaryadni toping.",
+      "variantlar": [
+        "200 mikroKl",
+        "100 mikroKl",
+        "400 mikroKl",
+        "50 mikroKl"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sig'imi 4 mikrofarad, kuchlanishi 50 V bo'lgan kondensatorning energiyasini toping.",
+      "variantlar": [
+        "5 mJ",
+        "2,5 mJ",
+        "10 mJ",
+        "20 mJ"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Konturdagi magnit oqimi 0,5 s ichida 0,02 Vb ga o'zgardi. Konturda hosil bo'lgan EYUKni toping.",
+      "variantlar": [
+        "40 mV",
+        "20 mV",
+        "80 mV",
+        "0,4 V"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Transformatorning birlamchi o'ramida 1000, ikkilamchi o'ramida 100 ta o'rash bor. Birlamchi kuchlanish 220 V bo'lsa, ikkilamchi kuchlanishni toping.",
+      "variantlar": [
+        "22 V",
+        "2200 V",
+        "11 V",
+        "44 V"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sindirish ko'rsatkichi 1,5 bo'lgan shishada yorug'lik tezligini toping (vakuumda c=3*10^8 m/s).",
+      "variantlar": [
+        "2*10^8 m/s",
+        "1,5*10^8 m/s",
+        "4,5*10^8 m/s",
+        "4*10^8 m/s"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fokus masofasi 10 sm bo'lgan yig'uvchi linzadan 30 sm masofada joylashgan buyumning tasviri qayerda hosil bo'ladi?",
+      "variantlar": [
+        "15 sm",
+        "7,5 sm",
+        "20 sm",
+        "30 sm"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fokus masofasi 15 sm, buyum masofasi 20 sm bo'lgan linzada tasvirning kattalashish darajasini toping.",
+      "variantlar": [
+        "3 marta",
+        "0,33 marta",
+        "4 marta",
+        "1,5 marta"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yorug'lik havodan (n=1) shishaga (n=1,5) 30° burchak bilan tushmoqda. Sinish burchagining sinusini toping.",
+      "variantlar": [
+        "0,33",
+        "0,5",
+        "0,75",
+        "1,5"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Metall yuzasiga tushgan fotonning energiyasi 4 eV, metallning chiqish ishi 2,5 eV. Fotoelektronning maksimal kinetik energiyasini toping.",
+      "variantlar": [
+        "1,5 eV",
+        "6,5 eV",
+        "1 eV",
+        "2 eV"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Yarim yemirilish davri 8 kun bo'lgan radioaktiv moddaning boshlang'ich massasi 80 g edi. 24 kundan so'ng necha grammi qoladi?",
+      "variantlar": [
+        "10 g",
+        "20 g",
+        "5 g",
+        "40 g"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Vodorod atomida elektron n=2 energetik pog'onada joylashgan. Uning energiyasini toping (E1=-13,6 eV, En=E1/n^2).",
+      "variantlar": [
+        "-3,4 eV",
+        "-6,8 eV",
+        "-1,7 eV",
+        "-27,2 eV"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Chastotasi 500 Hz, to'lqin uzunligi 0,68 m bo'lgan tovush to'lqinining tarqalish tezligini toping.",
+      "variantlar": [
+        "340 m/s",
+        "170 m/s",
+        "680 m/s",
+        "300 m/s"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Havoda tezligi 340 m/s, to'lqin uzunligi 2 m bo'lgan tovush to'lqinining chastotasini toping.",
+      "variantlar": [
+        "170 Hz",
+        "85 Hz",
+        "340 Hz",
+        "680 Hz"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ikkita bir xil massali sharcha to'g'ri chiziq bo'ylab to'liq elastik markaziy to'qnashganda nima sodir bo'ladi?",
+      "variantlar": [
+        "Ular tezliklarini almashadi",
+        "Ikkalasi ham to'xtab qoladi",
+        "Ular birlashib birga harakatlanadi",
+        "Ikkalasining tezligi ikki barobar ortadi"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Massasi 1000 kg bo'lgan ikkita jism orasidagi masofa 1 m. Ular orasidagi tortishish kuchini toping (G=6,67*10^-11 N*m^2/kg^2).",
+      "variantlar": [
+        "6,67*10^-5 N",
+        "6,67*10^-11 N",
+        "6,67*10^-8 N",
+        "6,67*10^-2 N"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sun'iy yo'ldoshdagi kosmonavtlarda vaznsizlik holati nima sababdan yuzaga keladi?",
+      "variantlar": [
+        "Yer tortishish kuchi to'liq markazga intilma kuch vazifasini bajargani uchun",
+        "Kosmosda tortishish kuchi umuman mavjud emasligi uchun",
+        "Yo'ldosh atmosferadan tashqarida bo'lgani uchun havo qarshiligi yo'qligidan",
+        "Yo'ldosh magnit maydonidan tashqarida bo'lgani uchun"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kelvin shkalasi bo'yicha 27°C haroratni Kelvin darajasida ifodalang (T=t+273).",
+      "variantlar": [
+        "300 K",
+        "250 K",
+        "273 K",
+        "327 K"
+      ],
+      "togri": 0
+    }
+  ]
+}

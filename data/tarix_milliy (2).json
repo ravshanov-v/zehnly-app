@@ -1,0 +1,455 @@
+{
+  "label": "Tarix sinovi (Milliy sertifikat, qiyin daraja)",
+  "savollar": [
+    {
+      "savol": "Amir Temur qaysi yilda tug'ilgan?",
+      "variantlar": [
+        "1336-yil",
+        "1370-yil",
+        "1405-yil",
+        "1350-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amir Temur qaysi yilda mustaqil davlat tepasiga kelgan (hokimiyatni to'liq qo'lga olgan)?",
+      "variantlar": [
+        "1370-yil",
+        "1336-yil",
+        "1360-yil",
+        "1380-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amir Temur davlatining poytaxti qaysi shahar bo'lgan?",
+      "variantlar": [
+        "Samarqand",
+        "Buxoro",
+        "Xiva",
+        "Andijon"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Mirzo Ulug'bek rasadxonasi qurilishi qaysi yilda boshlangan?",
+      "variantlar": [
+        "1420-yil",
+        "1428-yil",
+        "1449-yil",
+        "1409-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Panipat jangidan so'ng Zahiriddin Muhammad Bobur Hindistonda qaysi yilda yangi davlatga asos solgan?",
+      "variantlar": [
+        "1526-yil",
+        "1500-yil",
+        "1510-yil",
+        "1530-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Zahiriddin Muhammad Bobur qaysi yilda vafot etgan?",
+      "variantlar": [
+        "1530-yil",
+        "1526-yil",
+        "1540-yil",
+        "1520-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Chingizxon boshchiligidagi mo'g'ullar Movarounnahrga qaysi yilda bostirib kirgan?",
+      "variantlar": [
+        "1219-yil",
+        "1206-yil",
+        "1227-yil",
+        "1240-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amir Temur Ankara jangida Usmoniylar sultoni Boyazid I ni qaysi yilda mag'lub etgan?",
+      "variantlar": [
+        "1402-yil",
+        "1398-yil",
+        "1405-yil",
+        "1370-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Shayboniyxon Samarqandni qaysi yilda egallab, Temuriylar davlatiga barham bergan?",
+      "variantlar": [
+        "1500-yil",
+        "1510-yil",
+        "1499-yil",
+        "1512-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qo'qon xonligi taxminan qaysi yilda mustaqil davlat sifatida tashkil topgan?",
+      "variantlar": [
+        "1709-yil",
+        "1750-yil",
+        "1700-yil",
+        "1800-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Rossiya imperiyasi qo'shinlari Toshkentni qaysi yilda bosib olgan?",
+      "variantlar": [
+        "1865-yil",
+        "1868-yil",
+        "1876-yil",
+        "1860-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Buxoro amirligi Rossiya imperiyasiga qaram (vassal) davlatga qaysi yilda aylantirilgan?",
+      "variantlar": [
+        "1868-yil",
+        "1865-yil",
+        "1873-yil",
+        "1876-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qo'qon xonligi Rossiya imperiyasi tomonidan qaysi yilda tugatilgan?",
+      "variantlar": [
+        "1876-yil",
+        "1865-yil",
+        "1868-yil",
+        "1880-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Turkiston general-gubernatorligi qaysi yilda tashkil etilgan?",
+      "variantlar": [
+        "1867-yil",
+        "1865-yil",
+        "1868-yil",
+        "1870-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Jadidchilik harakati Turkistonda asosan qaysi davrda vujudga kelib, faollashgan?",
+      "variantlar": [
+        "XX asr boshlarida",
+        "XIX asr o'rtalarida",
+        "XVIII asr oxirida",
+        "XX asr o'rtalarida"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Turkiston jadidchiligining yirik namoyandalaridan biri, ma'rifatparvar va jurnalist kim bo'lgan?",
+      "variantlar": [
+        "Mahmudxo'ja Behbudiy",
+        "Amir Olimxon",
+        "Muhammad Rahimxon",
+        "Said Muzaffarxon"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Turkiston (Qo'qon) Muxtoriyati qaysi yilda e'lon qilingan?",
+      "variantlar": [
+        "1917-yil",
+        "1918-yil",
+        "1916-yil",
+        "1920-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Buxoro Xalq Sovet Respublikasi qaysi yilda e'lon qilingan?",
+      "variantlar": [
+        "1920-yil",
+        "1917-yil",
+        "1924-yil",
+        "1918-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'rta Osiyoda milliy-hududiy chegaralanish natijasida O'zbekiston SSR qaysi yilda tashkil topgan?",
+      "variantlar": [
+        "1924-yil",
+        "1920-yil",
+        "1936-yil",
+        "1929-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston SSRning birinchi Konstitutsiyasi qaysi yilda qabul qilingan?",
+      "variantlar": [
+        "1927-yil",
+        "1924-yil",
+        "1936-yil",
+        "1937-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ikkinchi jahon urushi qaysi yilda boshlangan?",
+      "variantlar": [
+        "1939-yil",
+        "1941-yil",
+        "1914-yil",
+        "1938-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston Respublikasi davlat mustaqilligi qaysi sanada e'lon qilingan?",
+      "variantlar": [
+        "1991-yil 31-avgust",
+        "1991-yil 1-sentyabr",
+        "1991-yil 1-oktyabr",
+        "1990-yil 31-avgust"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston Respublikasining Konstitutsiyasi qaysi sanada qabul qilingan?",
+      "variantlar": [
+        "1992-yil 8-dekabr",
+        "1991-yil 31-avgust",
+        "1993-yil 8-dekabr",
+        "1994-yil 8-dekabr"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston Respublikasining birinchi Prezidenti kim bo'lgan?",
+      "variantlar": [
+        "Islom Karimov",
+        "Shavkat Mirziyoyev",
+        "Shukurullo Mirsaidov",
+        "Rashidov Sharof"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "O'zbekiston Respublikasi Birlashgan Millatlar Tashkilotiga qaysi yilda a'zo bo'lgan?",
+      "variantlar": [
+        "1992-yil",
+        "1991-yil",
+        "1993-yil",
+        "1995-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Temur tuzuklari\" asari nimaga bag'ishlangan?",
+      "variantlar": [
+        "Amir Temurning davlat boshqaruvi tamoyillari va o'z hayoti bayoniga",
+        "Faqat harbiy strategiyaga oid maslahatlarga",
+        "Faqat me'morchilik qurilishlariga",
+        "Faqat diniy masalalarga"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Algebra\" atamasi qaysi buyuk allomaning asari nomidan kelib chiqqan?",
+      "variantlar": [
+        "Muhammad al-Xorazmiy",
+        "Abu Rayhon Beruniy",
+        "Ibn Sino",
+        "Ahmad Farg'oniy"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Ibn Sinoning tibbiyotga oid mashhur asari qanday nomlanadi?",
+      "variantlar": [
+        "\"Tib qonunlari\" (Al-Qonun fit-tib)",
+        "\"Osor ul-boqiya\"",
+        "\"Handasa asoslari\"",
+        "\"Xazoyin ul-maoniy\""
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amir Temur qaysi yilda, Xitoyga yurish chog'ida Otrar shahrida vafot etgan?",
+      "variantlar": [
+        "1405-yil",
+        "1402-yil",
+        "1409-yil",
+        "1398-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "\"Sohibqiron\" (baxt yulduzi ostida tug'ilgan) unvoni tarixda kimga nisbatan qo'llaniladi?",
+      "variantlar": [
+        "Amir Temur",
+        "Chingizxon",
+        "Boburshoh",
+        "Ulug'bek"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Qadimgi Xorazm davlati asosan qaysi daryo bo'yida joylashgan bo'lgan?",
+      "variantlar": [
+        "Amudaryo",
+        "Sirdaryo",
+        "Zarafshon",
+        "Chirchiq"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Kushon podsholigi taxminan qaysi davrda gullab-yashnagan?",
+      "variantlar": [
+        "Miloddan avvalgi I asr - milodiy III asr",
+        "Milodiy VII-VIII asrlar",
+        "Miloddan avvalgi V-IV asrlar",
+        "Milodiy X-XI asrlar"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Birinchi jahon urushi qaysi yilda boshlangan?",
+      "variantlar": [
+        "1914-yil",
+        "1918-yil",
+        "1912-yil",
+        "1939-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Fransiya inqilobi qaysi yilda boshlangan?",
+      "variantlar": [
+        "1789-yil",
+        "1799-yil",
+        "1804-yil",
+        "1776-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "AQSh mustaqillik deklaratsiyasi qaysi yilda qabul qilingan?",
+      "variantlar": [
+        "1776-yil",
+        "1789-yil",
+        "1783-yil",
+        "1800-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Rossiyada Oktyabr inqilobi qaysi yilda sodir bo'lgan?",
+      "variantlar": [
+        "1917-yil",
+        "1905-yil",
+        "1918-yil",
+        "1922-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Sovet Sotsialistik Respublikalar Ittifoqi (SSSR) qaysi yilda tashkil topgan?",
+      "variantlar": [
+        "1922-yil",
+        "1917-yil",
+        "1924-yil",
+        "1936-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Berlin devori qaysi yilda qulatilgan?",
+      "variantlar": [
+        "1989-yil",
+        "1991-yil",
+        "1985-yil",
+        "1990-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "SSSR qaysi yilda tarqalib ketgan?",
+      "variantlar": [
+        "1991-yil",
+        "1989-yil",
+        "1993-yil",
+        "1990-yil"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amir Temur vafot etganida taxminan necha yoshda edi?",
+      "variantlar": [
+        "69 yosh",
+        "65 yosh",
+        "70 yosh",
+        "75 yosh"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Xiva xonligiga (Arab Muhammadxongacha bo'lgan ilk davrga) asos solingan taxminiy davr qaysi asrga to'g'ri keladi?",
+      "variantlar": [
+        "XVI asr boshlari",
+        "XVIII asr o'rtalari",
+        "XV asr o'rtalari",
+        "XVII asr oxiri"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Alisher Navoiy qaysi hukmdor saroyida vazir sifatida xizmat qilgan?",
+      "variantlar": [
+        "Sulton Husayn Boyqaro",
+        "Amir Temur",
+        "Mirzo Ulug'bek",
+        "Shohruh Mirzo"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amir Temur o'z davlatini boshqarishda qaysi asosiy tamoyillarga tayangan?",
+      "variantlar": [
+        "O'zi ishlab chiqqan qonun-qoidalar va shariat me'yorlariga",
+        "Faqat Chingizxon yasasiga",
+        "Faqat mahalliy urf-odatlarga",
+        "Faqat harbiy zo'ravonlikka"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Abu Rayhon Beruniy qaysi sohada ham muhim kashfiyotlar qilgan olim hisoblanadi?",
+      "variantlar": [
+        "Astronomiya va geografiya",
+        "Faqat she'riyat",
+        "Faqat musiqa nazariyasi",
+        "Faqat harbiy san'at"
+      ],
+      "togri": 0
+    },
+    {
+      "savol": "Amir Temur davlatining tarkibiga qaysi hududlar kirgan?",
+      "variantlar": [
+        "Movarounnahr, Xuroson va Eronning katta qismi",
+        "Faqat Farg'ona vodiysi",
+        "Faqat Xorazm vohasi",
+        "Faqat Buxoro va uning atrofi"
+      ],
+      "togri": 0
+    }
+  ]
+}
